@@ -368,10 +368,11 @@ def main():
             city, code = s["place"][0], s["place"][1]
             pid = geocode(city, code, cache)
         base = f"{(s['date'] or 'undated')[:10]}-{slug((s['place'][0] if s['place'] else '') or s['title'], 40)}"
-        seen[base] += 1
-        sid = base if seen[base] == 1 else f"{base}-{seen[base]}"
         if s.get("_id"):
             sid = s["_id"]   # keep a stable id (transcription files are named by it) when a correction changes the place
+        else:
+            seen[base] += 1
+            sid = base if seen[base] == 1 else f"{base}-{seen[base]}"
         text = s["paragraphs"]
         out.append({
             "id": sid, "date": s["date"], "date_precision": s["date_precision"], "date_source": s["date_source"],
