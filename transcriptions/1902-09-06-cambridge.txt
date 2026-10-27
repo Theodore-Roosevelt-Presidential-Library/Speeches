@@ -4,12 +4,12 @@ title: Remrks of President Roosevelt at  Cambridge,Ohio,Sept.6,1902.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0687
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0687
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 10 424:0687]
 
-I won't try {t o|to} make a speech; I couldn't with [?that?]  going there ({regerring|referring} the [-xx-] engine).   I shall simply that[+k+] you cordially for coming to greet me. I expect to be in Ohio later in the year. [-I xxxxx-] [-[?glad to?]-]It is a pleasure to see you. I am sorry not to have the chance of {talkin g|talking} at length.   Thank you.    (Cheers and [-[?applause?]xxx-] applause)
+I won't try {t o|to} make a speech; I couldn't with [?that?]  going there ({regerring|referring} the [-xx-] engine).   I shall simply tha[-t-][+nk+] you cordially for coming to greet me. I expect to be in Ohio later in the year. [-I xxxxx-] [-[?glad to?]-]It is a pleasure to see you. I am sorry not to have the chance of {talkin g|talking} at length.   Thank you.    (Cheers and [-[?applause?]xxx-] applause)
 
 [margin: 2 (large handwritten number at top centre)]
-[note: "that" before "going there" is heavily overtyped and may be x-ed out. A hand "k" is written over the end of "that" in "I shall simply that you", making "thank". "I" and a run of x's at the end of the line are struck through in ink; the next line begins with an x-ed false start (probably "glad to") run into "It". The right half of the frame holds the Zanesville remarks.]
+[note: "that" before "going there" is heavily overtyped and may be x-ed out. A hand "nk" is written in "I shall simply that you": the "n" over the final "t", making "thank". "I" and a run of x's at the end of the line are struck through in ink; the next line begins with an x-ed false start (probably "glad to") run into "It". The right half of the frame holds the Zanesville remarks.]

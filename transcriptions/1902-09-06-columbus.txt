@@ -4,14 +4,14 @@ title: Remarks of President Roosevelt at Columbus,Ohio.  Sept.6,1902.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0688
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0688
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 13 424:0688]
 
 I want to thank you for coming here.   It is just a year ago that Ohio's great President was shot, and it is an anniversary that is fitted to make all of us think very solemnly, both of what the country lost in his death and of what the country owed to his life. [-xxxxxxxxxx xxxxxxxxxxxxxxxx-]  President McKinley had become the President of the entire country, so that Ohio could claim him no more than all the rest [-xxxxxxx-] of us could claim him; and when he died his character and his policies had so impressed themselves upon the nation as a whole, that in the broadest and fullest sense he had become the President of no party and no section, but of the people throughout the length and breadth of our Union.   It is a good thing for us now a year after he was shot to think of what he did and to try to keep ourselves  up to his standard.
 
-I thank you most heartily for giving me the chance to see {yiou|you}.   I am obliged to you for your greeting.   [-I [illegible]-]   [-([illegible]-]
+I thank you most heartily for giving me the chance to see {yiou|you}.   I am obliged to you for your greeting.   [-I [illegible]-]   ([-[illegible]-]
 
 [margin: 6 (large handwritten number at top centre)]
-[note: Two typed x-ed runs after "his life." (they seem to cover false starts, one perhaps of "President") and one after "the rest". The "o" of "to thank", the "i" of "Ohio" and the "n" of "when" are typed over other letters. After "greeting." a typed sentence beginning "I" and a parenthesis (probably an applause note) are inked out by hand and cannot be read.]
+[note: Two typed x-ed runs after "his life." (they seem to cover false starts, one perhaps of "President") and one after "the rest". The "o" of "to thank", the "i" of "Ohio" and the "n" of "when" are typed over other letters. After "greeting." a typed sentence beginning "I" and what follows an opening parenthesis (probably an applause note) are inked out by hand and cannot be read; the parenthesis itself is left unstruck.]

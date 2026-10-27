@@ -1,0 +1,16 @@
+---
+speech: 1903-05-02-dorrance
+title: Remarks of President Roosevelt at Dorrance, Kansas, May 2,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0343
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0343
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 39 425:0343]
+
+Ladies and Gentlemen:
+
+I want to say what a {pleasureit|pleasure it} is to meet you, and how I appreciate your having come out here to greet me. I am glad to see you all, the men and the women and the small folks. It has done me good to come through Kansas now as President. I have been here often before and I know your people. Never yet have I stopped that I did not see some representatives of the Grand Army. I believe in you with all my heart, and I welcome you and am glad to see you. I believe in the state. I believe in it {becau se|because} of its products, of its crops, of its cattle, but I believe in it in especial[+ly+] because of its men and its women. You people in Kansas have done work not very different from that which you, my comrade, did in the {gseat|great} Civil War. The people here have had to show the strong qualities that the men and women [-xx-] of the Civil War showed; and the things in life best worth having are invariably the things that do mean strife, work and effort. Just as you look back on those years in the army as the years that give the memory which you wish those who come after you to cherish, so each one of us will inevitably feel that {wwhat|what} he is proudest of is the part of his life,although hard at the moment,[+which+] mean[-s-] having done successfully some work worth doing.(Cheers and applause.)
+
+[note: "ly" after "especial" is handwritten. "which" is handwritten above the line with a caret after "moment,"; the final "s" of "means" is inked over by hand, so the corrected reading appears to be "which mean"; the hand may have meant another ending. A hand stroke separates "Just" and "as" and a mark stands under "is" before "proudest"; neither changes words.]

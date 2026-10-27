@@ -1,0 +1,17 @@
+---
+speech: 1903-05-02-wakeeney
+title: Remak s of President Roosevelt at Wakeeney, Kansas, May 2, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 349
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0349
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 49 425:0349]
+
+My Fellow Citizens:
+
+It is a great pleasure to me to come out {snd|and} greet you to -day. Since yesterday afternoon I have been traveling through {Kasas|Kansas} from east to west. Now I [?am?] out into the s[+h+]ort-grass country which I know of old, for in the old days I worked, myself, on the range. I have enjoyed meeting your people. It has been a great pleasure to me to mark the extraordinary growth not merely in your industries and products, but in your methods of applying your industries. The change, for instance, during the last twenty years when I first went into business on the plains, in the spread of alfalfa is alone often enough to make the exact difference between success and failure in a year in a given locality. So the change in your stock, as I see it from the car window, is marvelous. The older ones among you can remember well when the steer used to be almost all horns and tail. The same change has come in our {knownedge|knowledge} of what we can do . It took quite a time in a good many of these {st ates|states} to learn that we could not always raise wheat where we could raise cattle, and the experience was not pleasant in learning it. Now most of those experiments have been tried and we have got pretty well to know what we can do and what we cannot do, and because of that there is a great future for the west, greater even than its great past, and most of all I {believeit|believe it} because I have confidence in the people here. I know them; I have worked with them, and have seen what they can do; I know their qualities ; and they will win because they have in them the stuff out of which good citizenship is made, because they have in them the quality that makes a man wrest success [-[?from?]-] out of adverse fortune in this life. The things that come easy are generally not worth having. I do not know of anything {t hat|that} there is lying around loose except advice. Almost everything else you have got to work for. If a man looks back to his past he will find that what he prizes is when he had to do a job that was worth doing {whendone|when done}. (Applause)
+
+[note: Speech is on the right half of the frame. Many letters are typed over others (e.g. "traveling", "our", "experiments", "Since"); final readings given. The word read as "am" in "I am out" is heavily overstruck and could also be read as typed x's.]
+[note: The word after "success" is x-ed out on the typewriter (appears to be "from"). The "h" in "short-grass" is added by hand above a caret. A handwritten mark like a "d" is drawn at the junction of "when" and "done", apparently a proofreading mark separating the two words.]

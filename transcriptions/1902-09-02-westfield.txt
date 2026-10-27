@@ -4,12 +4,12 @@ title: SPEECH OF THE PRESIDENT AT WESTFIELD, MASS., September 2, 1902.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0635, 0636
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0635
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 156 424:0635]
 
-Mr. Chairman, Governor, and you, my fellow citizens:  It is a real pleasure to have the chance of addressing you here in your [-bxxxx-] beautiful square this evening.   I thank you all for your greeting, and I know that the rest of you will not grudge [-xx-] my saying that I thank particularly those who have done me the honor to turn out as a guard for me - the veterans of the great war (Applause).   I am always glad to see the veterans anywhere, but I like particularly to see them in any educational center, because if it comes down to bedrock facts, what I preach is just what you have practiced. (Laughter and applause).   Practicing will beat preaching every day of the week, even as preaching.   Practice is the best kind of preaching.   The best way you can preach is to practice by example.
+Mr. Chairman, Governor, and you, my fellow citizens!  It is a real pleasure to have the chance of addressing you here in your [-bxxxx-] beautiful square this evening.   I thank you all for your greeting, and I know that the rest of you will not grudge [-xx-] my saying that I thank particularly those who have done me the honor to turn out as a guard for me - the veterans of the great war (Applause).   I am always glad to see the veterans anywhere, but I like particularly to see them in any educational center, because if it comes down to bedrock facts, what I preach is just what you have practiced. (Laughter and applause).   Practicing will beat preaching every day of the week, even as preaching.   Practice is the best kind of preaching.   The best way you can preach is to practice by example.
 
 This is the city with the second oldest normal school in the country, and the president of the Alumni Association of that school is with me here - my Secretary, Mr. Cortelyou (Applause).   I do not speak of him, of his services and his ability, merely because if I spoke of them at all I should speak of them truthfully, and it would be unpleasant for him to have me use the language practically of flattery which I should have to use (Applause).
 
@@ -26,3 +26,4 @@ Now to be a good citizen and to get good government, you need three qualities - 
 afraid is of mighty little use in the world.   You must have with morality and decency, courage - courage that will dare in battle - courage that will dare in civic life - courage that endures - and the courage that goes forward both.   Courage and honesty even will not {avaul|avail} to save a man who was born foolish.   In order to get good citizenship the average man must have honesty, he must have courage, and [-[?h?]-] united to them he must have the saving grace of common sense (Cheers and applause).
 
 [note: Typed x-outs: after "your" (a b followed by x's) on p. 156, after "grudge" (two letters x-ed), after "being" on p. 157, after "(Great applause)" on p. 158 (a short run, possibly a struck dash), and one letter after "and" on p. 159. On p. 157 "is" is typed above the line over an x-ed letter after "Character". On p. 156 there is a stray typed mark between "those" and "best fitted", and a small hand stroke before "There is no".]
+[note: Third look: the mark after "citizens" in the salutation has a tall, tapering upper stroke unlike the two equal dots of this machine's colon and semicolon; read as "!".]

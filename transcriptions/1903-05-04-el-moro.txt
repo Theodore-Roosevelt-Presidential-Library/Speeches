@@ -1,0 +1,16 @@
+---
+speech: 1903-05-04-el-moro
+title: Remarks of President Roosevelt at El Moro, Colorado, May 4, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 359
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0359
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 67 425:0359]
+
+Ladies and Gentlemen:
+
+It has been a great pleasure to me to get into Colorado to-day. I had to get up this morning at six, because I had some friends including two members of [-xxx-][+my+] regiment who met me at the first station at half past {si x|six}. Now I have met three more. I have been meeting some of the boys who were down [?at?] Santiago. I want to say what a pleasure it has been to have you come to greet me. When I get here in the west I feel thoroughly at home. I know you, and I believe in you with all my heart. (Applause)
+
+[note: Speech is on the right half of the frame. "my" is typed above the line over an x-ed out word. "down" and the following "at" are typed over other characters (the "at" looks like it is struck over "&"); "it" and "been" in "it has been" are also overtyped.]
