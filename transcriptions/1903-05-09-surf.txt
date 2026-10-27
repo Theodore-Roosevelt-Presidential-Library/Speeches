@@ -1,0 +1,17 @@
+---
+speech: 1903-05-09-surf
+title: Remarks of President Roosevelt at Surf, California, May 9, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0388
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0388
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 122 425:0388]
+
+My Fellow Citizens:
+
+I cannot say how much I have enjoyed these three days in California. It is the first time I ever was in your [-xxxxx-] great and beautiful state; and but a few hours ago I saw for the first time the greatest of all the oceans. I have enjoyed it to the full. I have enjoyed the climate, seeing the fruits of the soil, seeing all that has been done agriculturally and industrially. I have enjoyed noting the marvelous material progress and prosperity; but what I have enjoyed most has been seeing the men and women of California. It has been to me an education to come here to California. I did not need to feel what I felt already[+,+] how much of our destiny lay on the Pacific, but I am glad to have seen {yoyr|your} people. I have realized more even than I already realized it the fundamental oneness of the American nation. I have come from the Atlantic across the continent, and here I am addressing an American audience with the same ideals, the same aspirations, the same hopes, the same purposes, that the audiences have on the Atlantic seaboard, or in the Mississippi valley. I am glad to have [-[?me?]-] met you. I believe in you with all my heart and soul, and I believe that your future will be even greater than your past. (Cheers and applause)
+
+[margin: Fil (handwritten, with a stroke, at upper left of heading)]
+[note: The word after "have" before "met" is a two-letter typed word struck over on the typewriter (looks like "mb"); probably "me" but not certain. A small hand mark stands above "of" in "how much of our destiny", and a hand slash is drawn through the final "l" of "fundamental"; neither changes the words. The comma after "already" is added by hand.]

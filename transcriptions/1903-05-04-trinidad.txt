@@ -1,0 +1,16 @@
+---
+speech: 1903-05-04-trinidad
+title: Remarks of President Roosevelt at Trinidad, Colorado, May 4, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 360
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0360
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 68 425:0360]
+
+My Friends:
+
+It is a great pleasure to be here and to see you. I have been traveling through Colorado all day and have enjoyed to the full getting back here. I believe in Colorado's future; I believe in her mines; in what can be done by irrigation with her fields; in her ranches; but I believe most of all in Colorado's men and women. (Cheers and applause) I like you; I know you, and I think you are all right. (Applause) It does me good to get back into this Rocky Mountain country again. I thank you[-xxxx-] [+very+] much for coming to see me. (Cheers and applause)
+
+[note: Speech is on the left half of the frame. "very" is typed above the line over a word x-ed out on the typewriter. "Friends", "Colorado's" (first) and "to" (in "good to get") are typed over other letters; final readings given.]

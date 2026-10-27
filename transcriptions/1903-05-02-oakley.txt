@@ -1,0 +1,17 @@
+---
+speech: 1903-05-02-oakley
+title: Remarks of President Roosevelt at Oakley,Kansas, May 2,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0350
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0350
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 50 425:0350]
+
+My friends and fellow-citizens:
+
+It is a great pleasure to see you. I am glad to see the men, the women and the children. I have enjoyed to the full traveling to-day through Kansas. [+It has been a great pleasure [-[illegible] [?through?] [illegible]-] to see+] [-T-][+t+]he extraordinary changes made by the hand of man in this country . I never lived in Kansas. I have lived farther north, in the Dakotas,in much this type of country, and it is astounding to {mee|see} the changes that have been made . Much of it I cannot understand; much of it has been done since my day. I do not know quite what crops you are raising. I have seen enough, however to appreciate to the full all the progress that it means. There is one thing, ladies and gentlemen, with which I am particularly pleased and that is the {signsthat|signs that} the intellectual and spiritual progress of your people are not being neglected, that they go on hand in hand with the material progress. It is a great pleasure to see the school houses, to see in many of the towns through which I have passed, the libraries, to see the efforts made for mental betterment; and while it is a good thing to raise the crops that you have raised, the cattle and grain, it is a better thing to produce the high type of men and women. It is the citizenship of the state that really counts, and I have abounding confidence in your future,because I have abounding confidence in you. I believe in you, in what you have done, and what you can do; in your capacity for self-help and your capacity to work one with the other. I think that here you are developing the qualities that tell for decency and honesty, and the qualities that tell for strength and hard[+i+]hood..(Cheers and applause.)
+
+[note: "It has been a great pleasure ... to see" is typed between the lines (squeezed in above "day through Kansas.") and placed by a handwritten caret before "The extraordinary changes"; the words after "pleasure" in that line are struck through by hand and cannot be read except perhaps "through". The "T" of "The" is marked by hand, apparently to make it lower case after the insertion.]
+[note: A heavy hand stroke lies under "gentlemen" between the lines; it does not clearly strike any word. A handwritten caret separates "signs" and "that". The "i" in "hardihood" is added by hand.]
