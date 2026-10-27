@@ -1,0 +1,18 @@
+---
+speech: 1903-04-25-ardmore
+title: Remarks of President Roosevelt at Ardmore, S. D., April 25, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0284
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0284
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 117 425:0284]
+
+Gentlemen and Ladies:
+
+I want to thank you very much for coming to greet me. It is {neary|nearly} 23 years since I first saw what was then the territory of Dakota. I lived most of the time in South Dakota, and I came down along the western edge, along the Black Hills. I was in the cow business myself at that time. I know your people. I am fond of them and proud of them. I believe in them. I have watched[-d-] with the greatest interest your growth to statehood. I thank you for greeting me. I am glad to see the men, the women and the children. I greet you and wish you well and thank you for coming. (Applause)
+
+[note: The "3" of "23" is typed over another figure; the final reading is "23".]
+[note: A doubled final "d" in "watchedd" is struck through by hand.]
+[note: "at" in the heading and "statehood" have letters typed over others; final readings are given.]

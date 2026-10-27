@@ -1644,8 +1644,8 @@
 "charity",
 "brotherhood",
 "men's",
-"young",
-"sentimentality"
+"sentimentality",
+"young"
 ],
 "stats": {
 "words": 2699,
@@ -1740,8 +1740,8 @@
 },
 "distinctive": [
 "exposition",
-"western",
 "hemisphere",
+"western",
 "continent",
 "century",
 "commonwealths",
@@ -4325,8 +4325,8 @@
 "comrades",
 "ordinary",
 "battle",
-"citizenship",
 "duties",
+"citizenship",
 "war",
 "duty",
 "nation"
@@ -6182,9 +6182,9 @@
 "works",
 "honesty",
 "labor",
-"citizenship",
 "citizen",
-"courage"
+"courage",
+"citizenship"
 ],
 "stats": {
 "words": 912,
@@ -6371,8 +6371,8 @@
 "rancor",
 "remedies",
 "win",
-"patent",
-"problems"
+"problems",
+"patent"
 ],
 "stats": {
 "words": 2080,
@@ -8326,10 +8326,10 @@
 "firemen",
 "fireman",
 "accustomed",
+"chickamauga",
 "confederate",
 "generals",
-"general",
-"served"
+"general"
 ],
 "stats": {
 "words": 3078,
@@ -8704,10 +8704,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 173,
+"paragraphs": [
+"My Fellow Citizens:",
+"It is a great pleasure to me to have the chance of greeting you this morning. Late last evening I received a telegram from Senator Pritchard, saying I must surely stop, if only for a moment, at Marshall. I have been admiring greatly your beautiful scenery coming through this morning. I am glad to see the mountains and the rivers, but I am gladder still to see you.(Applause) I have just been down to a meeting at Chattanooga of the Brotherhood of Locomotive Firemen. I have always greatly respected the railroad men, because they have certain qualities that I regard as essential to good citizenship.",
+"It always has seemed to me a good thing for the President to visit the different parts of the country, if only to find out that a good American is a good American wherever he is; and it is of very little consequence whether it is north or south or east or west, if he is a square man and a decent citizen.(Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8729,13 +8733,47 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0704",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0704",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow Citizens:",
+"It is a great pleasure to me to have the chance of greeting you this morning. Late last evening I received a telegram from Senator Pritchard, saying I must surely stop, if only for a moment, at Marshall. I have been admiring greatly your beautiful scenery coming through this morning. I am glad to see the mountains and the rivers, but I am gladder still to see you.(Applause) I have just been down to a meeting at Chattanooga of the Brotherhood of Locomotive Firemen. I have always greatly respected the railroad men, because they have certain qualities that I regard as essential to good citizenship.",
+"It always has seemed to me a good thing for the President to visit the different parts of the country, if only to find out that a good American is a good American wherever he is; and it is of very little consequence whether it is north or south or east or west, if he is a square man and a decent citizen.(Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 44 (frame 424:0704)</span>",
+"My Fellow Citizens:",
+"It is a great pleasure to me to have the chance of greeting you this morning. Late last evening I received a telegram from <span class=\"sic\" title=\"reads: Senator\">Se naotr</span> Pritchard, saying I must <del title=\"struck through\">xxxxx</del> surely <span class=\"sic\" title=\"reads: stop\">st op</span>, if only for a moment,at Marshall. I have been admiring greatly your beautiful scenery coming through this morning. I am glad to see the mountains and the rivers, <span class=\"sic\" title=\"reads: but\">b but</span> I am gladder still to see you.(Applause) I have just been down to a <span class=\"sic\" title=\"reads: meeting\">mebting</span> at Chattanooga of the Brotherhood of Locomotive Firemen. I have <span class=\"sic\" title=\"reads: always\">alway</span> greatly respected the railroad men, because they have certain qualities that I regard as essential to good citizenship.",
+"It always has seemed <del title=\"struck through\">x</del> to me a good thing for the President to visit the different parts of the <span class=\"sic\" title=\"reads: country\">couhtry</span>, if only to find out that a good American is a good <span class=\"sic\" title=\"reads: American\">Apmrican</span> wherever <span class=\"sic\" title=\"reads: he\">h e</span> is; and it is of very little consequence whether it is north or south or east or <span class=\"sic\" title=\"reads: west, if\">westmif</span> he is a square man and a decent citizen.(Applause)",
+"<span class=\"tnote\">Left half (a) of frame 0704, folio 44.</span>\n<span class=\"tnote\">The word after &quot;must&quot; is overstruck with x&#x27;s on the typewriter and cannot be read.</span>\n<span class=\"tnote\">&quot;and&quot; in &quot;square man and&quot; is partly blotted; read as &quot;and&quot;.</span>\n<span class=\"tnote\">Third look: the character between &quot;west&quot; and &quot;if&quot; is a typed &quot;m&quot; (three strokes, no comma beneath), the key beside the comma; it stands in the comma&#x27;s place, so the intended reading is &quot;west, if&quot;.</span>"
+],
+"notes": [
+"Left half (a) of frame 0704, folio 44.",
+"The word after \"must\" is overstruck with x's on the typewriter and cannot be read.",
+"\"and\" in \"square man and\" is partly blotted; read as \"and\".",
+"Third look: the character between \"west\" and \"if\" is a typed \"m\" (three strokes, no comma beneath), the key beside the comma; it stands in the comma's place, so the intended reading is \"west, if\"."
+],
+"file": "transcriptions/1902-09-09-marshall.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 173,
+"unique_words": 102,
+"sentences": 6,
+"avg_sentence": 28.8,
+"minutes": 1,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-09-old-fort",
@@ -8749,10 +8787,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 265,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"I have time only to say a word of thanks and of greeting to you. It has been a great pleasure to come through North Carolina today and to meet your people. I count myself lucky in having gotten here. A good American is a good American anywhere you find him. You do not find any better than in North Carolina. (Applause)",
+"It seems to me a very good thing for the President to go into different parts of the country, just as it is good for any of us, and to realize how fundamentally we are all alike. The differences among us are slight and superficial; the resemblances are fundamental. The man who is a decent citizen, a good husband, a good father, behaves well with his neighbor, does his duty for the state - he is a decent citizen, north or south or east or west; and if he does not behave himself then he is a poor citizen north or south or east or west.",
+"There is no royal road to good citizenship. The qualities that make a man a good citizen a hundred years ago will make him a good citizen a hundred years hence. There is no patent device to get good citizenship. A man has got to be a square man; he has got to be honest; he has got to have pluck, and he has got to have common sense, and if he lacks any one of the three he will come far short of doing his duty to his neighbor and to the state.(Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8774,13 +8817,55 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0707",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0707",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Gentlemen and Ladies:",
+"I have time only to say a word of thanks and of greeting to you. It has been a great pleasure to come through North Carolina today and to meet your people. I count myself lucky in having gotten here. A good American is a good American anywhere you find him. You do not find any better than in North Carolina. (Applause)",
+"It seems to me a very good thing for the President to go into different parts of the country, just as it is good for any of us, and to realize how fundamentally we are all alike. The differences among us are slight and superficial; the resemblances are fundamental. The man who is a decent citizen, a good husband, a good father, behaves well with his neighbor, does his duty for the state - he is a decent citizen, north or south or east or west; and if he does not behave himself then he is a poor citizen north or south or east or west.",
+"There is no royal road to good citizenship. The qualities that make a man a good citizen a hundred years ago will make him a good citizen a hundred years hence. There is no patent device to get good citizenship. A man has got to be a square man; he has got to be honest; he has got to have pluck, and he has got to have common sense, and if he lacks any one of the three he will come far short of doing his duty to his neighbor and to the state.(Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 51 (frame 424:0707)</span>",
+"Gentlemen and Ladies:",
+"I have time only to say a word of thanks and of greeting to you. It has been a great pleasure to come through North Carolina today and to meet your people. I count myself lucky in having gotten here. A good American is a good American anywhere you find him. You do not <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> find any better than in North Carolina.<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">(Applause)</span>x</del> (Applause)",
+"It seems to me a very good thing for the President to go into different parts of the country, just as it is good for any of us, and to realize how fundamentally we are all alike. The differences among us are slight and superficial; the resemblances are fundamental. The man who is a decent citizen, a good husband, a good father, <del title=\"struck through\">xxxxx</del> behaves well with his neighbor, does his duty for the state - he is a decent citizen, north or south or east or west; and if he does not behave <del title=\"struck through\">xxxx</del> himself then he is a poor citizen north or south or east or west.",
+"There is no royal road to good citizenship. The qualities that make a man a good citizen <span class=\"sic\" title=\"reads: \">q</span> a hundred years ago will make him a good <del title=\"struck through\">x</del> citizen a hundred years hence. There is no patent device to <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">get</ins> good citizenship. A man has got to be a square man; he has got to be honest; he has got to have pluck, and he has got to have common sense, and if he lacks any one of the three he will come <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">far</ins> short of doing his duty to his neighbor and to the state.(Applause)",
+"<span class=\"tnote\">Right half (b) of frame 0707, folio 51.</span>\n<span class=\"tnote\">A short word at the end of the line after &quot;You do not&quot; is struck through by hand. A first &quot;(Applause)&quot; after &quot;North Carolina.&quot; is overstruck with x&#x27;s on the typewriter and &quot;(Applause)&quot; typed again.</span>\n<span class=\"tnote\">The x-ed words before &quot;behaves&quot; and before &quot;himself&quot; cannot be read. A stray &quot;q&quot; is typed after &quot;citizen&quot; in &quot;a good citizen a hundred years ago&quot;.</span>\n<span class=\"tnote\">The word struck by hand before &quot;get&quot; is inked out; the words struck before &quot;far&quot; (with a caret below) cannot be read with confidence.</span>\n<span class=\"tnote\">Third look: the &quot;q&quot; after &quot;citizen&quot; and the &quot;x&quot; after &quot;good&quot; are each a single clean typed character standing alone between spaces, with no letter typed under them; the &quot;q&quot; is kept as a stray slip and the lone &quot;x&quot; as an x-out.</span>"
+],
+"notes": [
+"Right half (b) of frame 0707, folio 51.",
+"A short word at the end of the line after \"You do not\" is struck through by hand. A first \"(Applause)\" after \"North Carolina.\" is overstruck with x's on the typewriter and \"(Applause)\" typed again.",
+"The x-ed words before \"behaves\" and before \"himself\" cannot be read. A stray \"q\" is typed after \"citizen\" in \"a good citizen a hundred years ago\".",
+"The word struck by hand before \"get\" is inked out; the words struck before \"far\" (with a caret below) cannot be read with confidence.",
+"Third look: the \"q\" after \"citizen\" and the \"x\" after \"good\" are each a single clean typed character standing alone between spaces, with no letter typed under them; the \"q\" is kept as a stray slip and the lone \"x\" as an x-out."
+],
+"file": "transcriptions/1902-09-09-old-fort.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"north",
+"citizen"
+],
+"stats": {
+"words": 265,
+"unique_words": 128,
+"sentences": 11,
+"avg_sentence": 24.1,
+"minutes": 2,
+"i_count": 2,
+"we_count": 1
+}
 },
 {
 "id": "1902-09-09-statesville",
@@ -8962,10 +9047,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 647,
+"paragraphs": [
+"My friends and fellow Americans: I am glad to have the chance of saying even a word to you to-day. It is a good thing for any American to travel through different parts of the country, but it is an especially good thing for the American who is President so to do, so as to realise the fundamental unity of our people. I have been particularly struck to-day in going through North Carolina with the signs of your great industrial development. The things that divide one American from his fellow American are very small compared to the things that unite them. A difference of section, a difference of party, is of no concern if we can develop decent citizenship in this country; and to do that we need as the foundation - but only as the foundation - industrial prosperity What brings it to one part of the country will bring it to all. If you have hard times they do not stop at state lines. If we have a period of prosperity it goes more or less over all the country. It will come to each section if the people of that section see to it that it does come. And that is what you have been doing here. The way you have been building up the industries here in North Carolina, as in Tennessee, is a thing that cannot but rejoice the heart of every American who realizes, as we must if we are wise, that whatever helps one part of the country helps all. If we see North Carolina prosperous, the very fact of that prosperity will tend to make the other sections of the country share more or less in it. I welcome the signs of your prosperity not merely because every decent American should be glad when [?] any of his fellow Americans are prosperous, but because it means something [?] to all of us. The building up here means something of building up [?] throughout the country. Something can be done by good laws. A great [?] deal can be done against us by bad laws. Bad laws can prevent any [?] chance of building up prosperity. Good laws can give us the chance, but they can do no more than that. Good laws can create the condition under which the people themselves can work out for good their own salvation [?]; but that is all that they [?] can do. Under a wise system of legislation the opportunity can be given [?] for the farmer, the railroad man, the manufacturer [?], for the capitalist [?] and the wage worker, for the professional man [?] and the man who works with his hands for his daily bread -- good laws can give to each man of each type of citizenship the chance to develop his capacity to the best advantage. More than that they cannot do. They cannot make capacity, and they cannot make a man develop it, But if he has the wish and the power to develop it the law can secure the conditions under which it can be done; but it cannot make the fool wise, it cannot make the knave honest, it cannot make the coward brave. It can shape our system so that wisdom, honesty and courage shall have a chance to get their fair reward. I am glad indeed to be passing through your beautiful country of western North Carolina, as I was in passing through eastern Tennessee yesterday, to see how you are taking advantage of your opportunities, for the opportunity can be turned to advantage only when there is the man of brains, the man of perseverance, the man of physical hardihood, who can take advantage of it. I believe in you, I believe in your stock, and therefore I believe that you and those like you are going to make of this region one of the greatest industrial centers of all the United States. (Great applause)."
+],
 "editions": [],
 "trc": [
 {
@@ -8987,13 +9074,58 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0710",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0710",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My friends and fellow Americans: I am glad to have the chance of saying even a word to you to-day. It is a good thing for any American to travel through different parts of the country, but it is an especially good thing for the American who is President so to do, so as to realise the fundamental unity of our people. I have been particularly struck to-day in going through North Carolina with the signs of your great industrial development. The things that divide one American from his fellow American are very small compared to the things that unite them. A difference of section, a difference of party, is of no concern if we can develop decent citizenship in this country; and to do that we need as the foundation - but only as the foundation - industrial prosperity What brings it to one part of the country will bring it to all. If you have hard times they do not stop at state lines. If we have a period of prosperity it goes more or less over all the country. It will come to each section if the people of that section see to it that it does come. And that is what you have been doing here. The way you have been building up the industries here in North Carolina, as in Tennessee, is a thing that cannot but rejoice the heart of every American who realizes, as we must if we are wise, that whatever helps one part of the country helps all. If we see North Carolina prosperous, the very fact of that prosperity will tend to make the other sections of the country share more or less in it. I welcome the signs of your prosperity not merely because every decent American should be glad when [?] any of his fellow Americans are prosperous, but because it means something [?] to all of us. The building up here means something of building up [?] throughout the country. Something can be done by good laws. A great [?] deal can be done against us by bad laws. Bad laws can prevent any [?] chance of building up prosperity. Good laws can give us the chance, but they can do no more than that. Good laws can create the condition under which the people themselves can work out for good their own salvation [?]; but that is all that they [?] can do. Under a wise system of legislation the opportunity can be given [?] for the farmer, the railroad man, the manufacturer [?], for the capitalist [?] and the wage worker, for the professional man [?] and the man who works with his hands for his daily bread -- good laws can give to each man of each type of citizenship the chance to develop his capacity to the best advantage. More than that they cannot do. They cannot make capacity, and they cannot make a man develop it, But if he has the wish and the power to develop it the law can secure the conditions under which it can be done; but it cannot make the fool wise, it cannot make the knave honest, it cannot make the coward brave. It can shape our system so that wisdom, honesty and courage shall have a chance to get their fair reward. I am glad indeed to be passing through your beautiful country of western North Carolina, as I was in passing through eastern Tennessee yesterday, to see how you are taking advantage of your opportunities, for the opportunity can be turned to advantage only when there is the man of brains, the man of perseverance, the man of physical hardihood, who can take advantage of it. I believe in you, I believe in your stock, and therefore I believe that you and those like you are going to make of this region one of the greatest industrial centers of all the United States. (Great applause)."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 56 (frame 424:0710)</span>",
+"My friends and fellow Americans: I am glad to have the chance of saying even a word to you to-day. It is a good thing for any American to travel through different parts of the country, but it is an especially good thing for the American <span class=\"sic\" title=\"reads: who is\">whois</span> President so to do, so as to realise the fundamental unity of our people. I have been particularly struck to-day in going through North Carolina with the signs of your great industrial development. The things that <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">divide</ins> one American from his fellow American are very small compared to the things that unite them. A difference of section, a difference of party, is of no concern if we can develop decent citizenship in this country; and <ins title=\"added by hand\">to do that</ins> we need <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">that as</span></del><ins title=\"added by hand\">as</ins> the foundation - but only as the foundation - <del title=\"struck through\">x</del> industrial prosperity What brings it to one part of the country will bring it to <del title=\"struck through\">the other</del><ins title=\"added by hand\">all</ins>. If you have hard times they do not stop at state lines. If we have a period of prosperity it <del title=\"struck through\">xxxxx</del> goes more or less over all the country. It will come to each <span class=\"sic\" title=\"reads: section\">secti on</span> if the people of that section see to it that it does come. And that is what you have been doing here. The way you have been building up the industries here in North Carolina, as in Tennessee, is a thing that cannot but rejoice the heart of every American who realizes, as we must if we are wise, that whatever helps one part of the country helps all. If we see North Carolina prosperous, the very fact of that prosperity will ten<ins title=\"added by hand\">d</ins> to make the other sections of the country share more or less in it. I welcome the signs of your prosperity not merely because every decent American should be glad <span class=\"unc\" title=\"uncertain reading\">when</span> any of his fellow Americans are prosperous, but because it means <span class=\"unc\" title=\"uncertain reading\">something</span> to all of us. The building up here means something of building <span class=\"unc\" title=\"uncertain reading\">up</span> throughout the country. Something can be done by <del title=\"struck through\">xxx</del> good laws. A <span class=\"unc\" title=\"uncertain reading\">great</span> deal can be done against us by bad laws. <del title=\"struck through\">xxx</del> Bad laws can prevent <span class=\"unc\" title=\"uncertain reading\">any</span> chance of building up prosperity. Good laws can give us the chance,but they can do no more than that. Good laws can create the condition under which the people themselves can work out for good their own <span class=\"unc\" title=\"uncertain reading\">salvation</span>; but that is all that <span class=\"unc\" title=\"uncertain reading\">they</span> can do. Under a wise system of <span class=\"sic\" title=\"reads: legislation the\">legislationthe</span> <span class=\"sic\" title=\"reads: opportunity\">opportuhity</span> can be <span class=\"unc\" title=\"uncertain reading\">given</span> for the farmer, the railroad man, the <span class=\"unc\" title=\"uncertain reading\">manufacturer</span>, for the <span class=\"unc\" title=\"uncertain reading\">capitalist</span> and the wage worker, for the professional <span class=\"unc\" title=\"uncertain reading\">man</span> and the man who works <span class=\"pb\">Page 57 (frame 424:0710)</span> with his hands for his daily bread -- good laws can give to each man of each type of citizenship the chance to develop his <span class=\"sic\" title=\"reads: capacity\">capa city</span> to the best advantage. More than that they cannot do. They cannot make capacity, and they cannot <del title=\"struck through\">xxxxx</del><ins title=\"added by hand\">make</ins> <span class=\"sic\" title=\"reads: \">m</span> a man <span class=\"sic\" title=\"reads: develop\">de velop</span> it, But if he has the wish and the power to develop<ins title=\"added by hand\"> it</ins> the law can secure the <span class=\"sic\" title=\"reads: conditions\">c onditions</span> under which it can be done; but it cannot make the fool wise, it cannot make the knave honest, it cannot make the coward brave. It can shape our system so that wisdom, honesty and courage shall have a chance to get their fair reward. I am glad indeed to be passing through your beautiful country of western North Carolina, as I was in passing through eastern Tennessee yesterday, to see how you are taking advantage of your opportunities, for the opportunity can be turned to advantage only when there <del title=\"struck through\">x</del> is the man of brains, the man of perseverance, the man of physical hardihood, who can take advantage of it. I believe in you, I believe in your stock, and therefore I believe that you and those like you are going to make of this region one of the greatest industrial <del title=\"struck through\">x</del> centers of all the United States. (Great applause).",
+"<span class=\"tnote\">Left and right halves of frame 0710 (folios 56 and 57); the second page is headed &quot;-2-&quot;.</span>\n<span class=\"tnote\">On folio 56 the page has a vertical fold running down the lower half, which hides one or two letters of several words, and the lower left edge is folded under, hiding the first letters of some lines; the words marked <span class=\"unc\" title=\"uncertain reading\">...</span> there (&quot;when&quot;, &quot;something&quot;, &quot;up&quot;, &quot;great&quot;, &quot;any&quot;, &quot;salvation&quot;, &quot;they&quot;, &quot;given&quot;, &quot;manufacturer&quot;, &quot;capitalist&quot;, &quot;man&quot;) are read with letters hidden by the folds.</span>\n<span class=\"tnote\">Folio 56: the word struck by hand before &quot;divide&quot; (written above it) cannot be read; &quot;to do that&quot; is added by hand above a caret; the struck words before &quot;as&quot; (written above) appear to be &quot;that as&quot;; &quot;the other&quot; is struck by hand and &quot;all&quot; written above; &quot;goes&quot; is typed above the x-ed word; the &quot;d&quot; of &quot;tend&quot; is added by hand above a caret.</span>\n<span class=\"tnote\">Folio 57: &quot;make&quot; is written by hand above an x-ed word; hand close-up marks join &quot;capa city&quot;, &quot;de velop&quot; and &quot;c onditions&quot;; a typed comma follows &quot;it&quot; before &quot;But&quot;; &quot;it&quot; is added by hand with a caret after &quot;develop&quot;.</span>\n<span class=\"tnote\">Third look: the mark after &quot;develop it&quot; sits on the baseline with a short tail below it and is the same grey as the typing, so it is a typed comma, not a hand period.</span>"
+],
+"notes": [
+"Left and right halves of frame 0710 (folios 56 and 57); the second page is headed \"-2-\".",
+"On folio 56 the page has a vertical fold running down the lower half, which hides one or two letters of several words, and the lower left edge is folded under, hiding the first letters of some lines; the words marked... [?] there (\"when\", \"something\", \"up\", \"great\", \"any\", \"salvation\", \"they\", \"given\", \"manufacturer\", \"capitalist\", \"man\") are read with letters hidden by the folds.",
+"Folio 56: the word struck by hand before \"divide\" (written above it) cannot be read; \"to do that\" is added by hand above a caret; the struck words before \"as\" (written above) appear to be \"that as\"; \"the other\" is struck by hand and \"all\" written above; \"goes\" is typed above the x-ed word; the \"d\" of \"tend\" is added by hand above a caret.",
+"Folio 57: \"make\" is written by hand above an x-ed word; hand close-up marks join \"capa city\", \"de velop\" and \"c onditions\"; a typed comma follows \"it\" before \"But\"; \"it\" is added by hand with a caret after \"develop\".",
+"Third look: the mark after \"develop it\" sits on the baseline with a short tail below it and is the same grey as the typing, so it is a typed comma, not a hand period."
+],
+"file": "transcriptions/1902-09-09-salisbury.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"carolina",
+"laws",
+"north",
+"develop",
+"prosperity",
+"building",
+"section",
+"fellow",
+"advantage",
+"chance"
+],
+"stats": {
+"words": 647,
+"unique_words": 229,
+"sentences": 24,
+"avg_sentence": 27.0,
+"minutes": 5,
+"i_count": 8,
+"we_count": 6
+}
 },
 {
 "id": "1902-09-09-asheville",
@@ -9007,10 +9139,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 2337,
+"paragraphs": [
+"Mr. Chairman, Mr. Gudger, and you, my fellow Americans: It is indeed a pleasure to have the chance of saying a word of greeting to you this morning, to speak here in the midst of your beautiful country of western North Carolina, in this beautiful city in front of the monument raised to Senator Vance (Applause), and to be addressing people whose forefathers have borne a distinguished part in every great military or civic struggle through which this country has come (Applause). It was not far from here, as we measure distance in America, that the Mecklenburg Declaration of Independence was formulated (Applause). The gentleman who introduced me spoke of the great deeds of the men who in the Revolutionary War followed Marion and McDowell. My forefathers fought under Marion (Applause); my forefathers fought with the Georgian and South Carolinian troops who battled throughout the dark days when Cornwallis and the red dragoons of Tarleton overran the southern states. They were present at Kings Mountain, at the Cowpens, and they saw the final triumph when the men in blue and buff who followed Greene out of defeat wrested victory, and when at last the flag of the thirteen United States, who had been the Thirteen Colonies, waved without a rival along the sea coast and along the foot hills of the mountains (Applause).",
+"It has been a great and peculiar pleasure to be greeted as I was to-day by the men who served in the Confederate army. Yesterday and to-day I traveled through a region which sent its sons, some to wear the blue, some to wear the gray, all to serve with courage and self-devotion the right as it was given to each to see the right. The day before yesterday I went over the battlefields of Chickamauga and Chattanooga - over that space of territory which saw for two months one of the gigantic death wrestles of the civil war - the territory partly in Tennessee, partly in my mother's state of Georgia (Applause); and I feel that the man would be but a poor American who did not come from the scenes commemorating the valiant deeds of those armies a better American than when he started. While I was there a delegation of young men from the state of Georgia came to present me a cane cut from the battlefield, with the names of three Union and three Confederate generals on it. One of the Union generals, General Boynton, was showing me around the field. One of the Confederate generals, General Joe Wheeler, had been my chief in the Spanish war (Applause). Yesterday we stopped at a little station in Tennesee, and among those who gathered to greet me was an old fellow who had worn the gray. He said- \"I was one of Wheeler's boys\". I said \"So was I\" (Laughter and applause). It is a good thing for an American president to have the chance to travel through different sections of the country, because it is a mighty good thing for any American to meet his fellow Americans of different parts of the country in order that he may realize how trivial are the points of unlikeness and how essential are the points of likeness (Applause). A good American is a good American, and I don't care a snap of my finger whether he comes from the north or the south or the east or the west. If he is a straight and decent man I am for him, and if he isn't I am not (Applause). Oh, my friends, the lesson of brotherhood, the lesson that is taught by such a greeting as I am receiving at this moment, the lesson that is taught wherever you see valiant and true men who wore the blue meet valiant and true men who wore the gray and strike hands with them - that lesson applies through all our national life, and it applies just as much in forming a judgment between class and class as between section and section. We never can succeed in making this country what it can and shall be made until we work together, not primarily as northerners or southerners, easterners or westerners, not primarily as employer or employed, townsmen or countrymen, capitalists or wage workers - but primarily as American citizens (Applause), to whom the right of brotherly friendship and comradeship with all other decent American citizens comes as the first and greatest of privileges.",
+"I wish to thank the men of the State Guard who have turned out as my escort; and I want to draw one lesson for civic life from the deeds of the men of the civil war, from the experiences that you and I of the younger generation have had. At Chickamauga, at Chattanooga, in all the fighting from '61 to '65, the fighting in which you, Mr. Mayor, and those like you won such imperishable renown, the men who followed Grant and the men who followed Lee, were differently armed from the way in which their forefathers who followed Washington, Greene, Wayne, and Marion were armed; they were differently uniformed; they were drilled by different tactics; but the spirit that drove them on was the same (Applause). And now you of my generation, you of the National Guard, whose friends and brothers served with or beside me in the Spanish war, if ever there should be need - and I am thankful to say I think that the chance is but small - of going to war for the country again, we shall fight with different weapons, we shall need the small caliber, high-power, smokeless rifle, we shall fight in open order instead of according to the old touch of elbow tactics - but we shall win only if we have the spirit that drove you to victory (Applause). Now we need good weapons. I never see, either in my own state or in North Carolina or anywhere else, the National Guard armed with black powder muskets without feeling indignant. Upon my word, it is like giving us crossbows. I feel that a great and rich people should be able to give the best type of weapon to the men who wear the uniform (Applause). You need a good weapon. If you have a bad weapon and you are pitted against a good man you will come out second best. But if you have the best weapon in the world and are a poor creature yourself, you will be beaten by a good man with a club (LAughter and applause). We need the gun, and we need even more the man behind the gun.",
+"it is just the same in the endless battle for civic right, civic decency, which must go on in time of peace. We need good laws, we need honest and upright administration of the laws, but we need as the fundamental prerequisite for good government a high average standard of citizenship in the men who make the laws and stand back of them (Applause). The best law by itself will not bring good citizenship. A bad law will do incalculable harm, and no greater damage can be done to any community than maladministration, dishonest or unfair administration, of the laws. A law badly administered can do great harm, and often most harm to those who at any given moment may think that it is to their interest to have the law violated or to have it put upon the statute books. Bad laws can do harm. Good laws can do a measure of good; but it is the man behind the law who will ultimately by the way in which he performs his duties determine whether this country is to go up or down (Applause). In the last analysis the problem of getting good government is the old, old problem of getting good men and good women as citizens of the state. There is not any patent device for getting good citizenship. There are countries with constitutions like ours, with laws not unlike ours, where, nevertheless, the experiment of free government has been well-nigh a failure, because they did not have the same material upon which to build. We need good citizenship, and in making good citizenship brilliancy and intellect are good things, but there is something a thousandfold more important, and that is character (Applause). Character is what counts. The men here who fought in the Union army, the men who fought in the Confederate army - let them look back. What did they care for most in the men who were their comrades, who fought on their right hand and their left hand in time of action? It was not as to the man's antecedents, it was not as to whether he was rich or poor, or what his social position had been -- it was to know whether when the time of crisis came he would \"stay put\" (Laughter and applause). if the need came to go forward you wanted to be dead sure when he moved that he would move in the right direction. You wanted to know that you could count on his being there as a good friend and as a foe to look out for. You wanted to have the man devoted to his country, devoted to his flag, loyal to his regiment; but I don't care how fine his feelings were, if he ran away he was no good (Laughter). It is so in civil life, for if a citizen is to be worth his salt he needs character, and into character many elements enter, but above all these three: In the first place, honesty - decency. If a man isn't decent, then the abler he is the more dangerous he is to the community. In the Revolutionary War one of the bravest and most brilliant soldiers during the early years of the contest was the man who has left his name as a by-word of infamy to the nations for all time - the man who fought with distinguished gallantry in Canada, the man who led all the American forces in the great decisive battle at Saratoga and left his leg on the field of victory. that man with all his courage, all his daring, all his superb military genius, turned because the root of righteousness was not in him - sought to betray his comrades for money, and left the name of Benedict Arnold as a hissing for evermore. In civil life the danger is not so patent, but it is just as great, If ability is not accompanied by a rightful sense of accountability to the moral law. You must have honesty, decency; but decency and honesty are not enough. I don't care how good a man is, if he is a timid man you can do but little with him. In addition to honesty and decency, you must have courage. I want to see every one a good man, and in addition to that I want to see him a man. We must have the manly virtues deeply imbedded as part of our national characteristics if we are to do our work aright in peace or in war. But honesty and courage together are not enough. I care not how brave and how honest a man is, if he was born foolish you can do but little with him (Laughter and applause). We need honesty, we need courage, and we need in addition the saving grace of common sense.",
+"Gentlemen, I did not come here to preach to you, though you may think I do; [?] I ca [?]me here merely to give utterance to the beliefs that you and I have deep down in our hearts. We can make this republic what it will surely be made only on condition of practicing the old, old every-day, commonplace virtues which have made up good citizenship from the time of the first republics of Greece to the present day. There is not any patent recipe for being a good soldier now. You will be a good soldier now if you have the stuff in you that made good soldiers in the days of Grant and Lee, that made good soldiers in the days of Washington, that made good soldiers from the time that history dawned. If you have not got the stuff in you there will be difficulty in getting it out of you (Laughter and applause). And so in citizenship; there is no patent device by which we can make this country prosper; there is no patent device by which we can make the average citizen a credit to the country - make him hold higher the standard of good government. The average citizen must make himself a worthy citizen of the republic. The average citizen must realize that it is upon his shoulders that the entire government structure rests. We get in the habit of speaking of the government as if it were something apart from us. Now the government is us - we are the government, you and I (Applause); and the government is going to do well or ill accordingly as we with sanity, with resolution, with broad charity and sound common sense make up our minds that the affairs of the government shall be managed. No man can take the burden of government off the shoulders of a people fitted for self-government. No man can make it easy for any people to govern themselves. They have got to determine for themselves what the government shall be, and in the long run the government will represent their wishes - their wishes for good or their wishes for evil, or else they are indifferent to good or evil, (Applause). And so my plea to you, my fellow Americans, as to every citizen in every section of the country, is, remember that in this country nothing - no law, no leadership - can possibly take the place of the exercise by the average citizen of the fundamental virtues of good citizenship - the exercise of the fundamental qualities of honesty, courage, and common sense (Great applause)."
+],
 "editions": [],
 "trc": [
 {
@@ -9032,13 +9170,94 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0704, 0705, 0706, 0707",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0704",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman, Mr. Gudger, and you, my fellow Americans: It is indeed a pleasure to have the chance of saying a word of greeting to you this morning, to speak here in the midst of your beautiful country of western North Carolina, in this beautiful city in front of the monument raised to Senator Vance (Applause), and to be addressing people whose forefathers have borne a distinguished part in every great military or civic struggle through which this country has come (Applause). It was not far from here, as we measure distance in America, that the Mecklenburg Declaration of Independence was formulated (Applause). The gentleman who introduced me spoke of the great deeds of the men who in the Revolutionary War followed Marion and McDowell. My forefathers fought under Marion (Applause); my forefathers fought with the Georgian and South Carolinian troops who battled throughout the dark days when Cornwallis and the red dragoons of Tarleton overran the southern states. They were present at Kings Mountain, at the Cowpens, and they saw the final triumph when the men in blue and buff who followed Greene out of defeat wrested victory, and when at last the flag of the thirteen United States, who had been the Thirteen Colonies, waved without a rival along the sea coast and along the foot hills of the mountains (Applause).",
+"It has been a great and peculiar pleasure to be greeted as I was to-day by the men who served in the Confederate army. Yesterday and to-day I traveled through a region which sent its sons, some to wear the blue, some to wear the gray, all to serve with courage and self-devotion the right as it was given to each to see the right. The day before yesterday I went over the battlefields of Chickamauga and Chattanooga - over that space of territory which saw for two months one of the gigantic death wrestles of the civil war - the territory partly in Tennessee, partly in my mother's state of Georgia (Applause); and I feel that the man would be but a poor American who did not come from the scenes commemorating the valiant deeds of those armies a better American than when he started. While I was there a delegation of young men from the state of Georgia came to present me a cane cut from the battlefield, with the names of three Union and three Confederate generals on it. One of the Union generals, General Boynton, was showing me around the field. One of the Confederate generals, General Joe Wheeler, had been my chief in the Spanish war (Applause). Yesterday we stopped at a little station in Tennesee, and among those who gathered to greet me was an old fellow who had worn the gray. He said- \"I was one of Wheeler's boys\". I said \"So was I\" (Laughter and applause). It is a good thing for an American president to have the chance to travel through different sections of the country, because it is a mighty good thing for any American to meet his fellow Americans of different parts of the country in order that he may realize how trivial are the points of unlikeness and how essential are the points of likeness (Applause). A good American is a good American, and I don't care a snap of my finger whether he comes from the north or the south or the east or the west. If he is a straight and decent man I am for him, and if he isn't I am not (Applause). Oh, my friends, the lesson of brotherhood, the lesson that is taught by such a greeting as I am receiving at this moment, the lesson that is taught wherever you see valiant and true men who wore the blue meet valiant and true men who wore the gray and strike hands with them - that lesson applies through all our national life, and it applies just as much in forming a judgment between class and class as between section and section. We never can succeed in making this country what it can and shall be made until we work together, not primarily as northerners or southerners, easterners or westerners, not primarily as employer or employed, townsmen or countrymen, capitalists or wage workers - but primarily as American citizens (Applause), to whom the right of brotherly friendship and comradeship with all other decent American citizens comes as the first and greatest of privileges.",
+"I wish to thank the men of the State Guard who have turned out as my escort; and I want to draw one lesson for civic life from the deeds of the men of the civil war, from the experiences that you and I of the younger generation have had. At Chickamauga, at Chattanooga, in all the fighting from '61 to '65, the fighting in which you, Mr. Mayor, and those like you won such imperishable renown, the men who followed Grant and the men who followed Lee, were differently armed from the way in which their forefathers who followed Washington, Greene, Wayne, and Marion were armed; they were differently uniformed; they were drilled by different tactics; but the spirit that drove them on was the same (Applause). And now you of my generation, you of the National Guard, whose friends and brothers served with or beside me in the Spanish war, if ever there should be need - and I am thankful to say I think that the chance is but small - of going to war for the country again, we shall fight with different weapons, we shall need the small caliber, high-power, smokeless rifle, we shall fight in open order instead of according to the old touch of elbow tactics - but we shall win only if we have the spirit that drove you to victory (Applause). Now we need good weapons. I never see, either in my own state or in North Carolina or anywhere else, the National Guard armed with black powder muskets without feeling indignant. Upon my word, it is like giving us crossbows. I feel that a great and rich people should be able to give the best type of weapon to the men who wear the uniform (Applause). You need a good weapon. If you have a bad weapon and you are pitted against a good man you will come out second best. But if you have the best weapon in the world and are a poor creature yourself, you will be beaten by a good man with a club (LAughter and applause). We need the gun, and we need even more the man behind the gun.",
+"it is just the same in the endless battle for civic right, civic decency, which must go on in time of peace. We need good laws, we need honest and upright administration of the laws, but we need as the fundamental prerequisite for good government a high average standard of citizenship in the men who make the laws and stand back of them (Applause). The best law by itself will not bring good citizenship. A bad law will do incalculable harm, and no greater damage can be done to any community than maladministration, dishonest or unfair administration, of the laws. A law badly administered can do great harm, and often most harm to those who at any given moment may think that it is to their interest to have the law violated or to have it put upon the statute books. Bad laws can do harm. Good laws can do a measure of good; but it is the man behind the law who will ultimately by the way in which he performs his duties determine whether this country is to go up or down (Applause). In the last analysis the problem of getting good government is the old, old problem of getting good men and good women as citizens of the state. There is not any patent device for getting good citizenship. There are countries with constitutions like ours, with laws not unlike ours, where, nevertheless, the experiment of free government has been well-nigh a failure, because they did not have the same material upon which to build. We need good citizenship, and in making good citizenship brilliancy and intellect are good things, but there is something a thousandfold more important, and that is character (Applause). Character is what counts. The men here who fought in the Union army, the men who fought in the Confederate army - let them look back. What did they care for most in the men who were their comrades, who fought on their right hand and their left hand in time of action? It was not as to the man's antecedents, it was not as to whether he was rich or poor, or what his social position had been -- it was to know whether when the time of crisis came he would \"stay put\" (Laughter and applause). if the need came to go forward you wanted to be dead sure when he moved that he would move in the right direction. You wanted to know that you could count on his being there as a good friend and as a foe to look out for. You wanted to have the man devoted to his country, devoted to his flag, loyal to his regiment; but I don't care how fine his feelings were, if he ran away he was no good (Laughter). It is so in civil life, for if a citizen is to be worth his salt he needs character, and into character many elements enter, but above all these three: In the first place, honesty - decency. If a man isn't decent, then the abler he is the more dangerous he is to the community. In the Revolutionary War one of the bravest and most brilliant soldiers during the early years of the contest was the man who has left his name as a by-word of infamy to the nations for all time - the man who fought with distinguished gallantry in Canada, the man who led all the American forces in the great decisive battle at Saratoga and left his leg on the field of victory. that man with all his courage, all his daring, all his superb military genius, turned because the root of righteousness was not in him - sought to betray his comrades for money, and left the name of Benedict Arnold as a hissing for evermore. In civil life the danger is not so patent, but it is just as great, If ability is not accompanied by a rightful sense of accountability to the moral law. You must have honesty, decency; but decency and honesty are not enough. I don't care how good a man is, if he is a timid man you can do but little with him. In addition to honesty and decency, you must have courage. I want to see every one a good man, and in addition to that I want to see him a man. We must have the manly virtues deeply imbedded as part of our national characteristics if we are to do our work aright in peace or in war. But honesty and courage together are not enough. I care not how brave and how honest a man is, if he was born foolish you can do but little with him (Laughter and applause). We need honesty, we need courage, and we need in addition the saving grace of common sense.",
+"Gentlemen, I did not come here to preach to you, though you may think I do; [?] I ca [?]me here merely to give utterance to the beliefs that you and I have deep down in our hearts. We can make this republic what it will surely be made only on condition of practicing the old, old every-day, commonplace virtues which have made up good citizenship from the time of the first republics of Greece to the present day. There is not any patent recipe for being a good soldier now. You will be a good soldier now if you have the stuff in you that made good soldiers in the days of Grant and Lee, that made good soldiers in the days of Washington, that made good soldiers from the time that history dawned. If you have not got the stuff in you there will be difficulty in getting it out of you (Laughter and applause). And so in citizenship; there is no patent device by which we can make this country prosper; there is no patent device by which we can make the average citizen a credit to the country - make him hold higher the standard of good government. The average citizen must make himself a worthy citizen of the republic. The average citizen must realize that it is upon his shoulders that the entire government structure rests. We get in the habit of speaking of the government as if it were something apart from us. Now the government is us - we are the government, you and I (Applause); and the government is going to do well or ill accordingly as we with sanity, with resolution, with broad charity and sound common sense make up our minds that the affairs of the government shall be managed. No man can take the burden of government off the shoulders of a people fitted for self-government. No man can make it easy for any people to govern themselves. They have got to determine for themselves what the government shall be, and in the long run the government will represent their wishes - their wishes for good or their wishes for evil, or else they are indifferent to good or evil, (Applause). And so my plea to you, my fellow Americans, as to every citizen in every section of the country, is, remember that in this country nothing - no law, no leadership - can possibly take the place of the exercise by the average citizen of the fundamental virtues of good citizenship - the exercise of the fundamental qualities of honesty, courage, and common sense (Great applause)."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 45 (frame 424:0704)</span>",
+"Mr. Chairman, Mr. Gudger, and you, my fellow Americans: It is indeed a pleasure to have the chance of saying a word of greeting to you this morning, to speak here in the midst of your beautiful country of western North Carolina, in this beautiful city in front of the monument raised to Senator Vance (Applause), and to be addressing people whose forefathers have borne a distinguished part in every great military or civic struggle through which this country has come (Applause). It was not far from here, as we measure distance in America, that the Mecklenburg Declaration of Independence was formulated (Applause). The gentleman who introduced me spoke of the great deeds of the men who in the Revolutionary War followed Marion and McDowell. My forefathers fought under Marion (Applause); my forefathers fought with the Georgian and South Carolinian troops who battled throughout the dark days when <del title=\"struck through\">xxx</del> Cornwallis and the red dragoons of Tarleton overran the southern states. They were present at Kings Mountain, at the Cowpens, and they saw the final triumph when the men in blue and buff who followed Greene out of defeat wrested victory, and when at last the flag of the thirteen United States, who had been the Thirteen Colonies, waved without a rival along the sea coast and along the foot hills of the mountains (Applause).",
+"It has been a great and peculiar pleasure to be greeted as I was to-day by the men who served in the Confederate army. Yesterday and to-day I traveled through a region which sent its sons, some to wear the blue, some to wear the gray , all to serve with courage and self-devotion the right as it was given to each to see the right. The day before yesterday I went over the battlefields of Chickamauga and <del title=\"struck through\">x</del> Chattanooga - over that space of territory which saw for two months one of the gigantic death wrestles of the civil war - the territory partly in Tennessee, partly in my mother&#x27;s state of Georgia (Applause); and I feel that the man would be but a poor American who did not come from the scenes commemorating the valiant deeds of those armies a better American than when he started. While I was there a delegation of young men from the state of Georgia came <span class=\"pb\">Page 46 (frame 424:0705)</span> to present me a cane cut from the battlefield, with the names of three Union and three Confederate generals on it. One of the Union generals, General Boynton, was showing me around the field. One of the Confederate generals, General Joe Wheeler, had been my chief in the Spanish war (Applause). Yesterday we stopped at a little station in Tennesee, and among those who gathered to greet me was an old fellow who had worn the gray. He said- &quot;I was one of Wheeler&#x27;s boys&quot;. I said &quot;So was I&quot; (Laughter and applause). It is a good thing for an American president to have the chance to travel through different sections of the country , because it is a mighty good thing for any American to meet his fellow Americans of different parts of the country in order that he may realize how trivial are the points of unlikeness and how essential are the points of likeness (Applause ). A good American is a good American, and I don<ins title=\"added by hand\">&#x27;t</ins> care a snap of my finger whether he comes from the north or the south or the east or the west . If he is a straight and decent man I am for him, and if he isn&#x27;t I am not (Applause). Oh, my friends, the lesson of brotherhood, the lesson that is taught by such a greeting as I am receiving at this moment, the lesson that is taught wherever you see valiant and true men who wore the blue meet valiant and true men who wore the gray and strike hands with them - that lesson applies through all our national life, and it applies just as much in forming a judgment between class and class as between section and section. We never can succeed in making this country what it can and shall be made until we work together, not primarily as northerners or southerners, easterners or westerners, not primarily as employe<del title=\"struck through\">d</del><ins title=\"added by hand\">r</ins> or employed, townsmen or countrymen, capitalists or wage workers - but primarily as American citizens (Applause), to whom the right of brotherly friendship and comradeship with all other decent American citizens comes as the first and greatest of privileges.",
+"I wish to thank the men of the State Guard who have turned out as my escort; and I want to draw <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><span class=\"sic\" title=\"reads: one\">o ne</span> lesson for civic life from the deeds of the men of the civil war, from the experiences that you and I of the younger generation have had. At Chickamauga, at Chattanooga, in all the fighting from &#x27;61 to &#x27;65, the fighting in which you, Mr. Mayor, and those like you won such imperishable renown, the men who followed Grant <span class=\"pb\">Page 47 (frame 424:0705)</span> and the men who followed Lee, were differently armed from the way in which their forefathers who followed Washington, Greene, Wayne, and Marion were armed; they were differently uniformed; they were drilled by different tactics; but the spirit that drove them on was the same (Applause). And now you of my generation, you of the National Guard, whose friends and brothers served with or beside me in the Spanish war, if ever there should be need - and I am thankful to say I think that the chance is but small - of going to war for the country again, we shall fight with different weapons, we shall need the small caliber, high-power, smokeless rifle, we shall fight in open order instead of according to the old touch of elbow tactics - but we shall win only if we have the spirit that drove you to victory (Applause). Now we need good weapons. I never see, either in my own state or in North Carolina or anywhere else, the National Guard armed with black powder muskets without feeling indignant. Upon my word, it is like giving us crossbows. I feel that a great and rich people should be able to give the best type of weapon to the men who wear the uniform (Applause). You need a good weapon. If you have a bad weapon and you are pitted against a good man you will come out second best. But if you have the best weapon in the world and are a poor creature yourself, you will be beaten by a good man with a club (LAughter and applause). We need the gun, and we need even more the man behind the gun.",
+"<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">Well gentlemen,</span></del> it is just the same <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">thing</span></del> in the endless battle for civic right, civic decency, which must go on in time of peace. We need good laws, we need <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> honest and upright administration of the laws, but we need as the fundamental prerequisite for good government a high average standard of citizenship in the men who make the laws and stand back of them (Applause). The best law by itself will not bring good citizenship. A bad law will do incalculable harm, and no greater damage can be done to any community than maladministration, dishonest or unfair administration, of the laws. A law badly administered can do great harm, and often most harm to those who at any given moment may think that it is to their interest to have the law violated or to have it put upon the statute books. Bad <span class=\"pb\">Page 48 (frame 424:0706)</span> laws can do harm. Good laws can do a measure of good; but it is the man behind the law who will ultimately by the way in which he performs his duties determine whether this country is to go up or down (Applause). In the last analysis the problem of getting good government is the old, old problem of getting good men and good women as citizens of the state. There is not any patent device for getting good citizenship. There are countries with constitutions like ours, with laws not unlike ours, where, nevertheless, the experiment of free government has been well-nigh a failure, because they did not have the same material upon which to build. We need good citizenship, and in making good citizenship brilliancy and intellect are good things, but there is something a thousandfold more important, and that is character (Applause). Character is what counts. The men here who fought in the Union army<ins title=\"added by hand\">,</ins> the men who fought in the Confederate army - let them look back. What did they care for most in the men who were their comrades, who fought on their right hand and their left hand in time of action? It was not as to the man&#x27;s antecedents, it was not as to whether he was rich or poor, or what his social position had been -- it was to know whether when the time of crisis came he would &quot;stay put&quot; (Laughter and applause)<ins title=\"added by hand\">.</ins> <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> if the need came to go forward you wanted to be dead sure when he moved that he would move in the right direction. You wanted to know that you could count on his being there as a good friend and as a foe to look out for. You wanted to have the man devoted to his country, devoted to his flag, loyal to his regiment; but I don&#x27;t care how fine his feelings were, if he ran away he was no good (Laughter). It is so in civil life, for if a citizen is to be worth his salt he needs character, and into character many elements enter, but above all these three: In the first place, honesty - decency. If a man isn&#x27;t decent, then the abler he is the more dangerous he is to the community. In the Revolutionary War one of the bravest and most brilliant soldiers during the early years of the contest <del title=\"struck through\">is</del><ins title=\"added by hand\">was</ins> the man who has left his name as a by-word of infamy to the nations for all time - the man who fought with distinguished gallantry in Canada, the man who led all the American forces in the great decisive battle at Saratoga and left his leg <span class=\"pb\">Page 49 (frame 424:0706)</span> on the field of victory<ins title=\"added by hand\">.</ins> that man with all <del title=\"struck through\">x</del> his courage, all his daring, all his <span class=\"sic\" title=\"reads: superb\">su perb</span> military genius, turned because the root of righteousness was not in him - sought to betray his comrades for money, and left the name of Benedict Arnold as a hissing for evermore. In civil life the danger is not so patent, but it is just as great, If ability is not accompanied by a rightful sense of accountability to the moral law . You must have honesty, decency; but decency and honesty are not enough. I don&#x27;t care how good a man is, if he is a timid man you can do but little with him. In addition to honesty and decency, you must have courage. I want to see every one a good man, and in addition to that I want to see him a man. We must have the manly virtues deeply imbedded as part of our national characteristics if we are to do our work aright in peace or in war. But honesty and courage together are not enough. I care not how brave and how honest a man is, if he was born foolish you can do but little with him (Laughter and applause). We need honesty, we need courage, and we need in addition the saving grace of common sense.",
+"Gentlemen, I did not come here to preach to you, though you may think I <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">do<span class=\"unc\" title=\"uncertain reading\">;</span></ins> I c<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">a</span></ins>me here<del title=\"struck through\">xx</del> merely to give utterance to the beliefs that you and I have deep down in our hearts. We can make this republic what it will surely be made only on condition of practicing the old, old every-day, commonplace virtues which have made up good citizenship from the time of the first republics of Greece to the present day. There is not any patent recipe for being a good soldier now. You will be a good soldier now if you have the stuff in you that made good soldiers in the days of Grant and Lee, that made good soldiers in the days of Washington, that made good soldiers from the time that history dawned. If you have not got the stuff in you there will be difficulty in getting it out of you (Laughter and applause). And so in citizenship; there is no patent <span class=\"sic\" title=\"reads: device\">de- device</span> by which we can make this country prosper; there is no patent device by which we can make the average citizen a credit to the country - make him hold higher the standard of good government. The average citizen must make himself a worthy citizen of the republic. The average citizen must realize that it is upon his shoulders that the entire government structure rests. We get in the habit of speaking of the government as if <span class=\"pb\">Page 50 (frame 424:0707)</span> it were something apart from us. Now the government is us - we are the government, you and I (Applause); and the government is going to do well or ill accordingly as we with sanity, with resolution, with broad charity and sound common sense make up our minds that the affairs of the government shall be managed. No man can take the burden of government off the <span class=\"sic\" title=\"reads: shoulders\">shpulders</span> of a people fitted for self-government. No man can make it easy for any people to govern themselves. They have got to determine for themselves <del title=\"struck through\">xxx</del> what the government shall be, and in the long run the government will represent their wishes - their wishes for good or their wishes for evil, or else they are indifferent to good or evil, <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> (Applause). And so my plea to you, my fellow <span class=\"sic\" title=\"reads: Americans\">Amrigans</span>, as to every citizen in every section of the country, is, remember that in this country nothing - no law, no leadership - can possibly take the place of the exercise by the average citizen of the fundamental virtues of good citizenship - the exercise of the fundamental qualities of honesty, courage, and common sense (Great applause).",
+"<span class=\"tnote\">Pages are 0704 right half (folio 45), 0705 left and right (folios 46, 47), 0706 left and right (folios 48, 49), 0707 left half (folio 50). Typed page numbers -2- to -6- head the continuation pages.</span>\n<span class=\"tnote\">Folio 45: &quot;out of defeat wrested victory&quot; is underlined by hand, with &quot;Tr&quot; written in the left margin beside it (apparently a transposition mark); the words are left as typed.</span>\n<span class=\"tnote\">Several letters in folio 45 are overstruck on the typewriter (&quot;foot&quot;, &quot;death&quot;, &quot;scenes&quot;, &quot;young&quot;); the final readings are given. The x-ed word before &quot;Cornwallis&quot; is unreadable.</span>\n<span class=\"tnote\">Folio 46: &quot;employed&quot; has its final &quot;d&quot; changed to &quot;r&quot; by hand. Before &quot;one&quot; a typed character is struck by hand, and a hand mark closes up the gap in &quot;o ne&quot;.</span>\n<span class=\"tnote\">Folio 47: &quot;the&quot; in &quot;need the small caliber&quot; is typed above the line with a caret. The struck words at the head of the paragraph &quot;it is just the same&quot; are inked out by hand and only partly visible; &quot;it&quot; is marked with a triple underline (capitalize). &quot;thing&quot; after &quot;same&quot; and a short word after &quot;we need&quot; are inked out.</span>\n<span class=\"tnote\">Folio 48: a hand comma after &quot;army&quot;; a hand period after &quot;(Laughter and applause)&quot;, a following word inked out, and &quot;if&quot; marked with a triple underline (capitalize). A hand stroke runs through the &quot;g&quot; of &quot;right&quot;. &quot;is&quot; before &quot;the man who has left his name&quot; is struck by hand and &quot;was&quot; written above with a caret. &quot;early&quot; has an overstruck letter.</span>\n<span class=\"tnote\">Folio 49: a circled hand period after &quot;victory&quot; and a triple underline under &quot;that&quot; (capitalize); a blot after &quot;all&quot;. The &quot;a&quot; in &quot;if he is a timid man&quot; is typed above the line with a caret. After &quot;think I&quot; a word is inked out by hand with what appears to be &quot;do;&quot; written above, and the vowel of &quot;came&quot; appears to be written over by hand; &quot;here&quot; is followed by x-ed letters. A hand stroke separates &quot;stuff&quot; and &quot;in&quot;. &quot;de-&quot; at a line end is followed by &quot;device&quot; on the next line (typing repeat).</span>\n<span class=\"tnote\">Folio 50: the x-ed word before &quot;what&quot; is unreadable; &quot;what&quot; is typed above the line. About a line and a half after &quot;good or evil,&quot; is heavily inked out by hand and cannot be read.</span>\n<span class=\"tnote\">Third look: the handwritten word after &quot;think I&quot; has a single ascender followed by a closed &quot;o&quot;, so it is &quot;do&quot;, not &quot;did&quot;; the mark after it is a short raised stroke and may be a semicolon or a period. &quot;If ability&quot; (capital I) and &quot;(LAughter&quot; are as typed.</span>"
+],
+"notes": [
+"Pages are 0704 right half (folio 45), 0705 left and right (folios 46, 47), 0706 left and right (folios 48, 49), 0707 left half (folio 50). Typed page numbers -2- to -6- head the continuation pages.",
+"Folio 45: \"out of defeat wrested victory\" is underlined by hand, with \"Tr\" written in the left margin beside it (apparently a transposition mark); the words are left as typed.",
+"Several letters in folio 45 are overstruck on the typewriter (\"foot\", \"death\", \"scenes\", \"young\"); the final readings are given. The x-ed word before \"Cornwallis\" is unreadable.",
+"Folio 46: \"employed\" has its final \"d\" changed to \"r\" by hand. Before \"one\" a typed character is struck by hand, and a hand mark closes up the gap in \"o ne\".",
+"Folio 47: \"the\" in \"need the small caliber\" is typed above the line with a caret. The struck words at the head of the paragraph \"it is just the same\" are inked out by hand and only partly visible; \"it\" is marked with a triple underline (capitalize). \"thing\" after \"same\" and a short word after \"we need\" are inked out.",
+"Folio 48: a hand comma after \"army\"; a hand period after \"(Laughter and applause)\", a following word inked out, and \"if\" marked with a triple underline (capitalize). A hand stroke runs through the \"g\" of \"right\". \"is\" before \"the man who has left his name\" is struck by hand and \"was\" written above with a caret. \"early\" has an overstruck letter.",
+"Folio 49: a circled hand period after \"victory\" and a triple underline under \"that\" (capitalize); a blot after \"all\". The \"a\" in \"if he is a timid man\" is typed above the line with a caret. After \"think I\" a word is inked out by hand with what appears to be \"do;\" written above, and the vowel of \"came\" appears to be written over by hand; \"here\" is followed by x-ed letters. A hand stroke separates \"stuff\" and \"in\". \"de-\" at a line end is followed by \"device\" on the next line (typing repeat).",
+"Folio 50: the x-ed word before \"what\" is unreadable; \"what\" is typed above the line. About a line and a half after \"good or evil,\" is heavily inked out by hand and cannot be read.",
+"Third look: the handwritten word after \"think I\" has a single ascender followed by a closed \"o\", so it is \"do\", not \"did\"; the mark after it is a short raised stroke and may be a semicolon or a period. \"If ability\" (capital I) and \"(LAughter\" are as typed."
+],
+"file": "transcriptions/1902-09-09-asheville.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"law-courts",
+"civil-war",
+"military"
+],
+"mentions": {
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 2
+}
+],
+"places": [
+{
+"id": "spain",
+"name": "Spain",
+"count": 2
+},
+{
+"id": "canada",
+"name": "Canada",
+"count": 1
+},
+{
+"id": "rome-greece",
+"name": "Ancient Rome and Greece",
+"count": 1
+}
+]
+},
+"distinctive": [
+"applause",
+"laughter",
+"patent",
+"weapon",
+"confederate",
+"decency",
+"honesty",
+"wear",
+"forefathers",
+"valiant"
+],
+"stats": {
+"words": 2337,
+"unique_words": 662,
+"sentences": 73,
+"avg_sentence": 32.0,
+"minutes": 18,
+"i_count": 29,
+"we_count": 27
+}
 },
 {
 "id": "1902-09-19-altoona",
@@ -9996,8 +10215,8 @@
 "closer",
 "change",
 "destroy",
-"applause",
 "industrial",
+"applause",
 "fellow",
 "consequence"
 ],
@@ -10109,15 +10328,15 @@
 },
 "distinctive": [
 "honesty",
-"citizenship",
 "courage",
+"citizenship",
 "weapon",
 "law",
 "revolutionary",
 "arms",
 "laws",
 "constitution",
-"fundamental"
+"citizen"
 ],
 "stats": {
 "words": 1164,
@@ -10330,8 +10549,8 @@
 "partisanship",
 "policy",
 "readjustment",
-"standpoint",
 "business",
+"standpoint",
 "difference"
 ],
 "stats": {
@@ -11771,8 +11990,8 @@
 "complaint",
 "gospel",
 "failed",
-"president",
-"prosperity"
+"prosperity",
+"president"
 ],
 "stats": {
 "words": 2542,
@@ -12438,8 +12657,8 @@
 "places": []
 },
 "distinctive": [
-"applause",
 "carnegie",
+"applause",
 "gift",
 "library",
 "laughter",
@@ -12604,8 +12823,8 @@
 "movements",
 "christian",
 "movement",
-"young",
 "century",
+"young",
 "associations"
 ],
 "stats": {
@@ -14769,8 +14988,8 @@
 "growers",
 "wage-worker",
 "tiller",
-"employer",
 "million",
+"employer",
 "farm",
 "stock"
 ],
@@ -16306,7 +16525,7 @@
 "preservation",
 "beauties",
 "enjoyment",
-"scenery"
+"preserved"
 ],
 "stats": {
 "words": 1303,
@@ -18140,7 +18359,7 @@
 "purchase",
 "original",
 "empires",
-"rome"
+"local"
 ],
 "stats": {
 "words": 2837,
@@ -19615,8 +19834,8 @@
 ]
 },
 "distinctive": [
-"regiment",
 "pasturage",
+"regiment",
 "mexico",
 "territory",
 "born",
@@ -21493,8 +21712,8 @@
 "california",
 "beauty",
 "scholarship",
-"preservation",
 "land",
+"preservation",
 "university",
 "trees",
 "forests",
@@ -22311,8 +22530,8 @@
 "taft",
 "wood",
 "choice",
-"names",
 "college",
+"names",
 "philippines",
 "cuba",
 "education",
@@ -25791,8 +26010,8 @@
 "forest",
 "agriculture",
 "reserves",
-"over-grazing",
 "irrigated",
+"over-grazing",
 "forests",
 "land"
 ],
@@ -27947,8 +28166,8 @@
 "fitter",
 "clean",
 "younger",
-"preaching",
 "example",
+"preaching",
 "society",
 "admire",
 "boys",
@@ -28365,9 +28584,9 @@
 ]
 },
 "distinctive": [
+"jersey",
 "murphy",
 "antietam",
-"jersey",
 "differently",
 "civil",
 "victory",
@@ -28563,7 +28782,7 @@
 "lord",
 "burden",
 "church",
-"heart"
+"praise"
 ],
 "stats": {
 "words": 1796,
@@ -29833,8 +30052,8 @@
 "boys",
 "eleven",
 "ideal",
-"school",
 "life",
+"school",
 "athletics",
 "physical",
 "prowess"
@@ -30647,8 +30866,8 @@
 ]
 },
 "distinctive": [
-"promises",
 "tariff",
+"promises",
 "opponents",
 "reciprocity",
 "republican",
@@ -30948,8 +31167,8 @@
 "distinctive": [
 "parish",
 "grown",
-"qualities",
 "woman",
+"qualities",
 "future",
 "average",
 "strength",
@@ -31012,8 +31231,8 @@
 },
 "distinctive": [
 "wagner",
-"club",
 "stable",
+"club",
 "church",
 "vice",
 "book",
@@ -31304,7 +31523,7 @@
 "labor",
 "bureau",
 "alaska",
-"district"
+"government"
 ],
 "stats": {
 "words": 17385,
@@ -31599,8 +31818,8 @@
 },
 "distinctive": [
 "shipper",
-"club",
 "commerce",
+"club",
 "form",
 "supervision",
 "governmental",
@@ -31945,8 +32164,8 @@
 "distinctive": [
 "applause",
 "colored",
-"south",
 "white",
+"south",
 "race",
 "black",
 "north",
@@ -32837,8 +33056,8 @@
 "wore",
 "fathers",
 "regiment",
-"fought",
 "arms",
+"fought",
 "deeds"
 ],
 "stats": {
@@ -33163,9 +33382,9 @@
 "children",
 "wore",
 "wanted",
-"weapon",
 "day's",
-"commander"
+"commander",
+"weapon"
 ],
 "stats": {
 "words": 3426,
@@ -33246,8 +33465,8 @@
 ]
 },
 "distinctive": [
-"grand",
 "success",
+"grand",
 "carries",
 "family",
 "neighbors",
@@ -33668,8 +33887,8 @@
 "distinctive": [
 "navy",
 "target",
-"gun",
 "turret",
+"gun",
 "ship",
 "shooting",
 "ships",
@@ -34352,8 +34571,8 @@
 "movement",
 "self-respect",
 "welfare",
-"classes",
 "increase",
+"classes",
 "tendency"
 ],
 "stats": {
@@ -34913,8 +35132,8 @@
 "graduates",
 "article",
 "forth",
-"typical",
 "special",
+"typical",
 "training"
 ],
 "stats": {
@@ -35054,8 +35273,8 @@
 "shippers",
 "forests",
 "highways",
-"north",
-"southern"
+"southern",
+"north"
 ],
 "stats": {
 "words": 2433,
@@ -35359,8 +35578,8 @@
 "thief",
 "harris",
 "accuse",
-"georgia",
 "corruptionist",
+"georgia",
 "reception",
 "express"
 ],
@@ -36204,9 +36423,9 @@
 "greeted",
 "louisiana",
 "orleans",
-"mayor",
 "governor",
 "gratitude",
+"mayor",
 "summer",
 "request",
 "favor",
@@ -36768,8 +36987,8 @@
 "chinese",
 "islands",
 "domingo",
-"law",
 "congress",
+"law",
 "commission",
 "immigrants",
 "immigration",
@@ -36989,11 +37208,11 @@
 "measures",
 "wealth",
 "opposition",
-"courage",
 "action",
+"courage",
 "evils",
-"twisted",
-"wrong"
+"wrong",
+"twisted"
 ],
 "stats": {
 "words": 6288,
@@ -37108,8 +37327,8 @@
 "navy",
 "speed",
 "guns",
-"gun",
-"trip"
+"trip",
+"gun"
 ],
 "stats": {
 "words": 1101,
@@ -37767,8 +37986,8 @@
 "recommendations",
 "methods",
 "bureaus",
-"red",
 "work",
+"red",
 "department",
 "committees",
 "responsible"
@@ -38427,8 +38646,8 @@
 "surrender",
 "ship",
 "john",
-"dead",
 "cumberland",
+"dead",
 "prepared",
 "ships"
 ],
@@ -38888,7 +39107,7 @@
 "weight",
 "fortune",
 "body",
-"fashion"
+"service"
 ],
 "stats": {
 "words": 906,
@@ -39177,8 +39396,8 @@
 "disregards",
 "intellect",
 "college",
-"prowess",
 "boy",
+"prowess",
 "learning",
 "condemn",
 "students",
@@ -39481,12 +39700,12 @@
 },
 "distinctive": [
 "pennsylvania",
-"wilson",
 "corporations",
+"wilson",
 "law",
 "epoch",
-"marshall",
 "constitution",
+"marshall",
 "judicial",
 "legislation",
 "government"
@@ -39637,8 +39856,8 @@
 "distinctive": [
 "amador",
 "panama",
-"president",
 "isthmus",
+"president",
 "secretary",
 "republic",
 "united",
@@ -39824,8 +40043,8 @@
 "engineer",
 "grand",
 "work",
-"realize",
 "ages",
+"realize",
 "army",
 "task",
 "enough",
@@ -40278,8 +40497,8 @@
 "tax",
 "japanese",
 "law",
-"crime",
 "government",
+"crime",
 "rio",
 "japan",
 "court",
@@ -41487,8 +41706,8 @@
 "bill",
 "consular",
 "aboard",
-"australia",
 "ships",
+"australia",
 "pacific"
 ],
 "stats": {
@@ -42048,13 +42267,13 @@
 },
 "distinctive": [
 "regiment",
-"dead",
 "grief",
+"dead",
 "lesson",
 "army",
 "admiration",
-"served",
 "war",
+"served",
 "honesty",
 "killed"
 ],
@@ -42493,8 +42712,8 @@
 "securities",
 "valuation",
 "railway",
-"railroad",
 "railways",
+"railroad",
 "investors",
 "roads",
 "stocks",
@@ -42602,7 +42821,7 @@
 "social",
 "economic",
 "labor",
-"farmer"
+"school"
 ],
 "stats": {
 "words": 5767,
@@ -43019,9 +43238,9 @@
 "criminally",
 "corporation",
 "action",
+"business",
 "legislation",
-"ease",
-"business"
+"ease"
 ],
 "stats": {
 "words": 5092,
@@ -43116,8 +43335,8 @@
 "discouragement",
 "republics",
 "honest",
-"president",
 "wealth",
+"president",
 "dishonest",
 "wrongdoing",
 "wheeler",
@@ -43220,8 +43439,8 @@
 },
 "distinctive": [
 "farm",
-"fencing",
 "land",
+"fencing",
 "master",
 "range",
 "commodities",
@@ -43453,8 +43672,8 @@
 "corporations",
 "affairs",
 "voyage",
-"fleet",
-"battle"
+"regards",
+"fleet"
 ],
 "stats": {
 "words": 3861,
@@ -43654,13 +43873,13 @@
 },
 "distinctive": [
 "mississippi",
-"williams",
 "judge",
+"williams",
 "justice",
 "river",
 "reactionary",
-"fought",
 "policy",
+"fought",
 "demagogues",
 "clamor"
 ],
@@ -44247,16 +44466,16 @@
 ]
 },
 "distinctive": [
-"tax",
 "interstate",
+"tax",
 "law",
 "government",
 "congress",
 "commerce",
 "conference",
 "legislation",
-"department",
-"public"
+"public",
+"department"
 ],
 "stats": {
 "words": 27310,
@@ -44909,8 +45128,8 @@
 "arbitration",
 "armament",
 "acceptance",
-"carolina",
 "peace",
+"carolina",
 "international",
 "naval",
 "effective",
@@ -45503,9 +45722,9 @@
 },
 "distinctive": [
 "america",
-"south",
 "hemisphere",
 "fleet",
+"south",
 "mexico",
 "trip",
 "peoples",
@@ -45700,8 +45919,8 @@
 "coal",
 "maine",
 "waterways",
-"discovery",
 "court",
+"discovery",
 "primitive"
 ],
 "stats": {
@@ -46096,8 +46315,8 @@
 "ohio",
 "administration",
 "republicans",
-"taft's",
 "acquiescence",
+"taft's",
 "correspondence",
 "nominated"
 ],
@@ -46365,7 +46584,7 @@
 "churches",
 "pledged",
 "building",
-"behaves"
+"negro"
 ],
 "stats": {
 "words": 2665,
@@ -46656,9 +46875,9 @@
 "forests",
 "courts",
 "interstate",
-"mountains",
 "fisheries",
 "deforestation",
+"mountains",
 "corporations",
 "control",
 "savings"
@@ -46803,8 +47022,8 @@
 "distinctive": [
 "artist",
 "figure",
-"imagination",
 "liberty",
+"imagination",
 "art",
 "modem",
 "coin",
@@ -47835,8 +48054,8 @@
 "commission",
 "farming",
 "agriculture",
-"farmer",
 "agricultural",
+"farmer",
 "life",
 "towns",
 "plan"
@@ -48020,8 +48239,8 @@
 },
 "distinctive": [
 "conference",
-"agencies",
 "children",
+"agencies",
 "dependent",
 "conclusions",
 "charities",
@@ -48352,8 +48571,8 @@
 "military",
 "technical",
 "advisory",
-"rear-admiral",
 "advice",
+"rear-admiral",
 "bureaus",
 "undivided"
 ],
@@ -48935,8 +49154,8 @@
 "agreement",
 "armaments",
 "court",
-"treaties",
 "international",
+"treaties",
 "arbitration",
 "police"
 ],
@@ -49289,15 +49508,15 @@
 ]
 },
 "distinctive": [
-"laughter",
 "harvard",
+"laughter",
 "football",
 "sport",
 "athlete",
 "genius",
 "game",
-"develop",
 "success",
+"develop",
 "ordinary"
 ],
 "stats": {
@@ -49801,8 +50020,8 @@
 "distinctive": [
 "corruption",
 "york",
-"honest",
 "rights",
+"honest",
 "distrust",
 "press",
 "writes",
@@ -49875,8 +50094,8 @@
 "crooked",
 "conservation",
 "men's",
-"christian",
 "wonderful",
+"christian",
 "honesty",
 "insist",
 "ahead"
@@ -50336,8 +50555,8 @@
 "commission",
 "principle",
 "maverick",
-"square",
-"dishonestly"
+"dishonestly",
+"square"
 ],
 "stats": {
 "words": 4194,
@@ -50854,11 +51073,11 @@
 "violence",
 "law",
 "wage",
-"union",
 "corporation",
+"union",
 "policeman",
-"miners",
 "justice",
+"miners",
 "workers",
 "employees"
 ],
@@ -51159,8 +51378,8 @@
 "money",
 "preach",
 "multi-millionaire",
-"knave",
 "scoundrel",
+"knave",
 "ideals"
 ],
 "stats": {
@@ -51450,8 +51669,8 @@
 "corporation",
 "honesty",
 "candidate",
-"knave",
 "entity",
+"knave",
 "afraid",
 "maverick"
 ],
@@ -51573,7 +51792,7 @@
 "sugar",
 "newspaper",
 "penitentiary",
-"honest"
+"servant"
 ],
 "stats": {
 "words": 4548,
@@ -52642,11 +52861,11 @@
 "distinctive": [
 "tariff",
 "consumer",
-"platform",
 "business",
-"trusts",
-"commission",
+"platform",
 "control",
+"commission",
+"trusts",
 "primaries",
 "industrial",
 "party"

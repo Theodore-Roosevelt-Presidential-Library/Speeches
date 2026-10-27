@@ -1,0 +1,19 @@
+---
+speech: 1903-04-07-casselton
+title: Remarks of President Roosevelt at Casselton, N. D., April 7, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0267
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0267
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 84 425:0267]
+
+[margin: File]
+
+My Fellow Citizens:
+
+It is a great pleasure to me to come here to North Dakota where I feel that I am coming home, for I was here first, twenty-three years ago. For a number of years I lived in the western part of the state; and in those days when I passed through your state it was on a catt[-[?k?]-][+l+]e train as a rule. It is a pleasure to see you. I believe in you; and I wish you well. (Cheers and applause)
+
+[note: Frame 0267 is a single page (not a two-page spread) holding two slips: this speech at the top and the Tower City remarks pasted below. The listed half-page crop cut off the text, so the whole frame was read.]
+[note: In "cattle" a handwritten "l" is written over a typed letter (probably "k"). A hand stroke crosses the "l" of "lived" without changing it, and a hand slash follows "rule"; neither changes the words.]

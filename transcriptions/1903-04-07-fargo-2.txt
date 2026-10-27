@@ -1,0 +1,21 @@
+---
+speech: 1903-04-07-fargo-2
+title: Remarks of Presidnt Roosevelt at the depot, Fargo, N. D ., April 7, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0235
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0235
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 83 425:0235]
+
+[margin: File]
+
+My Fellow Citizens:
+
+I shall {n ot|not} try to make any speech to you, but I want to say a word of greeting. I do not feel as if I were a stranger , but rather I feel as if this were more or less a home-coming, for I know your state so well. It is twenty-three years ago that I first came to Fargo, and for a number of years I lived on the western border of the state on the Little Missouri river; indeed I was a very humble county officer for part of that time--I was a deputy sheriff.
+
+It is such a pleasure to meet you here, and to have gotten a glimpse of you. I believe in North Dakota. {Ibelieve|I believe} in its crops, and above all I believe in its men {andwomen|and women}. (Cheers and applause)
+
+[note: Frame 0235 is a single page, not a two-page spread; the whole frame was read. The lower part of the page is covered by a printed confidential pamphlet, "Address of President Roosevelt at Fargo, North Dakota April 7, 1903 / The Philippine Islands and the Army" (No. 1180, with handwritten notes), which is a different speech and is not transcribed here.]
+[note: The "u" of "but" and the "a" of "want" print very faintly ("b t", "w nt"); "believe" in "Ibelieve" has overtyped letters. These are read as given.]

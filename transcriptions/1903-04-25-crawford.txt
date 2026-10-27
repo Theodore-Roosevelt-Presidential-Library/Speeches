@@ -1,0 +1,18 @@
+---
+speech: 1903-04-25-crawford
+title: Remarks of President Roosevelt at Crawford, Nebraska, April 25, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0284
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0284
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 118 425:0284]
+
+Ladies and Gentlemen:
+
+I want to thank you so much for having come here to greet me. I am glad to see you, men and women, and the children. And I want to extend my heartiest thanks through the commanding officer to the soldiers who have come here, and to say how much I appreciate {theircoming|their coming} . It was my good fortune to serve [-[illegible]-][+at+] Santiago in a division of regular cavalry, and it will always be one of the proudest and happiest thoughts of my life that I was thus able to serve. I thank you most warmly for your greeting. When I get to the west, here, I feel thoroughly at home. I know you; I have been with you; I worked here on the plains in the old days; I believe in you with all my heart, and I have taken the keenest pride in watching your growth, in seeing these states of the plains and Rocky Mountains [-xxx-] go steadily onward in their career [-xxx-] of greatness. The men of the west, pioneers and the successors of the pioneers, here have shown those qualities which we prize in the men who wear Uncle Sam's uniform -- qualities of courage, of hardihood, of [-[illegible]-] indomitable resolution. For those who go first in a battle, for the forlorn hope at the breach, we pay a special measure of regard, and such measure of regard must be paid to the pioneers, to those who led the vanguard of the nation's march across the continent. The men of the west, the stockgrowers, the cattle raisers, the farmers, the miners, they are those who have laid deep and firm the foundations of the nation's greatness. I greet you here, you men and women of this great {ahd|and} beautiful state. You have a right to be proud of the products of the state, but after all, the crop that counts most is the crop of men and women; and as I believe in the stock I am glad to see it kept up. And now coming through here there is just one word I want to say always to my fellow citizens, and that is[+,+] when you deal with public affairs, apply the same standards and use the same common sense that you do in private affairs. Law can do something, but only something, and most must be done by the individual quality of the man or the woman. (Cheers and applause)
+
+[note: In the typed heading the original place name is x-ed out on the typewriter (it may have been "Chadron", but this is uncertain) and "Crawford," is typed above it; the title gives the corrected heading.]
+[note: The typed word after "serve" is struck out and "at" is written above it by hand; a hand-drawn ink blot covers a short typed word before "indomitable"; a comma after "is" is added by hand.]
+[note: Many letters are typed over others ("women", "fortune", "thoroughly", "heart", "regard", "vanguard"); final readings are given.]

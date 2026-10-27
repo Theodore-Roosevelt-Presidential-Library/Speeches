@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Old Fort, N.C.,Sept.9,1902.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0707
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0707
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 51 424:0707]
@@ -21,3 +21,4 @@ There is no royal road to good citizenship. The qualities that make a man a good
 [note: A short word at the end of the line after "You do not" is struck through by hand. A first "(Applause)" after "North Carolina." is overstruck with x's on the typewriter and "(Applause)" typed again.]
 [note: The x-ed words before "behaves" and before "himself" cannot be read. A stray "q" is typed after "citizen" in "a good citizen a hundred years ago".]
 [note: The word struck by hand before "get" is inked out; the words struck before "far" (with a caret below) cannot be read with confidence.]
+[note: Third look: the "q" after "citizen" and the "x" after "good" are each a single clean typed character standing alone between spaces, with no letter typed under them; the "q" is kept as a stray slip and the lone "x" as an x-out.]

@@ -1,0 +1,22 @@
+---
+speech: 1903-04-07-valley-city
+title: Remarks of President Roosevelt at Valley City, N. D., April 7, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0268
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0268
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 85 425:0268]
+
+[margin: File]
+
+My fellow Citizens:
+
+In greeting you all, let me first say a special word of greeting to the veterans of the great war, to the men without whom we would not have any country here of which to be proud; and next to my own comrades, the men of the National Guard, the men some of whom served in the Philippines Islands. All that I can say of ourselves, the men of the lesser war, is that we tried to follow in the footsteps of the men of the great war.
+
+I greet you all. I feel at home here in North Dakota. It was twenty-three years ago that I first came to your state, when it was then a territory. I know you well. I congratulate you upon upon all you do in wheat [-raising-][+growing+] and stock raising, but above all,in the kind of men and women you grow. (Applause) And here, with your normal and your high schools, whose professor I have just met, I see you are preparing for the next crop -- the children. (Applause)
+
+[note: "raising" after "wheat" is x-ed out on the typewriter and "growing" is typed above it.]
+[note: Hand marks that do not clearly change the words: a stroke over the letter after "war" (before the comma) in the first paragraph, and a stroke over the "w" of "know". The last letter of "Philippines" is overtyped (it may be an x over s) and "in" after "above all," is typed over another letter.]
+[note: The capital R of "Roosevelt" in the heading is set below the line ("President Roosevelt").]
