@@ -1,0 +1,37 @@
+---
+speech: 1903-05-02-manhattan
+title: Speech of President Roosevelt at Manhatta,Kansas,May,2,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0336, 0337
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0336
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 24 425:0336]
+
+My fellow-citizens:
+
+In going through Kansas one cannot but be struck not merely by the marvelous fertility of your state, but [-xxxx-] by the way in which your people are building upon your foundation of material prosperity the structure of the higher moral and {inte llectual|intellectual} life. Yesterday I passed through the historic town of Lawrence, the seat of your university, which has numbered so many men of mark among its graduates; the seat of Haskell Indian School, the existence of which makes a long credit mark on the side of [-x-] the white race on the balance sheet of its dealings with the red race, a balance sheet which otherwise has many debit marks on it. Now I come to this city, the seat of one of those agricultural colleges which have done so much for the education of that class of our people upon whom more than any other ultimately the entire national well-being rests-those devoted to the tilling of the soil, raising crops and live stock. Until within the lifetime of the present generation but little effort was made to bring the education of the farmer up to the high standard toward which we were endeavoring to bring so many {ohher|other} professions. That has now been changed. Nothing is more striking in our educational system of to-day than the number of institutions in which the work of the farmer is taught in a way that makes farming in its highest form one of the learned professions.
+
+I am speaking [?on?] one of the great agricultural districts of the country, and as I have gone through it this morning, exactly as I went through the district of the lower Kaw yesterday afternoon, I have been lost in ceaseless admiration of its beauty and fertility, and it is eminently fitting that here there should be one of those institutions which train the man who is to till the soil, the man who is ultimately to control the destiny of the nation more than any other , more even than the wage worker,[+--+] train him not only how to wield aright the implements ready to his hand, [-[illegible]-][+but+] {train g|train} him how to render the {hdghest|highest} service of citizenship to the state.
+
+[pb 25 425:0336]
+
+I want to congratulate this cadet corps. I like to see such corps' always. Our people work for themselves, and if need comes are[+to be+]able to take care of themselves in actual war. Kansas is full of the men who fought in the great war, and when in 1898 the appeal to arms came Kansas farms and Kansas colleges sent forth ten-fold the number of men that were asked for by Uncle Sam; ten times as many wished to get into the volunteer service as there was room for in the volunteer service; and in the Philippines it was given to Kansas to produce one of those men who made marked reputations in the war,in the person of General Funston; and {i in|in} the 20th Kansas you had one of the regiments which had the good luck to have the opportunity, and then the power to take advantage of the opportunity, for you have got to have both,the opportunity and then the power to take advantage of it. It was for the good fortune of the 20th Kansas that it [?had?] that power.
+
+Compared with the struggle [-xxxx-] which you, my {comgades|comrades} in the great war had, ours was a mighty small one: All that can be said is that we hope we showed we had the right spirit in us , the desire to emulate your deeds. (Applause.)
+
+I want to say a word especially to the students. It is always a pleasure {tobe|to be} greeted by the student body. You go out into the great world with a peculiar weight of responsibility upon you, because it largely depends upon how you handle yourselves as to the esteem in which education will be held by the [-xxxx-] community at large. If you make the privileges you have serve as an excuse for not working as hard, not doing as good work, not getting down to the ground and working up, you will not merely discredit yourselves, but you will discredit those who have not had your advantages. If, however, instead you feel that they have made an added [-xxxx-] burden of responsibility, that they make it more incumbent upon you to show that you profit by the advantages you have had, then you will reflect credit not merely upon yourself, but upon those who founded and keep up institutions of learning,such as this.
+
+{Thereis|There is} one bit of advice I {li ke|like} to give to the young and to the old. I believe in play and I believe in work. [-[illegible]-] When you play,play hard, and when you work, do not play at all. I believe in having a good
+
+[pb 26 425:0337]
+
+time. Get all the enjoyment you can, but do not let getting the enjoyment interfere with your duty, with your work in the world. The best workers that I have ever known were men who knew how to play when the chance came, and the poorest creatures I have ever known any where, and the most miserable, were those who had the theory that life consisted [-xx-] merely of play. I [-xxxx-] pity no man because he has to work. I respect him, and I despise the man who {do s|does} not work. (Applause.) We have no place in our American society for the man or the woman who fails to appreciate the need of effort, the need of work to justify his or her existence. If a man is removed from the need of laboring each day for his daily bread[+,+] that means that he is set free [-xxxx-] to do work of a different kind if he has got the stuff in him to enable him to do {itOf|it. Of} all people whom I most pity , it is the {childxxx|children} whom the misguided father or mother brings up [-xx-] not to work but to try to have an easy time in life. [+(Applause)+]
+
+[note: Heading: a handwritten "n" is added above "Manhatta" to make "Manhattan".]
+[note: Folio 24: the struck word before "train g him" is heavily inked over by hand and cannot be read; "but" is written above it. A handwritten caret with a bar above it after "wage worker," appears to mark an inserted dash; a hand stroke also separates "nation" and "more".]
+[note: Folio 24: in "speaking on one" the first letter of "on" is typed over another letter; in "agricultural" the "c" is typed over another letter.]
+[note: Folio 25: "to be" is typed between the lines above "are able", with a handwritten caret.]
+[note: Folio 25: "had" in "it had that power" is partly covered by a handwritten mark. Before "When you play" a typed character is struck through by hand. A hand stroke stands between "will" and "reflect".]
+[note: Folio 26: "Of" in "itOf" has a handwritten capital O over the typed letter, with no space after "it"; "children" is typed with the end of the word overtyped with x's; "(Applause)" at the end is handwritten. A handwritten comma is added after "bread". Hand scribbles above "theory" and a dot above "woman" do not change words.]

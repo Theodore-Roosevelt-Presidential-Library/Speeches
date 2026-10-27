@@ -1,0 +1,16 @@
+---
+speech: 1903-04-30-st-louis-2
+title: Remarks of President Roosevelt in responding to toast at Banquet in Administration Building, St. Louis, Mo., April 30, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0320
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0320
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 189 425:0320]
+
+Governor Francis;; Ladies and Gentlemen:
+
+All I shall say is to congratulate you with all my heart upon the service you are rendering to the[+entire+] country by the work you have undertaken and by the spirit which has already inaugurated that work with such conspicuous success. I feel, Governor Francis, as though you and your colleagues who have so {sealously|zealously} and with such disinterestedness striven to bring to a successful conclusion this great undertaking, have a right to-night to feel fully satisfied with what you have done, for I do not think it possible that anything that has begun so well can fail to end well also. (Applause) Not merely all the people of the country comprised within the.limits of the Louisiana [-xxxxxx-] purchase, but all those within the limits of the United States are under a debt of gratitude, Governor, and to the city of St. Louis, for the work you have done, for the spirit with which you have undertaken it, and for the efficiency with which you are doing it. (Applause)
+
+[note: "entire" is typed between the lines above "the country", with a caret added by hand. In the heading, "Administration" has an overstruck letter ("Administra_ion"). Overstruck or gapped letters closed up: "congratulate", "undertaken" (first), "conclusion", "to-night", "for", "do" (typed "d o"), "anything", "debt". The x-ed out word before "purchase" is a typewriter strikeout.]

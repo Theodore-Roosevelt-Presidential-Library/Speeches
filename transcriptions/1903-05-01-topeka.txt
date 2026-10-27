@@ -1,0 +1,26 @@
+---
+speech: 1903-05-01-topeka
+title: Address of President Roosevelt at the laying of the corner-stone of the Y. M. C. A. Building, Topeka, Kansas, May 1, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0330, 0331
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0330
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 13 425:0330]
+
+[margin: Not corrected]
+
+My Fellow Citizens:
+
+I shall not attempt to speak at length to you this afternoon, as I am to make an address this evening. I shall merely say how glad I am to take part in a ceremony of this kind at this place. It is a pleasure here in the very heart of the United States among those of our people who to a peculiar [-xxxxxx-] and preeminent degree have developed those characteristics which we are proud to think of as essentially American. It is a pleasure here to see the foundation laid of one of these buildings which tend to show that we are caring for the spiritual and moral as well as the physical development of our people. It is a great thing to have turned the bottoms and the trail into fertile farmland; it is a great thing to have driven the railroads across the continent from sea to sea; it is a great thing to be building up the manufacturing industries of our country; it is a great thing to have taken a part, big or little, in all of this tremendous industrial development; but all of that is simply a foundation. It is necessary, absolutely as necessary for the state as the foundation is for a house; but it is not the state any more than the foundation is the house. We need it, but woe to us if we treat it as aught but a base upon which to build the higher life. And I {beliebe|believe} in you and your future, in us and our future, because I believe that we shall go on steadily building up the higher life upon the base of our material prosperity.
+
+It is a great thing to be able to produce what this state produces; to be able to produce her crops; to be able to make thrive her railroads; to be building up as she is building up manufacturing industries; but the greatest product of the state of course is the product of the men and women [-xx-] of the state. That is what counts. (Applause) If we permitted our prosperity to go unaccompanied by the care for the spirit, for the soul, for the mind, it would be but a curse and not a blessing, and this nation would not leave a record to be covered by a pin point in the history of mankind.
+
+[pb 14 425:0331]
+
+In the civil war in which so many of the citizens of Kansas of to-day bore a distinguished part -- in that war the country won because the country had it in its soul to care for an ideal more than for anything material. The genius of the nation found expression because in Abraham Lincoln it found a man who would lay down life itself on the altar of that high ideal. (Applause ) And if we are to be true to his memory, true to the memory of the men who in '76 founded the union, true to the memory of those who in the years between '61 and '65 preserved it, we must now see to it that without [-xxxxxxxx-] abating a jot of our interest in caring for the material well-being of the nation we add to that interest even a keener interest in the things that tell {forthe|for the} soul. Therefore it gives me pleasure to come here to-day on this occasion to greet you, to greet the men and women of Kansas, to greet all the guests within your gates, of our own country and of other lands, and to bid them welcome, holding out the hand of fellowship to them for they come to a nation which I think I may say is endeavoring so to carry itself that it may fear no wrong from the strong and may spurn the thought of inflicting wrong upon the weak; (Applause) a nation whose object it is to live in [-xxxx-] peace and cordial good-[-xxxx-] fellowship with all the nations of mankind; a nation that asks peace not as a craven or a weakling, but as a just man armed who asks not in fear but for the sake of righteousness. So in your name, people of Kansas, I welcome those from without the state's borders to this beautiful state and I ask that they accept you as fair samples of our country, for I am proud to believe that that is exactly what you[-r-] are. (Great applause)
+
+[note: Folio 13 is the right page of frame 0330 and folio 14 the left page of frame 0331. "Not corrected" is written by hand diagonally in the top left margin of p. 13. In the heading, "laying" has a letter written over by hand (apparently "y").]
+[note: Page 13: the x-ed out word after "peculiar" (apparently "degree" begun) and the short x-ed out run after "women" are typewriter strikeouts. "the care" is typed with its first letter struck over.]
+[note: Page 14: the x-ed out word before "abating" (apparently "abatting") and the runs before "peace" and after "good-" are typewriter strikeouts. "greet" (first) and "come" have overstruck letters. A pen slash follows "borders" (no word change), and a pen slash strikes the "r" of "your" before "are". Page heading "-2-".]

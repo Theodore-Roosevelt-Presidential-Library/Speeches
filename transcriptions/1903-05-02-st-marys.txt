@@ -1,0 +1,18 @@
+---
+speech: 1903-05-02-st-marys
+title: Remarks of President Roosevelt at St.Marys,Kansas,May 2,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 335
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0335
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 23 425:0335]
+
+[margin: File]
+
+Ladies and Gentlemen:
+
+I am very glad to catch even this glimpse of you. I greet you and wish you well in your great work of education.
+
+[note: Speech is on the right half of the frame; the Wamego remarks follow it on the same page and are not transcribed here. A faint comma-like mark sits after "your" (possibly a stray or struck comma); not taken as part of the text.]

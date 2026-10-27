@@ -1,0 +1,22 @@
+---
+speech: 1903-05-01-kansas-city
+title: Remarks of President Roosevelt at Hotel Baltimore, Kansas City, Mo., May 1, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0328
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0328
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 9 425:0328]
+
+[margin: File / Not given out.]
+
+Mr. Chairman and Gentlemen:
+
+I wish to thank you most cordially not only for the beautiful token by which I shall always remember, if anything were necessary to make me remember, the pleasant lunch I have had with you to-day; but also I [-wish-][+want+] to thank you for the distinguished kindness and hospitality with which I have been treated here. It is indeed a pleasure to come here. I am the eighth generation born in New York City of my people, so I think I am entitled to say that I am indeed in the heart of the country here; for I feel that here in what used to be the west, but now is so near the middle that I am sure it is not far from the effete east, is where our people develop those characteristics which we naturally associate with the name American. (Applause)
+
+The west is so purely a relative [-[illegible]-] term that you have to locate the man's individual abode before you know what he means by it. I remember that when I was in the cow country , one of the cow hands working for me came to me at the end of the season and said he would like his time as he was going away. I said " Where are you going?" He replied "I am going to spend the winter in the far east." "Well" I said" what do you mean by that, Norway or Nubia?" He said, "No, Duluth."
+
+So to-day, in this country, we know no east or west, north or south, we merely know good Americans[-xxxxx-] wherever [-[?we meet it.?]-]they may be. (Great applause)
+
+[note: "File" and "Not given out." are written by hand in the top left corner, and two long diagonal pen strokes run across the upper left of the page, through the start of the heading, the salutation and the first lines; they look like a cancel or filing mark for the whole item, not a deletion of particular words, so the words under them are transcribed. The handwritten "9" at the top is the folio as written. "want" is typed between the lines above the x-ed out "wish" (second occurrence). The word after "relative" is blotted out by a heavy pen stroke. "abode" has an overstruck letter. The x-ed out runs after "Americans" and after "wherever" are typewriter strikeouts; the second appears to cover "we meet it." "pleasure" is typed "ple asure", closed up.]

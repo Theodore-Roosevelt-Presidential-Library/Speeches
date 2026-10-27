@@ -915,8 +915,8 @@
 "war",
 "peace",
 "dead",
-"resistance",
-"freemen"
+"islands",
+"resistance"
 ],
 "stats": {
 "words": 4369,
@@ -1644,8 +1644,8 @@
 "charity",
 "brotherhood",
 "men's",
-"sentimentality",
-"young"
+"young",
+"sentimentality"
 ],
 "stats": {
 "words": 2699,
@@ -1740,8 +1740,8 @@
 },
 "distinctive": [
 "exposition",
-"western",
 "hemisphere",
+"western",
 "continent",
 "century",
 "commonwealths",
@@ -1875,8 +1875,8 @@
 "colorado",
 "commonwealths",
 "unity",
-"spread",
 "continent",
+"spread",
 "alleghanies",
 "union",
 "older"
@@ -2034,8 +2034,8 @@
 "wilfully",
 "civilization",
 "aggrandizement",
-"philippines",
 "duty",
+"philippines",
 "expense"
 ],
 "stats": {
@@ -2546,12 +2546,12 @@
 "ships",
 "navy",
 "china",
-"arid",
 "water",
+"arid",
 "commercial",
 "anarchist",
-"forest",
 "congress",
+"forest",
 "law"
 ],
 "stats": {
@@ -5119,8 +5119,8 @@
 "cure",
 "wealth",
 "conditions",
-"harm",
 "power",
+"harm",
 "community"
 ],
 "stats": {
@@ -5415,8 +5415,8 @@
 "enlisted",
 "preparation",
 "sea",
-"officers",
 "war",
+"officers",
 "efficiency",
 "keeping"
 ],
@@ -5631,8 +5631,8 @@
 },
 "distinctive": [
 "one's",
-"farm",
 "districts",
+"farm",
 "farmers",
 "self-help",
 "help",
@@ -7504,10 +7504,10 @@
 "courage",
 "honesty",
 "weapons",
-"applause",
 "citizenship",
-"won",
+"applause",
 "win",
+"won",
 "victory"
 ],
 "stats": {
@@ -8952,8 +8952,8 @@
 "works",
 "care",
 "worth",
-"glad",
 "war",
+"glad",
 "work"
 ],
 "stats": {
@@ -9925,8 +9925,8 @@
 "distinctive": [
 "carolina",
 "laws",
-"north",
 "develop",
+"north",
 "prosperity",
 "building",
 "section",
@@ -10736,8 +10736,8 @@
 "mighty",
 "future",
 "prosperity",
-"fought",
 "war",
+"fought",
 "peace",
 "country"
 ],
@@ -10911,8 +10911,8 @@
 "distinctive": [
 "dangers",
 "cheers",
-"applause",
 "believed",
+"applause",
 "comrades",
 "win",
 "physical",
@@ -11363,8 +11363,8 @@
 "schedules",
 "workingman",
 "changes",
-"partisanship",
 "policy",
+"partisanship",
 "readjustment",
 "business",
 "standpoint",
@@ -12611,8 +12611,8 @@
 "politics",
 "party",
 "election",
-"governor",
 "honor",
+"governor",
 "allow"
 ],
 "stats": {
@@ -12807,8 +12807,8 @@
 "complaint",
 "gospel",
 "failed",
-"prosperity",
-"president"
+"president",
+"prosperity"
 ],
 "stats": {
 "words": 2542,
@@ -12928,8 +12928,8 @@
 "schools",
 "tone",
 "quarters",
-"school",
 "woman",
+"school",
 "teachers",
 "training",
 "sake"
@@ -14124,8 +14124,8 @@
 "pioneer",
 "martyrs",
 "methodist",
-"pioneers",
 "rough",
+"pioneers",
 "frontier",
 "forces"
 ],
@@ -14224,8 +14224,8 @@
 "lumbering",
 "convince",
 "policy",
-"lumbermen",
-"practical"
+"practical",
+"lumbermen"
 ],
 "stats": {
 "words": 2233,
@@ -15221,10 +15221,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 383,
+"paragraphs": [
+"Mr. Governor; Mr. Mayor; and you, My Fellow Citizens:",
+"I am deeply touched by your greeting to-day; and it is fitting that Minnesota should greet the President, for the President stands as the representative of no party, but of the nation; and Minnesota stands, herself, in the heart of this nation, as one of those states of the upper Mississippi and the Great Lakes, which typify in a peculiar degree all that there is most American in the American character. Coming through the Capitol here I have passed by the glass case in which is preserved the tattered battle flag of the 1st Minnesota, the flag which it carried at Gettysburg, when that regiment won for your state the high and dreadful honor of having sent to the civil war the regiment which, in a single fight, lost a greater proportion of its men, killed and wounded, than any other, and yet the remnant of which held the ground and the flag which it had taken. (Cheers and applause)",
+"You of the northwest, men and women represent a stock peculiarly and typically American; typical in its robust strength; typical in its ability and willingness to do well alike in war and in peace; typical of our country, moreover, because it is made of so many race strains. The American of to-day has, the American of the future will have, in his veins the blood of many Old World races. He will be akin to all, and yet different from all. For out of the mixture of this Old World stock, a mixture representing all the peoples of western and central Europe, is developing here in this new world a new world type, the American which we intend to see stand as a higher and finer type than any that has hitherto been developed since the days when history dawned. (Applause)",
+"I greet you. I welcome you. I thank you for your welcome to me. I am glad to see the men. I am glad to see the women. I am glad to see the children, and I am glad to see that they are not only all right as regards quality, but as regards quantity, for I think highly of your stock and I want to see it kept up. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -15246,13 +15251,66 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0112",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0112",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Governor; Mr. Mayor; and you, My Fellow Citizens:",
+"I am deeply touched by your greeting to-day; and it is fitting that Minnesota should greet the President, for the President stands as the representative of no party, but of the nation; and Minnesota stands, herself, in the heart of this nation, as one of those states of the upper Mississippi and the Great Lakes, which typify in a peculiar degree all that there is most American in the American character. Coming through the Capitol here I have passed by the glass case in which is preserved the tattered battle flag of the 1st Minnesota, the flag which it carried at Gettysburg, when that regiment won for your state the high and dreadful honor of having sent to the civil war the regiment which, in a single fight, lost a greater proportion of its men, killed and wounded, than any other, and yet the remnant of which held the ground and the flag which it had taken. (Cheers and applause)",
+"You of the northwest, men and women represent a stock peculiarly and typically American; typical in its robust strength; typical in its ability and willingness to do well alike in war and in peace; typical of our country, moreover, because it is made of so many race strains. The American of to-day has, the American of the future will have, in his veins the blood of many Old World races. He will be akin to all, and yet different from all. For out of the mixture of this Old World stock, a mixture representing all the peoples of western and central Europe, is developing here in this new world a new world type, the American which we intend to see stand as a higher and finer type than any that has hitherto been developed since the days when history dawned. (Applause)",
+"I greet you. I welcome you. I thank you for your welcome to me. I am glad to see the men. I am glad to see the women. I am glad to see the children, and I am glad to see that they are not only all right as regards quality, but as regards quantity, for I think highly of your stock and I want to see it kept up. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 51 (frame 425:0112)</span>",
+"<ins title=\"added by hand\">Mr.</ins> Governor; Mr. Mayor; and you, My Fellow <span class=\"sic\" title=\"reads: Citizens\">Citizehs</span>:",
+"I am deeply touched by your greeting to-day; and it is fitting that Minnesota should greet the President, for the President stands as the representative of no party, but of the nation; and Minnesota stands, herself, in the heart of this nation, as one of those states of the upper Mississippi and the Great Lakes, which typify in a peculiar <del title=\"struck through\">xxxxx</del> degree all that there is most American in the American character. Coming through the Capitol here I have passed by the glass case in which is preserved the tattered battle flag of the 1st Minnesota, the flag which it carried at Gettysburg, when that regiment won for your state the <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">the</span></del> high and dreadful honor of having sent to the civil war the regiment which, in a single fight, lost a greater proportion of its men, killed and wounded, than any other, and yet <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">whose</span></del> the remnant <ins title=\"added by hand\">of which</ins> held the ground and the flag which it had taken. (Cheers and applause)",
+"You of the northwest, <del title=\"struck through\">you</del> men and women represent a stock peculiarly and typically American; typical in its <del title=\"struck through\">xxxxxxxx</del> robust strength; typical in its ability and willingness to do well alike in war and in peace; typical of our country, moreover, because it is made of so many race strains. The American of to-day has, the American of the future will have, in his veins the blood of many Old World races. He will be akin to all, and yet different from all. For out of the mixture of this Old World stock, a mixture representing all the peoples of western and central Europe, is developing here in this new world a new world type , the American which we intend to see stand as a higher and finer type than any that has hitherto been developed since the days when history dawned. (Applause)",
+"<span class=\"sic\" title=\"reads: I\">1</span> greet you. I welcome you. I thank you for your welcome to me. I am glad to see the men. I am glad to see the women. I am glad to see the children, and I am glad to see that they are not only all right as regards quality, but as regards <del title=\"struck through\">xxxxxxxx</del> quantity, for I think highly of your stock and I want to see it kept up. (Cheers and applause)",
+"<span class=\"tnote\">&quot;Mr.&quot; before &quot;Governor&quot; is handwritten above the line with a caret.</span>\n<span class=\"tnote\">The words &quot;of the northwest, you men and women&quot; are enclosed in a hand-drawn loop, with an ink blot on &quot;of&quot;; &quot;you&quot; inside the loop is struck through by hand. The purpose of the loop is unclear.</span>\n<span class=\"tnote\">The word after &quot;your state the&quot; is overtyped into a blot; it appears to be a repeated &quot;the&quot;. The struck word after &quot;and yet&quot; appears to be &quot;whose&quot;, struck by hand.</span>\n<span class=\"tnote\">A small stray mark (like a comma) stands before &quot;the flag which it had taken&quot;; not transcribed as punctuation.</span>\n<span class=\"tnote\">In &quot;I am glad to see that they&quot;, &quot;am&quot; is typed in a single character space, letters overlaid.</span>\n<span class=\"tnote\">The first character of &quot;I greet you&quot; is typed like the numeral 1.</span>"
+],
+"notes": [
+"\"Mr.\" before \"Governor\" is handwritten above the line with a caret.",
+"The words \"of the northwest, you men and women\" are enclosed in a hand-drawn loop, with an ink blot on \"of\"; \"you\" inside the loop is struck through by hand. The purpose of the loop is unclear.",
+"The word after \"your state the\" is overtyped into a blot; it appears to be a repeated \"the\". The struck word after \"and yet\" appears to be \"whose\", struck by hand.",
+"A small stray mark (like a comma) stands before \"the flag which it had taken\"; not transcribed as punctuation.",
+"In \"I am glad to see that they\", \"am\" is typed in a single character space, letters overlaid.",
+"The first character of \"I greet you\" is typed like the numeral 1."
+],
+"file": "transcriptions/1903-04-04-st-paul.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "gettysburg",
+"name": "Gettysburg",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"minnesota",
+"typical",
+"stock",
+"applause",
+"flag",
+"glad",
+"american",
+"world"
+],
+"stats": {
+"words": 383,
+"unique_words": 182,
+"sentences": 10,
+"avg_sentence": 38.3,
+"minutes": 3,
+"i_count": 11,
+"we_count": 1
+}
 },
 {
 "id": "1903-04-04-minneapolis-2",
@@ -15323,9 +15381,9 @@
 "economic",
 "trusts",
 "reduction",
+"interests",
 "treaty",
 "market",
-"interests",
 "cuban"
 ],
 "stats": {
@@ -15970,10 +16028,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 323,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I am very glad to greet you. I have enjoyed heartily coming through your beautiful state all to-day. I am glad to greet the old folks and glad to greet the little fellows.",
+"It is a great thing what you get from the farm, but what you turn out of the school house is as important, for upon that depends what grade of citizenship we are going to have in the future",
+"This state has been made what it is by the character of the men and women who first came out here on the prairie, who did the hard work,(and there is not any harder and rougher work than that of the pioneers,) and put it through good times and evil times until finally success came. Success can be kept on much the same terms upon which it was won. Something can be done by law, something by administration of the law; but nothing can take the place of the man's own courage and hardihood and honesty and sincerity of purpose. If [?] we have kept those we can make the future as great as the past If we lose them no one can help us, for no one can get out of us what is not in us. I want to see us preserve the economic system, the governmental policies under which we have won these great triumphs; but more than all I want to see the men and women so handle themselves that the average standard of citizenship in the future will be what it has been in the past. If that is kept up we can rest easy in our minds as to what the future will bring forth.",
+"I shall not try to make a long speech to you. I thank you for having come here to see me and I greet you, and am glad to see that the state is looking so prosperous,"
+],
 "editions": [],
 "trc": [
 {
@@ -15995,13 +16059,61 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0229",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0229",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"I am very glad to greet you. I have enjoyed heartily coming through your beautiful state all to-day. I am glad to greet the old folks and glad to greet the little fellows.",
+"It is a great thing what you get from the farm, but what you turn out of the school house is as important, for upon that depends what grade of citizenship we are going to have in the future",
+"This state has been made what it is by the character of the men and women who first came out here on the prairie, who did the hard work,(and there is not any harder and rougher work than that of the pioneers,) and put it through good times and evil times until finally success came. Success can be kept on much the same terms upon which it was won. Something can be done by law, something by administration of the law; but nothing can take the place of the man's own courage and hardihood and honesty and sincerity of purpose. If [?] we have kept those we can make the future as great as the past If we lose them no one can help us, for no one can get out of us what is not in us. I want to see us preserve the economic system, the governmental policies under which we have won these great triumphs; but more than all I want to see the men and women so handle themselves that the average standard of citizenship in the future will be what it has been in the past. If that is kept up we can rest easy in our minds as to what the future will bring forth.",
+"I shall not try to make a long speech to you. I thank you for having come here to see me and I greet you, and am glad to see that the state is looking so prosperous,"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 71 (frame 425:0229)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Ladies and Gentlemen:",
+"I am very glad to greet you. I have enjoyed heartily coming through your beautiful state all to-day. I am glad to greet the old folks and glad to greet the little fellows.",
+"It is a great thing what you get from the farm, but what you turn out of the school house is as important, for <del title=\"struck through\">xx</del> upon that depends what <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> grade of citizenship we are going to have in the future",
+"This state has been made what it is by the character of the men and women who first came out here on the prairie , who did the hard work,(and there is not any harder <del title=\"struck through\">xxxxxx</del> and rougher work than that of the pioneers ,) and put it through good times and evil times until finally<del title=\"struck through\">x</del> success came. Success can be kept on much the <ins title=\"added by hand\">same</ins> terms upon which it was won. Something can be done by law, something by administration of the law; but nothing can take the place of the man&#x27;s own courage and hardihood and honesty and sincerity of purpose. <span class=\"unc\" title=\"uncertain reading\">If</span> we have kept those we can make the future as great as the past If we lose them no one can help us, for no one can get out of us what <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> is not in us <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del>. I want to see us preserve the economic system, the governmental policies under which we have won these great <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">prosperity</span></del> triumphs; but more than all I want to see the men and women so handle themselves that the average standard of citizenship in the future will be what it has been in the past. If that is kept up we can rest easy in our minds as to what the future will bring forth.",
+"I shall not try to make a long speech to you. I thank you for having come here to see me and I greet you, and am glad to see that the state is looking so <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">prosperous,</ins>",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left with a slash; filing mark.</span>\n<span class=\"tnote\">The word struck by hand between &quot;what&quot; and &quot;grade&quot; cannot be read. A small hand tick follows &quot;the future&quot;, where the typed sentence has no period.</span>\n<span class=\"tnote\">&quot;pioneers&quot; and &quot;If we have kept&quot; are overtyped (&quot;pianeers&quot;, &quot;Of&quot;); the evident readings are given. &quot;sincerity&quot; is typed with a gap (&quot;sin cerity&quot;).</span>\n<span class=\"tnote\">A hand bar stands between &quot;evil&quot; and &quot;times&quot;. &quot;same&quot; is written by hand above the line with a caret before &quot;terms&quot;.</span>\n<span class=\"tnote\">The words struck by hand before &quot;is not in us&quot; and after it cannot be read. The x-ed out word before &quot;triumphs&quot; appears to be &quot;prosperity&quot;.</span>\n<span class=\"tnote\">The last typed word before the handwritten &quot;prosperous,&quot; is struck by hand and cannot be read.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left with a slash; filing mark.",
+"The word struck by hand between \"what\" and \"grade\" cannot be read. A small hand tick follows \"the future\", where the typed sentence has no period.",
+"\"pioneers\" and \"If we have kept\" are overtyped (\"pianeers\", \"Of\"); the evident readings are given. \"sincerity\" is typed with a gap (\"sin cerity\").",
+"A hand bar stands between \"evil\" and \"times\". \"same\" is written by hand above the line with a caret before \"terms\".",
+"The words struck by hand before \"is not in us\" and after it cannot be read. The x-ed out word before \"triumphs\" appears to be \"prosperity\".",
+"The last typed word before the handwritten \"prosperous,\" is struck by hand and cannot be read."
+],
+"file": "transcriptions/1903-04-06-alpena.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"greet",
+"glad",
+"future",
+"state"
+],
+"stats": {
+"words": 323,
+"unique_words": 151,
+"sentences": 11,
+"avg_sentence": 29.4,
+"minutes": 2,
+"i_count": 8,
+"we_count": 6
+}
 },
 {
 "id": "1903-04-06-edgeley",
@@ -16060,10 +16172,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 48,
+"paragraphs": [
+"Ladies and gentlemen:",
+"I am delighted to get back into North Dakota. It is twenty-three years ago that I first came to what was then the Territory of Dakota. I lived for many years here and I am overjoyed to be back with you again. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -16085,13 +16200,49 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0233",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0233",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and gentlemen:",
+"I am delighted to get back into North Dakota. It is twenty-three years ago that I first came to what was then the Territory of Dakota. I lived for many years here and I am overjoyed to be back with you again. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 80 (frame 425:0233)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Ladies and gentlemen:",
+"I am delighted to get back into North Dakota. It is twenty-three years ago that I first came to what was then the Territory of Dakota. I lived for many years here and I am overjoyed to be back with you again. (Cheers and applause.)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left with a slash; filing mark.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left with a slash; filing mark."
+],
+"file": "transcriptions/1903-04-06-ellendale.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 2
+}
+]
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 48,
+"unique_words": 37,
+"sentences": 3,
+"avg_sentence": 16.0,
+"minutes": 1,
+"i_count": 4,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-06-frederick",
@@ -16105,10 +16256,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 192,
+"paragraphs": [
+"Ladies and gentlemen:",
+"I am very glad to catch a glimpse of you this evening. I thank you for having come here to greet me. I have been travelling through South Dakota all day and am now coming to North Dakota, and I feel thoroughly at home.. I first struck what was then the territory of Dakota twenty-three years ago, so that I can claim to be kind of an old settler myself. I lived a number of years further west, out in the Little Missouri cow country. It has been a great pleasure to be coming through this country today and seeing the marvelous changes that have been made in the past twenty-three years, and even since I was out here three years ago. I congratulate you upon it and I congratulate the country upon it. The Dakotas have had their full share of the prosperity of the past few years, and they owe it partly to good laws, but most especially to the character of the men and women who formed the population. In the long run that is what counts-the stuff the man has in him. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -16130,13 +16284,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0233",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0233",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and gentlemen:",
+"I am very glad to catch a glimpse of you this evening. I thank you for having come here to greet me. I have been travelling through South Dakota all day and am now coming to North Dakota, and I feel thoroughly at home.. I first struck what was then the territory of Dakota twenty-three years ago, so that I can claim to be kind of an old settler myself. I lived a number of years further west, out in the Little Missouri cow country. It has been a great pleasure to be coming through this country today and seeing the marvelous changes that have been made in the past twenty-three years, and even since I was out here three years ago. I congratulate you upon it and I congratulate the country upon it. The Dakotas have had their full share of the prosperity of the past few years, and they owe it partly to good laws, but most especially to the character of the men and women who formed the population. In the long run that is what counts-the stuff the man has in him. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 79 (frame 425:0233)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Ladies and gentlemen:",
+"I am very glad to catch a glimpse of you this evening. I thank you for having come here to greet me. I have been travelling through South Dakota all day and am now coming to North Dakota, and I feel thoroughly at home.<del title=\"struck through\">xxx</del>. I first struck what was then the territory of Dakota twenty-three years ago, so that I can claim to be kind of an old settler myself<del title=\"struck through\">x</del>. I live<ins title=\"added by hand\">d</ins> a number of years further west,out <del title=\"struck through\">on</del> <ins title=\"added by hand\">in</ins> the Little <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">Missouri</ins> cow country. It has been a great pleasure to be coming through this country today and seeing the marvelous changes that have been made in the past twenty-three years, and even since I was out here three years ago. I congratulate you upon it and I congratulate the country upon it. The Dakotas have had their full share of the prosperity of the past few years, and they owe it partly to good laws,<del title=\"struck through\">xxxx</del> but most<del title=\"struck through\">xx</del> especially to the character of the men and women who formed the population. In the long run that is what counts-the stuff the man has in him. (Cheers and applause.)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left with a slash; filing mark.</span>\n<span class=\"tnote\">The &quot;d&quot; of &quot;lived&quot; is added by hand. &quot;on&quot; is struck by hand with &quot;in&quot; written above; the typed word after &quot;the Little&quot; is overtyped and struck, with &quot;Missouri&quot; written above by hand. A hand bar separates &quot;their&quot; and &quot;full&quot;, which are typed run together.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left with a slash; filing mark.",
+"The \"d\" of \"lived\" is added by hand. \"on\" is struck by hand with \"in\" written above; the typed word after \"the Little\" is overtyped and struck, with \"Missouri\" written above by hand. A hand bar separates \"their\" and \"full\", which are typed run together."
+],
+"file": "transcriptions/1903-04-06-frederick.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 5
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"dakota",
+"country"
+],
+"stats": {
+"words": 192,
+"unique_words": 112,
+"sentences": 9,
+"avg_sentence": 21.3,
+"minutes": 1,
+"i_count": 10,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-06-parkston",
@@ -16240,10 +16434,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 109,
+"paragraphs": [
+"My fellow Citizens:",
+"I am glad to see you and to greet you to-day. I have enjoyed passing through your beautiful state. I congratulate you upon all that you raise here in the way of crops, and I congratulate you most upon the children you raise. That crop is all right in quality and quantity too. I have enjoyed thoroughly getting into the state to-day and meeting you, the pioneers and the sons of pioneers who have the upbuilding in this commonwealth. It is a good thing to have men and women able to do the work you have done, and I congratulate you on it. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -16265,13 +16462,46 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0224",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0224",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow Citizens:",
+"I am glad to see you and to greet you to-day. I have enjoyed passing through your beautiful state. I congratulate you upon all that you raise here in the way of crops, and I congratulate you most upon the children you raise. That crop is all right in quality and quantity too. I have enjoyed thoroughly getting into the state to-day and meeting you, the pioneers and the sons of pioneers who have the upbuilding in this commonwealth. It is a good thing to have men and women able to do the work you have done, and I congratulate you on it. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 64 (frame 425:0224)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My fellow Citizens:",
+"I am glad to see you and to <span class=\"sic\" title=\"reads: greet\">great</span> you to-day. I have enjoyed passing through your beautiful state. I congratulate you upon all that you raise here in the way of crops, and I <span class=\"sic\" title=\"reads: congratulate\">cpngratulate</span> you most upon the children you raise. That crop is all right in quality and quantity too. I have enjoyed thoroughly getting into the state to-day and meeting you, the pioneers and the sons of pioneers who have the upbuilding in this commonwealth. It is a good thing to have men and women able to do the work you have done, and I congratulate you on it. (Cheers and applause)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left with a slash; filing mark.</span>\n<span class=\"tnote\">The same page goes on with a separate typed heading for remarks at Tripp, S. D., April 6, 1903, which are not transcribed here.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left with a slash; filing mark.",
+"The same page goes on with a separate typed heading for remarks at Tripp, S. D., April 6, 1903, which are not transcribed here."
+],
+"file": "transcriptions/1903-04-06-scotland.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"congratulate"
+],
+"stats": {
+"words": 109,
+"unique_words": 61,
+"sentences": 6,
+"avg_sentence": 18.2,
+"minutes": 1,
+"i_count": 6,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-06-tripp",
@@ -16322,10 +16552,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 164,
+"paragraphs": [
+"My fellow-citizens:",
+"I have been delighted to come through your state to-day. I have enjoyed seeing the men and the women and the children.",
+"You have shared in the last six or eight years, even a little more than shared, in the general prosperity of the nation. This is a state of farmers, and in the southwestern corner, of miners. You have prospered marvelously. Something has been done by laws, but most of all because you have had the stuff in the men who have been tilling the plains, the men who grow the crops and raise the cattle. No law ever was devised that will make a weak man strong, or a clumsy man skillful, or a coward brave. All that any law can do is to give a man a decent chance; and then he will have to work out his own fate for himself, and if he is of the stock of your people he will work it out all right."
+],
 "editions": [],
 "trc": [
 {
@@ -16347,13 +16581,50 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0229",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0229",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow-citizens:",
+"I have been delighted to come through your state to-day. I have enjoyed seeing the men and the women and the children.",
+"You have shared in the last six or eight years, even a little more than shared, in the general prosperity of the nation. This is a state of farmers, and in the southwestern corner, of miners. You have prospered marvelously. Something has been done by laws, but most of all because you have had the stuff in the men who have been tilling the plains, the men who grow the crops and raise the cattle. No law ever was devised that will make a weak man strong, or a clumsy man skillful, or a coward brave. All that any law can do is to give a man a decent chance; and then he will have to work out his own fate for himself, and if he is of the stock of your people he will work it out all right."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 72 (frame 425:0229)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My fellow-citizens:",
+"I have been delighted to come through your state to-day. I have enjoyed seeing the men and the women and the children.",
+"You have shared in the last six or eight years , even a little more than shared<ins title=\"added by hand\">,</ins>in the general prosperity of the nation. This is a state of farmers, and in the southwestern corner,of miners. You have prospered marvelously. Something has been done by laws, but most of all because you have had the stuff in the men who have been tilling the plains, the men who grow the crops and raise the cattle. No law ever was devised that will make a weak man strong,or a clumsy man skillful,or a coward brave. All that any law can do is to give a man a <del title=\"struck through\">xxxxxxxx</del> decent chance ; and then he will have to work out his own fate for himself, and if he is of the stock of your people he will work it out all right. <del title=\"struck through\">I am very <span class=\"unc\" title=\"uncertain reading\">glad</span> <span class=\"illeg\">[illegible]</span></del>",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left with a slash; filing mark.</span>\n<span class=\"tnote\">The comma after &quot;shared&quot; is added by hand.</span>\n<span class=\"tnote\">The closing sentence, about two typed lines, is heavily struck through by hand; only the opening words can be made out.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left with a slash; filing mark.",
+"The comma after \"shared\" is added by hand.",
+"The closing sentence, about two typed lines, is heavily struck through by hand; only the opening words can be made out."
+],
+"file": "transcriptions/1903-04-06-tulare.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"farming"
+],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 164,
+"unique_words": 97,
+"sentences": 8,
+"avg_sentence": 20.5,
+"minutes": 1,
+"i_count": 2,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-06-woonsocket",
@@ -21463,8 +21734,8 @@
 "pioneer",
 "civilization",
 "problems",
-"old",
 "gone",
+"old",
 "realize",
 "qualities"
 ],
@@ -22669,8 +22940,8 @@
 "scholarship",
 "land",
 "preservation",
-"university",
 "forest",
+"university",
 "trees",
 "forests",
 "home-maker"
@@ -23373,8 +23644,8 @@
 "dewey",
 "previous",
 "francisco",
-"san",
 "providing",
+"san",
 "fleet",
 "ready"
 ],
@@ -25967,8 +26238,8 @@
 "railroads",
 "crime",
 "foolish",
-"corporations",
 "wealth",
+"corporations",
 "class"
 ],
 "stats": {
@@ -29448,8 +29719,8 @@
 },
 "distinctive": [
 "greet",
-"glad",
 "play",
+"glad",
 "believe",
 "children"
 ],
@@ -30310,8 +30581,8 @@
 "canal",
 "congress",
 "revolution",
-"granada",
-"united"
+"united",
+"granada"
 ],
 "stats": {
 "words": 14771,
@@ -32776,8 +33047,8 @@
 "commerce",
 "form",
 "club",
-"supervision",
 "government",
+"supervision",
 "governmental",
 "control",
 "interstate",
@@ -33016,8 +33287,8 @@
 "claims",
 "custom-houses",
 "payment",
-"governments",
-"government"
+"government",
+"governments"
 ],
 "stats": {
 "words": 4725,
@@ -34603,8 +34874,8 @@
 },
 "distinctive": [
 "power",
-"party",
 "questions",
+"party",
 "corporations",
 "frankest",
 "wheeled",
@@ -34930,7 +35201,7 @@
 "warred",
 "memories",
 "devotion",
-"reunited"
+"general"
 ],
 "stats": {
 "words": 2397,
@@ -35448,8 +35719,8 @@
 "fever",
 "wood",
 "panama",
-"yellow",
 "cuba",
+"yellow",
 "profession",
 "front",
 "trouble",
@@ -35637,8 +35908,8 @@
 "foreign",
 "doctrine",
 "creditors",
-"custom-houses",
 "policy",
+"custom-houses",
 "debts",
 "monroe"
 ],
@@ -36016,8 +36287,8 @@
 "material",
 "level",
 "foundation",
-"north",
 "citizen",
+"north",
 "afford",
 "realize"
 ],
@@ -36088,8 +36359,8 @@
 "article",
 "forth",
 "special",
-"typical",
-"training"
+"training",
+"typical"
 ],
 "stats": {
 "words": 840,
@@ -37377,8 +37648,8 @@
 "distinctive": [
 "louisiana",
 "greeted",
-"governor",
 "orleans",
+"governor",
 "gratitude",
 "mayor",
 "summer",
@@ -37942,8 +38213,8 @@
 "chinese",
 "islands",
 "domingo",
-"law",
 "congress",
+"law",
 "commission",
 "government",
 "immigrants",
@@ -38164,10 +38435,10 @@
 "wealth",
 "action",
 "opposition",
-"courage",
 "wrong",
+"courage",
 "evils",
-"twisted"
+"organization"
 ],
 "stats": {
 "words": 6288,
@@ -38279,8 +38550,8 @@
 "officers",
 "petty",
 "navy",
-"thank",
 "speed",
+"thank",
 "guns",
 "gun",
 "trip"
@@ -39481,8 +39752,8 @@
 "distinctive": [
 "differ",
 "church",
-"honesty",
 "questions",
+"honesty",
 "afford",
 "rule",
 "decent",
@@ -39601,8 +39872,8 @@
 "surrender",
 "ship",
 "john",
-"cumberland",
 "dead",
+"cumberland",
 "ships",
 "prepared"
 ],
@@ -40121,15 +40392,15 @@
 },
 "distinctive": [
 "happiest",
-"burton",
 "foundation",
+"burton",
 "college",
 "graduating",
 "graduate",
 "success",
 "woman",
 "material",
-"race"
+"practical"
 ],
 "stats": {
 "words": 1485,
@@ -40432,8 +40703,8 @@
 "christianity",
 "christian",
 "profess",
-"creed",
 "conduct",
+"creed",
 "religion",
 "churches"
 ],
@@ -40519,8 +40790,8 @@
 "supervision",
 "lay",
 "government",
-"help",
 "city",
+"help",
 "injustice"
 ],
 "stats": {
@@ -42731,8 +43002,8 @@
 "organization",
 "received",
 "union",
-"right",
-"war"
+"war",
+"right"
 ],
 "stats": {
 "words": 290,
@@ -43222,15 +43493,15 @@
 },
 "distinctive": [
 "regiment",
-"grief",
 "dead",
+"grief",
 "army",
 "lesson",
 "admiration",
 "war",
 "served",
 "honesty",
-"killed"
+"lot"
 ],
 "stats": {
 "words": 2822,
@@ -43376,8 +43647,8 @@
 "burke",
 "grew",
 "absorbed",
-"stock",
-"reform"
+"reform",
+"stock"
 ],
 "stats": {
 "words": 3908,
@@ -44189,9 +44460,9 @@
 "puritan",
 "corporations",
 "criminal",
+"corporation",
 "puritans",
 "criminally",
-"corporation",
 "action",
 "business",
 "legislation",
@@ -44832,8 +45103,8 @@
 "justice",
 "williams",
 "river",
-"reactionary",
 "policy",
+"reactionary",
 "fought",
 "demagogues",
 "clamor"
@@ -45586,12 +45857,12 @@
 "corporations",
 "interstate",
 "property",
-"federal",
 "business",
+"federal",
 "law",
 "securities",
 "judge",
-"company"
+"public"
 ],
 "stats": {
 "words": 10501,
@@ -49808,8 +50079,8 @@
 "christianity",
 "college",
 "stopped",
-"missionary",
 "educational",
+"missionary",
 "creed"
 ],
 "stats": {
@@ -50023,8 +50294,8 @@
 "intellect",
 "inequality",
 "individualism",
-"orator",
 "weakness",
+"orator",
 "reward",
 "qualities"
 ],
@@ -50376,8 +50647,8 @@
 "movement",
 "roman",
 "centuries",
-"peoples",
 "conquests",
+"peoples",
 "civilizations",
 "science",
 "europe",
@@ -51740,8 +52011,8 @@
 "resources",
 "forests",
 "water",
-"kansas",
 "development",
+"kansas",
 "natural",
 "control"
 ],
@@ -54156,8 +54427,8 @@
 "friends",
 "party",
 "republican",
-"cheers",
 "wisconsin",
+"cheers",
 "col"
 ],
 "stats": {

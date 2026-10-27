@@ -1,0 +1,25 @@
+---
+speech: 1903-05-02-chapman
+title: Remarks of President Roosevelt at Chapman, Kansas,May 2,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0339
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0339
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 30 425:0339]
+
+My fellow citizens:
+
+I want to say what a pleasure it has been to come through Kansas, to be greeted by the older men who did so well in the great days, and to see the younger[-xxxx-] men [-xxxx-] and be willing to guarantee that they will do as well if ever the need arises. I am glad to see you, men and women and boys and girls. I believe in you with all my heart. I wish you {welle|well.}
+
+[pb 31 425:0339]
+
+[margin: File]
+
+At Chapman, Kansas , the President was presented with a foot-ball. In accepting it he said:
+
+"That shall serve as the text for the sixty seconds I have here. Adopt for life the same rule that I am sure my friend here acts on in the foot-ball field; do not flinch, do not foul, and hit the line hard."
+
+[note: The listed page (left half of frame 0339, folio 30) holds the typed remarks. The facing page (right half, folio 31) is a separate typed sheet, marked "File" by hand, giving his words at Chapman on being presented with a foot-ball; it is included here because it records his remarks at the same stop. Its first two lines are a typed editorial introduction, not his words.]
+[note: The last word of the remarks on folio 30 is typed "welle"; the final character may be a period typed over or beside an "e".]
