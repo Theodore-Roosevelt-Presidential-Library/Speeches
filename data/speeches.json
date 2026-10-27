@@ -553,8 +553,8 @@
 "assessment",
 "estate",
 "value",
-"taxing",
 "taxation",
+"taxing",
 "taxes"
 ],
 "stats": {
@@ -2997,7 +2997,7 @@
 "prosperity",
 "general",
 "combinations",
-"events"
+"philippines"
 ],
 "stats": {
 "words": 2501,
@@ -3598,8 +3598,8 @@
 "king",
 "exposition",
 "visit",
-"president",
-"new"
+"new",
+"president"
 ],
 "stats": {
 "words": 411,
@@ -5143,8 +5143,8 @@
 "evils",
 "control",
 "laws",
-"talent",
 "conditions",
+"talent",
 "power",
 "cure",
 "wealth",
@@ -6952,8 +6952,8 @@
 "abraham",
 "preaching",
 "decency",
-"applause",
-"lincoln"
+"lincoln",
+"souls"
 ],
 "stats": {
 "words": 1418,
@@ -7691,8 +7691,8 @@
 "distinctive": [
 "corporations",
 "levees",
-"wheeling",
 "period",
+"wheeling",
 "change",
 "dam",
 "industrial",
@@ -8551,10 +8551,10 @@
 "distinctive": [
 "corporations",
 "change",
-"applause",
 "levees",
-"wheeling",
+"applause",
 "period",
+"wheeling",
 "dam",
 "industrial",
 "advocating",
@@ -9406,8 +9406,8 @@
 "care",
 "worth",
 "war",
-"glad",
-"work"
+"work",
+"glad"
 ],
 "stats": {
 "words": 763,
@@ -11606,7 +11606,7 @@
 "arms",
 "laws",
 "constitution",
-"citizen"
+"fundamental"
 ],
 "stats": {
 "words": 1164,
@@ -12938,8 +12938,8 @@
 "filipinos",
 "philippines",
 "general",
-"sons",
 "governor",
+"sons",
 "philippine",
 "soldiers"
 ],
@@ -13414,7 +13414,7 @@
 "woman",
 "sake",
 "teachers",
-"training"
+"body"
 ],
 "stats": {
 "words": 1166,
@@ -15523,8 +15523,8 @@
 "crew",
 "faults",
 "develop",
-"applause",
 "descended",
+"applause",
 "lines",
 "disinterestedness"
 ],
@@ -16327,8 +16327,8 @@
 "stock",
 "flag",
 "glad",
-"american",
 "world",
+"american",
 "applause"
 ],
 "stats": {
@@ -16633,7 +16633,7 @@
 "play",
 "work",
 "worth",
-"women"
+"believe"
 ],
 "stats": {
 "words": 547,
@@ -18565,8 +18565,8 @@
 "wrong",
 "hard",
 "care",
-"civil",
 "worth",
+"civil",
 "qualities"
 ],
 "stats": {
@@ -18804,10 +18804,10 @@
 "dakota",
 "proud",
 "comrades",
-"applause",
 "weapons",
-"fighting",
+"applause",
 "law",
+"fighting",
 "wanted",
 "stuff",
 "cattle"
@@ -18934,12 +18934,12 @@
 "philippine",
 "insurrection",
 "filipinos",
-"taft",
 "army",
+"taft",
 "government",
 "militia",
-"civil",
-"regular"
+"regular",
+"civil"
 ],
 "stats": {
 "words": 2603,
@@ -20458,9 +20458,9 @@
 "help",
 "law",
 "qualities",
-"courage",
 "hardihood",
-"fundamentally"
+"courage",
+"decent"
 ],
 "stats": {
 "words": 1531,
@@ -20571,8 +20571,8 @@
 "wyoming",
 "laws",
 "congressman",
-"qualities",
 "decent",
+"qualities",
 "brave",
 "fool",
 "weakling",
@@ -22036,8 +22036,8 @@
 "boys",
 "sake",
 "mother",
-"feeling",
 "children",
+"feeling",
 "lesson",
 "father",
 "applause"
@@ -22559,8 +22559,8 @@
 "children",
 "congratulate",
 "ease",
-"applause",
-"memory"
+"memory",
+"applause"
 ],
 "stats": {
 "words": 1555,
@@ -24614,8 +24614,8 @@
 "intellect",
 "applause",
 "counts",
-"quality",
 "representatives",
+"quality",
 "development",
 "service",
 "mind"
@@ -24831,8 +24831,8 @@
 "places": []
 },
 "distinctive": [
-"women",
 "believe",
+"women",
 "work"
 ],
 "stats": {
@@ -26123,8 +26123,8 @@
 },
 "distinctive": [
 "lesson",
-"treating",
 "campaign",
+"treating",
 "unworthy",
 "lesser",
 "brother",
@@ -26209,8 +26209,8 @@
 "tracts",
 "colorado",
 "water",
-"benefit",
 "law",
+"benefit",
 "farms",
 "lands",
 "irrigation",
@@ -27259,8 +27259,8 @@
 },
 "distinctive": [
 "arizona",
-"applause",
 "stuff",
+"applause",
 "law",
 "average",
 "citizenship",
@@ -29595,8 +29595,8 @@
 "system",
 "currency",
 "legislation",
-"cheers",
 "law",
+"cheers",
 "business",
 "laws",
 "prosperity"
@@ -32429,9 +32429,9 @@
 "law",
 "believe",
 "play",
-"type",
 "greeting",
 "war",
+"type",
 "citizenship",
 "world",
 "life"
@@ -33735,8 +33735,8 @@
 "material",
 "growth",
 "applause",
-"civil",
 "glad",
+"civil",
 "citizen",
 "war",
 "duty",
@@ -33949,8 +33949,8 @@
 "pacific",
 "coast",
 "west",
-"type",
 "new",
+"type",
 "future",
 "applause",
 "women",
@@ -34579,8 +34579,8 @@
 "hard",
 "life",
 "father",
-"applause",
 "weight",
+"applause",
 "spirit"
 ],
 "stats": {
@@ -35332,7 +35332,7 @@
 "coast",
 "utterly",
 "brotherhood",
-"education"
+"war"
 ],
 "stats": {
 "words": 1903,
@@ -36450,8 +36450,8 @@
 "aid",
 "average",
 "qualities",
-"applause",
 "state",
+"applause",
 "believe",
 "glad",
 "american",
@@ -37153,9 +37153,9 @@
 "gotten",
 "spite",
 "fundamentally",
-"woman",
 "borders",
-"laws"
+"laws",
+"woman"
 ],
 "stats": {
 "words": 2004,
@@ -37676,7 +37676,7 @@
 "civil",
 "war",
 "confront",
-"taught"
+"memory"
 ],
 "stats": {
 "words": 2585,
@@ -37915,10 +37915,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 155,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you here this evening and to be greeted by you. I thank you for coming out. I have enjoyed to the full my trip across this continent from one ocean to the other. The thing that has impressed me more than anything else on that journey has been the essential unity of our people, the fact that wherever we go a good American is at home among his fellow Americans. (Cheers and applause) I cannot say how I have enjoyed it. I think I was a pretty good American when I started, and I am going home a better American. I shall not try to say more than just good evening, and to say that I believe in you with all my heart and I believe in the future of the country, because it has men and women like you in it. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -37940,13 +37943,46 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0522",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0522",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you here this evening and to be greeted by you. I thank you for coming out. I have enjoyed to the full my trip across this continent from one ocean to the other. The thing that has impressed me more than anything else on that journey has been the essential unity of our people, the fact that wherever we go a good American is at home among his fellow Americans. (Cheers and applause) I cannot say how I have enjoyed it. I think I was a pretty good American when I started, and I am going home a better American. I shall not try to say more than just good evening, and to say that I believe in you with all my heart and I believe in the future of the country, because it has men and women like you in it. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 191 (frame 425:0522)</span>",
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you here this evening and to be greeted by you. I thank you for coming out. I have enjoyed to the full my trip across <del title=\"struck through\">this country, across</del> this continent from one ocean to the other. The thing that has impressed me more than anything else on that journey has been the essential unity of our people, the fact that wherever<del title=\"struck through\">xx</del> <ins title=\"added by hand\">we</ins> go a good American is at home among his fellow<del title=\"struck through\">s</del> Americans. (Cheers and applause) I cannot say how I have enjoyed it. I think I was a pretty good American when I started, and I am going home a better American. I shall not try to say more than just good evening, and to say that I believe in you with all my heart and I believe in the future of the country, because it has men and women like you in it. (Applause)",
+"<span class=\"tnote\">The listed page (right half of frame 0522) was off: frame 0522 is a single page, folio 191; this speech is on a slip pasted at the bottom of it, below the Lexington speech. The folio number is written only at the top of the page.</span>\n<span class=\"tnote\">&quot;this country, across&quot; is struck through by hand. &quot;we&quot; is typed above the line over x-ed letters. The &quot;s&quot; of &quot;fellows&quot; is cancelled with a slash. The c of &quot;fact&quot; is overtyped.</span>\n<span class=\"tnote\">A small handwritten mark above the end of &quot;cannot&quot; is unclear and is not recorded as text. A handwritten &quot;9&quot;-like mark in the upper right of the slip is not transcribed.</span>"
+],
+"notes": [
+"The listed page (right half of frame 0522) was off: frame 0522 is a single page, folio 191; this speech is on a slip pasted at the bottom of it, below the Lexington speech. The folio number is written only at the top of the page.",
+"\"this country, across\" is struck through by hand. \"we\" is typed above the line over x-ed letters. The \"s\" of \"fellows\" is cancelled with a slash. The c of \"fact\" is overtyped.",
+"A small handwritten mark above the end of \"cannot\" is unclear and is not recorded as text. A handwritten \"9\"-like mark in the upper right of the slip is not transcribed."
+],
+"file": "transcriptions/1903-06-01-kearney.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"american"
+],
+"stats": {
+"words": 155,
+"unique_words": 91,
+"sentences": 6,
+"avg_sentence": 25.8,
+"minutes": 1,
+"i_count": 11,
+"we_count": 1
+}
 },
 {
 "id": "1903-06-01-lexington",
@@ -37960,10 +37996,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 255,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you this evening and to be greeted by you. I have been across the continent from the Atlantic to the Pacific, and am about half way on my return. The one thing that has struck me more than anything else on the whole trip has been the essential unity of our people. Wherever I have been, to whatever audiences I have spoken, I have found them responsive to the same appeal for the same ideals, and the reason is that a good American is a good American no matter what part of the country he is in. (Applause) I have enjoyed to the full this trip. I think I started out a middling good American, but I am coming back a better American than I started. How any man can fail to believe in this country and this country's future I do not see, if he knows anything about the country. The more I have been over it and the more I have seen of our people the surer I am that whatever our temporary troubles here and there at different times may be, we are going to work out of them all right simply because the average citizen has got in him the qualities of decency, courage and common sense, and when you have got those three attributes in a man or in a nation you are going to come very near getting out all right in the end.",
+"(Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -37985,13 +38025,50 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0522",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0522",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you this evening and to be greeted by you. I have been across the continent from the Atlantic to the Pacific, and am about half way on my return. The one thing that has struck me more than anything else on the whole trip has been the essential unity of our people. Wherever I have been, to whatever audiences I have spoken, I have found them responsive to the same appeal for the same ideals, and the reason is that a good American is a good American no matter what part of the country he is in. (Applause) I have enjoyed to the full this trip. I think I started out a middling good American, but I am coming back a better American than I started. How any man can fail to believe in this country and this country's future I do not see, if he knows anything about the country. The more I have been over it and the more I have seen of our people the surer I am that whatever our temporary troubles here and there at different times may be, we are going to work out of them all right simply because the average citizen has got in him the qualities of decency, courage and common sense, and when you have got those three attributes in a man or in a nation you are going to come very near getting out all right in the end.",
+"(Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 191 (frame 425:0522)</span>",
+"<span class=\"margin\">In the margin: These two speeches should appear after speech at North <span class=\"unc\" title=\"uncertain reading\">Platte</span></span>",
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you this evening and to be greeted by you. I have been across the continent from the Atlantic to the Pacific, and am about half way on my return. The one thing that has struck me more than anything else on the whole trip has been the essential unity of our people. Wherever I have been, to whatever audiences I have spoken, I have found them responsive to the same appeal for the same ideals, and the reason is that a good American is a good American no matter what part of the country he is in. (Applause) I have enjoyed to the full this trip. I think I started out a middling good American, but I am coming back a better American than I started. How any man can fail to believe in this country and this country&#x27;s future I do not see, if he knows anything about the country. The more I have been over it and the more I have seen of our people the surer I am that whatever our temporary <span class=\"sic\" title=\"reads: troubles here\">troubleshere</span> and there at different times may be, we are going to work out of them <del title=\"struck through\">a</del> all right simply because the average citizen has got in him the qualities of decency, courage and common sense, and when you have got those three attributes in a man or in a nation you are going to come very near getting out all right in the end.",
+"(Cheers and applause)",
+"<span class=\"tnote\">The listed page (left half of frame 0522) was off: frame 0522 is a single page, folio 191, holding this speech at the top and the Kearney speech at the bottom (on a separate pasted slip).</span>\n<span class=\"tnote\">The handwritten note in the upper right margin refers to this speech and the Kearney speech below it; its last word runs off the edge.</span>\n<span class=\"tnote\">In &quot;than I started&quot; the n of &quot;than&quot; is overtyped, followed by a stray typed mark; final reading &quot;than&quot;. The &quot;a&quot; after &quot;them&quot; is cancelled with a typed slash. The c of &quot;country&#x27;s&quot; in &quot;this country&#x27;s future&quot; is faint.</span>"
+],
+"notes": [
+"The listed page (left half of frame 0522) was off: frame 0522 is a single page, folio 191, holding this speech at the top and the Kearney speech at the bottom (on a separate pasted slip).",
+"The handwritten note in the upper right margin refers to this speech and the Kearney speech below it; its last word runs off the edge.",
+"In \"than I started\" the n of \"than\" is overtyped, followed by a stray typed mark; final reading \"than\". The \"a\" after \"them\" is cancelled with a typed slash. The c of \"country's\" in \"this country's future\" is faint."
+],
+"file": "transcriptions/1903-06-01-lexington.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"american",
+"country"
+],
+"stats": {
+"words": 255,
+"unique_words": 134,
+"sentences": 7,
+"avg_sentence": 36.4,
+"minutes": 2,
+"i_count": 13,
+"we_count": 1
+}
 },
 {
 "id": "1903-06-01-sidney",
@@ -38314,10 +38391,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 669,
+"paragraphs": [
+"My Friends and Fellow Countrymen:",
+"It is a peculiar pleasure to me to stop here because interested though I have been traveling throughout this great country in its material development, in that material well-being which must be the foundation of national greatness, I am even more interested in the superstructure built upon that foundation, the superstructure which is the national greatness, the training for the higher life, moral, intellectual and spiritual, which must come through such institutions of learning as that in this city. Therefore I shall ask that this once the veterans of the great war whom I always greet first allow meinstead to greet the next generation, our masters of the future, the young men and young women who are students to-day and upon whom the whole welfare of the nation and the state will depend to-morrow. (Applause) I congratulate our country in the way in which we sedulously care for the education of these masters of the future. It is a mere truism to say that what we wish to do in this country is not merely to develop it for our own use, but while using it to leave it as a better heritage than we received, a better heritage to the generation that is to come after us. Everyone of you knows in dealing with his own private life that it is no use to leave a fortune to a child who is certain to waste it, who is certain to misuse it. The fortune is a curse and not a blessing in a case like that. So with our nation; This great nation, made what it is by the valor of the men who fought in the civil war; made what it is by the craft of statesman, of soldier, of captain of industry, of the architect of our industrial welfare; by our educators, our writers, by all the people who in the past have made the name of America great, must of course depend for its future upon the kind of men and women which the next generation produces, that is upon the kind of leaders among the men and women of the next generation, which the students of to-day show themselves to be. Now a word to you students -- much has been given to you and much will rightly be expected from you. Your alma mater, school, college, university, has given you the training; you cannot accept it as a gift which you do not return or else you are not true Americans. You must make a return and there is but one return you can make --the return of leadership in the art and practice of good citizenship hereafter. That is the way you can reflect credit upon your alma mater. That is the way you can show that it has been no waste to give you this training; that on the contrary it has been an investment by the state which will pay a thousand fold. The special privileges you have received confer no further special privileges hereafter. They confer on you added obligations to the state, added obligations to whatever is best in civic and social life. We have a right to expect that among you will be developed those who will take the lead in solving the many great problems which this nation has before it. It is inevitable that in the career of a great nation such great problems should arise. The path of greatness is not an easy one for the nation, not an easy one for the individual; the path of success is not an easy one. Every man here, every woman here, who has been in his or her walk of life successful, has achieved success only through effort, through self-denial, self-mastery, self-restraint, through exhibition of will, of courage, of the spirit that dares, that does, that resolves. You have got to show that in leading the nation, for the nation needs all those qualities in her sons and daughters. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38339,13 +38419,58 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0530, 0531",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0530",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends and Fellow Countrymen:",
+"It is a peculiar pleasure to me to stop here because interested though I have been traveling throughout this great country in its material development, in that material well-being which must be the foundation of national greatness, I am even more interested in the superstructure built upon that foundation, the superstructure which is the national greatness, the training for the higher life, moral, intellectual and spiritual, which must come through such institutions of learning as that in this city. Therefore I shall ask that this once the veterans of the great war whom I always greet first allow meinstead to greet the next generation, our masters of the future, the young men and young women who are students to-day and upon whom the whole welfare of the nation and the state will depend to-morrow. (Applause) I congratulate our country in the way in which we sedulously care for the education of these masters of the future. It is a mere truism to say that what we wish to do in this country is not merely to develop it for our own use, but while using it to leave it as a better heritage than we received, a better heritage to the generation that is to come after us. Everyone of you knows in dealing with his own private life that it is no use to leave a fortune to a child who is certain to waste it, who is certain to misuse it. The fortune is a curse and not a blessing in a case like that. So with our nation; This great nation, made what it is by the valor of the men who fought in the civil war; made what it is by the craft of statesman, of soldier, of captain of industry, of the architect of our industrial welfare; by our educators, our writers, by all the people who in the past have made the name of America great, must of course depend for its future upon the kind of men and women which the next generation produces, that is upon the kind of leaders among the men and women of the next generation, which the students of to-day show themselves to be. Now a word to you students -- much has been given to you and much will rightly be expected from you. Your alma mater, school, college, university, has given you the training; you cannot accept it as a gift which you do not return or else you are not true Americans. You must make a return and there is but one return you can make --the return of leadership in the art and practice of good citizenship hereafter. That is the way you can reflect credit upon your alma mater. That is the way you can show that it has been no waste to give you this training; that on the contrary it has been an investment by the state which will pay a thousand fold. The special privileges you have received confer no further special privileges hereafter. They confer on you added obligations to the state, added obligations to whatever is best in civic and social life. We have a right to expect that among you will be developed those who will take the lead in solving the many great problems which this nation has before it. It is inevitable that in the career of a great nation such great problems should arise. The path of greatness is not an easy one for the nation, not an easy one for the individual; the path of success is not an easy one. Every man here, every woman here, who has been in his or her walk of life successful, has achieved success only through effort, through self-denial, self-mastery, self-restraint, through exhibition of will, of courage, of the spirit that dares, that does, that resolves. You have got to show that in leading the nation, for the nation needs all those qualities in her sons and daughters. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 14 (frame 425:0530)</span>",
+"My Friends and Fellow <del title=\"struck through\">xxxxxxxx</del> Countrymen:",
+"It is a peculiar pleasure to me to stop here because <span class=\"sic\" title=\"reads: interested though\">interestedthough</span> I have been <del title=\"struck through\">xx</del> traveling throughout this great country in its material development, in that material well-being which must be the foundation of national greatness, I am even more interested in the superstructure built upon that foundation, the superstructure which is the national greatness, the training for the higher life, moral, intellectual and spiritual, which must come through such institutions of learning as that in this city. <del title=\"struck through\">x</del> Therefore I shall ask that this once the veterans of the great war whom I always greet first allow me<del title=\"struck through\">xxxxxxx</del>instead to greet the next generation, our <span class=\"sic\" title=\"reads: masters\">m asters</span> of the <span class=\"sic\" title=\"reads: future\">fu ture</span>, the young men and young women who <span class=\"sic\" title=\"reads: are students\">arestudents</span> to-day and upon <ins title=\"added by hand\">whom</ins> the whole welfare of the nation and the state will depend to-morrow. (Applause) I congratulate our country in the way in which we <span class=\"sic\" title=\"reads: sedulously\">seduously</span> care for <span class=\"sic\" title=\"reads: the education\">theeducation</span> of these masters of the future. It is a mere truism to say that what we wish to do in this country is not merely to develop it for <del title=\"struck through\">for</del> our own use, but while using it to leave it as a better heritage <span class=\"sic\" title=\"reads: than we\">thanwe</span> received, a better heritage to the generation that is to come after us. Everyone of you knows in dealing with his own private life that <ins title=\"added by hand\">it</ins> is no use to leave a fortune to a child who is certain to waste it, who is certain to misuse it. The fortune is a curse and not a blessing in a case like that. So with our nation<ins title=\"added by hand\">;</ins> <ins title=\"added by hand\">T</ins>his great nation<ins title=\"added by hand\">,</ins> made what it is by the valor of the men who fought in the civil war; made what it is by the craft of statesman, of soldier, of captain of industry, of the architect of our industrial welfare; by our educators, our writers, by all<del title=\"struck through\">x</del> the people who in the past have made the name of America<del title=\"struck through\">n</del> great, must of course depend for its future upon the kind of men and women which the next generation produces, that is upon the kind of leaders among the men and women of the next generation, which the students of to-day show themselves to be. Now a word to you students -- much has been given to you and much will rightly be expected from you.<del title=\"struck through\">xxx</del> Your alma mater , school, college, university, has given you the training; you cannot accept it as a gift which you do not return or else you are not true Americans. You must make a return and there is but one return you can make --the return of leadership in the art and practice of good citizenship hereafter. That is\n<span class=\"pb\">Page 15 (frame 425:0531)</span> the way you can reflect credit upon your alma mater. That is the way you can show that it has been no waste to give you this training; that on the contrary it has been an investment by the state which will pay a thousand fold. The special privileges you have received confer no further special privileges hereafter. They confer <ins title=\"added by hand\">on</ins> you added obligations to the state, added obligations to whatever is best in civic and social life. We have a right to expect that among you will be developed <ins title=\"added by hand\">those</ins> who will take the lead in solving the many great problems which this nation has before it. It is inevitable that in the career of a great nation such great problems should arise. The path of greatness is not an easy one for the nation, not an easy one for the individual; the path of success is not an easy one. Every man here, every woman here, who has been in his or her walk of life successful<ins title=\"added by hand\">,</ins> has achieved success only through effort, through self-denial, self-mastery, self-restraint, through exhibition of will, of courage, of the spirit that dares, that does, that resolves. You have got to show that in leading the nation, for the nation needs all those qualities in her sons and daughters. (Cheers and applause)",
+"<span class=\"tnote\">Pages as listed: folio 14 on frame 0530 right half, folio 15 on frame 0531 left half. Typed page number &quot;-2-&quot; omitted.</span>\n<span class=\"tnote\">Folio 14: &quot;whom&quot; (with caret), &quot;it&quot; (with caret), the semicolon after the first &quot;nation&quot;, the T of &quot;This&quot; (written over the typed letter), the comma after &quot;nation&quot; before &quot;made&quot;, and the slash through the n of &quot;American&quot; are by hand; the second &quot;for&quot; in &quot;for for our own use&quot; is struck by hand.</span>\n<span class=\"tnote\">Folio 15: &quot;on&quot; is typed above the line with a hand caret; &quot;those&quot; (with caret) and the comma after &quot;successful&quot; are handwritten.</span>\n<span class=\"tnote\">Overtyped letters with clear final readings are given without marks (&quot;thousand&quot;, &quot;successful&quot;, &quot;gift&quot;, &quot;social&quot;).</span>"
+],
+"notes": [
+"Pages as listed: folio 14 on frame 0530 right half, folio 15 on frame 0531 left half. Typed page number \"-2-\" omitted.",
+"Folio 14: \"whom\" (with caret), \"it\" (with caret), the semicolon after the first \"nation\", the T of \"This\" (written over the typed letter), the comma after \"nation\" before \"made\", and the slash through the n of \"American\" are by hand; the second \"for\" in \"for for our own use\" is struck by hand.",
+"Folio 15: \"on\" is typed above the line with a hand caret; \"those\" (with caret) and the comma after \"successful\" are handwritten.",
+"Overtyped letters with clear final readings are given without marks (\"thousand\", \"successful\", \"gift\", \"social\")."
+],
+"file": "transcriptions/1903-06-02-cedar-falls.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"students",
+"return",
+"greatness",
+"generation",
+"training",
+"easy",
+"next",
+"nation",
+"show",
+"women"
+],
+"stats": {
+"words": 669,
+"unique_words": 259,
+"sentences": 18,
+"avg_sentence": 37.2,
+"minutes": 5,
+"i_count": 5,
+"we_count": 4
+}
 },
 {
 "id": "1903-06-02-independence",
@@ -38359,10 +38484,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 149,
+"paragraphs": [
+"My Fellow Countrymen:",
+"It is a great pleasure to stop and see you even for a moment. I have enjoyed to the full going through your great and beautiful state. I enjoy seeing its wonderful fertility of soil; and above all seeing what your sons and daughters have made of it; and going through this country from one ocean to the other, that is fundamentally what must strike any man, he must come back a better American because of the quality of the average man, the average woman, whom he sees. All natural resources in the territory are wasted if we have not the right type of man and woman to take advantage of them. I believe in the future of this country. I believe in what we as a whole will be, because I believe in the quality of the men and women composing it. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38384,13 +38512,45 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0532",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0532",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Fellow Countrymen:",
+"It is a great pleasure to stop and see you even for a moment. I have enjoyed to the full going through your great and beautiful state. I enjoy seeing its wonderful fertility of soil; and above all seeing what your sons and daughters have made of it; and going through this country from one ocean to the other, that is fundamentally what must strike any man, he must come back a better American because of the quality of the average man, the average woman, whom he sees. All natural resources in the territory are wasted if we have not the right type of man and woman to take advantage of them. I believe in the future of this country. I believe in what we as a whole will be, because I believe in the quality of the men and women composing it. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 18 (frame 425:0532)</span>",
+"My Fellow Countrymen:",
+"It is a great pleasure to stop and see you even for a moment. I have enjoyed to the full going through your great and beautiful state. I enjoy seeing its wonderful <span class=\"sic\" title=\"reads: fertility\">feritility</span> of soil; and above all seeing what your sons and daughters have made of it; and going through this country from one ocean to the other, that is fundamentally what must strike <del title=\"struck through\">xxxxx</del> any man, he must come back a better American because of the quality of the average man, the average woman, whom he sees. All natural resources in the territory are wasted if we have not the right type of man and woman to take <span class=\"sic\" title=\"reads: advantage\">ad vatage</span> of them. I believe in the future of this country. I believe in what we as a whole will be, because I believe in the quality of the men and women composing it. (Cheers and applause)",
+"<span class=\"tnote\">Page as listed: frame 0532 right half, folio 18. In the heading the R of &quot;Roosevelt&quot; is typed low.</span>\n<span class=\"tnote\">The u of &quot;must&quot; and the g of &quot;advatage&quot; are overtyped; final readings given.</span>"
+],
+"notes": [
+"Page as listed: frame 0532 right half, folio 18. In the heading the R of \"Roosevelt\" is typed low.",
+"The u of \"must\" and the g of \"advatage\" are overtyped; final readings given."
+],
+"file": "transcriptions/1903-06-02-independence.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"believe"
+],
+"stats": {
+"words": 149,
+"unique_words": 87,
+"sentences": 6,
+"avg_sentence": 24.8,
+"minutes": 1,
+"i_count": 5,
+"we_count": 2
+}
 },
 {
 "id": "1903-06-02-iowa-falls",
@@ -38404,10 +38564,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 193,
+"paragraphs": [
+"Mr. Congressman; My Friends and Fellow Citizens:",
+"It has been a great pleasure to come through your beautiful state to-day and to see your people. In traveling through this country as I have now been doing for the past two months, impressed though I have been with the natural features, with the scenery, with the wonderful fertility of the soil in many places, yet the thing that is driven home to me is the capacity of the average American, the average man and the average woman. After all it is the men and women who make the country. California, from which I returned but two or three weeks ago, had been for seventy-five years in the hands of another race and it had hardly developed at all. Our people took hold of it and in a decade it was one of the great commonwealths of the world. So it has been with the states in the Mississippi valley and on Puget Sound. We have gone forward as a nation because we have had the right type of citizenship. I am proud of you and glad to be your fellow American. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38429,13 +38592,52 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0530",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0530",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Congressman; My Friends and Fellow Citizens:",
+"It has been a great pleasure to come through your beautiful state to-day and to see your people. In traveling through this country as I have now been doing for the past two months, impressed though I have been with the natural features, with the scenery, with the wonderful fertility of the soil in many places, yet the thing that is driven home to me is the capacity of the average American, the average man and the average woman. After all it is the men and women who make the country. California, from which I returned but two or three weeks ago, had been for seventy-five years in the hands of another race and it had hardly developed at all. Our people took hold of it and in a decade it was one of the great commonwealths of the world. So it has been with the states in the Mississippi valley and on Puget Sound. We have gone forward as a nation because we have had the right type of citizenship. I am proud of you and glad to be your fellow American. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 13 (frame 425:0530)</span>",
+"Mr. Congressman; My Friends and Fellow Citizens:",
+"It has been a great pleasure to come through your beautiful state to-day and to see your people. In traveling through this country as I have now been doing for the past two months, impressed though I have been with the natural features, with the scenery, with the wonderful fertility of the soil in many places, yet the thing that is driven home to me is the capacity of the average American, the average man and the average woman. After all it is the men and women who make the <del title=\"struck through\">xxxxxx</del> country . California, from which <ins title=\"added by hand\">I</ins> returned but two or three weeks ago, had been for seventy-five years in the hands of <del title=\"struck through\">xxx xxxxx</del> another race and it had hardly developed at all. Our people took hold of it and in a decade it was one of the great commonwealths of the world. So it has been with the states in the Mississippi valley and on Puget Sound. We have gone forward as a nation because we have had the right type of citizenship. I am proud of you and glad to be your fellow American. (Cheers and applause)",
+"<span class=\"tnote\">Page as listed: frame 0530 left half, folio 13.</span>\n<span class=\"tnote\">&quot;I&quot; is typed above the line, with a caret added by hand. A hand blot after &quot;returned&quot; covers no legible change. A hand close-up mark joins &quot;common&quot; and &quot;wealths&quot;. A hand slash stands after &quot;woman&quot; before the period.</span>\n<span class=\"tnote\">Overtyped letters with clear final readings are given without marks (&quot;President&quot; in the heading, &quot;Fellow&quot;, &quot;beautiful&quot;, &quot;natural&quot;, &quot;valley&quot;, &quot;Puget&quot;).</span>"
+],
+"notes": [
+"Page as listed: frame 0530 left half, folio 13.",
+"\"I\" is typed above the line, with a caret added by hand. A hand blot after \"returned\" covers no legible change. A hand close-up mark joins \"common\" and \"wealths\". A hand slash stands after \"woman\" before the period.",
+"Overtyped letters with clear final readings are given without marks (\"President\" in the heading, \"Fellow\", \"beautiful\", \"natural\", \"valley\", \"Puget\")."
+],
+"file": "transcriptions/1903-06-02-iowa-falls.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "mississippi-river",
+"name": "The Mississippi",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"average"
+],
+"stats": {
+"words": 193,
+"unique_words": 114,
+"sentences": 8,
+"avg_sentence": 24.1,
+"minutes": 1,
+"i_count": 4,
+"we_count": 2
+}
 },
 {
 "id": "1903-06-02-manchester",
@@ -38449,10 +38651,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 346,
+"paragraphs": [
+"My Fellow Citizens:",
+"It has been a great pleasure to-day to greet you people of Iowa. I do not want to flatter you, yet I do want to say that it is very comfortable to feel that you and I are in the same country. I am very proud of you and very pleased to be here.",
+"Captain Merry has introduced me and I am going to retaliate on him. I am going to say that he is about the type of citizen that I preach every man ought to be. He has been a good man in war, and he has been a good man in peace. He went through the war; he took his part in rendering that literally inestimable service; (for if it had not been for what the men of the civil war did there would be no country or President to-day) and having done that he quit the hero business and went into civil life. Instead of treating what he had done in the civil war as excusing him from doing any further duty, he turned in, as the average soldier of the civil war turned in, to be a good, everyday citizen right along afterwards. The debt that in consequence we owe to the men of the civil war is doubled and quadrupled because they taught us not merely how the right type of American fights when he has to, but how that same right type behaves in peace, once the need of fighting is over. Just exactly as it is with a citizen so it should be with a nation. Do not fight unless you have to, and if you have to let the other man know that there has been a fight. That is my whole doctrine in our foreign policy. The individual who is everlastingly blustering, threatening, brawling, and then fails to make good is a pretty poor creature. And so with a nation -- I want to see us act courteously and respectfully toward all others, but to hold good to what we say. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38474,13 +38680,55 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0533",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0533",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Fellow Citizens:",
+"It has been a great pleasure to-day to greet you people of Iowa. I do not want to flatter you, yet I do want to say that it is very comfortable to feel that you and I are in the same country. I am very proud of you and very pleased to be here.",
+"Captain Merry has introduced me and I am going to retaliate on him. I am going to say that he is about the type of citizen that I preach every man ought to be. He has been a good man in war, and he has been a good man in peace. He went through the war; he took his part in rendering that literally inestimable service; (for if it had not been for what the men of the civil war did there would be no country or President to-day) and having done that he quit the hero business and went into civil life. Instead of treating what he had done in the civil war as excusing him from doing any further duty, he turned in, as the average soldier of the civil war turned in, to be a good, everyday citizen right along afterwards. The debt that in consequence we owe to the men of the civil war is doubled and quadrupled because they taught us not merely how the right type of American fights when he has to, but how that same right type behaves in peace, once the need of fighting is over. Just exactly as it is with a citizen so it should be with a nation. Do not fight unless you have to, and if you have to let the other man know that there has been a fight. That is my whole doctrine in our foreign policy. The individual who is everlastingly blustering, threatening, brawling, and then fails to make good is a pretty poor creature. And so with a nation -- I want to see us act courteously and respectfully toward all others, but to hold good to what we say. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 19 (frame 425:0533)</span>",
+"My Fellow Citizens:",
+"It has been a great pleasure to-day to greet you people of Iowa. I do not want to flatter you, yet I do want to say that it is very comfortable to feel that you and I are in the same country. I am very proud of you and very pleased to be here.",
+"Captain Merry has introduced me and I am going to retaliate on him. I am going to say that he is about the type of citizen that I preach every man ought to be. He has been a good man in war, and he has been a good man in peace. He went through the war; he took his part in rendering that literally inestimable service; (for if it had not been for what the men of the civil war did there would be no country or President to-day) and having done that he quit the hero business and went into civil life. Instead of treating what he had done in the civil war as excusing him from doing any further duty, he turn<ins title=\"added by hand\">ed</ins> in, as the average soldier of the civil war turned in, to be a good, everyday <span class=\"sic\" title=\"reads: citizen\">ciiizen</span> right along afterwards. The debt that in consequence we owe to the men of the civil war is doubled and quadrupled because they taught us not merely how the right type of American fights when he has to, but how that same right type behaves in peace, once the <span class=\"sic\" title=\"reads: need of\">needof</span> fighting is over. Just exactly as it is with <del title=\"struck through\">s</del>a citizen so it should be with a nation. Do not fight unless you have to, and if you have to let the other man know that there has been a fight. That is my whole doctrine <span class=\"sic\" title=\"reads: in\">im</span> our foreign policy. The individual who is everlastingly blustering, threatening, brawling, and then fails to make good is a pretty poor creature. And so with a nation -- I want to see us <span class=\"sic\" title=\"reads: act courteously\">ac tcourteously</span> and respectfully <span class=\"sic\" title=\"reads: toward\">towa rd</span> all others,<span class=\"sic\" title=\"reads: but\">mbut</span> to hold good to what <span class=\"sic\" title=\"reads: we say\">wesay</span>. (Cheers and applause)",
+"<span class=\"tnote\">Page as listed: frame 0533 left half, folio 19.</span>\n<span class=\"tnote\">&quot;ed&quot; in &quot;turned&quot; (first occurrence) is typed above the line with a hand insertion mark. The &quot;s&quot; before &quot;a citizen&quot; is cancelled by a hand slash. A small hand tick stands above the period after &quot;over&quot;.</span>\n<span class=\"tnote\">Several letters in the last lines are overtyped; &quot;act courteously&quot; is typed &quot;ac tcourteously&quot; with overtyped letters, and &quot;respectfully&quot; has an overtyped c.</span>"
+],
+"notes": [
+"Page as listed: frame 0533 left half, folio 19.",
+"\"ed\" in \"turned\" (first occurrence) is typed above the line with a hand insertion mark. The \"s\" before \"a citizen\" is cancelled by a hand slash. A small hand tick stands above the period after \"over\".",
+"Several letters in the last lines are overtyped; \"act courteously\" is typed \"ac tcourteously\" with overtyped letters, and \"respectfully\" has an overtyped c."
+],
+"file": "transcriptions/1903-06-02-manchester.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war",
+"foreign-policy"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"civil",
+"war",
+"type",
+"citizen",
+"right"
+],
+"stats": {
+"words": 346,
+"unique_words": 162,
+"sentences": 14,
+"avg_sentence": 24.7,
+"minutes": 3,
+"i_count": 8,
+"we_count": 2
+}
 },
 {
 "id": "1903-06-02-waterloo",
@@ -39767,8 +40015,8 @@
 "virginia",
 "literature",
 "mater",
-"alma",
 "crossed",
+"alma",
 "graduates",
 "roll",
 "production",
@@ -40220,8 +40468,8 @@
 "rich",
 "classes",
 "fatal",
-"cleavage",
 "poor",
+"cleavage",
 "healthy",
 "property",
 "seeks"
@@ -40374,8 +40622,8 @@
 "murphy",
 "antietam",
 "differently",
-"civil",
 "victory",
+"civil",
 "new",
 "gallant",
 "liberty",
@@ -41842,7 +42090,7 @@
 "school",
 "athletics",
 "physical",
-"ideals"
+"prowess"
 ],
 "stats": {
 "words": 3529,
@@ -43306,8 +43554,8 @@
 "congress",
 "labor",
 "indian",
-"islands",
 "government",
+"islands",
 "bureau",
 "district"
 ],
@@ -43452,8 +43700,8 @@
 "succeeds",
 "erected",
 "reward",
-"beautiful",
 "necessarily",
+"beautiful",
 "america",
 "work"
 ],
@@ -43612,7 +43860,7 @@
 "control",
 "club",
 "interstate",
-"intention"
+"business"
 ],
 "stats": {
 "words": 1847,
@@ -43848,7 +44096,7 @@
 "payment",
 "custom-houses",
 "government",
-"governments"
+"united"
 ],
 "stats": {
 "words": 4725,
@@ -44990,8 +45238,8 @@
 "affairs",
 "responsibility",
 "duties",
-"proud",
-"fellow-citizens"
+"fellow-citizens",
+"proud"
 ],
 "stats": {
 "words": 1169,
@@ -47491,8 +47739,8 @@
 "undertaken",
 "possess",
 "concerned",
-"accomplished",
 "benefit",
+"accomplished",
 "faith",
 "effective"
 ],
@@ -48395,8 +48643,8 @@
 "officer",
 "navy",
 "captain",
-"company",
-"duty"
+"duty",
+"company"
 ],
 "stats": {
 "words": 1112,
@@ -48998,7 +49246,7 @@
 "opposition",
 "evils",
 "organization",
-"bill"
+"duty"
 ],
 "stats": {
 "words": 6288,
@@ -50821,8 +51069,8 @@
 "navy",
 "military",
 "befallen",
-"afloat",
 "army",
+"afloat",
 "ashore",
 "civil",
 "everyday",
@@ -51492,8 +51740,8 @@
 "law",
 "government",
 "constitution",
-"judicial",
 "national",
+"judicial",
 "marshall",
 "epoch"
 ],
@@ -52991,8 +53239,8 @@
 "persons",
 "school",
 "report",
-"property",
-"children"
+"children",
+"property"
 ],
 "stats": {
 "words": 469,
@@ -53268,8 +53516,8 @@
 "river",
 "valley",
 "imperial",
-"california",
 "colorado",
+"california",
 "water",
 "break",
 "subsidiary",
@@ -54501,8 +54749,8 @@
 "railway",
 "railways",
 "railroad",
-"investors",
 "public",
+"investors",
 "roads",
 "stocks"
 ],
@@ -55232,9 +55480,9 @@
 "actual",
 "commodities",
 "settlers",
+"farmer",
 "homesteaders",
-"correspondent",
-"farmer"
+"correspondent"
 ],
 "stats": {
 "words": 4864,
@@ -55457,8 +55705,8 @@
 "corporations",
 "democracy",
 "regards",
-"insult",
 "conditions",
+"insult",
 "affairs",
 "control"
 ],
@@ -56255,8 +56503,8 @@
 "distinctive": [
 "interstate",
 "government",
-"tax",
 "law",
+"tax",
 "congress",
 "public",
 "commerce",
@@ -56766,9 +57014,9 @@
 "partner",
 "duty",
 "sentiment",
+"children",
 "thoughtless",
 "reward",
-"children",
 "fears"
 ],
 "stats": {
@@ -57588,7 +57836,7 @@
 "condemn",
 "capitalists",
 "praise",
-"foolish"
+"government"
 ],
 "stats": {
 "words": 1346,
@@ -62246,8 +62494,8 @@
 "cruise",
 "navy",
 "announced",
-"sail",
 "panama",
+"sail",
 "sam",
 "excavation",
 "around"
@@ -62574,8 +62822,8 @@
 "control",
 "development",
 "federal",
-"natural",
-"water"
+"water",
+"natural"
 ],
 "stats": {
 "words": 5943,
@@ -63265,8 +63513,8 @@
 "parent",
 "woman",
 "suffrage",
-"ideals",
 "father",
+"ideals",
 "woman's",
 "daughter",
 "sit"
@@ -63573,8 +63821,8 @@
 "herald",
 "public",
 "magazine",
-"magazines",
 "newspaper",
+"magazines",
 "loyalty",
 "comrade",
 "sugar",
