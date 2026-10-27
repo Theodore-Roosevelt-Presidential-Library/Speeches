@@ -69,7 +69,7 @@ def reading(nodes):
         elif k == "ins": out.append(reading(nd[1]))
         elif k == "unc": out.append(reading(nd[1]) + " [?]")
         elif k == "illeg": out.append("[illegible]")
-        elif k == "reg": out.append(nd[2])
+        elif k == "reg": out.append(reading(parse_markup(nd[2])))
     return "".join(out)
 
 
@@ -82,7 +82,7 @@ def diplomatic(nodes):
         elif k == "ins": out.append(f'<ins title="added by hand">{diplomatic(nd[1])}</ins>')
         elif k == "unc": out.append(f'<span class="unc" title="uncertain reading">{diplomatic(nd[1])}</span>')
         elif k == "illeg": out.append('<span class="illeg">[illegible]</span>')
-        elif k == "reg": out.append(f'<span class="sic" title="reads: {html.escape(nd[2])}">{html.escape(nd[1])}</span>')
+        elif k == "reg": out.append(f'<span class="sic" title="reads: {html.escape(tidy(reading(parse_markup(nd[2]))))}">{diplomatic(parse_markup(nd[1]))}</span>')
         elif k == "pb":
             folio, _, frame = nd[1].partition(" ")
             out.append(f'<span class="pb">Page {html.escape(folio)}{" (frame " + html.escape(frame) + ")" if frame else ""}</span>')
@@ -98,6 +98,30 @@ def tidy(t):
     t = re.sub(r",(?=[A-Za-z])", ", ", t)
     t = re.sub(r",,+", ",", t)
     return t
+
+
+_VOCAB = None
+KEEP_SPACED = {"foot ball"}   # period spellings written as two words
+
+
+def close_gaps(t):
+    """Typewriter gaps inside a word ("accordi ng", "experime nt") are closed in the reading text when the joined
+    form is a common word and one of the pieces is not. The "As typed" view keeps the gap."""
+    global _VOCAB
+    if _VOCAB is None:
+        from textutil import vocab_from
+        g = os.path.join(ROOT, "sources/gutenberg")
+        _VOCAB = vocab_from(" ".join(open(os.path.join(g, f), encoding="utf-8").read() for f in os.listdir(g) if f.endswith(".txt")))
+    common = lambda w: _VOCAB.get(w.lower(), 0) >= 3
+
+    def fix(m):
+        a, b = m.group(1), m.group(2)
+        if (a + " " + b).lower() in KEEP_SPACED:
+            return m.group(0)
+        if common(a + b) and not (common(a) and common(b)):
+            return a + b
+        return m.group(0)
+    return re.sub(r"\b([A-Za-z]+) ([a-z]+)\b", fix, t)
 
 
 def load():
@@ -118,7 +142,7 @@ def load():
         for p in paras:
             nodes = parse_markup(p)
             dip_p.append(diplomatic(nodes))
-            r = tidy(reading(nodes))
+            r = close_gaps(tidy(reading(nodes)))
             if r:
                 read_p.append(r)
             for nd in nodes:
