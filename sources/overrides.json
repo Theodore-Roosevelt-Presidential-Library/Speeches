@@ -1,9 +1,50 @@
 {
-  "_about": "Hand corrections applied by scripts/build_dataset.py to items parsed from the printed editions. 'match' is text found in the printed heading. Each correction says why.",
-  "items": [
-    {"match": "SEMICENTENNIAL CELEBRATION OF THE FOUNDING OF AGRICULTURAL COLLEGES", "date": "1907-05-31", "date_source": "dbd",
-     "title": "The Man Who Works with His Hands", "occasion": "Semicentennial of the founding of agricultural colleges in the United States, Michigan Agricultural College",
-     "place": ["Lansing", "MI"], "why": "The machine-read heading lost the month and day; Day by Day places the college address on May 31, 1907."},
-    {"match": "INVALIDES", "drop": true, "why": "A photograph caption read as text, not an address."}
-  ]
+ "_about": "Hand corrections applied by scripts/build_dataset.py to items parsed from the printed editions. 'match' is text found in the printed heading. Each correction says why.",
+ "items": [
+  {
+   "match": "SEMICENTENNIAL CELEBRATION OF THE FOUNDING OF AGRICULTURAL COLLEGES",
+   "date": "1907-05-31",
+   "date_source": "dbd",
+   "title": "The Man Who Works with His Hands",
+   "occasion": "Semicentennial of the founding of agricultural colleges in the United States, Michigan Agricultural College",
+   "place": [
+    "Lansing",
+    "MI"
+   ],
+   "why": "The machine-read heading lost the month and day; Day by Day places the college address on May 31, 1907."
+  },
+  {
+   "match": "INVALIDES",
+   "drop": true,
+   "why": "A photograph caption read as text, not an address."
+  }
+ ],
+ "_about_trc": "Corrections to Theodore Roosevelt Center catalog records, keyed by TRC record id, made from reading the document itself. keep_id keeps the speech's id stable.",
+ "trc": [
+  {
+   "trc": "o288763",
+   "title": "Remarks at South Vernon, Massachusetts",
+   "place": [
+    "South Vernon",
+    "MA"
+   ],
+   "keep_id": "1902-09-01-mount-vernon",
+   "note": "The catalog record says Mount Vernon; the typed heading of the document reads South Vernon, Mass.",
+   "why": "Typed heading on LOC reel 424 frame 0607 reads 'SOUTH VERNON, MASS.'; both transcription passes agree."
+  },
+  {
+   "trc": "o290026",
+   "title": "Reply to a delegation of the Merchants' Association of New York",
+   "keep_id": "1902-04-25-address-by-william-f-king-of-the-merchan",
+   "note": "A press account: William F. King, chairman of the delegation, speaks first; the President's reply follows.",
+   "why": "The catalog title names King's address, but the document (LOC reel 424 frame 0460) also gives Roosevelt's reply, which is why it is in this collection."
+  },
+  {
+   "trc": "o288770",
+   "date": "1902-09-02",
+   "keep_id": "1902-09-fitchburg",
+   "note": "This is the extract given to the press. The full address, headed \"Address of President Roosevelt at Fitchburg, Mass., Sept. 2, 1902,\" is on the pages just before it (LOC reel 424, frames 0619 to 0622) and is not yet transcribed here.",
+   "why": "The catalog record gives only September 1902; the full address on the preceding folios is headed Sept. 2, 1902, as read by the second transcriber."
+  }
+ ]
 }

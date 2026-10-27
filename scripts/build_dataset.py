@@ -74,7 +74,9 @@ def main():
     cache = load_cache()
     texts = [json.loads(l) for l in open(os.path.join(ROOT, "build/items_pasp.jsonl"))]
     texts += [json.loads(l) for l in open(os.path.join(ROOT, "build/items_collections.jsonl"))]
-    overrides = json.load(open(os.path.join(ROOT, "sources/overrides.json")))["items"]
+    ov_all = json.load(open(os.path.join(ROOT, "sources/overrides.json")))
+    overrides = ov_all["items"]
+    trc_over = {o["trc"]: o for o in ov_all.get("trc", [])}
     kept = []
     for t in texts:
         if t["kind"] in ("proclamation", "letter", "statement", "memorandum"):
@@ -274,11 +276,20 @@ def main():
         t = DATE_STRIP.sub("", t).strip().rstrip(",.;:- ")
         t = re.sub(r"\s+-\s*$|\s+-\s+-", "", t).strip()
         t = re.sub(r"\s+-\s*,", ",", t)
-        speeches.append({
+        item = {
             "date": d, "date_precision": prec, "date_source": "trc",
             "title": t, "occasion": None, "place": rp, "kind": "speech", "note": None,
             "paragraphs": [], "ocr": False, "editions": [], "trc": [r] + r.pop("_more"), "loc": [],
-        })
+        }
+        o = trc_over.get(r["id"])
+        if o:   # a correction from reading the document itself (see sources/overrides.json)
+            item["title"] = o.get("title", item["title"])
+            item["place"] = tuple(o["place"]) if o.get("place") else item["place"]
+            item["note"] = o.get("note", item["note"])
+            if o.get("date"):
+                item["date"], item["date_precision"], item["date_source"] = o["date"], "day", "document"
+            item["_id"] = o.get("keep_id")
+        speeches.append(item)
 
     # LOC links from TRC images
     for s in speeches:
@@ -359,6 +370,8 @@ def main():
         base = f"{(s['date'] or 'undated')[:10]}-{slug((s['place'][0] if s['place'] else '') or s['title'], 40)}"
         seen[base] += 1
         sid = base if seen[base] == 1 else f"{base}-{seen[base]}"
+        if s.get("_id"):
+            sid = s["_id"]   # keep a stable id (transcription files are named by it) when a correction changes the place
         text = s["paragraphs"]
         out.append({
             "id": sid, "date": s["date"], "date_precision": s["date_precision"], "date_source": s["date_source"],

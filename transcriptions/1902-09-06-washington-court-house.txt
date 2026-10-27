@@ -1,0 +1,17 @@
+---
+speech: 1902-09-06-washington-court-house
+title: Remarks of President Roosevelt at Washington Court House,Sept.6,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0689
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0689
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 14 424:0689]
+
+{Gentlemenand|Gentlemen and} Ladies:
+
+I thank you very much for coming here to meet me, and I appreciate your greeting greatly. I shall not try to make any extended speech. I am on my way to the Railroad Firemen's Association meeting at Chattanooga, because I like the railroad men and like to go down to their meetings. I shall not try now to speak to you. I thank you again, and I am sure the rest of you will not grudge my saying that always in these meetings I am {pecul iarly|peculiarly} pleased by the presence of the men who wear the button which shows that they were in the great war. {Tey|They} did the big things; we did the {li tle|little} things. Good {luek|luck} to you.
+
+[margin: 6]
+[note: The sheet also carries the handwritten number 6 at the top; the [pb] folio is the volume page number 14. "Sept." in the heading has a letter typed over another. The "y" of "my" before "saying" is blotted.]

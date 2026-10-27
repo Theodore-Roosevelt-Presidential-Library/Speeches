@@ -1,0 +1,17 @@
+---
+speech: 1902-09-23-address-from-balcony-of-columbia-club
+title: Address of President Roosevelt from the Balcony of Columbia Club, Indianapolis, Indiana, September 23, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0758
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0758
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 82 424:0758]
+
+My fellow Americans; men and women of this beautiful city,this beautiful {States|State:}
+
+I am glad to have the chance of witnessing as noteworthy a sight as this sea of people with as a background the majestic and beautiful monument which you have reared to the sons of Indiana who did well for the republic in the past.(Applause) I have come through your state this morning,seeing on every hand the proofs of the marvelous and abounding prosperity which we now as a people enjoy. It is a good thing for the state, for the nation, to have such material well-being. That of course {id|is} the foundation upon which we must build; but it is an even greater thing when a great state erects a monument such as that to those of her sons whom the people most delight to honor.(Applause) Material well-being counts for much-for very much; but the lift toward lofty deeds counts for even more, and we,the citizens of this great American republic, when we come together on an occasion like this, come as preachers of the gospel {o f|of} hope, {hot|not} the gospel of despair. The men who have done {mi ghtily|mightily} for the nation in the past have been the men who believed with all their hearts and souls in the nation [-xxxxxx-] and the nation's destiny. The men who won honor in the Civil War were the men who said that the Union should indeed be preserved[-x-] and made their words good by their deeds. We have our faces set toward the future. Scant is our sympathy with the men who fear failure so much that they dare not try for success. This nation is to play a great part in the world, and as it [-xxxx-] moves down into the arena where the nations of the world strive for the lead in shaping the destiny of mankind, we its people feel our veins thrill with the confident faith that to us and our children and our children's children it is given to face the dangers and difficulties, not to shirk them; to do our duty at home and to do it abroad; to dare to be great and to make our nation what it shall be-the greatest upon which the sun has ever shone. (Great applause)
+
+[note: Right half (b) of frame 0758, folio 82.]
+[note: The last character of the salutation ("States") appears to be a colon overstruck with "s" or the reverse; read as "State:". "hope" has an overstruck letter with a stray mark below it.]

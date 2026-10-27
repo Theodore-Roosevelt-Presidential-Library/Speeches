@@ -1,0 +1,16 @@
+---
+speech: 1902-09-06-zanesville
+title: Remarks of President Roosevelt at Zanesville,Ohio,Sept.6,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0687
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0687
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 11 424:0687]
+
+I shan't make a speech  I am coming back to see Ohio later, {andthis|and this} time I am simply going down to the Firemen's Convention at Chattanooga. I have a pretty good opinion of railway men, and I believe most of you have. All I shall do will be to thank you {wamm ly|warmly} {fw|for} coming here to greet {mep|me,} and I know you will  not grudge [?my?] saying that I prize it most of all in the men who wear the button that shows that they fought  in the great war. Good luck to you. (Applause)
+
+[margin: 3]
+[note: The sheet also carries the handwritten number 3 at the top; the [pb] folio is the volume page number 11 in the corner. No stop is typed after "speech".]
+[note: "wamm ly", "fw", "mep" and the word before "saying" are struck over or mistyped; "my" before "saying" looks like "mp" with a blotted letter, so it is marked uncertain.]

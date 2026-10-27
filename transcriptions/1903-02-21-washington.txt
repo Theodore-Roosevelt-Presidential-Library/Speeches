@@ -1,0 +1,39 @@
+---
+speech: 1903-02-21-washington
+title: Remarks of President Roosevelt at the laying of the Corner Stone of the War College, Washington, D.C., February 21,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 1055, 1056
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:1055
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 49 424:1055]
+
+Gentlemen and Ladies:
+
+It should be a matter of pride and of congratulation to every American citizen interested in the welfare of his country [-txhxxxxxx-] that to-day we lay the [-xx-] foundation-stone of a building, the erection of which signalizes a long stride forward in securing the efficiency of the United States Army[+—+] [-a-][+A+] step less important than that marked by the enactment of the law creating a general staff , but a step supplementing the passage of that act, rounding it out and rendering it of a far wider and a far deeper usefulness.
+
+A word first to the nation and then another word to the army. The nation first: It has well been said that the surest way to invite national disaster is for a nation to be {opukent|opulent} , aggressive and unarmed; (Applause.) [-[illegible]-][+[?a?]+] nation that is rich, that is [-xxxxxxxxxx-] so high-spirited as to be somewhat careless in giving offense, and that yet refrains from that preparedness which is absolutely necessary . If efficiency in war is ever to be [-[?shown?]-][+tested+], such a nation is laying deep the foundations for humiliation and disaster.
+
+As a people whether we will or not we have reached the stage when we must play a great part in the world. It is not open to us to decide whether or not we shall play it. All that we have to decide is whether we shall play it well or ill. The part is before us. We have to play it. All that it rests for us to do is to see that we play it well. (Applause.) This nation has by the [-m-]mere trend of events [-[illegible]-] been forced into a position of world power during the last few years. It has responsibilities resting upon {i t|it} here in the occident and in the orient as well. It cannot bear those responsibilities aright unless its voice is potent for peace and justice, and its voice can[-[?not?]-] be potent for peace and justice only on condition of its being thoroughly understood that we  ask peace not in the spirit of the weakling and the craven but in the spirit [+and+] with the self-consciousness of the just man armed. (Applause.)
+
+So much for the lesson learned by our people from the movement in which the erection of this building is a part.
+
+[pb 50 424:1055]
+
+Now for the army[+—+] a word to the officers and enlisted men of the army. The last two or three years have witnessed a notable awakening in our people to the well-being of the army. Our people are understanding as never before the fact that the army like the navy will do well in war merely in proportion as it has been prepared well in peace.[+—+] [-T-][+t+]hat after the war has begun it is too late then to prepare for the victory. Defeat will come inevitably [-xxxxxxxxxxxxxxxxxxx-] [-[?and surely?]-] if the preparation is put off  until the war [?begins?], and victory will come if it has been prepared for in time of peace, and on no other terms.
+
+During the [-xxxxxxxxxxxx-] session of Congress that is now closing we have seen the first stride taken in putting the national guard, the militia of the country[+,+] on a footing of efficiency; the first long stride taken on the lines marked out by Washington himself , the first successful effort made to put into effect Washington's plea, which for one hundred and ten years [-is-][+was+] disregarded by our people. And again, the first long stride has been taken toward the modernization, toward the increasing [+of+] the efficiency of the army in accordance with  modern methods as voiced[+,+] and voiced vainly[+,+] by General Sherman[+,+] over a quarter of a century ago. It takes time and {though|thought} and care to work out necessary reforms. They do not come in a jump. All kinds of objections, objections of deliberate purpose, objections of mere inertia, objections of carelessness have to be met with and overcome; but  at last they are overcome if only a sufficient tendency of purpose lies behind this beginning of the reform . And now [-[illegible]-] great strides have been taken; methods have been provided for securing the increased efficiency of the army, and it rests with the army itself to profit by what has been done . More and more it has become evident in modern war that the efficiency of the unit, of the individual officer and the individual enlisted man[+,+] is the prime factor and is going to be more and more the prime factor in deciding the fate of [-faughtxfieldsx [illegible]-][+fought+] fields.
+
+[pb 51 424:1056]
+
+The exercises of the barracks and the parade ground do not make five per cent of the soldier's real work, and do not count for five per cent in his real efficiency. They are [-x-] very spectacular, and serve a good purpose; must be well done, but count but for the smallest part in the qualities the sum of which makes the army effective or ineffective in actual service. Officers and men alike must be trained to the highest point in the theory and[-x-] in the practice of the profession. It is of course a mere truism to say that if they are trained in the theory without the grounding of practice they will amount to nothing. They must have the training in theory too - they must have that training, or they can never reach the highest standard of perfection in their art. The army of the United States is not, and it is not desired that it should be, other than a small army relative to the population of the country, but we have a right to expect that that small army shall represent for its use the very highest point of efficiency of any army in the civilized world. (Applause.)
+
+And I have the most absolute faith that to that degree of efficiency it will attain and that it will attain it in no small part because of the wise and zealous use it will make of the opportunities found in the effect of this very building. (Applause.)
+
+[note: Pages are the left (folio 49) and right (folio 50, typed "-2-") halves of frame 1055 and the left half of frame 1056 (folio 51, typed "-3-"), as listed. The folio on the first page is partly cut off; 49 is read from the visible digits and the sequence.]
+[note: After "Army" and "peace." a dash appears to have been added in ink; the capital "A" of "A step" is inked over a typed letter, and a hand mark over "That" seems to lower-case the "T". These readings are uncertain.]
+[note: After "(Applause.)" in the second paragraph the typed word before "nation" is blotted out by hand; above it is a hand mark with what looks like "a" and a caret.]
+[note: "to" in "for a nation to be" looks overstruck but is still readable; "in to" (twice) is joined by a hand close-up mark, given here as "into". After "modernization," there is an extra hand stroke; the mark after "Sherman" looks like a heavy comma.]
+[note: At the foot of folio 49 the first letters of a typed line ("N...") are cut off at the page edge; the text continues at the top of folio 50 with "Now for the army".]
+[note: "[?begins?]": the last letter is overtyped and reads like "d".]

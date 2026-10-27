@@ -2843,6 +2843,15 @@
   "lon": -86.25001,
   "geocode": "geonames"
  },
+ "south-vernon-massachusetts": {
+  "id": "south-vernon-massachusetts",
+  "name": "South Vernon",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": null,
+  "lon": null,
+  "geocode": null
+ },
  "spokane-washington": {
   "id": "spokane-washington",
   "name": "Spokane",
