@@ -1745,8 +1745,8 @@
 "continent",
 "century",
 "commonwealths",
-"commonplace",
 "industrial",
+"commonplace",
 "manliness",
 "prosperity"
 ],
@@ -2028,15 +2028,15 @@
 },
 "distinctive": [
 "pioneers",
-"barbarism",
 "law",
+"barbarism",
 "blunders",
 "wilfully",
 "civilization",
 "aggrandizement",
 "philippines",
-"expense",
-"duty"
+"duty",
+"expense"
 ],
 "stats": {
 "words": 4163,
@@ -4178,7 +4178,7 @@
 "island",
 "cuba",
 "hundred",
-"army"
+"work"
 ],
 "stats": {
 "words": 1569,
@@ -4324,8 +4324,8 @@
 "lesson",
 "comrades",
 "ordinary",
-"battle",
 "duties",
+"battle",
 "citizenship",
 "war",
 "duty",
@@ -4613,10 +4613,10 @@
 },
 "distinctive": [
 "mills",
-"colonel",
 "shipp",
 "pointer",
 "parade-ground",
+"colonel",
 "west",
 "regiment",
 "institution",
@@ -5118,8 +5118,8 @@
 "talent",
 "cure",
 "wealth",
-"harm",
 "conditions",
+"harm",
 "power",
 "community"
 ],
@@ -7116,10 +7116,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 83,
+"paragraphs": [
+"Ladies and gentlemen:",
+"There has been an accident. One of the members of the party has been killed; the driver, I fear, fatally injured. Under the circumstances I am sure you will understand my not stopping and not trying to make an address to you. I thank you heartily for the greeting that you extend to me. I shall ask you, the circumstances being as they are, not to cheer or make any demonstration. I thank you for coming here to greet me."
+],
 "editions": [],
 "trc": [
 {
@@ -7150,13 +7153,43 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0641",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0641",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and gentlemen:",
+"There has been an accident. One of the members of the party has been killed; the driver, I fear, fatally injured. Under the circumstances I am sure you will understand my not stopping and not trying to make an address to you. I thank you heartily for the greeting that you extend to me. I shall ask you, the circumstances being as they are, not to cheer or make any demonstration. I thank you for coming here to greet me."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 168 (frame 424:0641)</span>",
+"Ladies and gentlemen:",
+"There has been an accident.   One of the members of the party has been killed; the driver<ins title=\"added by hand\">,</ins> I fear<ins title=\"added by hand\">,</ins> fatally injured.   Under the circumstances I am sure you will understand my not stopping and not trying to make an address to you.   I thank you heartily for the greeting that you extend to me.   I shall ask you, <del title=\"struck through\">xxxxx</del> the circumstances<ins title=\"added by hand\"> being as they are,</ins> not to cheer or make any demonstration.   I thank you for coming here to greet me.",
+"<span class=\"tnote\">The page also holds the remarks at the Curtis Hotel, Lenox, and at Stockbridge, which follow this one and are not transcribed here.</span>\n<span class=\"tnote\">The commas after &quot;driver&quot; and &quot;fear&quot; are in ink. &quot;being as they are,&quot; is typed above the line and placed with a hand caret; the x-ed word before &quot;the circumstances&quot; appears to be &quot;under&quot;.</span>"
+],
+"notes": [
+"The page also holds the remarks at the Curtis Hotel, Lenox, and at Stockbridge, which follow this one and are not transcribed here.",
+"The commas after \"driver\" and \"fear\" are in ink. \"being as they are,\" is typed above the line and placed with a hand caret; the x-ed word before \"the circumstances\" appears to be \"under\"."
+],
+"file": "transcriptions/1902-09-03-lenox.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 83,
+"unique_words": 53,
+"sentences": 6,
+"avg_sentence": 13.8,
+"minutes": 1,
+"i_count": 5,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-04-riceville",
@@ -7396,10 +7429,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 914,
+"paragraphs": [
+"My friends and fellow citizens: I am glad to have the chance of seeing you even only for a minute or two this evening. I wish it had been possible for me to time my trip through Kentucky so as to have come here by daylight, but it was not. In Kentucky any American cannot but feel a peculiar sense of kinship with the past, for Kentucky has contributed far more than the share we would expect from its population to the leadership of the country in peace and in war. This city commemorates by its name the spot where the first victory was won in the war that made this country a nation, and it is eminently fitting that the victory of Lexington in Massachusetts should be commemorated here in Kentucky - Kentucky, which stands in the heart of the country, which belongs in a peculiar sense alike to the north and the south, the east and the west - Kentucky, whose pioneers won this state for our country in the stress of the Revolutionary War itself. you have practiced the qualities not merely that make good soldiers but that make good citizens. There is no one quality that makes for good citizenship by itself. In the first place, you must have honesty, decency. If a man is not straight, then the abler he is the more dangerous he is to the people as a whole; and our country will be put on the plane where we desire to see her only when once for all it is understood that we visit an even heavier odium upon the scoundrel who succeeds than upon the scoundrel who fails. Honesty by itself is not enough. In addition to honesty you need other qualities. I don't care how good a man is, if he is afraid he is of no use (Cheers and applause). In addition to honesty you must have courage - moral as well as physical - the courage that dares and the courage that endures - not the courage that flashes like a fire of straw, but the courage that remains steadfast in purpose to the end - the courage that has in it the iron fiber of resolution. Courage and honesty - no man is worth his salt as a citizen unless he has both. And both of them together aren't enough. I don't care how brave and how honest a man is, if he is a natural born fool you can do little with him (Laughter and applause). You must have courage and honesty, and to",
+"them both you must add the saving grace of common sense.",
+"I can say that to you without feeling that I am preaching to you, because I feel that I am merely giving expression to the beliefs that you and I hold in common. Good laws are good things, but more important still is the good citizenship that must stand behind the law. It is the same in civic life that it is in military life. The men here who fought in the civil war, whether they wore the blue or whether they wore the gray, carried weapons different from the weapons carried by the men who followed Washington. They were drilled with different tactics. They wore different uniforms. But the spirit that drove them to battle was the same. The men who won undying honor because of their courage and self-devotion in the civil war were spurred onward by the same lofty impulses that won victory for Washington's troops at Yorktown. And so now, as Colonel Williams will tell you, if we ever have, which I not only hope but believe we will not have, war with a foreign power, our troops would have to be armed with the small caliber high-power modern rifle, and instead of the old shoulder to shoulder drill they would be drilled in open order; but if they are to win, no matter what their drill and their weapons, they will win because they have in them the stuff of the men who fought from '61 to '65 (Applause). I hate to see, as one generally does see, the national guards of most of our states armed with the black powder musket. You might almost as well have crossbows. But if you take a man and give him instead of the black powder musket the best modern rifle, and if the man himself hasn't got the right stuff in him, a good man will beat him with a club (Laughter). Do not forget that. Of course if two good men meet, the man with the good rifle will win; but the rifle is not a substitute for the qualities that make the soldier. The rifle simply rounds them out. It is just the same way with our citizenship. It is a mighty good and necessary thing to have good laws. It is a mighty good thing to have the fundamental law which we call the constitution. There are other countries whose constitutions and laws are modelled on ours, which have yet made pretty nearly a failure of free government, because they do not have the same type of citizenship as ours. Back of the law, back of the constitution, you must have a high average of individual citizenship, for the lack of which nothing can atone. And remember, as I have said before, that in [?] that citizenship, though intellect counts somewhat, character counts more; and in character the three chief ingredients are honesty, courage, and common sense (Applause)."
+],
 "editions": [],
 "trc": [
 {
@@ -7421,13 +7458,67 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0691, 0692",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0691",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My friends and fellow citizens: I am glad to have the chance of seeing you even only for a minute or two this evening. I wish it had been possible for me to time my trip through Kentucky so as to have come here by daylight, but it was not. In Kentucky any American cannot but feel a peculiar sense of kinship with the past, for Kentucky has contributed far more than the share we would expect from its population to the leadership of the country in peace and in war. This city commemorates by its name the spot where the first victory was won in the war that made this country a nation, and it is eminently fitting that the victory of Lexington in Massachusetts should be commemorated here in Kentucky - Kentucky, which stands in the heart of the country, which belongs in a peculiar sense alike to the north and the south, the east and the west - Kentucky, whose pioneers won this state for our country in the stress of the Revolutionary War itself. you have practiced the qualities not merely that make good soldiers but that make good citizens. There is no one quality that makes for good citizenship by itself. In the first place, you must have honesty, decency. If a man is not straight, then the abler he is the more dangerous he is to the people as a whole; and our country will be put on the plane where we desire to see her only when once for all it is understood that we visit an even heavier odium upon the scoundrel who succeeds than upon the scoundrel who fails. Honesty by itself is not enough. In addition to honesty you need other qualities. I don't care how good a man is, if he is afraid he is of no use (Cheers and applause). In addition to honesty you must have courage - moral as well as physical - the courage that dares and the courage that endures - not the courage that flashes like a fire of straw, but the courage that remains steadfast in purpose to the end - the courage that has in it the iron fiber of resolution. Courage and honesty - no man is worth his salt as a citizen unless he has both. And both of them together aren't enough. I don't care how brave and how honest a man is, if he is a natural born fool you can do little with him (Laughter and applause). You must have courage and honesty, and to",
+"them both you must add the saving grace of common sense.",
+"I can say that to you without feeling that I am preaching to you, because I feel that I am merely giving expression to the beliefs that you and I hold in common. Good laws are good things, but more important still is the good citizenship that must stand behind the law. It is the same in civic life that it is in military life. The men here who fought in the civil war, whether they wore the blue or whether they wore the gray, carried weapons different from the weapons carried by the men who followed Washington. They were drilled with different tactics. They wore different uniforms. But the spirit that drove them to battle was the same. The men who won undying honor because of their courage and self-devotion in the civil war were spurred onward by the same lofty impulses that won victory for Washington's troops at Yorktown. And so now, as Colonel Williams will tell you, if we ever have, which I not only hope but believe we will not have, war with a foreign power, our troops would have to be armed with the small caliber high-power modern rifle, and instead of the old shoulder to shoulder drill they would be drilled in open order; but if they are to win, no matter what their drill and their weapons, they will win because they have in them the stuff of the men who fought from '61 to '65 (Applause). I hate to see, as one generally does see, the national guards of most of our states armed with the black powder musket. You might almost as well have crossbows. But if you take a man and give him instead of the black powder musket the best modern rifle, and if the man himself hasn't got the right stuff in him, a good man will beat him with a club (Laughter). Do not forget that. Of course if two good men meet, the man with the good rifle will win; but the rifle is not a substitute for the qualities that make the soldier. The rifle simply rounds them out. It is just the same way with our citizenship. It is a mighty good and necessary thing to have good laws. It is a mighty good thing to have the fundamental law which we call the constitution. There are other countries whose constitutions and laws are modelled on ours, which have yet made pretty nearly a failure of free government, because they do not have the same type of citizenship as ours. Back of the law, back of the constitution, you must have a high average of individual citizenship, for the lack of which nothing can atone. And remember, as I have said before, that in [?] that citizenship, though intellect counts somewhat, character counts more; and in character the three chief ingredients are honesty, courage, and common sense (Applause)."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 18 (frame 424:0691)</span>",
+"My friends and fellow citizens:    I am glad to have the chance of seeing you even only for a minute or two this evening.   I wish it had been possible for me to time my trip through Kentucky so as to have come here by daylight, but it was not.   In <span class=\"sic\" title=\"reads: Kentucky\">Kantucky</span> any American cannot but feel a peculiar sense of kinship with the past, for Kentucky has contributed far more than the share we would expect from its population to the leadership of the country in peace and in war.   This city commemorates by its name the spot where the first victory was won in the war that made this country a nation, and it is eminently fitting that the victory of Lexington in Massachusetts should be commemorated here in Kentucky - Kentucky<ins title=\"added by hand\">,</ins> which stands in the heart of the country, which belongs in a peculiar sense alike to the north and <del title=\"struck through\">xx</del> the south, the east and the west - Kentucky<ins title=\"added by hand\">,</ins> whose pioneers won this state for our country in the stress of the Revolutionary War itself.   <del title=\"struck through\">Here in Kentucky</del> you have practiced the qualities not merely that make good soldiers but that make good citizens.   There is no one quality that makes for good citizenship by itself.   In the first place, you must have honesty, decency.   If a man is not straight, then the abler he is the more dangerous he is to the people as a whole; and our country will be put on the plane where we desire to see her only when once for all it is understoo<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">s</span></del><ins title=\"added by hand\">d</ins> that we visit an even heavier odium upon the scoundrel who succeeds than upon the scoundrel who fails.   Honesty by itself is not enough.   In addition to honesty you need other qualities.   I don&#x27;t care how good a man is, if he is afraid he is of no use (Cheers and applause). In addition to honesty you must have courage - moral as well as physical - the courage that dares and the courage that endures - not the courage that flashes like a fire of straw<ins title=\"added by hand\">, but</ins> the courage that remains steadfast in purpose to the end - the courage that has in it the iron fiber of resolution. Courage and honesty - no man is worth his salt as a citizen unless he has both.   And both of them together aren&#x27;t enough.   I don&#x27;t care how brave and how honest a man is, if he is a natural born fool you can do little with him (Laughter and applause).   You must have courage and honesty, and to",
+"<span class=\"pb\">Page 19 (frame 424:0691)</span>",
+"them both you must add the saving grace of common sense.",
+"<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> I can say that to you without feeling that I am preaching to you, because I feel that I am merely giving expression to the beliefs that you and I hold in common.   Good laws are good things, but more important still is the good citizenship that must stand behind the law.   It is the same in civic life that it is in military life.   The men here who fought in the civil war, whether they wore the blue or whether they wore the gray, carried weapons different from the weapons carried by the men who followed Washington.   They were drilled with different <span class=\"sic\" title=\"reads: tactics\">tacticw</span>. They wore different uniforms.   But the spirit that drove them to battle was the same.   The men who won undying honor because of their courage and self-devotion in the civil war were spurred onward by the same lofty impulses that won victory for Washington&#x27;s troops at Yorktown.   And so now, as Colonel Williams will tell you, if we ever have, which I not only hope but believe we will not have, war with a foreign power, our troops would have to be armed with the small caliber high-power modern rifle, and instead of the old shoulder to shoulder drill they would be drilled in open order; but if they are to win, no matter what their drill and their weapons, they will win because they have in them the stuff of the men who fought from &#x27;61 to &#x27;65 (Applause).   I hate to see, as one generally does see, the national guards of most of our states armed with the black powder musket. You might almost as well have crossbows.   But if you take a man and give him instead of the black powder musket the best modern rifle, and if the man himself hasn&#x27;t got the right stuff in him, a good man will beat him with a club (Laughter).   Do not forget that.   Of course if two good men meet<ins title=\"added by hand\">,</ins> the man with the good rifle will win; but the rifle is not a substitute for the qualities that make the soldier.   The rifle simply rounds them out. It is just the same way with our citizenship.   It is a mighty good and necessary thing to have good laws.   It is a mighty good thing <del title=\"struck through\">xx</del><ins title=\"added by hand\">to</ins> have the fundamental law which we call the constitution.   There are other countries whose constitutions and laws are modelled on ours, <del title=\"struck through\">who</del> <ins title=\"added by hand\">which</ins> have yet made pretty <span class=\"pb\">Page 20 (frame 424:0692)</span> nearly a failure of free government, because they do not have the same type of citizenship as ours.   Back of the law, back of the constitution, you must have a high average of individual citizenship, for the lack of which nothing can atone.   And remember, as I have said before, that <del title=\"struck through\">with</del><ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">in</span></ins> that citizenship, though intellect counts somewhat, character counts more; and in character the three chief ingredients are honesty, courage, and common sense (Applause).",
+"<span class=\"tnote\">Page headings &quot;Lexington---2.&quot; and &quot;Lexington---3.&quot; are typed at the top of folios 19 and 20 and are not part of the text.</span>\n<span class=\"tnote\">Folio 18: &quot;Here in Kentucky&quot; struck through in ink, with a mark under &quot;you&quot; (probably calling for a capital Y); the commas after the two &quot;Kentucky&quot;s are in ink; after &quot;straw&quot; a typed dash is struck and &quot;, but&quot; is written in with a caret; the last letter of &quot;understood&quot; is written over in ink.</span>\n<span class=\"tnote\">Folio 19: a typed phrase opening the second paragraph is inked out (it may begin &quot;My gentlemen&quot;); a hand line runs along &quot;high-power&quot; and may strike it, so that word is uncertain as kept text; a small ink mark under &quot;mighty&quot; before &quot;good and necessary&quot;; &quot;to&quot; is written in ink over an x-ed word; &quot;which&quot; is typed above the line over x-ed &quot;who&quot;. Folio 20: &quot;with&quot; struck and a short word, probably &quot;in&quot;, written above.</span>"
+],
+"notes": [
+"Page headings \"Lexington---2.\" and \"Lexington---3.\" are typed at the top of folios 19 and 20 and are not part of the text.",
+"Folio 18: \"Here in Kentucky\" struck through in ink, with a mark under \"you\" (probably calling for a capital Y); the commas after the two \"Kentucky\"s are in ink; after \"straw\" a typed dash is struck and \", but\" is written in with a caret; the last letter of \"understood\" is written over in ink.",
+"Folio 19: a typed phrase opening the second paragraph is inked out (it may begin \"My gentlemen\"); a hand line runs along \"high-power\" and may strike it, so that word is uncertain as kept text; a small ink mark under \"mighty\" before \"good and necessary\"; \"to\" is written in ink over an x-ed word; \"which\" is typed above the line over x-ed \"who\". Folio 20: \"with\" struck and a short word, probably \"in\", written above."
+],
+"file": "transcriptions/1902-09-06-lexington.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"law-courts"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "george-washington",
+"name": "George Washington",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"kentucky",
+"rifle",
+"courage",
+"honesty",
+"weapons",
+"applause",
+"citizenship",
+"won",
+"win",
+"victory"
+],
+"stats": {
+"words": 914,
+"unique_words": 345,
+"sentences": 36,
+"avg_sentence": 25.4,
+"minutes": 7,
+"i_count": 12,
+"we_count": 6
+}
 },
 {
 "id": "1902-09-06-ludlow",
@@ -7441,10 +7532,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 72,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"I am very glad to see you. I shall not try to make a speech; just to say that it is a pleasure to be greeted by you and to be here in Kentucky. I am going down to the Railway Firemen's Convention at Chattanooga, and did not intend to make any addresses on my way down so I shall only repeat my thanks for your having come down."
+],
 "editions": [],
 "trc": [
 {
@@ -7466,13 +7560,42 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0690",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0690",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen and Ladies:",
+"I am very glad to see you. I shall not try to make a speech; just to say that it is a pleasure to be greeted by you and to be here in Kentucky. I am going down to the Railway Firemen's Convention at Chattanooga, and did not intend to make any addresses on my way down so I shall only repeat my thanks for your having come down."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 17 (frame 424:0690)</span>",
+"Gentlemen and Ladies:",
+"I am very glad to see you.   I shall not try to make a speech; just to say that it is a pleasure to be greeted by you and to be here in Kentucky.   I am going down to the Railway Firemen&#x27;s Convention at Chattanooga, and did not intend to make any addresses on my way down so I shall only repeat my thanks for your having come down.",
+"<span class=\"tnote\">The &quot;t&quot; of &quot;to see you&quot; is typed over another letter. The left half of the frame holds a handwritten note on White House paper about Cincinnati, Ohio, Sept. 6, 1902, not part of this speech.</span>"
+],
+"notes": [
+"The \"t\" of \"to see you\" is typed over another letter. The left half of the frame holds a handwritten note on White House paper about Cincinnati, Ohio, Sept. 6, 1902, not part of this speech."
+],
+"file": "transcriptions/1902-09-06-ludlow.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 72,
+"unique_words": 51,
+"sentences": 3,
+"avg_sentence": 24.0,
+"minutes": 1,
+"i_count": 4,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-06-midland-city",
@@ -7486,10 +7609,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 128,
+"paragraphs": [
+"I thank you very much indeed, ladies and gentlemen. I am coming back to Ohio in two or three weeks. On this trip I am simply going down to the convention of the Brotherhood of Locomotive Firemen at Chattanooga, as railway men have always had rather a hold on me. So I shall not try to address you or say anything beyond thanking you very warmly for your greeting each and all, and saying that perhaps those that appeal to me most are the man or woman with a small person in his or her arms,--I have several of them myself,--and the man who wears the button of the Grand Army. I thank you very much for your courtesy and am delighted to see you (Applause)."
+],
 "editions": [],
 "trc": [
 {
@@ -7511,13 +7636,40 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0689",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0689",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"I thank you very much indeed, ladies and gentlemen. I am coming back to Ohio in two or three weeks. On this trip I am simply going down to the convention of the Brotherhood of Locomotive Firemen at Chattanooga, as railway men have always had rather a hold on me. So I shall not try to address you or say anything beyond thanking you very warmly for your greeting each and all, and saying that perhaps those that appeal to me most are the man or woman with a small person in his or her arms,--I have several of them myself,--and the man who wears the button of the Grand Army. I thank you very much for your courtesy and am delighted to see you (Applause)."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 15 (frame 424:0689)</span>",
+"I thank you very much indeed, ladies and gentlemen.   I am coming back to Ohio in two or three weeks.   On this trip I am simply going down to the convention of the Brotherhood of Locomotive Firemen at Chattanooga, as railway men have always had rather a hold on me.   So I shall not try to address you or say anything beyond thanking you very warmly for your greeting each and all, and <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> say<ins title=\"added by hand\">ing</ins> that perhaps those that appeal to me most are the man or woman with a small person in his or her arms<ins title=\"added by hand\">,</ins>--I have several of them myself<ins title=\"added by hand\">,</ins>--and the man who wears the button of the Grand Army.    I thank you very much for your courtesy and am delighted to see you (Applause).",
+"<span class=\"tnote\">A short word after &quot;and&quot; is inked out by hand and &quot;ing&quot; is written above to make &quot;saying&quot;. The commas before the dashes after &quot;arms&quot; and &quot;myself&quot; appear to be in ink. A small ink tick over the b of &quot;beyond&quot; and above &quot;Army&quot; does not change the words.</span>"
+],
+"notes": [
+"A short word after \"and\" is inked out by hand and \"ing\" is written above to make \"saying\". The commas before the dashes after \"arms\" and \"myself\" appear to be in ink. A small ink tick over the b of \"beyond\" and above \"Army\" does not change the words."
+],
+"file": "transcriptions/1902-09-06-midland-city.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 128,
+"unique_words": 85,
+"sentences": 5,
+"avg_sentence": 25.6,
+"minutes": 1,
+"i_count": 6,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-06-newark",
@@ -7531,10 +7683,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 102,
+"paragraphs": [
+"I shall not attempt to make a set speech to you. I shall merely say what a pleasure it is to be greeted by you. I am to come back to Ohio. Now I am merely on my way down to the meeting of the Firemen's Association at Chattanooga. I have always been rather fond of the railroad men. I want to thank you for coming, and I know the rest of you won't grudge my saying that I wish to thank particularly the men of the great war, the veterans, for coming to greet me. Good luck go with you. (Cheers.)"
+],
 "editions": [],
 "trc": [
 {
@@ -7556,13 +7710,40 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0688",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0688",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"I shall not attempt to make a set speech to you. I shall merely say what a pleasure it is to be greeted by you. I am to come back to Ohio. Now I am merely on my way down to the meeting of the Firemen's Association at Chattanooga. I have always been rather fond of the railroad men. I want to thank you for coming, and I know the rest of you won't grudge my saying that I wish to thank particularly the men of the great war, the veterans, for coming to greet me. Good luck go with you. (Cheers.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 12 (frame 424:0688)</span>",
+"I shall not attempt to make a set speech to you. I shall merely say what a pleasure it is to be greeted by you. I am to come back to Ohio.   Now I am merely on my way down to the meeting of the Firemen&#x27;s Association at Chattanooga.   I have always been rather fond of the railroad men.   I want to thank you for coming , and I know the rest of you won&#x27;t grudge my saying that I wish to thank particularly the men of the great war,the veterans, for coming to greet me. Good luck go with you.   (Cheers.)",
+"<span class=\"margin\">In the margin: 4 (large handwritten number at top centre)</span>\n<span class=\"tnote\">The e of &quot;set&quot;, the o of &quot;to greet&quot; and the o of &quot;you&quot; (last line) are typed over other letters; the final readings are given.</span>"
+],
+"notes": [
+"The e of \"set\", the o of \"to greet\" and the o of \"you\" (last line) are typed over other letters; the final readings are given."
+],
+"file": "transcriptions/1902-09-06-newark.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 102,
+"unique_words": 65,
+"sentences": 7,
+"avg_sentence": 14.6,
+"minutes": 1,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-06-washington-court-house",
@@ -8770,8 +8951,8 @@
 "waters",
 "works",
 "care",
-"glad",
 "worth",
+"glad",
 "war",
 "work"
 ],
@@ -12626,8 +12807,8 @@
 "complaint",
 "gospel",
 "failed",
-"prosperity",
-"president"
+"president",
+"prosperity"
 ],
 "stats": {
 "words": 2542,
@@ -12747,8 +12928,8 @@
 "schools",
 "tone",
 "quarters",
-"woman",
 "school",
+"woman",
 "teachers",
 "training",
 "sake"
@@ -13047,8 +13228,8 @@
 "tariff",
 "congress",
 "navy",
-"consideration",
 "corporations",
+"consideration",
 "islands",
 "system",
 "rural",
@@ -13166,8 +13347,8 @@
 "sword",
 "statesmanship",
 "homage",
-"fought",
 "supreme",
+"fought",
 "father",
 "justice"
 ],
@@ -15006,8 +15187,8 @@
 "reduction",
 "treaty",
 "market",
-"cuban",
-"interests"
+"interests",
+"cuban"
 ],
 "stats": {
 "words": 1975,
@@ -26025,8 +26206,8 @@
 "follow",
 "capital",
 "line",
-"fought",
 "entitled",
+"fought",
 "rich"
 ],
 "stats": {
@@ -28803,8 +28984,8 @@
 "clean",
 "younger",
 "example",
-"preaching",
 "society",
+"preaching",
 "admire",
 "boys",
 "young",
@@ -29575,7 +29756,7 @@
 "generation",
 "corruption",
 "justice",
-"address"
+"officer"
 ],
 "stats": {
 "words": 1179,
@@ -30687,8 +30868,8 @@
 "college",
 "boys",
 "life",
-"eleven",
 "ideal",
+"eleven",
 "school",
 "athletics",
 "physical",
@@ -30859,8 +31040,8 @@
 "battle",
 "rare",
 "civil",
-"armies",
-"war"
+"war",
+"armies"
 ],
 "stats": {
 "words": 2372,
@@ -31059,8 +31240,8 @@
 "forge",
 "valley",
 "saved",
-"commemorate",
 "effort",
+"commemorate",
 "crises",
 "crisis",
 "history",
@@ -31740,8 +31921,8 @@
 "german",
 "statue",
 "emperor",
-"kinship",
 "ambassador",
+"kinship",
 "blood",
 "germany",
 "hannibal",
@@ -32458,8 +32639,8 @@
 "form",
 "club",
 "supervision",
-"governmental",
 "government",
+"governmental",
 "control",
 "interstate",
 "business"
@@ -33320,8 +33501,8 @@
 "children",
 "family",
 "self-indulgence",
-"self-sacrifice",
 "mother",
+"self-sacrifice",
 "mothers",
 "woman's",
 "wife",
@@ -34283,11 +34464,11 @@
 ]
 },
 "distinctive": [
-"party",
 "power",
+"party",
 "questions",
-"frankest",
 "corporations",
+"frankest",
 "wheeled",
 "vehicles",
 "commerce",
@@ -36063,8 +36244,8 @@
 "cotton",
 "china",
 "chinese",
-"senator",
 "wealth",
+"senator",
 "boycott",
 "planter",
 "islands",
@@ -37843,8 +38024,8 @@
 "canal",
 "measures",
 "wealth",
-"opposition",
 "action",
+"opposition",
 "courage",
 "wrong",
 "evils",
@@ -37963,8 +38144,8 @@
 "thank",
 "speed",
 "guns",
-"trip",
-"gun"
+"gun",
+"trip"
 ],
 "stats": {
 "words": 1101,
@@ -38618,9 +38799,9 @@
 },
 "distinctive": [
 "departments",
-"ink",
-"recommendations",
 "methods",
+"recommendations",
+"ink",
 "bureaus",
 "work",
 "red",
@@ -39025,8 +39206,8 @@
 "crown",
 "steal",
 "sanity",
-"attack",
 "public",
+"attack",
 "discriminate"
 ],
 "stats": {
@@ -39675,7 +39856,7 @@
 "ashore",
 "civil",
 "everyday",
-"francisco"
+"average"
 ],
 "stats": {
 "words": 1843,
@@ -39807,8 +39988,8 @@
 "college",
 "graduating",
 "graduate",
-"woman",
 "success",
+"woman",
 "material",
 "race"
 ],
@@ -39959,8 +40140,8 @@
 "happiness",
 "admiral",
 "ideal",
-"mother",
 "family",
+"mother",
 "selfish",
 "self-respect",
 "bishop"
@@ -40677,8 +40858,8 @@
 "distinctive": [
 "isthmus",
 "engineer",
-"grand",
 "work",
+"grand",
 "realize",
 "ages",
 "army",
@@ -42412,8 +42593,8 @@
 "organization",
 "received",
 "union",
-"war",
-"right"
+"right",
+"war"
 ],
 "stats": {
 "words": 290,
@@ -43169,8 +43350,8 @@
 "glory",
 "disagreeable",
 "woman",
-"fought",
-"statue"
+"statue",
+"fought"
 ],
 "stats": {
 "words": 2780,
@@ -43975,8 +44156,8 @@
 "president",
 "dishonest",
 "wrongdoing",
-"wheeler",
 "poverty",
+"wheeler",
 "envy"
 ],
 "stats": {
@@ -44080,9 +44261,9 @@
 "master",
 "range",
 "commodities",
+"farmer",
 "homesteaders",
 "correspondent",
-"farmer",
 "actual"
 ],
 "stats": {
@@ -44199,8 +44380,8 @@
 "national",
 "interpreted",
 "canal",
-"centralization",
-"highway"
+"highway",
+"centralization"
 ],
 "stats": {
 "words": 3965,
@@ -44307,8 +44488,8 @@
 "democracy",
 "corporations",
 "affairs",
-"voyage",
 "regards",
+"voyage",
 "fleet"
 ],
 "stats": {
@@ -44510,8 +44691,8 @@
 "distinctive": [
 "mississippi",
 "judge",
-"williams",
 "justice",
+"williams",
 "river",
 "reactionary",
 "policy",
@@ -44591,9 +44772,9 @@
 "well-being",
 "policies",
 "wealth",
+"business",
 "property",
 "tennessee",
-"business",
 "crimes",
 "dishonesty"
 ],
@@ -44665,8 +44846,8 @@
 "presidents",
 "tennessee",
 "generation",
-"stuff",
 "change",
+"stuff",
 "blue",
 "gray"
 ],
@@ -45701,7 +45882,7 @@
 "session",
 "labor",
 "recognized",
-"interstate-commerce"
+"issued"
 ],
 "stats": {
 "words": 2585,
@@ -45999,8 +46180,8 @@
 "nations",
 "china",
 "peace",
-"military",
 "navy",
+"military",
 "treaties",
 "oppression",
 "measures"
@@ -46617,8 +46798,8 @@
 },
 "distinctive": [
 "grant",
-"sovereign",
 "act",
+"sovereign",
 "corporation",
 "reward",
 "ample",
@@ -46688,8 +46869,8 @@
 "mother",
 "evil",
 "grown",
-"qualities",
 "true",
+"qualities",
 "material"
 ],
 "stats": {
@@ -46760,8 +46941,8 @@
 "common",
 "career",
 "privilege",
-"family",
 "service",
+"family",
 "ideal"
 ],
 "stats": {
@@ -46869,8 +47050,8 @@
 "fleet",
 "monroe",
 "doctrine",
-"hit",
 "policy",
+"hit",
 "division",
 "opponent",
 "friction",
@@ -46954,7 +47135,7 @@
 "acquiescence",
 "taft's",
 "correspondence",
-"party"
+"nominated"
 ],
 "stats": {
 "words": 1499,
@@ -47661,9 +47842,9 @@
 "liberty",
 "imagination",
 "art",
+"head",
 "modem",
 "coin",
-"head",
 "conventional",
 "beautiful"
 ],
@@ -48603,8 +48784,8 @@
 "appointments",
 "spoils",
 "examination",
-"director",
 "selected",
+"director",
 "decennial",
 "politicians",
 "affiliations",
@@ -49702,9 +49883,9 @@
 "oratory",
 "citizen",
 "intellect",
-"orator",
 "inequality",
 "individualism",
+"orator",
 "weakness",
 "reward",
 "qualities"
@@ -50455,8 +50636,8 @@
 "blood",
 "empire",
 "ancestral",
-"fauna",
 "science",
+"fauna",
 "culture",
 "europe",
 "new"
@@ -53200,8 +53381,8 @@
 "distinctive": [
 "massachusetts",
 "applause",
-"laughter",
 "lorimer",
+"laughter",
 "court",
 "illinois",
 "taft",
@@ -53496,11 +53677,11 @@
 },
 "distinctive": [
 "tariff",
-"consumer",
 "business",
+"consumer",
 "platform",
-"commission",
 "control",
+"commission",
 "trusts",
 "primaries",
 "industrial",
@@ -53830,8 +54011,8 @@
 ]
 },
 "distinctive": [
-"applause",
 "wilson",
+"applause",
 "shot",
 "bullet",
 "friends",
