@@ -1,0 +1,18 @@
+---
+speech: 1903-05-29-echo
+title: Remarks of President Roosevelt at Echo, Utah, May 29, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0512
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0512
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 171 425:0512]
+
+[margin: File]
+
+My Friends and Fellow Citizens:
+
+It is a very great pleasure to meet all of you to-day. And as I am going home to my own family, I want to pay a special word of greeting to the men and women who came here with the babies in their arms. I have enjoyed to the full my trip through Utah to-day. I am struck whenever I come into your state with your prosperity and with the evidence that it has been [-[illegible]-][+won+] primarily because of the character of your men and women. (Applause) Utah was not a country to which people afraid to work would ever have come. You did not here come in to take possession of rich, well watered valley bottoms where the hand of man has but little to do. All of the prosperity you have had has been won b y the men and women who did the work; because you {appliedthrift|applied thrift}, intelligence, and water to the {spil|soil},[+—+] all three qualities. Water would not have amounted to anything without the thrift and intelligence. Because you did that you have made of this state what it is and put it upon a footing of stable and assured prosperity. I congratulate you upon the state, but I {congratuate|congratulate} you most upon yourselves. (Cheers {andapplause|and applause})
+
+[note: "won" is written by hand above a short struck word that cannot be read. A hand stroke follows "watered" (no word change). The dash after "soil," appears to be added by hand. Letters struck over on the typewriter ("work", "prosperity" on the sixth line, "bottoms", "men") are given in their final reading.]
