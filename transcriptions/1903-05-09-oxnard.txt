@@ -1,0 +1,21 @@
+---
+speech: 1903-05-09-oxnard
+title: Remarks of President Roosevelt at Oxnard, California, May 9, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 382
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0382
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 110 425:0382]
+
+[margin: File]
+
+{Ladi esand|Ladies and} gentlemen:
+
+I wish to say what a great pleasure it had been to be here to-day, and to see the tangible evidence of the extraordinary industry that has been started here within the last five years. It has been the greatest pleasure. I am not surprised at it, because the last two days in California have taught me not to be surprised at anything; [-and-][+And+] [+I am glad+] to see what has been done by your beet {c ulture|culture}, fruit culture of {ev ery|every} kind, irr[?i?]gation, and tilling of the soil[+.+] [-I am not as surprised as I otherwise should be at the astounding success you are making of this country.-] (Applause)
+
+[note: Folio "110" written by hand at top. "File" written by hand at upper left with a flourish.]
+[note: After "anything" the typed semicolon is circled by hand, and the "a" of "and" is overwritten with a capital A (marked with a triple underline and "A" beneath), so the corrected reading is "anything. And I am glad to see". "I am glad" is written above the line by hand. A circled period is added by hand after "soil".]
+[note: The last two typed lines ("I am not ... this country.") are struck through by hand with a heavy line; the struck words are read through the stroke and are not fully certain, especially "astounding".]
+[note: In "irrigation" the second "i" appears to be typed over another letter (it looks like "irrágation"); final reading uncertain.]

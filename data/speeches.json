@@ -1872,13 +1872,13 @@
 "distinctive": [
 "statehood",
 "westward",
-"colorado",
 "commonwealths",
 "unity",
+"colorado",
 "alleghanies",
 "continent",
-"spread",
 "union",
+"spread",
 "older"
 ],
 "stats": {
@@ -2029,8 +2029,8 @@
 "distinctive": [
 "pioneers",
 "barbarism",
-"blunders",
 "law",
+"blunders",
 "wilfully",
 "civilization",
 "duty",
@@ -6921,8 +6921,8 @@
 "laughter",
 "applause",
 "school",
-"abraham",
 "courage",
+"abraham",
 "preaching",
 "decency",
 "lincoln"
@@ -7629,8 +7629,8 @@
 "wheeling",
 "levees",
 "period",
-"change",
 "dam",
+"change",
 "industrial",
 "advocating",
 "mississippi",
@@ -7895,8 +7895,8 @@
 "weapons",
 "citizenship",
 "victory",
-"win",
 "won",
+"win",
 "wore"
 ],
 "stats": {
@@ -9340,8 +9340,8 @@
 "waters",
 "works",
 "care",
-"worth",
 "war",
+"worth",
 "glad",
 "work"
 ],
@@ -10315,13 +10315,13 @@
 "carolina",
 "laws",
 "develop",
-"north",
 "building",
+"north",
 "section",
 "prosperity",
 "advantage",
-"fellow",
-"chance"
+"chance",
+"fellow"
 ],
 "stats": {
 "words": 647,
@@ -10453,7 +10453,7 @@
 "forefathers",
 "valiant",
 "decency",
-"government"
+"honesty"
 ],
 "stats": {
 "words": 2337,
@@ -11125,8 +11125,8 @@
 "mighty",
 "future",
 "war",
-"fought",
 "prosperity",
+"fought",
 "peace",
 "country"
 ],
@@ -11418,8 +11418,8 @@
 "indiana",
 "delivery",
 "resources",
-"change",
 "closer",
+"change",
 "destroy",
 "industrial",
 "consequence",
@@ -11755,8 +11755,8 @@
 "policy",
 "partisanship",
 "readjustment",
-"business",
 "standpoint",
+"business",
 "abroad"
 ],
 "stats": {
@@ -13617,10 +13617,10 @@
 "tariff",
 "congress",
 "navy",
-"consideration",
 "corporations",
-"islands",
+"consideration",
 "system",
+"islands",
 "conditions",
 "reciprocity"
 ],
@@ -14455,8 +14455,8 @@
 "stride",
 "efficiency",
 "play",
-"applause",
 "theory",
+"applause",
 "peace",
 "building",
 "highest"
@@ -14988,8 +14988,8 @@
 "university",
 "vigorous",
 "universities",
-"applause",
 "manly",
+"applause",
 "college",
 "training",
 "woman",
@@ -16068,8 +16068,8 @@
 "distinctive": [
 "minnesota",
 "typical",
-"stock",
 "flag",
+"stock",
 "applause",
 "glad",
 "american",
@@ -16377,7 +16377,7 @@
 "hard",
 "women",
 "worth",
-"believe"
+"work"
 ],
 "stats": {
 "words": 547,
@@ -16872,11 +16872,11 @@
 "change",
 "law",
 "improvement",
-"applause",
 "help",
+"applause",
 "system",
-"cheers",
 "easy",
+"cheers",
 "laws"
 ],
 "stats": {
@@ -17218,9 +17218,9 @@
 "agriculture",
 "wage-worker",
 "growers",
-"tiller",
 "million",
 "employer",
+"tiller",
 "wheat",
 "farm",
 "labor"
@@ -17320,8 +17320,8 @@
 },
 "distinctive": [
 "greet",
-"future",
 "glad",
+"future",
 "state"
 ],
 "stats": {
@@ -19629,8 +19629,8 @@
 "cheers",
 "pioneers",
 "regions",
-"water",
 "state",
+"water",
 "agricultural"
 ],
 "stats": {
@@ -20054,9 +20054,9 @@
 "nebraska",
 "help",
 "hardihood",
-"qualities",
 "law",
 "courage",
+"qualities",
 "congratulate"
 ],
 "stats": {
@@ -20172,8 +20172,8 @@
 "irrigation",
 "fool",
 "weakling",
-"brave",
 "qualities",
+"brave",
 "decent"
 ],
 "stats": {
@@ -20779,8 +20779,8 @@
 "proudest",
 "envy",
 "law",
-"citizenship",
 "lives",
+"citizenship",
 "train",
 "father",
 "teach",
@@ -21635,9 +21635,9 @@
 "mother",
 "children",
 "sake",
-"pleasure",
 "lesson",
-"father"
+"father",
+"pleasure"
 ],
 "stats": {
 "words": 1314,
@@ -22131,8 +22131,8 @@
 "iowa",
 "play",
 "climate",
-"applause",
 "preaching",
+"applause",
 "children",
 "congratulate",
 "secretary",
@@ -22671,8 +22671,8 @@
 "applause",
 "win",
 "principle",
-"evening",
 "wanted",
+"evening",
 "left",
 "general",
 "brother",
@@ -23232,8 +23232,8 @@
 "base",
 "congratulate",
 "well-being",
-"future",
 "prosperity",
+"future",
 "material",
 "children",
 "right"
@@ -23560,8 +23560,8 @@
 "foundation",
 "building",
 "memory",
-"applause",
 "soul",
+"applause",
 "greet",
 "material",
 "true",
@@ -24131,10 +24131,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 242,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I am glad to see you this evening. I have now traveled from the eastern well-nigh to the western border of your great and beautiful state, and much though I have always thought of it, I think I appreciate even better than ever before its great possibilities, its splendid agricultural future, and the change in industri [?]al development in more than one direction. I appreciate that more than ever before. There was one thing that I did not need to learn, and that is to appreciate your men and women. Your people I have known for a number of years. I lived out west in the short grass country myself, farther north in the Dakotas, when I ran a cattle herd up there, so I was fairly familiar with the stock business at that time. I want to say that when I began the business the cattle were all horns and tails. You have got a great improvement in livestock since I was in the business. These animals that I see along the track, I would have thought came from the far east in my day. It makes me feel at home to be out here among you, and I want to thank the citizens of Sharon Springs in advance, because I am going to spend Sunday here.. I want to thank you cordially for coming here, and especially to thank those who brought their children. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -24156,13 +24159,55 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 350",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0350",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"I am glad to see you this evening. I have now traveled from the eastern well-nigh to the western border of your great and beautiful state, and much though I have always thought of it, I think I appreciate even better than ever before its great possibilities, its splendid agricultural future, and the change in industri [?]al development in more than one direction. I appreciate that more than ever before. There was one thing that I did not need to learn, and that is to appreciate your men and women. Your people I have known for a number of years. I lived out west in the short grass country myself, farther north in the Dakotas, when I ran a cattle herd up there, so I was fairly familiar with the stock business at that time. I want to say that when I began the business the cattle were all horns and tails. You have got a great improvement in livestock since I was in the business. These animals that I see along the track, I would have thought came from the far east in my day. It makes me feel at home to be out here among you, and I want to thank the citizens of Sharon Springs in advance, because I am going to spend Sunday here.. I want to thank you cordially for coming here, and especially to thank those who brought their children. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 51 (frame 425:0350)</span>",
+"Ladies and Gentlemen:",
+"I am glad to see you this evening. I have now traveled from the eastern well-nigh to the western border of your great and beautiful state, and much though I have always thought of it, I think I appreciate even better than ever before its great possibilities, its splendid agricultural future, and the change in industr<span class=\"unc\" title=\"uncertain reading\">i</span>al development in more than one direction. I appreciate that more than ever before. There was one thing that I did not need to learn, and that is to appreciate your men and women. Your people I have known for a number of years. I lived out west in the short grass country myself,farther north in the Dakotas, when I ran a cattle herd up there, so I was fairly familiar with the stock business at that time. I want to say that when I began the business the cattle were all horns and tails. You have got a great improvement in livestock since I was in the business. These animals that I see along the track, I would have thought <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> came from the far east in my day. It makes me feel at home to be out here among you, and I want to thank the citizens of Sharon Springs in advance, because I am going to spend Sunday here. <del title=\"struck through\"><span class=\"illeg\">[illegible]</span> <span class=\"unc\" title=\"uncertain reading\">Sunday night</span> <span class=\"illeg\">[illegible]</span></del>. I want to thank you cordially for coming here, and especially to thank those who brought their children. (Cheers and applause.)",
+"<span class=\"tnote\">Speech is on the right half of the frame. &quot;now&quot; has its last letter struck over with a slash-like mark; reading taken as &quot;now&quot;. In &quot;industr<span class=\"unc\" title=\"uncertain reading\">i</span>al&quot; an i and an e appear typed over one another.</span>\n<span class=\"tnote\">The word after &quot;thought&quot; is blotted out in ink, and almost three typed lines after &quot;Sunday here.&quot; are struck through with heavy ink lines; the words under them cannot be read except possibly &quot;Sunday night&quot; in the first struck line.</span>"
+],
+"notes": [
+"Speech is on the right half of the frame. \"now\" has its last letter struck over with a slash-like mark; reading taken as \"now\". In \"industri [?]al\" an i and an e appear typed over one another.",
+"The word after \"thought\" is blotted out in ink, and almost three typed lines after \"Sunday here.\" are struck through with heavy ink lines; the words under them cannot be read except possibly \"Sunday night\" in the first struck line."
+],
+"file": "transcriptions/1903-05-02-sharon-springs.txt"
+},
+"text_source": "typescript",
+"themes": [
+"farming"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"appreciate",
+"thank",
+"business"
+],
+"stats": {
+"words": 242,
+"unique_words": 137,
+"sentences": 11,
+"avg_sentence": 22.0,
+"minutes": 2,
+"i_count": 19,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-02-st-marys",
@@ -24176,10 +24221,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 27,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I am very glad to catch even this glimpse of you. I greet you and wish you well in your great work of education."
+],
 "editions": [],
 "trc": [
 {
@@ -24201,13 +24249,43 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 335",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0335",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"I am very glad to catch even this glimpse of you. I greet you and wish you well in your great work of education."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 23 (frame 425:0335)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Ladies and Gentlemen:",
+"I am very glad to catch even this glimpse of you. I greet you and wish you well in your great work of education.",
+"<span class=\"tnote\">Speech is on the right half of the frame; the Wamego remarks follow it on the same page and are not transcribed here. A faint comma-like mark sits after &quot;your&quot; (possibly a stray or struck comma); not taken as part of the text.</span>"
+],
+"notes": [
+"Speech is on the right half of the frame; the Wamego remarks follow it on the same page and are not transcribed here. A faint comma-like mark sits after \"your\" (possibly a stray or struck comma); not taken as part of the text."
+],
+"file": "transcriptions/1903-05-02-st-marys.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 27,
+"unique_words": 22,
+"sentences": 2,
+"avg_sentence": 13.5,
+"minutes": 1,
+"i_count": 2,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-02-victoria",
@@ -24266,10 +24344,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 393,
+"paragraphs": [
+"My Fellow Citizens:",
+"It is a great pleasure to me to come out and greet you to -day. Since yesterday afternoon I have been traveling through Kansas from east to west. Now I am [?] out into the short-grass country which I know of old, for in the old days I worked, myself, on the range. I have enjoyed meeting your people. It has been a great pleasure to me to mark the extraordinary growth not merely in your industries and products, but in your methods of applying your industries. The change, for instance, during the last twenty years when I first went into business on the plains, in the spread of alfalfa is alone often enough to make the exact difference between success and failure in a year in a given locality. So the change in your stock, as I see it from the car window, is marvelous. The older ones among you can remember well when the steer used to be almost all horns and tail. The same change has come in our knowledge of what we can do. It took quite a time in a good many of these states to learn that we could not always raise wheat where we could raise cattle, and the experience was not pleasant in learning it. Now most of those experiments have been tried and we have got pretty well to know what we can do and what we cannot do, and because of that there is a great future for the west, greater even than its great past, and most of all I believe it because I have confidence in the people here. I know them; I have worked with them, and have seen what they can do; I know their qualities; and they will win because they have in them the stuff out of which good citizenship is made, because they have in them the quality that makes a man wrest success out of adverse fortune in this life. The things that come easy are generally not worth having. I do not know of anything that there is lying around loose except advice. Almost everything else you have got to work for. If a man looks back to his past he will find that what he prizes is when he had to do a job that was worth doing when done. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -24291,13 +24372,45 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 349",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0349",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Fellow Citizens:",
+"It is a great pleasure to me to come out and greet you to -day. Since yesterday afternoon I have been traveling through Kansas from east to west. Now I am [?] out into the short-grass country which I know of old, for in the old days I worked, myself, on the range. I have enjoyed meeting your people. It has been a great pleasure to me to mark the extraordinary growth not merely in your industries and products, but in your methods of applying your industries. The change, for instance, during the last twenty years when I first went into business on the plains, in the spread of alfalfa is alone often enough to make the exact difference between success and failure in a year in a given locality. So the change in your stock, as I see it from the car window, is marvelous. The older ones among you can remember well when the steer used to be almost all horns and tail. The same change has come in our knowledge of what we can do. It took quite a time in a good many of these states to learn that we could not always raise wheat where we could raise cattle, and the experience was not pleasant in learning it. Now most of those experiments have been tried and we have got pretty well to know what we can do and what we cannot do, and because of that there is a great future for the west, greater even than its great past, and most of all I believe it because I have confidence in the people here. I know them; I have worked with them, and have seen what they can do; I know their qualities; and they will win because they have in them the stuff out of which good citizenship is made, because they have in them the quality that makes a man wrest success out of adverse fortune in this life. The things that come easy are generally not worth having. I do not know of anything that there is lying around loose except advice. Almost everything else you have got to work for. If a man looks back to his past he will find that what he prizes is when he had to do a job that was worth doing when done. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 49 (frame 425:0349)</span>",
+"My Fellow Citizens:",
+"It is a great pleasure to me to come out <span class=\"sic\" title=\"reads: and\">snd</span> greet you to -day. Since yesterday afternoon I have been traveling through <span class=\"sic\" title=\"reads: Kansas\">Kasas</span> from east to west. Now I <span class=\"unc\" title=\"uncertain reading\">am</span> out into the s<ins title=\"added by hand\">h</ins>ort-grass country which I know of old, for in the old days I worked, myself, on the range. I have enjoyed meeting your people. It has been a great pleasure to me to mark the extraordinary growth not merely in your industries and products, but in your methods of applying your industries. The change, for instance, during the last twenty years when I first went into business on the plains, in the spread of alfalfa is alone often enough to make the exact difference between success and failure in a year in a given locality. So the change in your stock, as I see it from the car window, is marvelous. The older ones among you can remember well when the steer used to be almost all horns and tail. The same change has come in our <span class=\"sic\" title=\"reads: knowledge\">knownedge</span> of what we can do . It took quite a time in a good many of these <span class=\"sic\" title=\"reads: states\">st ates</span> to learn that we could not always raise wheat where we could raise cattle, and the experience was not pleasant in learning it. Now most of those experiments have been tried and we have got pretty well to know what we can do and what we cannot do, and because of that there is a great future for the west, greater even than its great past, and most of all I <span class=\"sic\" title=\"reads: believe it\">believeit</span> because I have confidence in the people here. I know them; I have worked with them, and have seen what they can do; I know their qualities ; and they will win because they have in them the stuff out of which good citizenship is made, because they have in them the quality that makes a man wrest success <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">from</span></del> out of adverse fortune in this life. The things that come easy are generally not worth having. I do not know of anything <span class=\"sic\" title=\"reads: that\">t hat</span> there is lying around loose except advice. Almost everything else you have got to work for. If a man looks back to his past he will find that what he prizes is when he had to do a job that was worth doing <span class=\"sic\" title=\"reads: when done\">whendone</span>. (Applause)",
+"<span class=\"tnote\">Speech is on the right half of the frame. Many letters are typed over others (e.g. &quot;traveling&quot;, &quot;our&quot;, &quot;experiments&quot;, &quot;Since&quot;); final readings given. The word read as &quot;am&quot; in &quot;I am out&quot; is heavily overstruck and could also be read as typed x&#x27;s.</span>\n<span class=\"tnote\">The word after &quot;success&quot; is x-ed out on the typewriter (appears to be &quot;from&quot;). The &quot;h&quot; in &quot;short-grass&quot; is added by hand above a caret. A handwritten mark like a &quot;d&quot; is drawn at the junction of &quot;when&quot; and &quot;done&quot;, apparently a proofreading mark separating the two words.</span>"
+],
+"notes": [
+"Speech is on the right half of the frame. Many letters are typed over others (e.g. \"traveling\", \"our\", \"experiments\", \"Since\"); final readings given. The word read as \"am\" in \"I am out\" is heavily overstruck and could also be read as typed x's.",
+"The word after \"success\" is x-ed out on the typewriter (appears to be \"from\"). The \"h\" in \"short-grass\" is added by hand above a caret. A handwritten mark like a \"d\" is drawn at the junction of \"when\" and \"done\", apparently a proofreading mark separating the two words."
+],
+"file": "transcriptions/1903-05-02-wakeeney.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"change"
+],
+"stats": {
+"words": 393,
+"unique_words": 194,
+"sentences": 16,
+"avg_sentence": 24.6,
+"minutes": 3,
+"i_count": 13,
+"we_count": 6
+}
 },
 {
 "id": "1903-05-02-wamego",
@@ -24701,8 +24814,8 @@
 "places": []
 },
 "distinctive": [
-"colorado",
 "tracts",
+"colorado",
 "water",
 "farms",
 "irrigation",
@@ -24734,10 +24847,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 182,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I want to say what a pleasure it has been to me to be coming through Colorado to-day. I have visited Colorado before, on business and on pleasure. Now I am going through the state as President, and it has been a very genuine pleasure to come here and to see you, my fellow-citizens. It is a pleasure to see what has been done industrially and agriculturally by your people, to see the upgrowth of cities such as Pueblo, to see what has been done by you in irrigation, and I am thankful to say that now the national government will aid in the irrigation work. While I believe in what you produce, in your crops, in your natural resources, I believe especially in your men and women.(Applause.) I [?] have absolute confidence in the future of this state for the same reason that I have absolute confidence in the future of the nation, because I have absolute confidence in the type of American citizenship that we have here.(Applause.) I wish you well with all my heart. (Applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -24759,13 +24875,49 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 359",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0359",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"I want to say what a pleasure it has been to me to be coming through Colorado to-day. I have visited Colorado before, on business and on pleasure. Now I am going through the state as President, and it has been a very genuine pleasure to come here and to see you, my fellow-citizens. It is a pleasure to see what has been done industrially and agriculturally by your people, to see the upgrowth of cities such as Pueblo, to see what has been done by you in irrigation, and I am thankful to say that now the national government will aid in the irrigation work. While I believe in what you produce, in your crops, in your natural resources, I believe especially in your men and women.(Applause.) I [?] have absolute confidence in the future of this state for the same reason that I have absolute confidence in the future of the nation, because I have absolute confidence in the type of American citizenship that we have here.(Applause.) I wish you well with all my heart. (Applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 66 (frame 425:0359)</span>",
+"<span class=\"sic\" title=\"reads: Ladies and\">Ladiesan d</span> Gentlemen:",
+"I want to say what a pleasure it has been to me to be coming through Colorado to-day. I have visited Colorado before, on business and on pleasure. Now I am going through the state as President, and it has been a very genuine pleasure to come here and to see you,my fellow-citizens. It is a pleasure to see what has been done industrially and agriculturally by your people, to see the upgrowth of cities such as Pueblo, to see what has been done by you in irrigation, and I am thankful to say that now the national government will aid in the irrigation work. While I believe in what you produce , in your crops, in your natural resources, I believe especially in your men and women.(Applause.) <span class=\"unc\" title=\"uncertain reading\">I</span> have absolute confidence in the future of this state for the same reason that I <del title=\"struck through\"><span class=\"illeg\">[illegible]</span>xxxxx</del> have absolute confidence in the future of the nation, because I have absolute confidence in the type of American citizenship that we have here.(Applause.) <del title=\"struck through\">xx</del> I wish you well with all my heart. (Applause.)",
+"<span class=\"tnote\">Speech is on the left half of the frame. The I beginning &quot;I have absolute confidence&quot; is typed over another character (looks like O). After &quot;reason that I&quot; a run of typed letters is x-ed out on the typewriter; the underlying letters cannot be read with certainty. Before &quot;I wish&quot; a short typed word (two letters) is x-ed out. &quot;absolute&quot; (second occurrence) is typed over other letters.</span>"
+],
+"notes": [
+"Speech is on the left half of the frame. The I beginning \"I have absolute confidence\" is typed over another character (looks like O). After \"reason that I\" a run of typed letters is x-ed out on the typewriter; the underlying letters cannot be read with certainty. Before \"I wish\" a short typed word (two letters) is x-ed out. \"absolute\" (second occurrence) is typed over other letters."
+],
+"file": "transcriptions/1903-05-04-cuchara-junction.txt"
+},
+"text_source": "typescript",
+"themes": [
+"conservation"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"confidence",
+"absolute",
+"pleasure",
+"applause"
+],
+"stats": {
+"words": 182,
+"unique_words": 88,
+"sentences": 5,
+"avg_sentence": 36.4,
+"minutes": 1,
+"i_count": 10,
+"we_count": 1
+}
 },
 {
 "id": "1903-05-04-el-moro",
@@ -24779,10 +24931,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 108,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"It has been a great pleasure to me to get into Colorado to-day. I had to get up this morning at six, because I had some friends including two members of my regiment who met me at the first station at half past six. Now I have met three more. I have been meeting some of the boys who were down at [?] Santiago. I want to say what a pleasure it has been to have you come to greet me. When I get here in the west I feel thoroughly at home. I know you, and I believe in you with all my heart. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -24804,13 +24959,48 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 359",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0359",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"It has been a great pleasure to me to get into Colorado to-day. I had to get up this morning at six, because I had some friends including two members of my regiment who met me at the first station at half past six. Now I have met three more. I have been meeting some of the boys who were down at [?] Santiago. I want to say what a pleasure it has been to have you come to greet me. When I get here in the west I feel thoroughly at home. I know you, and I believe in you with all my heart. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 67 (frame 425:0359)</span>",
+"Ladies and Gentlemen:",
+"It has been a great pleasure to me to get into Colorado to-day. I had to get up this morning at six, because I had some friends including two members of <del title=\"struck through\">xxx</del><ins title=\"added by hand\">my</ins> regiment who met me at the first station at half past <span class=\"sic\" title=\"reads: six\">si x</span>. Now I have met three more. I have been meeting some of the boys who were down <span class=\"unc\" title=\"uncertain reading\">at</span> Santiago. I want to say what a pleasure it has been to have you come to greet me. When I get here in the west I feel thoroughly at home. I know you, and I believe in you with all my heart. (Applause)",
+"<span class=\"tnote\">Speech is on the right half of the frame. &quot;my&quot; is typed above the line over an x-ed out word. &quot;down&quot; and the following &quot;at&quot; are typed over other characters (the &quot;at&quot; looks like it is struck over &quot;&amp;&quot;); &quot;it&quot; and &quot;been&quot; in &quot;it has been&quot; are also overtyped.</span>"
+],
+"notes": [
+"Speech is on the right half of the frame. \"my\" is typed above the line over an x-ed out word. \"down\" and the following \"at\" are typed over other characters (the \"at\" looks like it is struck over \"&\"); \"it\" and \"been\" in \"it has been\" are also overtyped."
+],
+"file": "transcriptions/1903-05-04-el-moro.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "santiago",
+"name": "Santiago and San Juan Hill",
+"count": 1
+}
+]
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 108,
+"unique_words": 66,
+"sentences": 7,
+"avg_sentence": 15.4,
+"minutes": 1,
+"i_count": 9,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-04-palmer-lake",
@@ -24869,10 +25059,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 108,
+"paragraphs": [
+"My Friends:",
+"It is a great pleasure to be here and to see you. I have been traveling through Colorado all day and have enjoyed to the full getting back here. I believe in Colorado's future; I believe in her mines; in what can be done by irrigation with her fields; in her ranches; but I believe most of all in Colorado's men and women. (Cheers and applause) I like you; I know you, and I think you are all right. (Applause) It does me good to get back into this Rocky Mountain country again. I thank you very much for coming to see me. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -24894,13 +25087,45 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 360",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0360",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends:",
+"It is a great pleasure to be here and to see you. I have been traveling through Colorado all day and have enjoyed to the full getting back here. I believe in Colorado's future; I believe in her mines; in what can be done by irrigation with her fields; in her ranches; but I believe most of all in Colorado's men and women. (Cheers and applause) I like you; I know you, and I think you are all right. (Applause) It does me good to get back into this Rocky Mountain country again. I thank you very much for coming to see me. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 68 (frame 425:0360)</span>",
+"My Friends:",
+"It is a great pleasure to be here and to see you. I have been traveling through Colorado all day and have enjoyed to the full getting back here. I believe in Colorado&#x27;s future; I believe in her mines; in what can be done by irrigation with her fields; in her ranches; but I believe most of all in Colorado&#x27;s men and women. (Cheers and applause) I like you; I know you, and I think you are all right. (Applause) It does me good to get back into this Rocky Mountain country again. I thank you<del title=\"struck through\">xxxx</del> <ins title=\"added by hand\">very</ins> much for coming to see me. (Cheers and applause)",
+"<span class=\"tnote\">Speech is on the left half of the frame. &quot;very&quot; is typed above the line over a word x-ed out on the typewriter. &quot;Friends&quot;, &quot;Colorado&#x27;s&quot; (first) and &quot;to&quot; (in &quot;good to get&quot;) are typed over other letters; final readings given.</span>"
+],
+"notes": [
+"Speech is on the left half of the frame. \"very\" is typed above the line over a word x-ed out on the typewriter. \"Friends\", \"Colorado's\" (first) and \"to\" (in \"good to get\") are typed over other letters; final readings given."
+],
+"file": "transcriptions/1903-05-04-trinidad.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"believe"
+],
+"stats": {
+"words": 108,
+"unique_words": 67,
+"sentences": 4,
+"avg_sentence": 27.0,
+"minutes": 1,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-05-santa-fe",
@@ -25378,10 +25603,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 509,
+"paragraphs": [
+"My Fellow Citizens:",
+"It is a great pleasure to catch a glimpse of you this evening, and I thank you for coming here to greet me. I only wish it had been my good luck to be able to spend a longer time in Arizona, but I was limited by the force of what I had to do elsewhere, so that having but the day I thought I could not spend it more wisely than in visiting what I am tempted to call the greatest scenic feature of the kind in the world-- the Grand Canyon of the Colorado. It has been a great pleasure to be here in Arizona. I have taken of course the keenest interest in your development and progress ever since I drew a quarter of my regiment from Arizona. (Applause)",
+"There are surely here men who fought in the great war from '61 to '65, and those know what I think all of you will realize that no tie can be quite as close as the tie which binds a man to the others with whom he has marched, with whom he has lain in the trenches, with whom he has shared hardtacks (and was mighty glad to get them) and who have a claim on him that no other can have.",
+"I have enjoyed greatly passing through the country, but what I have enjoyed most has been seeing the people. I know your people. I know your men and women, and I believe in them with all my heart.",
+"A national measure that has recently been enacted by Congress will work good in many Rocky Mountain states and territories, but no where more than in Arizona; that is the national aid to irrigation. (Applause) Of the five experiments first undertaken by the national government the largest is to be undertaken in Arizona. (Applause) Government can do something by laws like that, but after all, my fellow citizens, men and women of Arizona, the determining factor in the success of any commonwealth must be the average citizenship of that commonwealth, just as the determining factor in the success of any man must be that man's own qualities. Law can do something. Honest, upright, fearless administration of the law can do more, but after all is said and done we need ever to keep before our minds that no law that the wit of man can devise ever made a fool wise, a coward brave, or",
+"a weakling strong, or ever made a community prosperous unless the average [?] citizenship of the community was such that it could prosper. (Applause) What law can do is to prevent injustice, and, so far as may be, to give to each man the chance to show the stuff that there is in him under the most favorable circumstances. (Applause) But if the stuff is not in him, you cannot get it out of him. I believe in the future of Arizona because I believe that you have the stuff in you, because I believe in your average citizenship. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -25403,13 +25635,72 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 368, 369",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0368",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Fellow Citizens:",
+"It is a great pleasure to catch a glimpse of you this evening, and I thank you for coming here to greet me. I only wish it had been my good luck to be able to spend a longer time in Arizona, but I was limited by the force of what I had to do elsewhere, so that having but the day I thought I could not spend it more wisely than in visiting what I am tempted to call the greatest scenic feature of the kind in the world-- the Grand Canyon of the Colorado. It has been a great pleasure to be here in Arizona. I have taken of course the keenest interest in your development and progress ever since I drew a quarter of my regiment from Arizona. (Applause)",
+"There are surely here men who fought in the great war from '61 to '65, and those know what I think all of you will realize that no tie can be quite as close as the tie which binds a man to the others with whom he has marched, with whom he has lain in the trenches, with whom he has shared hardtacks (and was mighty glad to get them) and who have a claim on him that no other can have.",
+"I have enjoyed greatly passing through the country, but what I have enjoyed most has been seeing the people. I know your people. I know your men and women, and I believe in them with all my heart.",
+"A national measure that has recently been enacted by Congress will work good in many Rocky Mountain states and territories, but no where more than in Arizona; that is the national aid to irrigation. (Applause) Of the five experiments first undertaken by the national government the largest is to be undertaken in Arizona. (Applause) Government can do something by laws like that, but after all, my fellow citizens, men and women of Arizona, the determining factor in the success of any commonwealth must be the average citizenship of that commonwealth, just as the determining factor in the success of any man must be that man's own qualities. Law can do something. Honest, upright, fearless administration of the law can do more, but after all is said and done we need ever to keep before our minds that no law that the wit of man can devise ever made a fool wise, a coward brave, or",
+"a weakling strong, or ever made a community prosperous unless the average [?] citizenship of the community was such that it could prosper. (Applause) What law can do is to prevent injustice, and, so far as may be, to give to each man the chance to show the stuff that there is in him under the most favorable circumstances. (Applause) But if the stuff is not in him, you cannot get it out of him. I believe in the future of Arizona because I believe that you have the stuff in you, because I believe in your average citizenship. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 85 (frame 425:0368)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"<span class=\"margin\">In the margin: <span class=\"unc\" title=\"uncertain reading\">M. C. L.</span> file</span>",
+"My Fellow Citizens:",
+"It is a great pleasure to catch a glimpse of you this evening, and I thank you for coming here to greet me. I only wish it had been my good luck to be able to spend a longer time in Arizona, but I was limited by the force of what I had to do elsewhere, so that having but the day I thought I could not spend it more wisely than in visiting what I am tempted to call the greatest scenic feature of the kind in the world-- the Grand Canyon of the Colorado. It has been a great pleasure to be here in Arizona. I have taken of course the keenest interest in your development and progress ever since I drew a quarter of my regiment from Arizona. (Applause)",
+"There are surely here men who fought in the great war from &#x27;61 to &#x27;65, and those know what I think all of you will realize that no tie can be quite as close as the tie which binds a man to the others with whom he has marched, with whom he has lain in the <span class=\"sic\" title=\"reads: trenches\">t renches</span>, with whom he has shared hardtacks <ins title=\"added by hand\">(</ins>and was mighty glad to get them<ins title=\"added by hand\">)</ins> and who have a claim on him that no other can have.",
+"I have enjoyed greatly passing through the country, but what I have enjoyed most has been seeing the people. I know your people. I know your men and women, and I believe in them with all my heart.",
+"A national measure that has recently been enacted by Congress will work good in many Rocky Mountain states and territories, but no where more than in Arizona; that is the national aid to irrigation. (Applause) Of the five experiments first undertaken by the national government the largest is to be undertaken in Arizona. (Applause) Government can do something by laws like that, but after all, my fellow citizens, men and women of Arizona, the determining factor in the success of any commonwealth must be the average citizenship of that commonwealth, just as the determining factor in the success of any man must be that man&#x27;s own qualities. Law can do something. Honest, upright, fearless administration of the law can do more, but after all is said and done we need ever to keep before our minds that no law that the wit of man can devise ever made a fool wise, a coward brave, or",
+"<span class=\"pb\">Page 86 (frame 425:0369)</span>",
+"a weakling strong, or ever made a community prosperous unless the <span class=\"unc\" title=\"uncertain reading\">average</span> citizenship of the community was such that it could prosper. (Applause) What law can do is to prevent injustice, and, so far as may be, to give to each man the chance to show the stuff that there is in him under the most favorable circumstances. (Applause) But if the stuff is not in him, you cannot get it out of him. I believe in the future of Arizona because I believe that you have the stuff in you, because I believe in your average citizenship. (Cheers and applause)",
+"<span class=\"tnote\">The speech is on the right half of frame 368 and the left half of frame 369 (folios 85-86; folio 86 also has the typed page number -2-). The end of &quot;Arizona&quot; in the heading is blotted. &quot;tempted&quot; and &quot;citizens&quot; are typed over other letters; final readings given.</span>\n<span class=\"tnote\">The parentheses around &quot;and was mighty glad to get them&quot; are added by hand, and an unclear hand mark (like a struck &quot;k&quot; or &quot;x&quot;) stands in the margin after &quot;hardtacks&quot;. Hand close-up marks join &quot;no&quot; and &quot;where&quot;. The pencil note at the top right, after the folio number, reads apparently &quot;M. C. L. file&quot;; &quot;File&quot; is also written at top left. &quot;average&quot; at the end of the first line of folio 86 is partly smudged.</span>"
+],
+"notes": [
+"The speech is on the right half of frame 368 and the left half of frame 369 (folios 85-86; folio 86 also has the typed page number -2-). The end of \"Arizona\" in the heading is blotted. \"tempted\" and \"citizens\" are typed over other letters; final readings given.",
+"The parentheses around \"and was mighty glad to get them\" are added by hand, and an unclear hand mark (like a struck \"k\" or \"x\") stands in the margin after \"hardtacks\". Hand close-up marks join \"no\" and \"where\". The pencil note at the top right, after the folio number, reads apparently \"M. C. L. file\"; \"File\" is also written at top left. \"average\" at the end of the first line of folio 86 is partly smudged."
+],
+"file": "transcriptions/1903-05-06-williams.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"citizenship"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "grand-canyon",
+"name": "The Grand Canyon",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"arizona",
+"applause",
+"stuff",
+"citizenship",
+"law",
+"average",
+"believe",
+"national"
+],
+"stats": {
+"words": 509,
+"unique_words": 215,
+"sentences": 11,
+"avg_sentence": 46.3,
+"minutes": 4,
+"i_count": 18,
+"we_count": 1
+}
 },
 {
 "id": "1903-05-07-redlands",
@@ -31166,10 +31457,10 @@
 "distinctive": [
 "utah",
 "ranges",
-"irrigation",
 "forest",
-"reserves",
+"irrigation",
 "land",
+"reserves",
 "agriculture",
 "irrigated",
 "over-grazing",
@@ -33139,9 +33430,9 @@
 "distinctive": [
 "university",
 "virginia",
+"literature",
 "mater",
 "alma",
-"literature",
 "crossed",
 "graduates",
 "roll",
@@ -33751,8 +34042,8 @@
 "civil",
 "victory",
 "gallant",
-"liberty",
 "new",
+"liberty",
 "union"
 ],
 "stats": {
@@ -35010,8 +35301,8 @@
 "negation",
 "peoples",
 "self-restraint",
-"produce",
 "freedom",
+"produce",
 "therefore",
 "responsibility",
 "government",
@@ -35216,7 +35507,7 @@
 "school",
 "physical",
 "athletics",
-"scorn"
+"ideals"
 ],
 "stats": {
 "words": 3529,
@@ -35381,8 +35672,8 @@
 "chiefs",
 "freedom",
 "rare",
-"battle",
 "war",
+"battle",
 "armies",
 "civil"
 ],
@@ -36765,8 +37056,8 @@
 "users",
 "trees",
 "famine",
-"industries",
 "sentiment",
+"industries",
 "preserved"
 ],
 "stats": {
@@ -37844,8 +38135,8 @@
 "children",
 "family",
 "self-indulgence",
-"self-sacrifice",
 "mother",
+"self-sacrifice",
 "mothers",
 "woman's",
 "wife",
@@ -38715,8 +39006,8 @@
 ]
 },
 "distinctive": [
-"colorado",
 "horse",
+"colorado",
 "regulatory",
 "rates",
 "corporations",
@@ -39054,7 +39345,7 @@
 "ships",
 "enlisted",
 "accident",
-"missouri"
+"practice"
 ],
 "stats": {
 "words": 1446,
@@ -39726,9 +40017,9 @@
 "distinctive": [
 "sober",
 "wage-worker",
+"help",
 "wages",
 "movement",
-"help",
 "self-respect",
 "welfare",
 "increase",
@@ -40434,7 +40725,7 @@
 "forests",
 "highways",
 "southern",
-"north"
+"power"
 ],
 "stats": {
 "words": 2433,
@@ -40861,8 +41152,8 @@
 "distinctive": [
 "canal",
 "interfere",
-"undertaken",
 "especial",
+"undertaken",
 "possess",
 "concerned",
 "accomplished",
@@ -41013,8 +41304,8 @@
 "semmes",
 "dig",
 "alabama",
-"isthmus",
 "navy",
+"isthmus",
 "ship",
 "panama",
 "ships",
@@ -43949,8 +44240,8 @@
 "report",
 "railroads",
 "commission",
-"secret",
 "commerce",
+"secret",
 "interstate",
 "discriminations",
 "examine"
@@ -44483,8 +44774,8 @@
 "happiness",
 "admiral",
 "ideal",
-"mother",
 "family",
+"mother",
 "selfish",
 "self-respect",
 "bishop"
@@ -44556,8 +44847,8 @@
 "disregards",
 "college",
 "intellect",
-"learning",
 "condemn",
+"learning",
 "boy",
 "prowess",
 "students",
@@ -44725,8 +45016,8 @@
 "government",
 "factor",
 "city",
-"injustice",
-"help"
+"help",
+"injustice"
 ],
 "stats": {
 "words": 1536,
@@ -45782,8 +46073,8 @@
 "places": []
 },
 "distinctive": [
-"rivers",
 "plan",
+"rivers",
 "transportation",
 "water",
 "connection",
@@ -46487,7 +46778,7 @@
 "officers",
 "murderous",
 "shot",
-"criminals"
+"soldiers"
 ],
 "stats": {
 "words": 4663,
@@ -46936,8 +47227,8 @@
 "organization",
 "received",
 "union",
-"war",
-"right"
+"right",
+"war"
 ],
 "stats": {
 "words": 290,
@@ -47432,8 +47723,8 @@
 "army",
 "lesson",
 "admiration",
-"served",
 "war",
+"served",
 "lot",
 "killed"
 ],
@@ -48281,8 +48572,8 @@
 "wolves",
 "writers",
 "tax",
-"animals",
 "wilderness",
+"animals",
 "animal",
 "fiction"
 ],
@@ -48604,8 +48895,8 @@
 "master",
 "actual",
 "commodities",
-"range",
 "settlers",
+"range",
 "homesteaders",
 "correspondent"
 ],
@@ -48832,8 +49123,8 @@
 "insult",
 "regards",
 "affairs",
-"fleet",
-"conditions"
+"conditions",
+"fleet"
 ],
 "stats": {
 "words": 3861,
@@ -49796,7 +50087,7 @@
 "public",
 "law",
 "securities",
-"company"
+"judge"
 ],
 "stats": {
 "words": 10501,
@@ -50001,8 +50292,8 @@
 "inland",
 "water",
 "rivers",
-"traffic",
 "report",
+"traffic",
 "river",
 "plan",
 "waterway",
@@ -50427,8 +50718,8 @@
 "grants",
 "dam",
 "charge",
-"navigable",
 "act",
+"navigable",
 "plans",
 "breach",
 "rainy",
@@ -50675,13 +50966,13 @@
 "commission",
 "interstate",
 "commerce",
-"steel",
 "corporations",
+"steel",
 "control",
 "legislation",
 "boston",
-"anti-trust",
-"law"
+"law",
+"anti-trust"
 ],
 "stats": {
 "words": 4303,
@@ -51283,8 +51574,8 @@
 "opportunity",
 "common",
 "career",
-"privilege",
 "service",
+"privilege",
 "family",
 "ideal"
 ],
@@ -51391,8 +51682,8 @@
 "distinctive": [
 "navy",
 "fleet",
-"monroe",
 "doctrine",
+"monroe",
 "policy",
 "hit",
 "division",
@@ -53306,7 +53597,7 @@
 "brother",
 "devotion",
 "mankind",
-"lived"
+"struggle"
 ],
 "stats": {
 "words": 1535,
@@ -55420,8 +55711,8 @@
 "struggle",
 "kansas",
 "welfare",
-"earned",
 "corporations",
+"earned",
 "political",
 "interests"
 ],
@@ -55507,7 +55798,7 @@
 "honest",
 "falsely",
 "violence",
-"rich"
+"honesty"
 ],
 "stats": {
 "words": 3400,
@@ -56158,7 +56449,7 @@
 "dinner",
 "illinois",
 "sake",
-"lawless"
+"face"
 ],
 "stats": {
 "words": 2682,
@@ -56533,8 +56824,8 @@
 "distinctive": [
 "realizable",
 "millionaire",
-"lectures",
 "money",
+"lectures",
 "ideal",
 "preach",
 "multi-millionaire",
@@ -57368,8 +57659,8 @@
 "court",
 "popular",
 "business",
-"courts",
 "justice",
+"courts",
 "decisions"
 ],
 "stats": {
@@ -58564,8 +58855,8 @@
 "historian",
 "science",
 "literature",
-"historians",
 "history",
+"historians",
 "literary",
 "imagination",
 "vivid",

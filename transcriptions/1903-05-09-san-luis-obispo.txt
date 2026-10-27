@@ -1,0 +1,20 @@
+---
+speech: 1903-05-09-san-luis-obispo
+title: Address of President Roosevelt at San Luis Obispo, California, May 9, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 388, 389
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0388
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 123 425:0388]
+
+[margin: File]
+
+Mr. Chairman; and you, My Fellow Citizens:
+
+It is indeed a great pleasure to have the chance of meeting you this afternoon. For three days now I have been traveling through your wonderful and beautiful state and I marvel[-[?ed?]-] at its fertility. I am not surprised to see you looking happy . I should be ashamed of you if you did not. (Applause)
+
+I know of this county in connection with certain [?w?]astern agricultural producers, for unless I mistake those who offered prizes for the largest vegetables and fruits of certain kinds have had to bar the products from this county, because they invariably won the prizes. (Applause) I know of one eastern producer who said that the products of this county would have to be barred, because he had spent already $500. in prizes to the county and had gotten back but $14. for seeds. I have forgotten all of the records that you have in the county. I know that the largest pumpkin, watermelon, and onion came from here, so that your agricultural products have made a name for themselves to be feared. Of course in stockraising and dairying the county stands equally prominent. I am glad to learn that the state of California is erecting here the polytechnic institute for giving all the scientific training in the arts of farm life. More and more our people have waked to the fact that farming is not only a practical, but a scientific pursuit, and that there should be the same chance for the tiller of the soil to make of his a learned {professi on|profession} that there is in any other business.
+
+For [-the[?xxxth?]-] three days I have been traveling through one of those regions of our {co untry|country} where the interests are agricultural and pastoral, where the tiller of the soil, the man who grows stock, who is engaged in agriculture, is the man whose interest[-[?s?]-] is {pr edominant|predominant}; and of {co urse|course} it is the merest truism to say that it is the earth tiller, the soil tiller, the man of the farms, the man of the ranches, who stands as the one citizen {indispen sable|indispensable} to the entire community. The welfare of the nation depends even more than upon the welfare of the wageworker upon the welfare of the home maker[-[?s?]-] of the country regions. I congratulate you people of California upon the evidence that you have grasped the fact which our people must grasp , that the legislation of the country must be shaped in the direction of promoting the interests of the man who has come on the soil to stay and to rear his children to take his place after him.
