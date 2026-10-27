@@ -1,0 +1,21 @@
+---
+speech: 1903-04-27-wahoo
+title: Speech of President Roosevelt at Wahoo, Nebr.,April 27,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0292
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0292
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 133 425:0292]
+
+[margin: [illegible] (handwritten letters with a check stroke, beside the heading)]
+
+My fellow-citizens:
+
+I have but a moment in which to greet you and to say how pleased I am to have the chance of catching this glimpse of you. I have enjoyed to the full travelling through your great and beautiful state. I cam into it on Saturday; I have passed through the capital and am now going to the eastern border-from the land of the ranches to the land of the farms, of the corn, the wheat, and the alfalfa. I congratulate you upon what you raise; but the best crop is the men and women after all.(Cheers and applause.) So I am particularly glad to {s see|see} the children. I believe in Nebraska [-xxxxxx-] and in its future, not only because of its soil, because of what it can raise, but most of all because I believe in the stamp of manhood and womanhood which it produces. Law can do something; the upright and honest administration of the law even more; but most of all for our betterment must be done by the average of the individual citizenship; by each man's strength, moral and physical; his [?hardihood?], his courage, and above all that group of qualities which we think of and associate together under the [-xxxxxxxxxxxxxxxxxxxx-] name of character. We cannot get on permanently unless we have in us the power to be decent and the power to be strong. I want to see good men, but I want to see men as well.(Cheers and applause.) I do not believe in the virtue that stays at home and does not do wrong because it is not tempted. I believe in the strength of mind and of morals that can go out into the great world and do its part without fear, without flinching. The man who counts is the man, not who shirks difficulties, but who overcomes them. And now with your children, in bringing them up, the man is a foolish man, the woman a foolish woman who seeks to bring up his or her children with the idea [-xx-] that they are to go through life softly and easily; that [-xxxx xxxxxxx-] it is kind to them to teach them to dodge, to be afraid of what is hard and rough. That was not the way that success was won by those who founded Nebraska; that success is won now by those on the farms, by those who run its business, who work in its shops. The men who count have been throughout the history of the world those who did the jobs worth doing; and a job that is worth doing is apt to be difficult. And so it is with your children. You can bring them up to be good citizens only on condition that you teach them how to overcome the inevitable roughness and harshness of life. (Cheers and applause.)
+
+[note: "{s see|see}": a stray "s" is typed at the end of the line before "see" on the next line.]
+[note: "[?hardihood?]": the fourth letter is overtyped (it reads like "hardthood") and has a hand mark above it.]
+[note: "difficulties": the "i" is typed over a "y".]
+[note: A hand stroke separates the run-together "men|as". The last nine lines of the page are typed at closer line spacing.]

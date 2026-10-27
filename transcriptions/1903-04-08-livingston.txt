@@ -1,0 +1,43 @@
+---
+speech: 1903-04-08-livingston
+title: Address of President Roosevelt at Livingston, Montana, April 8, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0275, 0276
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0275
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 99 425:0275]
+
+[margin: File]
+
+Mr. Mayor; Mr. Congressman; and you, my Fellow Citizens of this great State:
+
+I am glad indeed to be with you to-day; and deeply though I regret the absence of the Governor and its cause, let me say Mr. Chief {Justi ce|Justice}, that no man could fail to be touched and pleased in the highest degree by being met by the members of the Supreme Court of the State that he visits. For important though it is that the executive and legislative should go right, it is not merely important, it is vital to have the justiciary what it should be, what it is. Our {g overnment|government} stands for liberty under the law, and that is what the bench typifies.
+
+Coming here to see you I do not come as a stranger, at least I do not feel so, I feel as if I was coming home. Yesterday and this morning I have been traveling through the country that I know so well.[-[?and?]-] Montana has done very much for me, and I hope I am not ungrateful for it. It helped to train me. It is twenty years ago that I first came over the eastern border into what was then the territory of Montana; and for years [-[?my cattle rang?]-] I lived along the little Missouri where my cattle ranged in your state as well as in Dakota; for years I was a delegate from the Little Missouri stockmen to the Montana stockgrowers Association at Miles City, and I was just as sorry as I could be not to be able to pass through Miles City in daylight, for I have so often been there when I went on business and met the cattle men interested in business and met them from one end of your state to the other; and I know them too. It helped me, as I say, in many, many ways to be in your state. I have taken part in the life of your citizens in more than one direction. For instance, the knowledge that I got in traveling through and working in Montana, from association with the stockmen, from knowledge of the agricultural needs of the people around the head waters of the Little Missouri and its {t ributaries|tributaries} in the western part of the state -- that knowledge was one of the main [-xxxxxxx-] causes of my becoming so {co nvinced|convinced} that it was absolutely necessary for the national government to do its part in promoting irrigation in arid and semi-arid regions. (Cheers and applause) I felt that what the improvement of the rivers and harbors was for the humid regions, so the care of the water in the upper portions of the water courses was for the people of the Rocky Mountain states and the great plains. ( Applause)
+
+[pb 100 425:0275]
+
+-2-
+
+And there is no single act of legislation of the past Congress upon which I look back with greater satisfaction , or which I feel is of better augury for the future of our country than the irrigation law enacted by that Congress. (Applause)
+
+More than[+that+], gentlemen and ladies, it was the {ex perience|experience} that I had out here that was the [-[illegible]-][+main+] factor[-s-] in putting me into touch with men and events so that I got my regiment. (Cheers and applause) I wanted to have in that regiment the same type of man I had met on the plains, and in the mountains, and {inthe|in the} cow camps, because I knew him. I feel bound to[-[illegible]-] you by many ties -- to all the western people -- and in a sense particularly in this state which I know so well; this state with its literally boundless possibilities -- a state great now but to be infinitely greater in the future; with its mines, its cattle ranches, its agricultural regions and its extraordinary water power, a water power which will as the day follows the night make this state a great manufacturing state as well as a pastoral, and agricultural, and mining state. The diversification of your industries is great. Your products are many, of the mine, the cattle range, agriculture and to be of manufacturing; but the best product any state can have is the product of men and women. (Applause) I believe in you, not for what you produce, but for what you are. I am glad to see the men and women, and especially the children. (Applause)
+
+My fellow citizens, in making such prosperity as you have had several factors come in. Of course there must be the ground work of the favoring by nature, the favoring by Providence. Legislation can do something. Bad laws can harm the {wh ole|whole} thing. If you have bad legislation you cannot more than partially overcome the harm it does. Good laws can do something, but honest administration of the laws can do more. But most of all has to be done by the individual man for himself. (Applause)
+
+The reason that the pioneers were able to make of this state what it is -- and I am {addre ssing|addressing} the pioneers and the sons and successors of pioneers -- was {bcause|because} you {ca me|came} into the territory[+each+] resolute {tocarve|to carve} out his own fortune by his own right hand, with the help of a stout heart and a cool head. No legislation that ever was invented, none that the wit of man can ever devise, will make the fool wise, the coward brave,or the weakling strong. If you have not the right stuff in you,[-[?why?]-] it is not there to get out of you . (Cheers and applause)
+
+[pb 101 425:0276]
+
+-3-
+
+Law can help, law can do something, but the man's individual character, his power of working for himself, his power of working in conjunction with his fellows,[-[illegible]-] that is fundamentally the chief factor in the upbuilding of this nation, and must remain so. Our [-x-] constitution, our system of free government, have done much for us. But there are other countries with constitutions modeled on ours which yet have lagged far, far behind in the race of progress, of civilization, of stable and orderly government and industrial development, and they have done it because, though the weapons were the same, the man that wielded them was different. It is the man behind the gun that counts in a battle. It is the man behind the law that counts in civil life. Nothing will take the place of strength, honesty, and courage in the individual man. You have won and have made this state what it is, and you will make it far greater than even your fondest dreams now teach you it may be made, because of the stuff there is in you, because of the character you have.
+
+I am glad to be here. I am glad to greet you. I am on my way to try to get a fortnight's holiday. [-For the last eighteen months I have taken everything as it came, from coal strikes to [?trolley cars?], and [?I feel I am?] entitled to a fortnight to myself. [illegible] [?glad to greet you?]-]. I shall be back in your state later on. This is the first time I have visited it since I have become President. I have been here at intervals for the past twenty years, and I have known your citizens in many different relations. I congratulate you upon what you have done with your state. I thank you for your greeting, and I wish you well with all my heart. (Cheers and applause)
+
+[note: Hand corrections on p. 100: "that" written above after "More than"; a blotted-out word before "factor" with "main" written above and a caret; a stroke through the final "s" of "factors"; "each" written above with a caret after "territory". Words blotted out by hand and unreadable follow "bound to" and "you," ("why" is a guess for the latter).]
+[note: On p. 101 three typed lines, from "For the last eighteen months" to "glad to greet you", are struck through by hand with heavy lines and the start of the last line is further blotted; the words are given as far as they can be made out. A short mark after "fellows," is also blotted by hand.]
+[note: On p. 99 a hand slash follows "well", then a typed period and an x-ed out word that looks like "and". Other x-ed out typing: "[?my cattle rang?]" and "[-xxxxxxx-]" before "causes" (p. 99), "[-x-]" before "constitution" (p. 101).]
+[note: The last letter of "than" in "country than the irrigation law" (p. 100) is marked by hand. Letters are typed or inked over in "that the executive", "visits", "morning", "could", "more", "Cheers", "was for the humid", "does", "make", "remain", "civilization", "wielded", "strength" and "glad"; all read as given.]

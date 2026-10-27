@@ -1,0 +1,19 @@
+---
+speech: 1903-04-24-livingston
+title: Remarks of President Roosevelt at Livingston, Montana, April 24, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0279
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0279
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 107 425:0279]
+
+[margin: File / Not given out]
+
+Gentlemen and Ladies:
+
+I shall not try to talk to you. I shall merely say that I have had a most pleasant fortnight's holiday, and that I have enjoyed so much being in your great and beautiful state. In about a month I shall be back in the western part of it, and I look forward to [-[?returning?]-][+coming+] here again. Good night, and good luck[-[?s?]-] !(Applause)
+
+[note: "returning" is x-ed out on the typewriter; "coming" is typed above it and a hand caret marks the insertion.]
+[note: A hand stroke runs through the last letter after "luck" (apparently an "s"). "look" has an overtyped letter.]
