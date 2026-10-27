@@ -1,0 +1,15 @@
+---
+speech: 1902-04-10-branchville
+title: Remarks of President Roosevelt at Branchville, S.C., April 10,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0455
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0455
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 21 424:0455]
+
+I want to say how very much I have enjoyed my visit down here and how sincerely glad I am to come. You have received me as I knew you would. It has been the greatest possible pleasure and I thank you.
+
+[note: The speech is on the left half (a) of frame 0455, folio 21, below the Summerville remarks of April 9, 1902; the earlier page listing was off. Only the Branchville remarks are transcribed here.]
+[note: In the heading the "r" of "Remarks" and the "oo" of "Roosevelt" are faintly struck; the reading is clear.]
