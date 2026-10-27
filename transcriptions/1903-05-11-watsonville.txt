@@ -1,0 +1,23 @@
+---
+speech: 1903-05-11-watsonville
+title: Reamrks of President Roosevelt at Watsonville, California, May 11, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0390
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0390
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 127 425:0390]
+
+{MyFellow|My Fellow} Citizens:
+
+I have but a minute here, and I can only express to you my appreciation of your having come out to greet me. This is a great fruit center; California is a great fruit state, a great agricultural state, but above all California is a great state for Californians. (Applause)
+
+The thing that has {impressedme|impressed me} most in this country [-xx-] coming from the Atlantic to the Pacific is the essential oneness of our people, the fact that good Americans {ane|are} good Americans from Maine to California, from the Golden Gate to Sandy Hook. That is the important part.
+
+Glad though I am to see all your products, I want to congratulate you especially upon one-- the children. (Applause) I do not come here to teach; I come here to learn. It has done me good to be in your state and to meet your people. Until last week I had never been in California, and I go back an even better American than I came, and [-x-] I think I came out a fairly good [-xxxxxxxx-] one. Things that are truisms, that you expect as simply part of the natural order of [-xxxxxx-] events, need to be impressed upon our people as a whole. We need to understand the commanding position already occupied, and the infinitely more commanding position that will be occupied in the future by our nation on the Pacific. This,[-xx-] the greatest of all the oceans , is one which more and more during the century {kopening|opening} must pass under American influence; and as inevitably happens when a great effort comes it means that a great burden of responsibility {acompanies|accompanies} the effort. A nation cannot be great without paying the prize of greatness, and only a craven nation will object to paying that price.
+
+I believe in you, my countrymen; I believe in our people, and therefore I believe that they will dare to be great, therefore I believe they will hail the chance this century brings as one which it should rejoice a mighty and masterful people to have. And we can face the {futur e|future} with the assured confidence of success if only we face it in [-x-][+the+] spirit in which our fathers faced the problems of the past. (Cheers and applause)
+
+[margin: Fil (handwritten, with a stroke, at upper left)]
+[note: "the" before "spirit" is typed above the line over an x-ed out letter (probably "a"). Several letters are overtyped ("do not", "here", "came", "simply", "your") and read as given. "prize" (paying the prize of greatness) is typed so; the last letter could be read as "s" or "z". The first word of "{kopening|opening}" may be a stray typed "k". Some words are heavily inked (e.g. "therefore", "will hail", "mighty", "assured", "our") but are not struck.]
