@@ -725,7 +725,7 @@
 "abuses",
 "publicity",
 "taxes",
-"unscrupulous"
+"remedy"
 ],
 "stats": {
 "words": 4492,
@@ -912,8 +912,8 @@
 "grant's",
 "greatness",
 "crises",
-"peace",
 "war",
+"peace",
 "freemen",
 "dead",
 "armed"
@@ -1740,8 +1740,8 @@
 },
 "distinctive": [
 "exposition",
-"hemisphere",
 "western",
+"hemisphere",
 "continent",
 "commonwealths",
 "century",
@@ -1877,8 +1877,8 @@
 "commonwealths",
 "alleghanies",
 "spread",
-"continent",
 "union",
+"continent",
 "older"
 ],
 "stats": {
@@ -2155,7 +2155,7 @@
 "struggles",
 "fought",
 "ranks",
-"regiments"
+"lesson"
 ],
 "stats": {
 "words": 3084,
@@ -2743,8 +2743,8 @@
 "lesson",
 "tasks",
 "lincoln",
-"love",
 "afford",
+"love",
 "taught",
 "leave",
 "ideal",
@@ -2993,10 +2993,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 169,
+"paragraphs": [
+"Captain Wagener and Ladies and Gentlemen:",
+"I shall not try to say anything more than to express my obligation to those who for my good fortune brought me down here and my appreciation of the courtesies which have been shown. We have passed two as pleasant days as it will be possible to pass, Captain Wagener, and it has been to me a double pleasure to come here into the South, into the region from which my mother's people sprang, and to be able, face to face to meet you and to listen to addresses, Mr. Mayor, like those that you made, that both the present Governor and Ex-Governor of South Carolina made and that of the Governor of North Carolina made.",
+"I am not again going to talk about any question of the North and South being reunited; that goes without saying.(Applause) What I shall say is that I only hope you have enjoyed having me here half as much as I have enjoyed being here. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -3018,13 +3022,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0455",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0455",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "pending",
+"reading": [
+"Captain Wagener and Ladies and Gentlemen:",
+"I shall not try to say anything more than to express my obligation to those who for my good fortune brought me down here and my appreciation of the courtesies which have been shown. We have passed two as pleasant days as it will be possible to pass, Captain Wagener, and it has been to me a double pleasure to come here into the South, into the region from which my mother's people sprang, and to be able, face to face to meet you and to listen to addresses, Mr. Mayor, like those that you made, that both the present Governor and Ex-Governor of South Carolina made and that of the Governor of North Carolina made.",
+"I am not again going to talk about any question of the North and South being reunited; that goes without saying.(Applause) What I shall say is that I only hope you have enjoyed having me here half as much as I have enjoyed being here. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 21 (frame 424:0455)</span>",
+"Captain Wagener and Ladies and Gentlemen:",
+"I shall not try to say anything more than to express my obligation to those who for my good fortune brought me down here and my appreciation of the courtesies which have been shown. We have passed two as pleasant days  as it will be possible to pass, Captain Wagener, and it has been to me a double pleasure to come here into the South, into the region from which my mother&#x27;s people sprang, and to be able, face to face to meet you and  to listen to addresses,Mr. Mayor, like those that you made, that both the present  Governor and Ex-Governor of South Carolina made and that of  the Governor of North Carolina made.",
+"I am not again going to talk about any question of the North and South being reunited; that goes without saying.(Applause) What I shall say is that I only hope you have enjoyed having me here half as much as I have enjoyed being here.    (Applause)",
+"<span class=\"tnote\">&quot;my&quot; (before &quot;appreciation&quot;) is typed over another letter; &quot;courtesies&quot; has a stray mark between &quot;s&quot; and &quot;i&quot;. Final readings given.</span>\n<span class=\"tnote\">The lower half of this page (folio 21) holds the Branchville, S.C., remarks of April 10, 1902, not transcribed here.</span>"
+],
+"notes": [
+"\"my\" (before \"appreciation\") is typed over another letter; \"courtesies\" has a stray mark between \"s\" and \"i\". Final readings given.",
+"The lower half of this page (folio 21) holds the Branchville, S.C., remarks of April 10, 1902, not transcribed here."
+],
+"file": "transcriptions/1902-04-09-summerville.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "the-south",
+"name": "The South",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"south"
+],
+"stats": {
+"words": 169,
+"unique_words": 95,
+"sentences": 4,
+"avg_sentence": 42.2,
+"minutes": 1,
+"i_count": 5,
+"we_count": 1
+}
 },
 {
 "id": "1902-04-10-branchville",
@@ -3038,7 +3082,7 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
 "word_count": 0,
 "paragraphs": [],
@@ -3063,13 +3107,36 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0455",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0455",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "pending",
+"reading": [],
+"diplomatic": [
+"<span class=\"tnote\">The assigned page (424:0455, right half, folio 22) shows &quot;Remarks of President Roosevelt at Columbia,S.C.,April 10,1902.&quot; (struck through with a hand-drawn line) and &quot;Remarks of President Roosevelt at Chester, S.C., April 10,1902.&quot;, not Branchville. The Branchville remarks (&quot;Remarks of President Roosevelt at Branchville, S.C., April 10,1902.&quot;) are on the left half of the same frame, 424:0455, folio 21, below the Summerville remarks. Not transcribed; job page reference should be corrected to half a.</span>"
+],
+"notes": [
+"The assigned page (424:0455, right half, folio 22) shows \"Remarks of President Roosevelt at Columbia, S.C., April 10,1902.\" (struck through with a hand-drawn line) and \"Remarks of President Roosevelt at Chester, S.C., April 10,1902.\", not Branchville. The Branchville remarks (\"Remarks of President Roosevelt at Branchville, S.C., April 10,1902.\") are on the left half of the same frame, 424:0455, folio 21, below the Summerville remarks. Not transcribed; job page reference should be corrected to half a."
+],
+"file": "transcriptions/1902-04-10-branchville.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 0,
+"unique_words": 0,
+"sentences": 0,
+"avg_sentence": 0.0,
+"minutes": 1,
+"i_count": 0,
+"we_count": 0
+}
 },
 {
 "id": "1902-04-10-charlotte",
@@ -3083,10 +3150,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 252,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I am very glad to have the chance of greeting you tonight to say how much I appreciate your having come. (A voice: \"How about the Mecklenburgh Declaration?\") The President: \"The Mecklenburgh Declaration was all right.\" (Great Applause) Then, after a pause--Some one in the audience has spoken of the Mecklenburgh Declaration. That was the first declaration of independence in any of what are now the United States. (Applause) To my good fortune I have studied much of the early history of North Carolina. I know the part you played in the Revolution; the part you played even during the Revolution in winning the great West for the republic. I feel that you deserve to be called in a peculiar sense Americans of Americans, and no higher praise than that can be given in our country. I have appreciated greatly the greetings I have received, not merely in South Carolina, but from the representatives of your state who were there also. (Applause)",
+"It has been to me a privilege to meet you. Yesterday I reviewed your national guard at the Charleston Exposition. It was a pleasure to be able to see them. I have served with some of your men, for some men born in this state were in my regiment. On one occasion I had to choose out 20 sharp shooters; two of them were North Carolinans. (Great applause)",
+"Here the train started, and the President concluding, said: \" I thank you and wish you all good luck.\" (Great applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -3108,13 +3180,49 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0456",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0456",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "pending",
+"reading": [
+"Ladies and Gentlemen:",
+"I am very glad to have the chance of greeting you tonight to say how much I appreciate your having come. (A voice: \"How about the Mecklenburgh Declaration?\") The President: \"The Mecklenburgh Declaration was all right.\" (Great Applause) Then, after a pause--Some one in the audience has spoken of the Mecklenburgh Declaration. That was the first declaration of independence in any of what are now the United States. (Applause) To my good fortune I have studied much of the early history of North Carolina. I know the part you played in the Revolution; the part you played even during the Revolution in winning the great West for the republic. I feel that you deserve to be called in a peculiar sense Americans of Americans, and no higher praise than that can be given in our country. I have appreciated greatly the greetings I have received, not merely in South Carolina, but from the representatives of your state who were there also. (Applause)",
+"It has been to me a privilege to meet you. Yesterday I reviewed your national guard at the Charleston Exposition. It was a pleasure to be able to see them. I have served with some of your men, for some men born in this state were in my regiment. On one occasion I had to choose out 20 sharp shooters; two of them were North Carolinans. (Great applause)",
+"Here the train started, and the President concluding, said: \" I thank you and wish you all good luck.\" (Great applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 24 (frame 424:0456)</span>",
+"Ladies and Gentlemen:",
+"I am very glad <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">af</span></del> to have the chance of greeting you tonight to say how much I appreciate your having come.    (A voice: &quot;How about the Mecklenburgh Declaration?&quot; )   The President  :  &quot;The Mecklenburgh Declaration was all right.&quot;   (Great Applause)   Then, after a pause--Some one in the audience has spoken of the Mecklenburgh Declaration.  That was the first declaration of independence in any of what are now the United States.    (Applause)   To my good fortune I have studied much of the early history of North Carolina.   I know the part you played in the Revolution;  the part you played even during the Revolution in winning the great West for the republic.   I feel that you deserve to be called in a peculiar sense Americans of Americans, and no higher praise than that can be given in our country.  I have appreciated greatly the greetings I have received , not merely in South Carolina, but from the representatives of your state who were there also.    (Applause)",
+"It has been to me a privilege to meet you.  Yesterday I reviewed your national guard at the Charleston Exposition.   It was a pleasure to be able to see them.   I have served with some of your men, for some men born in this state were in my regiment.  On one occasion I had to choose out 20 sharp shooters;  two of them were North Carolinans.    (Great applause)",
+"Here the train started, and the President concluding,said: &quot; I thank you and wish you all good luck.&quot;  (Great applause)",
+"<span class=\"tnote\">&quot;af&quot; after &quot;glad&quot; is overstruck on the typewriter (heavy, partly x-ed letters). Typed-over letters: &quot;higher&quot; (first letter), &quot;your&quot; (before &quot;national guard&quot;, a letter typed over &quot;u&quot;), &quot;Charleston&quot; (initial C set low and faint). Stray marks over the first &quot;e&quot; of the second &quot;Revolution&quot; and before &quot;the greetings&quot;. Typed gaps in &quot;Presi d nt&quot; (both instances, heading and body), &quot;Roosevel t&quot; (heading) and &quot;review ed&quot; are closed up.</span>"
+],
+"notes": [
+"\"af\" after \"glad\" is overstruck on the typewriter (heavy, partly x-ed letters). Typed-over letters: \"higher\" (first letter), \"your\" (before \"national guard\", a letter typed over \"u\"), \"Charleston\" (initial C set low and faint). Stray marks over the first \"e\" of the second \"Revolution\" and before \"the greetings\". Typed gaps in \"Presi d nt\" (both instances, heading and body), \"Roosevel t\" (heading) and \"review ed\" are closed up."
+],
+"file": "transcriptions/1902-04-10-charlotte.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"declaration"
+],
+"stats": {
+"words": 253,
+"unique_words": 138,
+"sentences": 9,
+"avg_sentence": 28.1,
+"minutes": 2,
+"i_count": 11,
+"we_count": 0
+}
 },
 {
 "id": "1902-04-10-chester",
@@ -3202,10 +3310,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 115,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"As it is growing late I will not attempt to say more than just a word to assure you how much I have enjoyed the hospitality with which I have been received in South Carolina, and this evening since entering the borders of North Carolina. It was my good fortune to meet your Governor yesterday; and to review a procession in which your state troops took part, and it was a pleasure as an American to meet my fellow-Americans in that fashion at the Exposition in the old historic southern city. I thank you heartily. I am glad to see you here and I wish you good luck and good night. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -3227,13 +3338,44 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0456",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0456",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "pending",
+"reading": [
+"Ladies and Gentlemen:",
+"As it is growing late I will not attempt to say more than just a word to assure you how much I have enjoyed the hospitality with which I have been received in South Carolina, and this evening since entering the borders of North Carolina. It was my good fortune to meet your Governor yesterday; and to review a procession in which your state troops took part, and it was a pleasure as an American to meet my fellow-Americans in that fashion at the Exposition in the old historic southern city. I thank you heartily. I am glad to see you here and I wish you good luck and good night. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 23 (frame 424:0456)</span>",
+"Ladies and Gentlemen:",
+"As it is growing late I will not attempt to say more than just a word to assure you how much I have enjoyed the hospitality with which I have been received in South Carolina, and this evening since entering the borders of North Carolina.  <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">Also,</span></del> It was my good fortune to meet your Governor yesterday; <ins title=\"added by hand\">and</ins> to review a procession in which your<del title=\"struck through\">xx</del> state troops took part, and it was a  pleasure as an American to meet my fellow-Americans in that fashion at the Exposition in the old historic <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">city</span>xxxx</del> southern city.    I thank you heartily.  I am glad to see you here and I wish you good luck and good night.  (Applause)",
+"<span class=\"tnote\">The word before &quot;It&quot; is heavily struck through in ink; only &quot;Al&quot; and a comma show. The &quot;I&quot; of &quot;It&quot; is inked over by hand, apparently capitalizing a typed &quot;i&quot;. &quot;and&quot; is written above the line with a caret.</span>\n<span class=\"tnote\">&quot;<span class=\"unc\" title=\"uncertain reading\">city</span>xxxx&quot; is a typed word x-ed out on the typewriter before &quot;southern city&quot;; the underlying letters are uncertain.</span>\n<span class=\"tnote\">Heading reads &quot;Presid nt&quot; with the &quot;e&quot; faint or broken, given as &quot;President&quot;; &quot;Governor&quot; is typed with a gap (&quot;Govern or&quot;), given as one word.</span>"
+],
+"notes": [
+"The word before \"It\" is heavily struck through in ink; only \"Al\" and a comma show. The \"I\" of \"It\" is inked over by hand, apparently capitalizing a typed \"i\". \"and\" is written above the line with a caret.",
+"\"city [?]xxxx\" is a typed word x-ed out on the typewriter before \"southern city\"; the underlying letters are uncertain.",
+"Heading reads \"Presid nt\" with the \"e\" faint or broken, given as \"President\"; \"Governor\" is typed with a gap (\"Govern or\"), given as one word."
+],
+"file": "transcriptions/1902-04-10-salisbury.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 115,
+"unique_words": 77,
+"sentences": 4,
+"avg_sentence": 28.8,
+"minutes": 1,
+"i_count": 6,
+"we_count": 0
+}
 },
 {
 "id": "1902-04-19-new-york",
@@ -3351,10 +3493,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 411,
+"paragraphs": [
+"The President received this morning a delegation consisting of members of the Merchants' Association of New York, the Chamber of Commerce, and the Cotton Exchange, accompanied by several ladies. The delegation was on its way home from a visit to the Charleston Exposition. The party numbered about forty. Mr. William F. King, Chairman of the delegation from the Merchants' Association, addressed the President saying, among other things, the following:",
+"\"During our stay in Charleston we were deeply touched by the many cordial and feeling expressions with regard to yourself, aroused by your visit to the Exposition. At a banquet which we attended every one who spoke, spoke most feelingly of you.",
+"\"In addressing the company assembled I told them that it rested with themselves to take a leading part in the world of to-day; that we would help them all we could in the north; They have made a wonderful start in the last few years. There is no reason why Manchester should not come to America. I believe their Exposition is a new day for the south. If they continue actively at work their section will become one of the most prosperous parts of the country. What they need now to draw on is their labor, skill, and brains.\"",
+"The President responded as follows:",
+"\"Mr. King; Ladies and Gentlemen: I appreciate very much your visit to me, and I am glad you were down at Charleston. I was deeply touched by the reception I met there - a reception not personal to me, but given to me as representing the nation to which all of us belong and all the parts of which and the success of any part of which are matters of pride for every one of us everywhere. I feel in the strongest way that nothing can be more important than the building up of the great industrial interests of the south through just such organizations as you represent here to-day. I thank you for calling upon me. You represent bodies of the kind that have made New York's greatness what it is. As regards what Mr. King said concerning the expressions used by the people of Charleston about me, I can only say that I am going to do my best to deserve them and to deserve your good will; and to do all that I can, all that in me lies, to help in keeping up the wonderful prosperity, material and moral, of our country\" -- (Applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -3376,13 +3524,57 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0460",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0460",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "pending",
+"reading": [
+"The President received this morning a delegation consisting of members of the Merchants' Association of New York, the Chamber of Commerce, and the Cotton Exchange, accompanied by several ladies. The delegation was on its way home from a visit to the Charleston Exposition. The party numbered about forty. Mr. William F. King, Chairman of the delegation from the Merchants' Association, addressed the President saying, among other things, the following:",
+"\"During our stay in Charleston we were deeply touched by the many cordial and feeling expressions with regard to yourself, aroused by your visit to the Exposition. At a banquet which we attended every one who spoke, spoke most feelingly of you.",
+"\"In addressing the company assembled I told them that it rested with themselves to take a leading part in the world of to-day; that we would help them all we could in the north; They have made a wonderful start in the last few years. There is no reason why Manchester should not come to America. I believe their Exposition is a new day for the south. If they continue actively at work their section will become one of the most prosperous parts of the country. What they need now to draw on is their labor, skill, and brains.\"",
+"The President responded as follows:",
+"\"Mr. King; Ladies and Gentlemen: I appreciate very much your visit to me, and I am glad you were down at Charleston. I was deeply touched by the reception I met there - a reception not personal to me, but given to me as representing the nation to which all of us belong and all the parts of which and the success of any part of which are matters of pride for every one of us everywhere. I feel in the strongest way that nothing can be more important than the building up of the great industrial interests of the south through just such organizations as you represent here to-day. I thank you for calling upon me. You represent bodies of the kind that have made New York's greatness what it is. As regards what Mr. King said concerning the expressions used by the people of Charleston about me, I can only say that I am going to do my best to deserve them and to deserve your good will; and to do all that I can, all that in me lies, to help in keeping up the wonderful prosperity, material and moral, of our country\" -- (Applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 29 (frame 424:0460)</span>",
+"The President received this morning a delegation consisting of members of the Merchants&#x27; Association of New York, the Chamber of Commerce, and the Cotton Exchange, accompanied by several ladies.  The delegation was on its way home from a visit to the Charleston Exposition. The party numbered about forty.   Mr. William F. King, Chairman of the delegation from the Merchants&#x27; Association, addressed the President saying, among other things, the following:",
+"&quot;During our stay in Charleston we were deeply touched by the many cordial and feeling expressions with regard to yourself, aroused by your visit to the Exposition.  At a banquet which we attended every one who spoke, spoke most feelingly of you.",
+"&quot;In addressing the company assembled I told them that it rested with themselves to take a leading part in the world of to-day; that we would help them all we could in the north;   They have made a wonderful start in the last few years.   There is no reason why Manchester should not come to America.   I believe their Exposition is a new day for the south.   If they continue actively at work their section will become one of the most prosperous parts of the country.   What they need now to draw on is their labor, skill, and brains.&quot;",
+"The President responded as follows:",
+"&quot;Mr. King; Ladies and Gentlemen:   I appreciate very much your visit to me, and I am glad you were down at Charleston.   I was deeply touched by the reception I met there - a reception not personal to me, but given to me as representing the nation to which all of us belong and all the parts of which and the success of any part of which are matters of pride for every one of us everywhere.   I <span class=\"pb\">Page 30 (frame 424:0460)</span> feel in the strongest way that nothing can be more important than the building up of the great industrial interests of the south through just such organizations as you represent here to-day.   I thank you for calling upon me.   You represent bodies of the kind that have made New York&#x27;s greatness what it is.   As regards what Mr. King said concerning the expressions used by the people of Charleston about me, I can only say that I am going to do my best to deserve them and to deserve your good will; and to do all that I can, all that in me lies, to help in keeping up the wonderful prosperity, material and moral, of our country&quot; -- (Applause.)",
+"<span class=\"tnote\">Typed page number &quot;-2-&quot; at the top of the second page, not transcribed in the body. Stray mark over the final &quot;n&quot; of the first &quot;Exposition&quot;.</span>\n<span class=\"tnote\">The catalog title names William F. King&#x27;s address, but the document is a press account of the April 25, 1902 delegation: a narrative introduction, King&#x27;s remarks (first two quoted paragraphs, not by T.R.), and T.R.&#x27;s reply (&quot;The President responded as follows:&quot;). Status left ok because T.R.&#x27;s reply is present; the editor should decide whether to catalog this as T.R.&#x27;s reply to the delegation.</span>"
+],
+"notes": [
+"Typed page number \"-2-\" at the top of the second page, not transcribed in the body. Stray mark over the final \"n\" of the first \"Exposition\".",
+"The catalog title names William F. King's address, but the document is a press account of the April 25, 1902 delegation: a narrative introduction, King's remarks (first two quoted paragraphs, not by T.R.), and T.R.'s reply (\"The President responded as follows:\"). Status left ok because T.R.'s reply is present; the editor should decide whether to catalog this as T.R.'s reply to the delegation."
+],
+"file": "transcriptions/1902-04-25-address-by-william-f-king-of-the-merchan.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"charleston",
+"delegation",
+"king",
+"exposition",
+"visit",
+"president",
+"new"
+],
+"stats": {
+"words": 411,
+"unique_words": 207,
+"sentences": 17,
+"avg_sentence": 24.2,
+"minutes": 3,
+"i_count": 11,
+"we_count": 4
+}
 },
 {
 "id": "1902-05-02-washington",
@@ -4197,13 +4389,13 @@
 "cruelty",
 "philippines",
 "cruelties",
-"lynchings",
 "freedom",
+"lynchings",
 "troops",
 "holidays",
 "islands",
-"comrades",
-"acts"
+"acts",
+"comrades"
 ],
 "stats": {
 "words": 2945,
@@ -4863,7 +5055,7 @@
 "wealth",
 "prosper",
 "community",
-"legislation"
+"conditions"
 ],
 "stats": {
 "words": 2587,
@@ -5643,8 +5835,8 @@
 "practical",
 "mere",
 "community",
-"feeling",
-"success"
+"success",
+"feeling"
 ],
 "stats": {
 "words": 836,
@@ -7729,8 +7921,8 @@
 "accustomed",
 "confederate",
 "generals",
-"served",
-"profession"
+"profession",
+"served"
 ],
 "stats": {
 "words": 3078,
@@ -10066,8 +10258,8 @@
 "politics",
 "party",
 "election",
-"governor",
 "allow",
+"governor",
 "honor"
 ],
 "stats": {
@@ -10262,8 +10454,8 @@
 "liberty",
 "gospel",
 "failed",
-"president",
-"prosperity"
+"prosperity",
+"president"
 ],
 "stats": {
 "words": 2542,
@@ -10698,7 +10890,7 @@
 "fought",
 "supreme",
 "father",
-"union"
+"justice"
 ],
 "stats": {
 "words": 1194,
@@ -11978,8 +12170,8 @@
 "attorney-general",
 "injunction",
 "salt",
-"anti-trust",
 "law",
+"anti-trust",
 "shippers",
 "legislation",
 "corporations",
@@ -12482,8 +12674,8 @@
 "economic",
 "trusts",
 "reduction",
-"cuban",
 "market",
+"cuban",
 "treaty",
 "interests"
 ],
@@ -13953,19 +14145,19 @@
 "source": "Library of Congress, Theodore Roosevelt Papers, Series 5, Subseries 5B, Vol. 6, reel 425, frame 274",
 "image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0274",
 "transcribed": "2026-10-27 (pass 1)",
-"checked": "pending",
+"checked": "2026-10-27 (pass 2, independent read; three small differences settled by a third look at the full-resolution image)",
 "reading": [
 "My Friends and Neighbors:",
-"I am very glad to see you all. I made up my mind that come what would I would have to have a chance to stop at Medora. I first came to Medora twenty years ago, so I am a middling old settler. I meet boys, great big strapping men, and mothers of families who were children about three feet high when I knew them here. It is a very pleasant thing for me to see you. I shall not try to make you but a very short talk, because I want to have the chance to shake hands with you. Most all of you are old friends. I have stopped at your houses and shared your hospitality. With some of the men I have ridden guard around the cattle at night, worked with them in the round up, and hunted with them, so that I know them pretty well. It is the greatest possible pleasure to me to come back and see how you are getting along, to see the progress made by the state to see the progress made up at this end in the place that I know so well, and it just does me good to come here and see you; and there is not a human being who is more proud of what you have done, and more pleased with your welfare and progress than I am. (Cheers and applause)"
+"I am very glad to see you all. I made up my mind that come what would I would have to have a chance to stop at Medora. I first came to Medora twenty years ago, so I am a middling old settler. I meet boys, great big strapping men, and mothers of families who were children About three feet high When I knew them here. It is a very pleasant thing for me to see you. I shall not try to make you but a very short talk, because I want to have the chance to shake hands with you. Most all of you are old friends. I have stopped at your houses and shared your hospitality. With some of the men I have ridden guard around the cattle at night, worked with them in the round up, and hunted with them, so that I know them pretty well. It is the greatest possible pleasure to me to come back and see how you are getting along, to see the progress made by the state to see the progress made up at this end in the place that I know so well, and it just does me good to come here and see you; and there is not a human being who is more proud of what you have done, and more pleased with your welfare and progress than I am. (Cheers and applause)"
 ],
 "diplomatic": [
 "<span class=\"pb\">Page 98 (frame 425:0274)</span><span class=\"margin\">In the margin: handwritten mark, upper left <span class=\"illeg\">[illegible]</span></span>",
 "My Friends and Neighbors:",
-"I am very glad to see you all. I made up my mind that come what would I would have to have a chance to stop at Medora. I first came to Medora twenty years ago, so I am a middling old settler. I meet boys, great big strapping men, and mothers of families who were <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">children</ins> <del title=\"struck through\">A</del><ins title=\"added by hand\">a</ins>bout three feet high<del title=\"struck through\">.</del> <del title=\"struck through\">W</del><ins title=\"added by hand\">w</ins>hen I knew them here . It is a very pleasant thing for me to see you. I shall not try to make you but a very short talk, because I want to have the chance to shake hands with you. Most all of you are old friends . I have stopped at your houses and shared your hospitality . With some of the men I have ridden <span class=\"sic\" title=\"reads: guard around\">guardaround</span> the cattle at night, worked with them in the round up, and hunted with them, so that I know them pretty well. It is the greatest possible pleasure to me to come back and see how you are getting along,, to see the progress made by the state to see the progress made up at this end in the place that I know so well, and it just does me good to come here and see you; and there is not a human being who is more proud of what you have done, and more pleased with your welfare and progress than I am. (Cheers and applause)",
-"<span class=\"tnote\">Typed words after &quot;who were&quot; are struck out and &quot;children&quot; is written above them by hand; the period after &quot;high&quot; is struck and the next two capitals are changed by hand to make one sentence. A period after &quot;see you&quot; is circled, and there is a check mark over &quot;with&quot; in &quot;worked with them&quot;; these look like proofreading marks and do not change the words.</span>"
+"I am very glad to see you all. I made up my mind that come what would I would have to have a chance to stop at Medora. I first came to Medora twenty years ago, so I am a middling old settler. I meet boys, great big strapping men, and mothers of families who were <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">children</ins> About three feet high<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> When I knew them here . It is a very pleasant thing for me to see you. I shall not try to make you but a very short talk, because I want to have the chance to shake hands with you. Most all of you are old friends . I have stopped at your houses and shared your hospitality . With some of the men I have ridden <span class=\"sic\" title=\"reads: guard around\">guardaround</span> the cattle at night, worked with them in the round up, and hunted with them, so that I know them pretty well. It is the greatest possible pleasure to me to come back and see how you are getting along,, to see the progress made by the state to see the progress made up at this end in the place that I know so well, and it just does me good to come here and see you; and there is not a human being who is more proud of what you have done, and more pleased with your welfare and progress than I am. (Cheers and applause)",
+"<span class=\"tnote\">Typed words after &quot;who were&quot; are struck out and &quot;children&quot; is written above them by hand; a typed mark after &quot;high&quot; is blotted out by hand, and the blot touches the first letters of &quot;About&quot; and &quot;When,&quot; which are read as typed. A period after &quot;see you&quot; is circled, and there is a check mark over &quot;with&quot; in &quot;worked with them&quot;; these look like proofreading marks and do not change the words.</span>"
 ],
 "notes": [
-"Typed words after \"who were\" are struck out and \"children\" is written above them by hand; the period after \"high\" is struck and the next two capitals are changed by hand to make one sentence. A period after \"see you\" is circled, and there is a check mark over \"with\" in \"worked with them\"; these look like proofreading marks and do not change the words."
+"Typed words after \"who were\" are struck out and \"children\" is written above them by hand; a typed mark after \"high\" is blotted out by hand, and the blot touches the first letters of \"About\" and \"When,\" which are read as typed. A period after \"see you\" is circled, and there is a check mark over \"with\" in \"worked with them\"; these look like proofreading marks and do not change the words."
 ],
 "file": "transcriptions/1903-04-07-medora.txt"
 },
@@ -14105,7 +14297,7 @@
 "I am more pleased than I can say to come back and have a chance to see you. The farther west I have gotten to-day, the more I have felt as if I was coming home. (Applause) It is just seventeen years ago that I came over here as orator of the day at the Fourth of July celebration. I remember it just as well as can be.",
 "Now I want to say one word, especially, Captain to you and the members of the guard who have come down to greet me. Naturally, I have a peculiar feeling toward you. We have been comrades in effect together, (Applause)",
 "There are a great many of you here whom I knew in the old days when I used to bring my cattle in to ship them from here. And in those days I do not think there was a puncher in the country that had not worked for me.",
-"I do not know if you recollect once when I was a deputy sheriff and I brought in three men (A voice \"I do\")-- somebody says that he was one of them, but I am sure that is not so--and naturally I come back here and I feel that I am among my old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
+"I do not know if you recollect once when I was a deputy sheriff and I brought in three men (A voice \"I do\")-- somebody says that he was one of them but I am sure that is not so--and naturally I come back here and I feel that I am among my old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
 "Knowing North Dakota so well, I have watched all that she has done in the growth of the state with peculiar interest. I am proud of your success. I am proud of the way you have earned it. The changes since I first came to Dickinson, which was twenty years ago, have been great. When I first came to Bismarck, the railroad did not come this far. Twenty years ago I first struck Medora; and one of your citizens repaired my rifle, with which I killed my first buffalo. I wish I could stay here permanently"
 ],
 "editions": [],
@@ -14133,13 +14325,13 @@
 "source": "Library of Congress, Theodore Roosevelt Papers, Series 5, Subseries 5B, Vol. 6, reel 425, frame 274",
 "image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0274",
 "transcribed": "2026-10-27 (pass 1)",
-"checked": "pending",
+"checked": "2026-10-27 (pass 2, independent read; one difference settled by a third look at the full-resolution image)",
 "reading": [
 "My friends and neighbors:",
 "I am more pleased than I can say to come back and have a chance to see you. The farther west I have gotten to-day, the more I have felt as if I was coming home. (Applause) It is just seventeen years ago that I came over here as orator of the day at the Fourth of July celebration. I remember it just as well as can be.",
 "Now I want to say one word, especially, Captain to you and the members of the guard who have come down to greet me. Naturally, I have a peculiar feeling toward you. We have been comrades in effect together, (Applause)",
 "There are a great many of you here whom I knew in the old days when I used to bring my cattle in to ship them from here. And in those days I do not think there was a puncher in the country that had not worked for me.",
-"I do not know if you recollect once when I was a deputy sheriff and I brought in three men (A voice \"I do\")-- somebody says that he was one of them, but I am sure that is not so--and naturally I come back here and I feel that I am among my old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
+"I do not know if you recollect once when I was a deputy sheriff and I brought in three men (A voice \"I do\")-- somebody says that he was one of them but I am sure that is not so--and naturally I come back here and I feel that I am among my old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
 "Knowing North Dakota so well, I have watched all that she has done in the growth of the state with peculiar interest. I am proud of your success. I am proud of the way you have earned it. The changes since I first came to Dickinson, which was twenty years ago, have been great. When I first came to Bismarck, the railroad did not come this far. Twenty years ago I first struck Medora; and one of your citizens repaired my rifle, with which I killed my first buffalo. I wish I could stay here permanently"
 ],
 "diplomatic": [
@@ -14148,7 +14340,7 @@
 "I am more pleased than I can say to come back and have a chance to see you. The farther west I have gotten to-day, the more I have felt as if I was coming home. <span class=\"sic\" title=\"reads: (Applause)\">(ZApplause)</span> It is just seventeen years ago that I came over here as orator of the day at the Fourth of July celebration. I remember it just as well as can be.",
 "Now I want to say one word, especially, Captain to you and the members of the guard who have come down to greet me. Naturally, I have a peculiar feeling toward you. We have been comrades in effect together, (Applause)",
 "There are a great many of you here whom I knew in the old days when I <span class=\"sic\" title=\"reads: used to\">usedto</span> bring my cattle in to ship them from here. <span class=\"sic\" title=\"reads: And in\">Andin</span> those days I do not think there was a puncher in the country that had not worked for me.",
-"I do not know if you recollect once when I was a deputy sheriff and I brought in three <span class=\"sic\" title=\"reads: men\">mn</span> ( A voice &quot;I do&quot;)-- somebody says that he was one of <span class=\"sic\" title=\"reads: them, but\">thembut</span> I am sure that is not so--and naturally I come back <span class=\"sic\" title=\"reads: here and\">hereand</span> I feel that I am among my <del title=\"struck through\">xxx</del> old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
+"I do not know if you recollect once when I was a deputy sheriff and I brought in three <span class=\"sic\" title=\"reads: men\">mn</span> ( A voice &quot;I do&quot;)-- somebody says that he was one of <span class=\"sic\" title=\"reads: them but\">thembut</span> I am sure that is not so--and naturally I come back <span class=\"sic\" title=\"reads: here and\">hereand</span> I feel that I am among my <del title=\"struck through\">xxx</del> old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
 "Knowing North Dakota so well ,I have watched all that she has done in the growth of the state with peculiar interest. I am proud of your success. I am proud of the way you have earned it. The changes since I first came to Dickinson <del title=\"struck through\">xxx xxxxyxgxxxx</del>, which was twenty years ago, have been great. When I first came to Bismarck, the railroad did not come this far. Twenty years ago I first struck Medora; and one of your citizens repaired my rifle, with which I killed my first buffalo. I wish I could stay here permanently<del title=\"struck through\">, but <span class=\"illeg\">[illegible]</span> it will <span class=\"illeg\">[illegible]</span> step <span class=\"illeg\">[illegible]</span></del>",
 "<span class=\"tnote\">The last two typed lines are heavily struck through by hand and cannot be read beyond a few words. The typed &quot;thembut&quot; has a hand mark separating the two words.</span>"
 ],
@@ -15220,8 +15412,8 @@
 ]
 },
 "distinctive": [
-"homage",
 "problems",
+"homage",
 "rules",
 "exceptions",
 "signed",
@@ -16654,10 +16846,10 @@
 "love",
 "hardihood",
 "quality",
-"miserable",
 "charity",
-"embody",
+"miserable",
 "qualities",
+"embody",
 "men's",
 "preacher",
 "tendencies"
@@ -17661,8 +17853,8 @@
 "farms",
 "irrigation",
 "law",
-"lands",
 "benefit",
+"lands",
 "policy",
 "government"
 ],
@@ -19830,9 +20022,9 @@
 "land",
 "university",
 "trees",
-"home-maker",
 "forests",
-"forest"
+"forest",
+"home-maker"
 ],
 "stats": {
 "words": 3818,
@@ -20648,8 +20840,8 @@
 "college",
 "philippines",
 "cuba",
-"graduated",
-"education"
+"education",
+"graduated"
 ],
 "stats": {
 "words": 2358,
@@ -23120,8 +23312,8 @@
 },
 "distinctive": [
 "steamship",
-"cutting",
 "law",
+"cutting",
 "line",
 "railroads",
 "crime",
@@ -28168,8 +28360,8 @@
 "school",
 "ideal",
 "athletics",
-"physical",
 "life",
+"physical",
 "prowess"
 ],
 "stats": {
@@ -28338,7 +28530,7 @@
 "rare",
 "armies",
 "civil",
-"won"
+"war"
 ],
 "stats": {
 "words": 2372,
@@ -29222,8 +29414,8 @@
 "ambassador",
 "blood",
 "hannibal",
-"frederick",
 "germany",
+"frederick",
 "goodwill"
 ],
 "stats": {
@@ -29938,8 +30130,8 @@
 "supervision",
 "governmental",
 "government",
-"interstate",
 "control",
+"interstate",
 "railroad"
 ],
 "stats": {
@@ -30176,7 +30368,7 @@
 "custom-houses",
 "payment",
 "governments",
-"creditors"
+"government"
 ],
 "stats": {
 "words": 4725,
@@ -31394,8 +31586,8 @@
 "corporate",
 "attack",
 "rules",
-"legitimate",
 "army",
+"legitimate",
 "railroads"
 ],
 "stats": {
@@ -31584,8 +31776,8 @@
 "carries",
 "family",
 "neighbors",
-"win",
 "army",
+"win",
 "mean",
 "stuff",
 "average"
@@ -31677,8 +31869,8 @@
 "corporations",
 "commerce",
 "highways",
-"supervisory",
-"plundered"
+"railroads",
+"supervisory"
 ],
 "stats": {
 "words": 2858,
@@ -32006,8 +32198,8 @@
 "ship",
 "shooting",
 "ships",
-"missouri",
 "enlisted",
+"missouri",
 "battle"
 ],
 "stats": {
@@ -32528,10 +32720,10 @@
 "cabinet",
 "numbers",
 "john",
-"rendering",
 "service",
+"rendering",
 "harm",
-"shortcomings"
+"generation"
 ],
 "stats": {
 "words": 1902,
@@ -33381,13 +33573,13 @@
 "distinctive": [
 "highway",
 "administrative",
-"carolina",
 "railroad",
+"carolina",
 "railroads",
 "shippers",
 "forests",
-"north",
 "highways",
+"north",
 "southern"
 ],
 "stats": {
@@ -33543,8 +33735,8 @@
 "chinese",
 "senator",
 "boycott",
-"planter",
 "wealth",
+"planter",
 "islands",
 "wage-workers",
 "corporations"
@@ -33821,8 +34013,8 @@
 "concerned",
 "accomplished",
 "benefit",
-"south",
-"faith"
+"faith",
+"south"
 ],
 "stats": {
 "words": 1264,
@@ -33968,8 +34160,8 @@
 "dig",
 "alabama",
 "isthmus",
-"ship",
 "navy",
+"ship",
 "mayor",
 "panama",
 "ships"
@@ -34251,8 +34443,8 @@
 "fair",
 "education",
 "demand",
-"important",
 "government",
+"important",
 "war"
 ],
 "stats": {
@@ -34536,10 +34728,10 @@
 "distinctive": [
 "greeted",
 "louisiana",
-"mayor",
 "orleans",
-"governor",
+"mayor",
 "gratitude",
+"governor",
 "summer",
 "request",
 "favor",
@@ -35102,8 +35294,8 @@
 "islands",
 "domingo",
 "law",
-"immigrants",
 "congress",
+"immigrants",
 "commission",
 "immigration",
 "conference"
@@ -35321,12 +35513,12 @@
 "measures",
 "canal",
 "wealth",
-"opposition",
 "courage",
+"opposition",
 "evils",
 "twisted",
-"oyster",
-"action"
+"action",
+"oyster"
 ],
 "stats": {
 "words": 6288,
@@ -35950,8 +36142,8 @@
 "investigations",
 "witnesses",
 "oaths",
-"attendance",
 "commission",
+"attendance",
 "prosecution",
 "compel",
 "signed"
@@ -36098,12 +36290,12 @@
 "departments",
 "ink",
 "recommendations",
-"bureaus",
 "methods",
+"bureaus",
 "red",
 "department",
-"committees",
 "work",
+"committees",
 "responsible"
 ],
 "stats": {
@@ -36505,7 +36697,7 @@
 "sanity",
 "honesty",
 "evils",
-"discriminate"
+"attack"
 ],
 "stats": {
 "words": 3310,
@@ -37678,8 +37870,8 @@
 "supervision",
 "lay",
 "city",
-"injustice",
 "government",
+"injustice",
 "help"
 ],
 "stats": {
@@ -38156,8 +38348,8 @@
 "isthmus",
 "engineer",
 "grand",
-"ages",
 "work",
+"ages",
 "realize",
 "army",
 "enough",
@@ -38738,8 +38930,8 @@
 "distinctive": [
 "rivers",
 "plan",
-"transportation",
 "water",
+"transportation",
 "connection",
 "country"
 ],
@@ -38887,8 +39079,8 @@
 "emphatically",
 "deed",
 "meant",
-"shown",
 "responsibility",
+"shown",
 "qualities",
 "honor"
 ],
@@ -40060,9 +40252,9 @@
 "queen",
 "chariot",
 "chariots",
-"king",
 "bull",
-"irish"
+"irish",
+"king"
 ],
 "stats": {
 "words": 6605,
@@ -40536,7 +40728,7 @@
 "grew",
 "absorbed",
 "tide",
-"reform"
+"stock"
 ],
 "stats": {
 "words": 3908,
@@ -40641,14 +40833,14 @@
 "distinctive": [
 "mcclellan",
 "potomac",
-"equality",
 "peace",
+"equality",
 "ease",
 "glory",
 "disagreeable",
 "fought",
-"statue",
-"woman"
+"woman",
+"statue"
 ],
 "stats": {
 "words": 2780,
@@ -41555,11 +41747,11 @@
 "farm",
 "fencing",
 "master",
+"land",
 "commodities",
+"range",
 "homesteaders",
 "correspondent",
-"range",
-"land",
 "farmer",
 "settlers"
 ],
@@ -41780,8 +41972,8 @@
 "distinctive": [
 "chuzzlewit",
 "martin",
-"insult",
 "navy",
+"insult",
 "democracy",
 "corporations",
 "affairs",
@@ -42071,8 +42263,8 @@
 "policies",
 "wealth",
 "property",
-"crimes",
 "business",
+"crimes",
 "dishonesty"
 ],
 "stats": {
@@ -42257,8 +42449,8 @@
 "esteem",
 "race",
 "graduate",
-"forty",
 "thousand",
+"forty",
 "struck"
 ],
 "stats": {
@@ -42583,9 +42775,9 @@
 "tax",
 "interstate",
 "law",
-"commerce",
 "government",
 "congress",
+"commerce",
 "conference",
 "legislation",
 "grades",
@@ -42749,8 +42941,8 @@
 "business",
 "law",
 "securities",
-"company",
-"judge"
+"judge",
+"company"
 ],
 "stats": {
 "words": 10501,
@@ -43481,7 +43673,7 @@
 "wrong-doing",
 "treaties",
 "oppression",
-"measures"
+"navy"
 ],
 "stats": {
 "words": 1727,
@@ -43635,7 +43827,7 @@
 "control",
 "boston",
 "anti-trust",
-"injunction"
+"law"
 ],
 "stats": {
 "words": 4303,
@@ -45448,8 +45640,8 @@
 "service",
 "investigated",
 "criminals",
-"treasury",
 "congress",
+"treasury",
 "congressmen",
 "provision",
 "house",
@@ -45864,7 +46056,7 @@
 "forest",
 "lands",
 "commission",
-"waterway"
+"report"
 ],
 "stats": {
 "words": 4540,
@@ -47934,8 +48126,8 @@
 "ancestral",
 "empire",
 "fauna",
-"culture",
 "science",
+"culture",
 "europe",
 "scientific"
 ],
@@ -48209,8 +48401,8 @@
 "men's",
 "conservation",
 "christian",
-"wonderful",
 "honesty",
+"wonderful",
 "insist",
 "ahead"
 ],
@@ -48576,8 +48768,8 @@
 "sail",
 "sam",
 "excavation",
-"uncle",
-"panama"
+"panama",
+"uncle"
 ],
 "stats": {
 "words": 3088,
@@ -48667,8 +48859,8 @@
 "steal",
 "dakota",
 "commission",
-"maverick",
 "square",
+"maverick",
 "principle",
 "dishonestly"
 ],
@@ -48765,8 +48957,8 @@
 "earners",
 "hours",
 "workers",
-"earner",
 "social",
+"earner",
 "employer",
 "employee"
 ],
@@ -48899,8 +49091,8 @@
 "resources",
 "forests",
 "kansas",
-"water",
 "development",
+"water",
 "natural",
 "control"
 ],
@@ -49109,8 +49301,8 @@
 "honesty",
 "party",
 "dinner",
-"york",
 "sake",
+"york",
 "illinois",
 "advised"
 ],
@@ -49284,8 +49476,8 @@
 "dissenting",
 "abraham",
 "lincoln",
-"court",
-"rights"
+"rights",
+"court"
 ],
 "stats": {
 "words": 2993,
