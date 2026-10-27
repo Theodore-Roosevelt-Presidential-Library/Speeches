@@ -4,7 +4,7 @@ title: Remarks of Presid ent Roosevelt at Osceola, Iowa, April 28, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0302
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0302
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 154 425:0302]
@@ -20,6 +20,7 @@ All to-day I have been traveling through Iowa. I have been greeted by Iowa's cit
 Everywhere that I have been I have also seen the school children. I congratulate you upon all you have done in Iowa. I congratulate you upon your crops; but the best crop is.the crop of children. I am glad that is all right in quality, that it is all right in quantity. I believe in you and I want to see your sons and daughters like you. (Great applause)
 
 [note: "non-parti[+s+]an": the typed letter after "parti" is overtyped and an "s" is written by hand above it. "last" has its final letter overtyped.]
-[note: "its [illegible]": the word after "its" is heavily over-inked and reads like "curge" or "purge"; it cannot be made out.]
+[note: "its [illegible]": the letters "urge" are plain but the first letter is overtyped (it reads as "c" or "e") and the "g" is over-inked; the word cannot be made out with confidence.]
 [note: "[?have been men?]": the top halves of these typed letters did not print.]
 [note: Small hand ticks above "Colonel" and "him", and a hand mark after "children", do not change the text.]
+[note: Third look: the word between "had not" and "fought" is x-ed out on the typewriter into a solid blot; the word underneath cannot be read. The mark in "is.the" is a lightly struck typed period and is kept.]
