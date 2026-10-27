@@ -912,8 +912,8 @@
 "dangers",
 "grant's",
 "crises",
-"war",
 "peace",
+"war",
 "dead",
 "islands",
 "resistance"
@@ -1075,11 +1075,11 @@
 "labor",
 "groups",
 "expediency",
-"community",
 "statistics",
 "factory",
-"work",
-"separate"
+"community",
+"separate",
+"work"
 ],
 "stats": {
 "words": 4066,
@@ -1902,12 +1902,12 @@
 "westward",
 "commonwealths",
 "colorado",
-"alleghanies",
 "union",
+"alleghanies",
 "spread",
 "unity",
 "continent",
-"strength"
+"race"
 ],
 "stats": {
 "words": 3296,
@@ -2057,8 +2057,8 @@
 "distinctive": [
 "law",
 "barbarism",
-"blunders",
 "pioneers",
+"blunders",
 "wilfully",
 "civilization",
 "duty",
@@ -3687,8 +3687,8 @@
 "past",
 "republic",
 "navy",
-"honor",
 "flag",
+"honor",
 "army",
 "americans",
 "justice"
@@ -3973,8 +3973,8 @@
 "fought",
 "vernon",
 "mount",
-"loyalty",
 "dead",
+"loyalty",
 "presence",
 "comrades",
 "enlisted",
@@ -4276,8 +4276,8 @@
 "churches",
 "forces",
 "went",
-"material",
 "church",
+"material",
 "spiritual",
 "expect",
 "vital",
@@ -4355,8 +4355,8 @@
 "ordinary",
 "war",
 "battle",
-"citizenship",
 "duty",
+"citizenship",
 "nation"
 ],
 "stats": {
@@ -4776,8 +4776,8 @@
 "taft",
 "yale",
 "college",
-"elihu",
 "leonard",
+"elihu",
 "graduate",
 "back",
 "root",
@@ -5145,11 +5145,11 @@
 "laws",
 "talent",
 "conditions",
-"power",
 "cure",
+"power",
 "wealth",
 "harm",
-"community"
+"legislation"
 ],
 "stats": {
 "words": 2587,
@@ -6670,8 +6670,8 @@
 "weapons",
 "richmond",
 "laughter",
-"applause",
 "patent",
+"applause",
 "defeat",
 "victory",
 "simple",
@@ -6840,7 +6840,7 @@
 "wherever",
 "wrong",
 "carry",
-"bad"
+"standard"
 ],
 "stats": {
 "words": 1073,
@@ -6948,8 +6948,8 @@
 "richmond",
 "laughter",
 "abraham",
-"courage",
 "school",
+"courage",
 "preaching",
 "applause",
 "decency",
@@ -7693,8 +7693,8 @@
 "levees",
 "wheeling",
 "period",
-"change",
 "dam",
+"change",
 "industrial",
 "advocating",
 "mississippi",
@@ -7957,11 +7957,11 @@
 "courage",
 "honesty",
 "weapons",
-"citizenship",
 "victory",
+"citizenship",
 "won",
-"win",
-"wore"
+"wore",
+"win"
 ],
 "stats": {
 "words": 914,
@@ -10379,13 +10379,13 @@
 "carolina",
 "laws",
 "develop",
-"north",
 "building",
+"north",
 "section",
 "advantage",
 "prosperity",
-"chance",
-"wise"
+"wise",
+"chance"
 ],
 "stats": {
 "words": 647,
@@ -10517,7 +10517,7 @@
 "forefathers",
 "government",
 "valiant",
-"honesty"
+"followed"
 ],
 "stats": {
 "words": 2337,
@@ -11369,8 +11369,8 @@
 "physical",
 "difficulties",
 "continent",
-"cheers",
 "big",
+"cheers",
 "hope"
 ],
 "stats": {
@@ -11481,8 +11481,8 @@
 "distinctive": [
 "indiana",
 "delivery",
-"change",
 "resources",
+"change",
 "closer",
 "destroy",
 "industrial",
@@ -13405,8 +13405,8 @@
 "places": []
 },
 "distinctive": [
-"applause",
 "play",
+"applause",
 "schools",
 "tone",
 "quarters",
@@ -14381,8 +14381,8 @@
 "nomination",
 "islands",
 "result",
-"candidate",
-"leader"
+"leader",
+"candidate"
 ],
 "stats": {
 "words": 2784,
@@ -14905,8 +14905,8 @@
 },
 "distinctive": [
 "pennsylvania",
-"president",
 "senate",
+"president",
 "fundamentally",
 "lesson",
 "house",
@@ -15057,8 +15057,8 @@
 "vigorous",
 "universities",
 "manly",
-"applause",
 "college",
+"applause",
 "training",
 "woman",
 "strength",
@@ -16324,8 +16324,8 @@
 "distinctive": [
 "minnesota",
 "typical",
-"stock",
 "flag",
+"stock",
 "glad",
 "applause",
 "american",
@@ -16515,8 +16515,8 @@
 "freedom",
 "genius",
 "ages",
-"body",
 "nations",
+"body",
 "self-government"
 ],
 "stats": {
@@ -16723,8 +16723,8 @@
 "distinctive": [
 "qualities",
 "cause",
-"citizenship",
 "proud",
+"citizenship",
 "state"
 ],
 "stats": {
@@ -17088,8 +17088,8 @@
 "pioneer",
 "virtues",
 "decency",
-"strength",
 "honesty",
+"strength",
 "courage"
 ],
 "stats": {
@@ -17586,8 +17586,8 @@
 "wage-worker",
 "growers",
 "million",
-"employer",
 "tiller",
+"employer",
 "wheat",
 "labor",
 "farm"
@@ -18803,13 +18803,13 @@
 "distinctive": [
 "applause",
 "proud",
-"comrades",
 "dakota",
+"comrades",
 "weapons",
 "law",
 "fighting",
-"stuff",
 "wanted",
+"stuff",
 "cattle"
 ],
 "stats": {
@@ -20026,8 +20026,8 @@
 },
 "distinctive": [
 "montana",
-"applause",
 "cattle",
+"applause",
 "missouri",
 "regions",
 "pioneers",
@@ -20571,13 +20571,13 @@
 "wyoming",
 "laws",
 "congressman",
-"applause",
 "irrigation",
+"applause",
 "qualities",
 "decent",
 "brave",
 "fool",
-"weakling"
+"pretty"
 ],
 "stats": {
 "words": 1903,
@@ -21314,8 +21314,8 @@
 "distinctive": [
 "nebraska",
 "qualities",
-"congratulate",
 "cared",
+"congratulate",
 "shame",
 "help",
 "combination",
@@ -21422,8 +21422,8 @@
 "signed",
 "look",
 "report",
-"tendency",
 "law",
+"tendency",
 "pay"
 ],
 "stats": {
@@ -21706,9 +21706,9 @@
 "planted",
 "library",
 "trees",
-"school",
 "saw",
 "beyond",
+"school",
 "trying",
 "prosperity",
 "children"
@@ -22033,11 +22033,11 @@
 "distinctive": [
 "virtue",
 "play",
-"mother",
 "boys",
+"mother",
 "sake",
-"applause",
 "children",
+"applause",
 "lesson",
 "feeling",
 "father"
@@ -22149,8 +22149,8 @@
 "places": []
 },
 "distinctive": [
-"decency",
 "virtue",
+"decency",
 "softness",
 "congratulate",
 "building",
@@ -23014,8 +23014,8 @@
 "applause",
 "solve",
 "vice",
-"jealousy",
 "organization",
+"jealousy",
 "equally",
 "traits",
 "war"
@@ -23508,8 +23508,8 @@
 "changes",
 "problems",
 "century",
-"old",
 "new",
+"old",
 "present",
 "nation",
 "life"
@@ -24184,10 +24184,10 @@
 "distinctive": [
 "love",
 "charity",
-"miserable",
 "quality",
-"hardihood",
+"miserable",
 "tendencies",
+"hardihood",
 "preacher",
 "embody",
 "christian",
@@ -24304,10 +24304,19 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1593,
+"paragraphs": [
+"Mr. Mayor; Senator Long; Ladies and Gentlemen:",
+"I have enjoyed to the full passing through Kansas to-day and yesterday afternoon, and as I go through I am struck more and more by the great possibilities of your beautiful state. I have now come into the short-grass counties. I know the region well for in the old days I was in the cattle business myself. Then we had a very different kind of animals on the ranges from those I have seen from the car windows as I passed. In the old days we saw nothing approaching to the groves of trees and the great alfalfa fields that I have also watched. Above all, in congratulating you upon your material well-being, I wish to congratulate you upon the type of citizenship here. (Applause) It is, after all, what we had a right to expect from a state within whose limitsthere are to be found so many representatives of the Grand Army of the Republic, of the men who proved their loyalty when the nation's life was at stake. The work of the pioneer is in its essentials the same as the work of the soldier. The same qualities of hardihood, of daring, of endurance, of iron resolution, were needed to turn [?] the prairie into this great state as were needed in the civil war. One lesson that you men of the Grand Army taught we in turn must learn. I speak in a town of wageworkers, a great railway center, surrounded by a pastoral and agricultural population, a town that symbolizes and represents the complex industrial life of our country.",
+"You won in the civil war because you had not only the stern, rugged qualities, but you had also the spirit of brotherhood, the spirit of each paying heed to his brother's well-being as well as his own. We stand at the top pitch of industrial life. We can keep it unless we mar it by our own folly, and the surest way in which to mar it is by paying heed to the counsels of envy, of jealousy, of arrogance, towards those who are less well off than ourselves, or of rancor towards those who are better off. Townsman and farmer, employer and employed, we must make up our minds that we shall rise or fall together. In the civil war you won because you fought for a common object and fought with all your heart. There have been wars and plenty of them in the world's history where one side has been beaten because its soldiers or generals were more jealous of one another than they were hostile to the enemy. When a general gets to the point of being more anxious to see a rival general humiliated than to see the",
+"enemy defeated his usefulness is gone. If one wing of the army was beaten, the whole army fell back in disorder. So it is in our industrial life. If disaster comes to one important section of the community it will come to all. If a period of bad times and depression comes all of us will feel it alike, and I earnestly counsel good sense, moderation, the effort on the part of each to look not only to his own interest but to the interest of others, to all parties in our great industrial centers, to all people engaged in doing their share of the industrial work of the day. It is not possible for me to be more specific, because in each locality the needs vary, the conditions vary, and in every locality there is urgent need that we should face these varying conditions with certain principles firmly established in our hearts,-- the principle of justice, the principle of equity, the principle of fair and square dealing as between man and man, the desire each to do as well as he can for himself, but each to make no demand which it is impossible for the other to grant and the making of which and the refusal of which may mean in the long run the widest disaster to all.",
+"There is a tendency to believe that law can do everything. It cannot. Good laws can do something. Good administration of the laws can do something more. We can of course always keep this as it must be kept-- a country of liberty under the law, liberty through and by the law. Law can prevent injustice by one man against another. Law can secure a fair deal so far as human wisdom can secure it, a fair chance for each man to show under reasonably favorable conditions the quality that there is in him. More than that the law cannot do. In the last analysis a man's success must depend primarily now as it has depended since the world began, upon that man's own individual qualities, upon his courage, his hardihood, his thrift, his resolution, his power to work. If he has not got these qualities in him, no law can put them in him. If the man is a shiftless farmer, if he is a slack and indifferent worker, if he is a foolish or extravagant business man, no law can help him. No law that was [?] ever devised will make a coward brave or a fool wise or a weakling strong. All that the law can do is while preventing injustice, to give each man the chance to show whether he is a fool or a wise man, a coward or a brave man, a strong man or a weakling. If you have not got the right stuff in you, then nothing in the world can get it out of you, because it is not there to get it out. Success has come here",
+"to those who worked hard and knew [?] how to work, not to the man who has always bemoaned that fate was so bad to him. You know fate is not kind if you sit down and weep at the fact that things have not been better. They grow worse when fate is bad. Grin and bear it, take it that way, and strive to make it better. While a sound body is a good thing, and a sound mind an even better thing, the best of all things is character,-- Character, by which we mean the sum of the qualities that test a man's worth as a citizen. I do not care how intelligent a man is, if at the first failure he lies down you cannot do much with him. The man that wins is the man that has in him the energy and resolution that make him willing and resolute to try again, and try again, until success comes. To all of us disaster comes at times. There is not a man here who does not at times slip or stumble, and shame to his fellow who will not stretch out his hand. Each of us at times needs a helping hand, and each of us should then be ready to stretch out that helping hand. Help the man up, get him on the right path, but if he lies down you cannot carry him. You can help him in the long run efficiently in but one way-- you can help him to help himself. That is the kind of help that in the long run counts for most. Character includes many qualities, but three most of all.-- In the first place, decency, honesty, not merely the honesty that does not steal, but the honesty that makes a man a good father, a good husband, a good neighbor, a good man to deal with, or a good man to work with, or a good man to work along side of, the quality that makes a man scorn aught that is not fair and honorable in dealing with his neighbors. And that is not enough. In war you needed to have a man patriotic first, you needed to have him have love of country; but it did not make any difference how much he loved his country if he ran away he was no good. I do not care how virtuous a man is, how decent he is, if he is afraid, you can do little with him. We need to have virtue, honesty, morality, decency, and withit we need strength, courage, fearlessness, the iron resolution that drives a man forward to success. In addition to honesty we need courage in its widest sense, and we need something in addition to that, for it makes but little difference if a man be both honest and brave, if he is a fool you can do but little with him. You need honesty, you need courage, and finally you need the saving grace of common sense.",
+"I believe in you, I believe in your future, because I believe you have just",
+"those qualities, and I think you have the sturdiness of fiber which enables each of you to try to work out his own fate successfully, and yet that lift toward generous and righteous living which makes each of you anxious to deal fairly with his neighbor. I believe in you because I think that you are individually fine and good citizens; and because such is my belief, I feel that you will win in the future an even greater share of moral and material well-being than that which we now so abundantly enjoy. I wish you well, I believe in you, and I thank you for having come here to-day. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -24329,13 +24338,77 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0347, 0348, 0349",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0347",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor; Senator Long; Ladies and Gentlemen:",
+"I have enjoyed to the full passing through Kansas to-day and yesterday afternoon, and as I go through I am struck more and more by the great possibilities of your beautiful state. I have now come into the short-grass counties. I know the region well for in the old days I was in the cattle business myself. Then we had a very different kind of animals on the ranges from those I have seen from the car windows as I passed. In the old days we saw nothing approaching to the groves of trees and the great alfalfa fields that I have also watched. Above all, in congratulating you upon your material well-being, I wish to congratulate you upon the type of citizenship here. (Applause) It is, after all, what we had a right to expect from a state within whose limitsthere are to be found so many representatives of the Grand Army of the Republic, of the men who proved their loyalty when the nation's life was at stake. The work of the pioneer is in its essentials the same as the work of the soldier. The same qualities of hardihood, of daring, of endurance, of iron resolution, were needed to turn [?] the prairie into this great state as were needed in the civil war. One lesson that you men of the Grand Army taught we in turn must learn. I speak in a town of wageworkers, a great railway center, surrounded by a pastoral and agricultural population, a town that symbolizes and represents the complex industrial life of our country.",
+"You won in the civil war because you had not only the stern, rugged qualities, but you had also the spirit of brotherhood, the spirit of each paying heed to his brother's well-being as well as his own. We stand at the top pitch of industrial life. We can keep it unless we mar it by our own folly, and the surest way in which to mar it is by paying heed to the counsels of envy, of jealousy, of arrogance, towards those who are less well off than ourselves, or of rancor towards those who are better off. Townsman and farmer, employer and employed, we must make up our minds that we shall rise or fall together. In the civil war you won because you fought for a common object and fought with all your heart. There have been wars and plenty of them in the world's history where one side has been beaten because its soldiers or generals were more jealous of one another than they were hostile to the enemy. When a general gets to the point of being more anxious to see a rival general humiliated than to see the",
+"enemy defeated his usefulness is gone. If one wing of the army was beaten, the whole army fell back in disorder. So it is in our industrial life. If disaster comes to one important section of the community it will come to all. If a period of bad times and depression comes all of us will feel it alike, and I earnestly counsel good sense, moderation, the effort on the part of each to look not only to his own interest but to the interest of others, to all parties in our great industrial centers, to all people engaged in doing their share of the industrial work of the day. It is not possible for me to be more specific, because in each locality the needs vary, the conditions vary, and in every locality there is urgent need that we should face these varying conditions with certain principles firmly established in our hearts,-- the principle of justice, the principle of equity, the principle of fair and square dealing as between man and man, the desire each to do as well as he can for himself, but each to make no demand which it is impossible for the other to grant and the making of which and the refusal of which may mean in the long run the widest disaster to all.",
+"There is a tendency to believe that law can do everything. It cannot. Good laws can do something. Good administration of the laws can do something more. We can of course always keep this as it must be kept-- a country of liberty under the law, liberty through and by the law. Law can prevent injustice by one man against another. Law can secure a fair deal so far as human wisdom can secure it, a fair chance for each man to show under reasonably favorable conditions the quality that there is in him. More than that the law cannot do. In the last analysis a man's success must depend primarily now as it has depended since the world began, upon that man's own individual qualities, upon his courage, his hardihood, his thrift, his resolution, his power to work. If he has not got these qualities in him, no law can put them in him. If the man is a shiftless farmer, if he is a slack and indifferent worker, if he is a foolish or extravagant business man, no law can help him. No law that was [?] ever devised will make a coward brave or a fool wise or a weakling strong. All that the law can do is while preventing injustice, to give each man the chance to show whether he is a fool or a wise man, a coward or a brave man, a strong man or a weakling. If you have not got the right stuff in you, then nothing in the world can get it out of you, because it is not there to get it out. Success has come here",
+"to those who worked hard and knew [?] how to work, not to the man who has always bemoaned that fate was so bad to him. You know fate is not kind if you sit down and weep at the fact that things have not been better. They grow worse when fate is bad. Grin and bear it, take it that way, and strive to make it better. While a sound body is a good thing, and a sound mind an even better thing, the best of all things is character,-- Character, by which we mean the sum of the qualities that test a man's worth as a citizen. I do not care how intelligent a man is, if at the first failure he lies down you cannot do much with him. The man that wins is the man that has in him the energy and resolution that make him willing and resolute to try again, and try again, until success comes. To all of us disaster comes at times. There is not a man here who does not at times slip or stumble, and shame to his fellow who will not stretch out his hand. Each of us at times needs a helping hand, and each of us should then be ready to stretch out that helping hand. Help the man up, get him on the right path, but if he lies down you cannot carry him. You can help him in the long run efficiently in but one way-- you can help him to help himself. That is the kind of help that in the long run counts for most. Character includes many qualities, but three most of all.-- In the first place, decency, honesty, not merely the honesty that does not steal, but the honesty that makes a man a good father, a good husband, a good neighbor, a good man to deal with, or a good man to work with, or a good man to work along side of, the quality that makes a man scorn aught that is not fair and honorable in dealing with his neighbors. And that is not enough. In war you needed to have a man patriotic first, you needed to have him have love of country; but it did not make any difference how much he loved his country if he ran away he was no good. I do not care how virtuous a man is, how decent he is, if he is afraid, you can do little with him. We need to have virtue, honesty, morality, decency, and withit we need strength, courage, fearlessness, the iron resolution that drives a man forward to success. In addition to honesty we need courage in its widest sense, and we need something in addition to that, for it makes but little difference if a man be both honest and brave, if he is a fool you can do but little with him. You need honesty, you need courage, and finally you need the saving grace of common sense.",
+"I believe in you, I believe in your future, because I believe you have just",
+"those qualities, and I think you have the sturdiness of fiber which enables each of you to try to work out his own fate successfully, and yet that lift toward generous and righteous living which makes each of you anxious to deal fairly with his neighbor. I believe in you because I think that you are individually fine and good citizens; and because such is my belief, I feel that you will win in the future an even greater share of moral and material well-being than that which we now so abundantly enjoy. I wish you well, I believe in you, and I thank you for having come here to-day. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 45 (frame 425:0347)</span>",
+"Mr. Mayor; Senator Long; Ladies and Gentlemen:",
+"I have enjoyed to the full passing through Kansas to-day and yesterday afternoon, and as I go through I am struck more and more by the great possibilities of your beautiful state. I have now come into the short-grass counties . I know the region well for in the old days I was in the cattle business myself. Then we had <del title=\"struck through\">x</del><ins title=\"added by hand\">a</ins> very different kind of animals on the range<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del>s from those I have seen from the car windo<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">w</ins>s as I passed. In the old days we saw nothing approaching to the groves of trees and the great alfalfa fields that I have also watched. Above all, in congratulating you upon your material well-being, I wish<del title=\"struck through\">x</del> to congratulate you upon the type of citizenship here. (Applause) It is, after all, what we had a right to expect from a state within whose limits<ins title=\"added by hand\">there</ins> are to be found so many representatives of the Grand Army of the Republic, of the men who proved their loyalty when the nation&#x27;s life was at stake. The work of the pioneer is in its essentials the same as the work of the soldier. The same qualities of hardihood, of daring, of endurance, of iron resolution, were needed to <span class=\"unc\" title=\"uncertain reading\">turn</span> the prairie into this great state as were needed in the civil war. One lesson that <del title=\"struck through\">xxx</del> you men of the Grand <span class=\"sic\" title=\"reads: Army taught\">Armytaught</span> we in turn must learn . I speak in a <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">g</span></del><ins title=\"added by hand\">t</ins>own of wageworkers, a great railway center, surrounded by a pastoral and agricultural population, a town that symbolizes and represents the complex industrial life of our country.",
+"You won in the civil war because you had not only the stern, rugged qualities, but you had also the spirit of brotherhood, the spirit of each paying heed to his brother&#x27;s well-being as well as his own. We stand at the top pitch of industrial life. We can keep it unless we mar it by our own folly, and the surest way in which to mar it is by paying heed to the counsels of envy, of jealousy, of arrogance, towards those who are less well off than ourselves, or of rancor towards those who are better off. Townsman and farmer, employer and employed, we must make up our minds that we shall rise or fall together. In the civil war you won because you fought for a common object and fought with all your heart. There have been wars and plenty of them in the world&#x27;s history where one side has been beaten because its soldiers or generals were more jealous of one another than they were hostile to the enemy. When a general gets to the point of being more anxious to see a rival general humiliated than to see the",
+"<span class=\"pb\">Page 46 (frame 425:0348)</span>",
+"enemy defeated his usefulness is gone. If one wing of the army was beaten, the whole army fell back in disorder. So it <span class=\"sic\" title=\"reads: is in\">isin</span> our industrial life. If disaster comes to one important section of the community it will come to all. If a period of bad times and depression comes all of us will feel it alike, and I earnestly counsel good sense, moderation, the effort on the part of each to look not only to his own interest but to the interest of others, to all parties in our great industrial centers, to all people engaged in doing their share of the industrial work of the day. It is not possible for me to be more specific, because in each locality the needs vary, the conditions vary, and in every locality there is urgent need that we should face these varying conditions with certain principles firmly established in our hearts,<ins title=\"added by hand\">--</ins> the principle of justice, the principle of equity, the principle of fair and square dealing as between man and man, the desire each to do as well as he can for himself, but each to make no demand which it is impossible for the other to grant and the making of which and the refusal of which may mean in the long run the widest disaster to all.",
+"There is a tendency to believe that law can do everything. It cannot. Good laws can do something. <span class=\"sic\" title=\"reads: Good\">Godd</span> administration of the laws can do something more. We can of course always keep this as it must be kept-- a country of liberty under the law, liberty through and by the law. Law can prevent injustice by one man against another. Law can secure a fair deal so far as human wisdom can secure it, a fair chance for each man to show under reasonably favorable conditions the quality that there is in him. More than that the law cannot do. In the last analysis a man&#x27;s success must depend primarily now as it has depended since the world began, upon that man&#x27;s own individual qualities, upon his courage, his hardihood, his thrift, his resolution, his power to work. If he has not got these qualities in him, no law can put them in him. If the man is a shiftless farmer, if he is a <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">slack</ins> and indifferent worker, if he is a foolish or extravagant business man , no law can help him. No law that <ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">was</span></ins> ever devised will make a coward brave or a fool wise or a weakling strong. All that the law can do is while preventing injustice, to give each man the chance to show whether he is a fool or a wise man, a coward or a brave man, a strong man or a weakling. If you have not got the right stuff in you, then nothing in the world can get it out of you, because it is not there to get it out. Success has come here",
+"<span class=\"pb\">Page 47 (frame 425:0348)</span>",
+"to those who worked hard and <span class=\"unc\" title=\"uncertain reading\">knew</span> how to work, not to the man who has always bemoaned that fate was so bad to him. You know fate is not kind if you sit down and weep at the fact that things have not been better. They grow worse when fate is bad. Grin and bear it, take it that way, and strive to make it better. While a sound body is a good thing, and a sound mind an even better thing, the best of all things is character,<ins title=\"added by hand\">--</ins> <del title=\"struck through\">c</del><ins title=\"added by hand\">C</ins>haracter<ins title=\"added by hand\">,</ins> by which we mean the sum of the qualities that test a man&#x27;s worth as a citizen. I do not care how intelligent a man is, if at the first failure he lies down you cannot do much with him. The man that wins is the man that <span class=\"sic\" title=\"reads: has\">nas</span> in him the energy and resolution that make him willing and resolute to try again, and try again, until success comes . To all of us disaster comes at times. There is not a man here <span class=\"sic\" title=\"reads: who does\">whodoes</span> not at times slip or stumble, and shame to his fellow who will not stretch out his hand. Each of us at times needs a helping hand, and each of us should then be ready to stretch out that helping hand. Help the man up, get him on the right path, but if he lies down you cannot carry him. You can help him in the long run efficiently in but one way-- you can help him to help himself. That is the kind of help that in the long run counts for most. Character includes <del title=\"struck through\">xx</del> many qualities<ins title=\"added by hand\">,</ins> but three most of all.<ins title=\"added by hand\">--</ins> In the first place, decency, honesty, not merely the honesty that does not steal, but the honesty that makes a man a good father, a good husband, a good neighbor, a good man to deal with, or a good man to work with, or a good man to work along side of, the quality that makes a man scorn aught that is not fair and honorable in dealing with his neighbors. And that is not enough. In war you needed to have a man patriotic first, you needed to have him have love of country; but it did not make any difference how much he loved his country if he ran away he was no good. I do not care how virtuous a man is, how decent he is, if he is afraid, you can do little with him. We need to have virtue, honesty, morality, decency, and with<ins title=\"added by hand\">it</ins> we need strength, courage, fearlessness, the iron resolution that drives a man forward to success . In addition to honesty we need courage in its widest sense, and we need something in addition to that, for it makes but little difference if a man be both honest <del title=\"struck through\">xx</del> and <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">brave,</ins> if he is a fool you can do but <span class=\"sic\" title=\"reads: little\">littl e</span> with him. You need honesty, you need courage, and finally you need the saving grace of common sense.",
+"I believe in you, I believe in your future, because I believe you have just",
+"<span class=\"pb\">Page 48 (frame 425:0349)</span>",
+"those qualities, and I think you have the sturdiness of fiber which enables each of you to try to work out his own fate successfully, and yet that lift toward generous and righteous living which makes each of you anxious to deal fairly with his neighbor. I believe in <span class=\"sic\" title=\"reads: you\">yor</span> because I think that you are individually fine and good citizens; and because such is my belief, I feel that you will win in the future an even greater share of moral and material well-being than that which we now so <span class=\"sic\" title=\"reads: abundantly\">ab ndantly</span> enjoy. I wish you well, I believe in you, and I thank you for having come here to-day. (<span class=\"sic\" title=\"reads: Cheers\">Cherrs</span> and applause)",
+"<span class=\"tnote\">Heading: the second line begins with a typed word x-ed out before &quot;May 2, 1903.&quot; (shown as &quot;xxxxx&quot; in the title).</span>\n<span class=\"tnote\">The typing on folio 45 is heavily inked and blurred in the image; readings follow the letter shapes, and the word read as &quot;turn&quot; (&quot;to turn the prairie&quot;) is overtyped at its first letter.</span>\n<span class=\"tnote\">Folio 45: &quot;a&quot; before &quot;very different&quot; is handwritten above an x-ed letter, with a caret. In &quot;ranges&quot; and &quot;windows&quot; a typed letter is struck by hand, and in &quot;windows&quot; a &quot;w&quot; is handwritten above. &quot;there&quot; above &quot;limits are&quot; is typed between the lines with a handwritten caret. In &quot;a town&quot; a handwritten &quot;t&quot; is written over the first typed letter.</span>\n<span class=\"tnote\">Folio 46: &quot;slack&quot; is typed between the lines above an x-ed word, with a handwritten caret. A handwritten word, perhaps &quot;was&quot;, is written above &quot;ever devised&quot; with a caret. A caret with a bar above after &quot;hearts,&quot; appears to mark an inserted dash.</span>\n<span class=\"tnote\">Folio 47: at &quot;character,--Character,&quot; the dash and the capital &quot;C&quot; are handwritten over the typed letter, and the comma after &quot;Character&quot; is by hand. &quot;brave,&quot; is handwritten above a typed word struck by hand. &quot;it&quot; after &quot;with&quot; is handwritten with a caret. After &quot;three most of all.&quot; a hand dash is added and the &quot;I&quot; of &quot;In&quot; is touched up by hand. A hand mark stands after &quot;for&quot; in &quot;for it makes&quot;. Square brackets in the margin and text mark &quot;kind of help ... counts for most.&quot; and &quot;Character includes ... common sense.&quot;; they do not change words.</span>\n<span class=\"tnote\">Third look: in &quot;knew how to work&quot; the third letter is blurred and could be &quot;o&quot; (&quot;know&quot;); the mark after &quot;I believe in you&quot; is a comma, matching the comma after &quot;courage&quot;.</span>\n<span class=\"tnote\">Typed page numbers &quot;-2-&quot;, &quot;-3-&quot; and &quot;-4-&quot; at the heads of folios 46-48 are left out of the text.</span>"
+],
+"notes": [
+"Heading: the second line begins with a typed word x-ed out before \"May 2, 1903.\" (shown as \"xxxxx\" in the title).",
+"The typing on folio 45 is heavily inked and blurred in the image; readings follow the letter shapes, and the word read as \"turn\" (\"to turn the prairie\") is overtyped at its first letter.",
+"Folio 45: \"a\" before \"very different\" is handwritten above an x-ed letter, with a caret. In \"ranges\" and \"windows\" a typed letter is struck by hand, and in \"windows\" a \"w\" is handwritten above. \"there\" above \"limits are\" is typed between the lines with a handwritten caret. In \"a town\" a handwritten \"t\" is written over the first typed letter.",
+"Folio 46: \"slack\" is typed between the lines above an x-ed word, with a handwritten caret. A handwritten word, perhaps \"was\", is written above \"ever devised\" with a caret. A caret with a bar above after \"hearts,\" appears to mark an inserted dash.",
+"Folio 47: at \"character,--Character,\" the dash and the capital \"C\" are handwritten over the typed letter, and the comma after \"Character\" is by hand. \"brave,\" is handwritten above a typed word struck by hand. \"it\" after \"with\" is handwritten with a caret. After \"three most of all.\" a hand dash is added and the \"I\" of \"In\" is touched up by hand. A hand mark stands after \"for\" in \"for it makes\". Square brackets in the margin and text mark \"kind of help... counts for most.\" and \"Character includes... common sense.\"; they do not change words.",
+"Third look: in \"knew how to work\" the third letter is blurred and could be \"o\" (\"know\"); the mark after \"I believe in you\" is a comma, matching the comma after \"courage\".",
+"Typed page numbers \"-2-\", \"-3-\" and \"-4-\" at the heads of folios 46-48 are left out of the text."
+],
+"file": "transcriptions/1903-05-02-ellis.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"law-courts"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"fate",
+"law",
+"fool",
+"honesty",
+"resolution",
+"qualities",
+"help",
+"brave",
+"disaster",
+"industrial"
+],
+"stats": {
+"words": 1593,
+"unique_words": 505,
+"sentences": 58,
+"avg_sentence": 27.5,
+"minutes": 12,
+"i_count": 24,
+"we_count": 17
+}
 },
 {
 "id": "1903-05-02-ellsworth",
@@ -24349,10 +24422,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 569,
+"paragraphs": [
+"My Fellow Citizens:",
+"As I have passed through Kansas yesterday afternoon and to-day I have been struck not merely with the beauty and fertility of your state, not merely with your great material advantages, not merely with the strong, rugged type of your men, but I have been struck also with the great and successful efforts made by Kansas in the cause of education by your colleges, your schools. I am glad of it, particularly for this reason: Kansas is like a blooded horse; Kansas needs education not to develop or stimulate the qualities, but to direct and train them. Kansas is bound to make its weight felt for good or for evil. More and more as I have seen your people I have realized their power, the power in the state, the power of your citizenship, the power of Kansas' manhood and womanhood; and wherever power exists there is a chance of its going wrong. A strong man, because of his strength, if he goes wrong can do worse than a weak man. Kansas made a great record in the civil war. No state has more soldiers, more of those men who won honor in the times that tried men's souls. And you of the younger generation sent forth many of your number instantly, the minute the call was made upon them; and I would count with absolute certainty upon a regiment from Kansas doing its full share of duty, if not a little more, in case they were needed.",
+"Now having that power means that if that power is not well directed it will be misused. Any country in which there is an abounding virility, abounding manhood, abounding courage, abounding strength, needs to educate and train that strength, that courage, that power, under penalty of seeing it possibly go astray. I congratulate you and I congratulate the nation upon the educational work done in Kansas, because you have the type of citizen which, if it is on the right side, represents the most potent of forces on the right side, and if it goes wrong, because of its very strength, its very power will do an infinity of harm. For that reason especially I feel that the whole country is to be congratulated because of your excellent educational work here, the work of the school, the work of the college, the work of education in its broadest and deepest and truest sense.",
+"There are communities which need to educate people in order to bring them up. You do not need that here. What you need here is what any strong and high spirited community needs, to be educated in order that it may go right. Just as it is with a horse. Take a perfectly quiet drudge of a horse and train him and he will never turn out very bad or very good either, and take the horse that is best worth riding or driving and the high spirited thoroughbred, and if he is badly trained he is not an enjoyable animal to handle. Any section ofthe people who have the strength, who have the power in them, need to have that power guided and shaped aright, and I congratulate you of Kansas that yours is being guided and shaped aright. I believe in you with all my heart and soul; I am proud of you and prophesy a glorious future for you.(Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -24374,13 +24452,64 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0342, 0343",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0342",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow Citizens:",
+"As I have passed through Kansas yesterday afternoon and to-day I have been struck not merely with the beauty and fertility of your state, not merely with your great material advantages, not merely with the strong, rugged type of your men, but I have been struck also with the great and successful efforts made by Kansas in the cause of education by your colleges, your schools. I am glad of it, particularly for this reason: Kansas is like a blooded horse; Kansas needs education not to develop or stimulate the qualities, but to direct and train them. Kansas is bound to make its weight felt for good or for evil. More and more as I have seen your people I have realized their power, the power in the state, the power of your citizenship, the power of Kansas' manhood and womanhood; and wherever power exists there is a chance of its going wrong. A strong man, because of his strength, if he goes wrong can do worse than a weak man. Kansas made a great record in the civil war. No state has more soldiers, more of those men who won honor in the times that tried men's souls. And you of the younger generation sent forth many of your number instantly, the minute the call was made upon them; and I would count with absolute certainty upon a regiment from Kansas doing its full share of duty, if not a little more, in case they were needed.",
+"Now having that power means that if that power is not well directed it will be misused. Any country in which there is an abounding virility, abounding manhood, abounding courage, abounding strength, needs to educate and train that strength, that courage, that power, under penalty of seeing it possibly go astray. I congratulate you and I congratulate the nation upon the educational work done in Kansas, because you have the type of citizen which, if it is on the right side, represents the most potent of forces on the right side, and if it goes wrong, because of its very strength, its very power will do an infinity of harm. For that reason especially I feel that the whole country is to be congratulated because of your excellent educational work here, the work of the school, the work of the college, the work of education in its broadest and deepest and truest sense.",
+"There are communities which need to educate people in order to bring them up. You do not need that here. What you need here is what any strong and high spirited community needs, to be educated in order that it may go right. Just as it is with a horse. Take a perfectly quiet drudge of a horse and train him and he will never turn out very bad or very good either, and take the horse that is best worth riding or driving and the high spirited thoroughbred, and if he is badly trained he is not an enjoyable animal to handle. Any section ofthe people who have the strength, who have the power in them, need to have that power guided and shaped aright, and I congratulate you of Kansas that yours is being guided and shaped aright. I believe in you with all my heart and soul; I am proud of you and prophesy a glorious future for you.(Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 37 (frame 425:0342)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Fellow Citizens:",
+"As I have passed through Kansas yesterday<del title=\"struck through\">xxxx</del> afternoon and to-day I have been struck not merely with the beauty and fertility of your state, not merely with your great material advantages,not merely with the strong, rugged type of your men, but I have been struck also with the great and successful efforts made by Kansas in the cause of education by your colleges, your schools. I am glad of it, particularly for this reason: Kansas is like a blooded horse; Kansas needs education not to develop or stimulate the qualities, but to direct and train them. Kansas is bound to make its weight felt for good or for evil. More and more as I have seen your people I have realized their power, the power in the state, the power of your citizenship, the power of Kansas&#x27; manhood and womanhood; and wherever power exists there is a chance of its going wrong. A strong man, because of his strength, if he goes wrong can do worse than a weak man. Kansas made a great record in the civil war. No state has more soldiers, more <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> of those men who won honor in the <span class=\"sic\" title=\"reads: times\">t imes</span> that tried men&#x27;s souls. And you of the younger <span class=\"sic\" title=\"reads: generation sent\">generationsent</span> forth many of your number instantly, the minute the call was made upon them; and I would count with absolute certainty upon a regiment from Kansas doing its full share of duty, if not a little more, in case they were needed.",
+"<span class=\"pb\">Page 38 (frame 425:0343)</span>",
+"Now having that power means that if that power is not well directed it will be misused. Any country in which there is an abounding virility, abounding manhood, abounding courage, abounding strength, needs to educate and train that strength, that courage, that power, under penalty of seeing it possibly go astray. I <span class=\"sic\" title=\"reads: congratulate you\">congratulat eyou</span> and I congratulate the nation upon the educational work <span class=\"sic\" title=\"reads: done\">dane</span> in Kansas, because you have the type of citizen which <del title=\"struck through\">if it is a force</del><ins title=\"added by hand\">,</ins> if it is on the right side<ins title=\"added by hand\">,</ins> represents the most potent of forces on the right side, and <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> if it goes wrong<ins title=\"added by hand\">,</ins> because of its very strength<ins title=\"added by hand\">,</ins> its very power will do an infinity of harm. For that reason especially I feel that the whole country is to be congratulated because of your excellent educational work here,the work of the school, the work of the college, the work of education in its broadest and deepest and truest sense.",
+"There are <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">communities</ins> which need to educate people in order to bring them up. You do not need that here. What you need here is what any <span class=\"sic\" title=\"reads: strong\">stwong</span> and high spirited communit<del title=\"struck through\">ies</del><ins title=\"added by hand\">y</ins> needs, to be educated in order that it may go right. Just as it is with a horse. Take a perfectly quiet drudge of a horse and train him and he will never turn out very bad or very good either, and take the horse that is best worth riding or driving and the high spirited thoroughbred<ins title=\"added by hand\">,</ins> and if he is badly trained he is not an enjoyable animal to handle. Any section of<ins title=\"added by hand\">the</ins> people who have the strength, who have the power in <del title=\"struck through\">x</del> them<ins title=\"added by hand\">,</ins> need to have that power guided and shaped aright, and I congratulate you of Kansas that yours is being guided and shaped aright. I believe in you with all my heart and soul; I am proud of <span class=\"sic\" title=\"reads: you\">hyou</span> and prophesy a glorious future for you.(Cheers and applause.)",
+"<span class=\"tnote\">Folio 37: after &quot;your schools&quot; a hand stroke runs through the comma, leaving a period; after &quot;womanhood&quot; a hand stroke stands before the semicolon. The word after &quot;more&quot; in &quot;more ... of those men&quot; (three letters) is overtyped into a blot, apparently cancelled, and cannot be read. A long curved hand line below the last paragraph marks the end of the text on the page; it does not change words.</span>\n<span class=\"tnote\">Folio 38: &quot;if it is a force&quot; is struck through by hand; the word after &quot;side, and&quot; is heavily inked over by hand and cannot be read. The commas after &quot;force&quot; (end of the struck words), &quot;side&quot;, &quot;wrong&quot;, &quot;thoroughbred&quot; and &quot;them&quot;, and the stroke after &quot;strength&quot;, are by hand. &quot;communities&quot; is typed between the lines above an x-ed word; in &quot;community&quot; a handwritten &quot;y&quot; is written over the typed &quot;ies&quot;. &quot;the&quot; above &quot;of people&quot; is typed between the lines with a handwritten caret.</span>\n<span class=\"tnote\">The typed page number &quot;-2-&quot; at the head of folio 38 is left out of the text.</span>"
+],
+"notes": [
+"Folio 37: after \"your schools\" a hand stroke runs through the comma, leaving a period; after \"womanhood\" a hand stroke stands before the semicolon. The word after \"more\" in \"more... of those men\" (three letters) is overtyped into a blot, apparently cancelled, and cannot be read. A long curved hand line below the last paragraph marks the end of the text on the page; it does not change words.",
+"Folio 38: \"if it is a force\" is struck through by hand; the word after \"side, and\" is heavily inked over by hand and cannot be read. The commas after \"force\" (end of the struck words), \"side\", \"wrong\", \"thoroughbred\" and \"them\", and the stroke after \"strength\", are by hand. \"communities\" is typed between the lines above an x-ed word; in \"community\" a handwritten \"y\" is written over the typed \"ies\". \"the\" above \"of people\" is typed between the lines with a handwritten caret.",
+"The typed page number \"-2-\" at the head of folio 38 is left out of the text."
+],
+"file": "transcriptions/1903-05-02-ellsworth.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education",
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"kansas",
+"horse",
+"abounding",
+"power",
+"strength",
+"train",
+"congratulate",
+"education",
+"strong",
+"wrong"
+],
+"stats": {
+"words": 569,
+"unique_words": 239,
+"sentences": 19,
+"avg_sentence": 29.9,
+"minutes": 4,
+"i_count": 13,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-02-salina",
@@ -24394,10 +24523,19 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 919,
+"paragraphs": [
+"Mr. Chairman; Senator; and you, My Fellow Citizens:",
+"I am glad to be here. I am glad to address this audience with the children in the foreground and the representatives of the colleges right behind them. I have been impressed more and more as I have gone through Kansas with the wisdom of your conduct in steadily developing the highest type of intellectual and moral citizenship, and with the abounding well-being of your community. I want to say how glad I am to see the representatives of the colleges of Salina and the representatives of Bethany. I know all about Bethany. I know its work right through.",
+"I have been struck in coming through this state as in coming through Nebraska to the north of it with the change in the scenery made by the hand of man, the effect in beautifying landscape no less than in adding to the livableness, [?] and productivity of the state, because of what has been done by the farmers who have built up this state. I rejoice that so great a state is to produce the scholar, the man with trained mind, exactly as it produces the man with trained muscles. Here as I see the children I want to congratulate you for another reason. I believe in your stock and I am glad it is not likely to die out. (Applause) I congratulate you on the quality and quantity, both. (Applause)",
+"The educational institutions that I am addressing, St. John's, Wesleyan, Bethany, all of them, are paying heed --to their honor be it said -- that band of devoted men and women who take charge of the public schools are paying heed, not only to the development of the body and the mind, but to the development of what counts for so much more than either body or mind -- the development of character. (Applause) That is what counts in the long run -- character. Let any one of you look at his neighbors. Who is successful? The man of intellect? Yes, if he has got something more than intellect. But it matters not how bright he is, how brilliant he is, if he has not got the staying quality in him, if he has not got the courage, perseverence, dogged resolution not to accept defeat, then his intellect will not bring him success.",
+"The man that wins is the man that has in him the quality to which we allude when we say of a man that he is not only a good man, but a man.",
+"As I came here I heard some cheering which made me feel a little as if I were at a football game. A little distance back I was presented with a football by a representative of one of the local teams, and I said to them there that the best advice I could give to us in the great game of life is the advice upon which a good football player acts -- don't flinch, don't foul, and hit the line hard. (Applause) That counts in life just as it does in sports. Do not flinch, do not be afraid, do not wait to have an easy time and sit at home and wonder why the world does not appreciate you. You are not going to win out that way. Go out and do your work. In the next place do it squarely; do not foul, do not wrong anyone; live so that the man with whom you are brought into contact will feel that while you are able to take care of yourself, (and if you are not no one will take care of you) you do not wrong any one else. Then hit the line hard; go at it; try to do your life work on the assumption that it is worth doing, and if you do you will succeed.",
+"In closing, just one word of thanks and gratitude to the men of the Grand, Army. Everywhere I go in Kansas I see the men to whom we owe it that there is a chance for me to be here at all; that there is any country for us to celebrate; that there is any President to come to any part of this country. That is so. We have gotten so accustomed to the fact that we often forget its significance. If we were now split up into a jangling knot of contemptible little commonwealths (and that is what we would be if it were not for you)there would not be one of us holding up his head as a proud citizen of the nation which is not only one of the foremost in the world now, but a nation with an absolutely limitless future of greatness, of service, and of improvement during the centuries to come. And I am happy to say to you children, to you students of an older growth, that I do not have to ask you to pay heed to my preaching. I ask you to pay heed to the practice of the men whom you see around you in this community, the men who from '61 to '65 rendered the supreme service to the nation when Abraham Lincoln called for that service. (Applause) Of course I believe in you; of course I am certain of your future, and I am certain of the future of all of us because I think the American nation as a whole is composed of much such material as that I am addressing to-day.",
+"(Great applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -24419,13 +24557,78 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0341, 0342",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0341",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman; Senator; and you, My Fellow Citizens:",
+"I am glad to be here. I am glad to address this audience with the children in the foreground and the representatives of the colleges right behind them. I have been impressed more and more as I have gone through Kansas with the wisdom of your conduct in steadily developing the highest type of intellectual and moral citizenship, and with the abounding well-being of your community. I want to say how glad I am to see the representatives of the colleges of Salina and the representatives of Bethany. I know all about Bethany. I know its work right through.",
+"I have been struck in coming through this state as in coming through Nebraska to the north of it with the change in the scenery made by the hand of man, the effect in beautifying landscape no less than in adding to the livableness, [?] and productivity of the state, because of what has been done by the farmers who have built up this state. I rejoice that so great a state is to produce the scholar, the man with trained mind, exactly as it produces the man with trained muscles. Here as I see the children I want to congratulate you for another reason. I believe in your stock and I am glad it is not likely to die out. (Applause) I congratulate you on the quality and quantity, both. (Applause)",
+"The educational institutions that I am addressing, St. John's, Wesleyan, Bethany, all of them, are paying heed --to their honor be it said -- that band of devoted men and women who take charge of the public schools are paying heed, not only to the development of the body and the mind, but to the development of what counts for so much more than either body or mind -- the development of character. (Applause) That is what counts in the long run -- character. Let any one of you look at his neighbors. Who is successful? The man of intellect? Yes, if he has got something more than intellect. But it matters not how bright he is, how brilliant he is, if he has not got the staying quality in him, if he has not got the courage, perseverence, dogged resolution not to accept defeat, then his intellect will not bring him success.",
+"The man that wins is the man that has in him the quality to which we allude when we say of a man that he is not only a good man, but a man.",
+"As I came here I heard some cheering which made me feel a little as if I were at a football game. A little distance back I was presented with a football by a representative of one of the local teams, and I said to them there that the best advice I could give to us in the great game of life is the advice upon which a good football player acts -- don't flinch, don't foul, and hit the line hard. (Applause) That counts in life just as it does in sports. Do not flinch, do not be afraid, do not wait to have an easy time and sit at home and wonder why the world does not appreciate you. You are not going to win out that way. Go out and do your work. In the next place do it squarely; do not foul, do not wrong anyone; live so that the man with whom you are brought into contact will feel that while you are able to take care of yourself, (and if you are not no one will take care of you) you do not wrong any one else. Then hit the line hard; go at it; try to do your life work on the assumption that it is worth doing, and if you do you will succeed.",
+"In closing, just one word of thanks and gratitude to the men of the Grand, Army. Everywhere I go in Kansas I see the men to whom we owe it that there is a chance for me to be here at all; that there is any country for us to celebrate; that there is any President to come to any part of this country. That is so. We have gotten so accustomed to the fact that we often forget its significance. If we were now split up into a jangling knot of contemptible little commonwealths (and that is what we would be if it were not for you)there would not be one of us holding up his head as a proud citizen of the nation which is not only one of the foremost in the world now, but a nation with an absolutely limitless future of greatness, of service, and of improvement during the centuries to come. And I am happy to say to you children, to you students of an older growth, that I do not have to ask you to pay heed to my preaching. I ask you to pay heed to the practice of the men whom you see around you in this community, the men who from '61 to '65 rendered the supreme service to the nation when Abraham Lincoln called for that service. (Applause) Of course I believe in you; of course I am certain of your future, and I am certain of the future of all of us because I think the American nation as a whole is composed of much such material as that I am addressing to-day.",
+"(Great applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 35 (frame 425:0341)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Chairman; Senator; and you, My Fellow Citizens:",
+"I am glad to be here. I am glad to address this audience with the children in the foreground and the representatives of the colleges right behind them. I have been impressed more and more as I have gone through Kansas with the wisdom of your conduct in steadily developing the highest type of intellectual and moral citizenship, and with the abounding well-being of your community. I want to say how glad I am to see the representatives of the colleges of Salina and the representatives of Bethany. I know all about Bethany. I know its work right through.",
+"I have been struck in coming through this state as in coming through Nebraska to the north of it with the change in the scenery made by the hand of man, the effect in beautifying landscape no less than in adding to the liv<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">e</span></del>ableness<span class=\"unc\" title=\"uncertain reading\">,</span> and productivity of the state, because of what has been done by the farmers who have built up this state . I rejoice that so great a state is to produce the schol<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">e</span></del><ins title=\"added by hand\">a</ins>r, the man with trained mind, exactly as it produces the man with trained muscles. <del title=\"struck through\">xxx</del> Here as I see the children I want to congratulate you for another reason. I believe in your stock and I am glad it is not likely to die out. (Applause) I congratulate you <span class=\"sic\" title=\"reads: on\">o n</span> the quality and quantity, both. (Applause)",
+"The educational institutions that I am addressing, St. John&#x27;s, Wesleyan, Bethany, all of them, are paying heed --to their honor be it said -- that band of devoted men and women who take charge of the public schools are paying heed, not only to the development of the body and the mind, but to the development of what counts for so much more than either body or mind -- the development of character. (Applause) That is what counts in the long run -- character. Let any one of you <span class=\"sic\" title=\"reads: look\">l ook</span> at his neighbors. Who is successful? The man of intellect? Yes, if he has got something more than intellect. But it <span class=\"sic\" title=\"reads: matters not\">mattersnot</span> how bright he is, how brilliant he is, if he has not got the staying quality in him, if he has not got the courage, perseverence, dogged resolution not to accept defeat, then his intellect will not bring him success.",
+"<span class=\"pb\">Page 36 (frame 425:0342)</span>",
+"The man that wins is the man that has in him the quality<del title=\"struck through\">xx</del> to which we allude when we say of a man that he is not only a good man, but a man.",
+"As I came here I heard some cheering which made me feel a little as if I <del title=\"struck through\">xxx xxx</del> were at a football game. A little distance back I was presented with a football by a representative of one of the local teams, and I said to them there that the best advice I could give to <span class=\"sic\" title=\"reads: us\">use</span> in the great game of life is the advice upon which a good football player acts -- don&#x27;t flinch, don&#x27;t foul, and hit the line hard. (Applause) That counts in life just as it does in sports. Do not flinch, do not be afraid, do not wait to have an easy time and sit at home and wonder why the world does not appreciate you. You are not going to win out that way. Go out and do your work. In the next place do it squarely; do <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">not</ins> foul, do not wrong anyone; live so that the man with whom you are brought into contact will feel that while you are able to take care of yourself, (and if you are not no one will take care of you) you do not wrong any one else. Then hit the line hard; go at it; try to do your life work on the assumption that it is worth doing, and if you do you will succeed.",
+"In closing, just one word <del title=\"struck through\">xx</del> of thanks and gratitude to the men of the Grand<del title=\"struck through\">xx xxxx</del>, Army . Everywhere I go in Kansas I see the men to whom we owe it that there is a chance for me to be here at all; that there is any country for us to celebrate; that there is any President to come to any part of this country. That is so. <span class=\"sic\" title=\"reads: We have\">Wehave</span> gotten so accustomed to the fact that we often forget its significance. If we were now split up into a jangling knot of contemptible little commonwealths (and that is what we would be if it were not for you)there would not be one of us holding up his head as a proud citizen of the nation which is not only one of the foremost in the <span class=\"sic\" title=\"reads: world\">worl</span> now, but <del title=\"struck through\">xx</del> a nation with an absolutely limitless future of greatness, of service, and of improvement during the centuries to come. And I am happy to say to you children, to you students of an older growth, that I do not have to ask you to pay heed to my preaching. I ask you to pay heed to the practice of the men whom you see around you in this community, the men who from &#x27;61 to &#x27;65 rendered the supreme service to the nation when Abraham Lincoln called for that service. (Applause) Of course I believe in you; of course I am certain of your future, and I am certain of the future of all of us because I think the American nation as a whole is composed of much such material as that I am addressing to-day.",
+"(Great applause)",
+"<span class=\"tnote\">Folio 35: the marginal &quot;File&quot; is handwritten and crossed by a diagonal stroke. Hand strokes separate &quot;of/your&quot; and &quot;to/their&quot;; they do not change words. In &quot;livableness&quot; a typed letter after &quot;liv&quot; is struck by hand. In &quot;scholar&quot; a handwritten &quot;a&quot; is written over a struck typed letter. &quot;I&quot; in &quot;how glad I am&quot; is typed slightly below the line.</span>\n<span class=\"tnote\">Folio 36: &quot;not&quot; in &quot;do not foul&quot; is handwritten above a struck typed word, with a caret. A hand stroke follows &quot;worl&quot; in &quot;world&quot;; the &quot;d&quot; is not clearly typed. The last six typed lines of the page are typed closer together than the rest.</span>\n<span class=\"tnote\">Third look: a faint mark after &quot;livableness&quot; may be a lightly typed comma. &quot;perseverence&quot; and &quot;use&quot; are typed so. The first letter of &quot;jangling&quot; is a &quot;j&quot; with a gray smudge above it.</span>\n<span class=\"tnote\">The typed page number &quot;-2-&quot; at the head of folio 36 is left out of the text.</span>"
+],
+"notes": [
+"Folio 35: the marginal \"File\" is handwritten and crossed by a diagonal stroke. Hand strokes separate \"of/your\" and \"to/their\"; they do not change words. In \"livableness\" a typed letter after \"liv\" is struck by hand. In \"scholar\" a handwritten \"a\" is written over a struck typed letter. \"I\" in \"how glad I am\" is typed slightly below the line.",
+"Folio 36: \"not\" in \"do not foul\" is handwritten above a struck typed word, with a caret. A hand stroke follows \"worl\" in \"world\"; the \"d\" is not clearly typed. The last six typed lines of the page are typed closer together than the rest.",
+"Third look: a faint mark after \"livableness\" may be a lightly typed comma. \"perseverence\" and \"use\" are typed so. The first letter of \"jangling\" is a \"j\" with a gray smudge above it.",
+"The typed page number \"-2-\" at the head of folio 36 is left out of the text."
+],
+"file": "transcriptions/1903-05-02-salina.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"football",
+"heed",
+"intellect",
+"applause",
+"counts",
+"quality",
+"representatives",
+"development",
+"mind",
+"glad"
+],
+"stats": {
+"words": 919,
+"unique_words": 320,
+"sentences": 31,
+"avg_sentence": 29.6,
+"minutes": 7,
+"i_count": 32,
+"we_count": 7
+}
 },
 {
 "id": "1903-05-02-chapman-2",
@@ -24570,10 +24773,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 259,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I want to say what a pleasure it is to meet you, and how I appreciate your having come out here to greet me. I am glad to see you all, the men and the women and the small folks. It has done me good to come through Kansas now as President. I have been here often before and I know your people. Never yet have I stopped that I did not see some representatives of the Grand Army. I believe in you with all my heart, and I welcome you and am glad to see you. I believe in the state. I believe in it because of its products, of its crops, of its cattle, but I believe in it in especially because of its men and its women. You people in Kansas have done work not very different from that which you, my comrade, did in the great Civil War. The people here have had to show the strong qualities that the men and women of the Civil War showed; and the things in life best worth having are invariably the things that do mean strife, work and effort. Just as you look back on those years in the army as the years that give the memory which you wish those who come after you to cherish, so each one of us will inevitably feel that what he is proudest of is the part of his life, although hard at the moment, which means having done successfully some work worth doing.(Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -24595,13 +24801,49 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0343",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0343",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Ladies and Gentlemen:",
+"I want to say what a pleasure it is to meet you, and how I appreciate your having come out here to greet me. I am glad to see you all, the men and the women and the small folks. It has done me good to come through Kansas now as President. I have been here often before and I know your people. Never yet have I stopped that I did not see some representatives of the Grand Army. I believe in you with all my heart, and I welcome you and am glad to see you. I believe in the state. I believe in it because of its products, of its crops, of its cattle, but I believe in it in especially because of its men and its women. You people in Kansas have done work not very different from that which you, my comrade, did in the great Civil War. The people here have had to show the strong qualities that the men and women of the Civil War showed; and the things in life best worth having are invariably the things that do mean strife, work and effort. Just as you look back on those years in the army as the years that give the memory which you wish those who come after you to cherish, so each one of us will inevitably feel that what he is proudest of is the part of his life, although hard at the moment, which means having done successfully some work worth doing.(Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 39 (frame 425:0343)</span>",
+"Ladies and Gentlemen:",
+"I want to say what a <span class=\"sic\" title=\"reads: pleasure it\">pleasureit</span> is to meet you, and how I appreciate your having come out here to greet me. I am glad to see you all, the men and the women and the small folks. It has done me good to come through Kansas now as President. I have been here often before and I know your people. Never yet have I stopped that I did not see some representatives of the Grand Army. I believe in you with all my heart, and I welcome you and am glad to see you. I believe in the state. I believe in it <span class=\"sic\" title=\"reads: because\">becau se</span> of its products, of its crops, of its cattle, but I believe in it in especial<ins title=\"added by hand\">ly</ins> because of its men and its women. You people in Kansas have done work not very different from that which you, my comrade, did in the <span class=\"sic\" title=\"reads: great\">gseat</span> Civil War. The people here have had to show the strong qualities that the men and women <del title=\"struck through\">xx</del> of the Civil War showed; and the things in life best worth having are invariably the things that do mean strife, work and effort. Just as you look back on those years in the army as the years that give the memory which you wish those who come after you to cherish, so each one of us will inevitably feel that <span class=\"sic\" title=\"reads: what\">wwhat</span> he is proudest of is the part of his life,although hard at the moment,<ins title=\"added by hand\">which</ins> mean<ins title=\"added by hand\">s</ins> having done successfully some work worth doing.(Cheers and applause.)",
+"<span class=\"tnote\">&quot;ly&quot; after &quot;especial&quot; is handwritten. &quot;which&quot; is handwritten above the line with a caret after &quot;moment,&quot;; the final &quot;s&quot; of &quot;means&quot; is written (or retraced) heavily by hand, so the reading is &quot;which means&quot;. A hand stroke separates &quot;Just&quot; and &quot;as&quot; and a mark stands under &quot;is&quot; before &quot;proudest&quot;; neither changes words.</span>\n<span class=\"tnote\">Third look: no comma after &quot;is&quot; before &quot;proudest&quot;; the mark there is the ascender of the handwritten &quot;which&quot;.</span>"
+],
+"notes": [
+"\"ly\" after \"especial\" is handwritten. \"which\" is handwritten above the line with a caret after \"moment,\"; the final \"s\" of \"means\" is written (or retraced) heavily by hand, so the reading is \"which means\". A hand stroke separates \"Just\" and \"as\" and a mark stands under \"is\" before \"proudest\"; neither changes words.",
+"Third look: no comma after \"is\" before \"proudest\"; the mark there is the ascender of the handwritten \"which\"."
+],
+"file": "transcriptions/1903-05-02-dorrance.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"women",
+"believe",
+"work"
+],
+"stats": {
+"words": 259,
+"unique_words": 127,
+"sentences": 11,
+"avg_sentence": 23.5,
+"minutes": 2,
+"i_count": 12,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-02-oakley",
@@ -24615,10 +24857,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 314,
+"paragraphs": [
+"My friends and fellow-citizens:",
+"It is a great pleasure to see you. I am glad to see the men, the women and the children. I have enjoyed to the full traveling to-day through Kansas. It has been a great pleasure to see the extraordinary changes made by the hand of man in this country. I never lived in Kansas. I have lived farther north, in the Dakotas, in much this type of country, and it is astounding to see the changes that have been made. Much of it I cannot understand; much of it has been done since my day. I do not know quite what crops you are raising. I have seen enough, however to appreciate to the full all the progress that it means. There is one thing, ladies and gentlemen, with which I am particularly pleased and that is the signs that the intellectual and spiritual progress of your people are not being neglected, that they go on hand in hand with the material progress. It is a great pleasure to see the school houses, to see in many of the towns through which I have passed, the libraries, to see the efforts made for mental betterment; and while it is a good thing to raise the crops that you have raised, the cattle and grain, it is a better thing to produce the high type of men and women. It is the citizenship of the state that really counts, and I have abounding confidence in your future, because I have abounding confidence in you. I believe in you, in what you have done, and what you can do; in your capacity for self-help and your capacity to work one with the other. I think that here you are developing the qualities that tell for decency and honesty, and the qualities that tell for strength and hardi [?]hood..(Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -24640,13 +24885,56 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0350",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0350",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My friends and fellow-citizens:",
+"It is a great pleasure to see you. I am glad to see the men, the women and the children. I have enjoyed to the full traveling to-day through Kansas. It has been a great pleasure to see the extraordinary changes made by the hand of man in this country. I never lived in Kansas. I have lived farther north, in the Dakotas, in much this type of country, and it is astounding to see the changes that have been made. Much of it I cannot understand; much of it has been done since my day. I do not know quite what crops you are raising. I have seen enough, however to appreciate to the full all the progress that it means. There is one thing, ladies and gentlemen, with which I am particularly pleased and that is the signs that the intellectual and spiritual progress of your people are not being neglected, that they go on hand in hand with the material progress. It is a great pleasure to see the school houses, to see in many of the towns through which I have passed, the libraries, to see the efforts made for mental betterment; and while it is a good thing to raise the crops that you have raised, the cattle and grain, it is a better thing to produce the high type of men and women. It is the citizenship of the state that really counts, and I have abounding confidence in your future, because I have abounding confidence in you. I believe in you, in what you have done, and what you can do; in your capacity for self-help and your capacity to work one with the other. I think that here you are developing the qualities that tell for decency and honesty, and the qualities that tell for strength and hardi [?]hood..(Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 50 (frame 425:0350)</span>",
+"My friends and fellow-citizens:",
+"It is a great pleasure to see you. I am glad to see the men, the women and the children. I have enjoyed to the full traveling to-day through Kansas. <ins title=\"added by hand\">It has been a great pleasure <del title=\"struck through\"><span class=\"illeg\">[illegible]</span> <span class=\"unc\" title=\"uncertain reading\">through</span> <span class=\"illeg\">[illegible]</span></del> to see</ins> <del title=\"struck through\">T</del><ins title=\"added by hand\">t</ins>he extraordinary changes made by the hand of man in this country . I never lived in Kansas. I have lived farther north, in the Dakotas,in much this type of country, and it is astounding to <span class=\"sic\" title=\"reads: see\">mee</span> the changes that have been made . Much of it I cannot understand; much of it has been done since my day. I do not know quite what crops you are raising. I have seen enough, however to appreciate to the full all the progress that it means. There is one thing, ladies and gentlemen, with which I am particularly pleased and that is the <span class=\"sic\" title=\"reads: signs that\">signsthat</span> the intellectual and spiritual progress of your people are not being neglected, that they go on hand in hand with the material progress. It is a great pleasure to see the school houses, to see in many of the towns through which I have passed, the libraries, to see the efforts made for mental betterment; and while it is a good thing to raise the crops that you have raised, the cattle and grain, it is a better thing to produce the high type of men and women. It is the citizenship of the state that really counts, and I have abounding confidence in your future,because I have abounding confidence in you. I believe in you, in what you have done, and what you can do; in your capacity for self-help and your capacity to work one with the other. I think that here you are developing the qualities that tell for decency and honesty, and the qualities that tell for strength and hard<span class=\"unc\" title=\"uncertain reading\">i</span>hood..(Cheers and applause.)",
+"<span class=\"tnote\">&quot;It has been a great pleasure ... to see&quot; is typed between the lines (squeezed in above &quot;day through Kansas.&quot;) and placed by a handwritten caret before &quot;The extraordinary changes&quot;; the words after &quot;pleasure&quot; in that line are struck through by hand and cannot be read except perhaps &quot;through&quot;. The &quot;T&quot; of &quot;The&quot; is marked by hand, apparently to make it lower case after the insertion.</span>\n<span class=\"tnote\">A heavy hand stroke lies under &quot;gentlemen&quot; between the lines; it does not clearly strike any word. A handwritten caret separates &quot;signs&quot; and &quot;that&quot;. In &quot;hardihood&quot; a heavy hand stroke runs through the space of the &quot;i&quot; with a dot above; it is unclear whether the &quot;i&quot; is added or struck by hand.</span>"
+],
+"notes": [
+"\"It has been a great pleasure... to see\" is typed between the lines (squeezed in above \"day through Kansas.\") and placed by a handwritten caret before \"The extraordinary changes\"; the words after \"pleasure\" in that line are struck through by hand and cannot be read except perhaps \"through\". The \"T\" of \"The\" is marked by hand, apparently to make it lower case after the insertion.",
+"A heavy hand stroke lies under \"gentlemen\" between the lines; it does not clearly strike any word. A handwritten caret separates \"signs\" and \"that\". In \"hardihood\" a heavy hand stroke runs through the space of the \"i\" with a dot above; it is unclear whether the \"i\" is added or struck by hand."
+],
+"file": "transcriptions/1903-05-02-oakley.txt"
+},
+"text_source": "typescript",
+"themes": [
+"farming",
+"citizenship"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"progress",
+"hand",
+"pleasure"
+],
+"stats": {
+"words": 314,
+"unique_words": 132,
+"sentences": 14,
+"avg_sentence": 22.4,
+"minutes": 2,
+"i_count": 13,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-02-russell",
@@ -24660,10 +24948,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 908,
+"paragraphs": [
+"Mr. Senator; and you, My Fellow Citizens:",
+"It is a great pleasure to me to come here into Kansas now, into the western part of the state, and see you. I thank you for your greeting of me. Wherever I have gone yesterday and to-day I have been greeted by two sets of Kansans whom it has given me peculiar pleasure to see-- the men of the Grand Army, the men to whom this country owes more than it ever has owed to any other set of men since its foundation, the men who in the days of the civil war upheld the hands ofAbraham Lincoln as they followed Grant, and Sherman, and Sheridan, and Thomas to the ultimate victory. To you first, to you who illustrate all the glory of the nation's past and who serve as a constant inspiration for the present and the future, And [?] next to the future, to the children, I want to say how glad I am to see you all. Gentlemen and Ladies, while I like all that you have done and congratulate you upon your crops I congratulate you upon your children most. (Applause) I like your stock and I am glad it is being kept up. These children seem to be all right in quality and all right in quantity. (Applause)",
+"I have been struck as I have come through Kansas by much what struck me in Nebraska, in this prairie region, and that is the astonishing difference that has been made by the work of man in turning the prairie land into fertile cultivated regions. The growth of the trees, the mere tree planting that has been done, is something wonderful. More and more in our country we are getting to understand the value of the woods, the value of the trees, In some of the older states and in some of the newer out to the west the problem is to preserve the forests. Here in Kansas you have been individually planting groves until the increase in the woodland is something astonishing, and I hope that soon we shall have a special governmental reserve in the southwest, so that the government will be able to do its part in testing what trees can best be grown in certain soils. In the next place, remembering how Kansas was when I first saw it some twenty years ago, I want to congratulate you upon the change that the alfalfa has made. It is a good thing when any state can get more than one staple, a very good thing. There is not as much chance of disaster happening when this is the case. I congratulate you upon the growing diversity of your products, but most of all, my fellow citizens, do I congratulate you upon the type of manhood and womanhood that you are producing here, upon the work that is being done here. Of the work of many kinds perhaps I appreciate most the work that",
+"is done by those who have charge of the educational system. In the long run what counts is not soil, not climate, but the kind of stuff in the men. who are to make the best of soil and climate.",
+"Kansas could not have become what it is, could not have taken the place that it has taken, save because of the kind of blood that went into the making ofits [?] people. Kansas was founded by men who came here for an ideal, an ideal for which they were willing to struggle, and if need to die. Kansas has since then passed through the fire, the people of Kansas have seen and faced iron difficulties, and they have won out because they had the right temper, the right spirit, the right quality of mind and body and soul, that enabled them to win out, because they had the right men and what is even more important-- the right women. Of course it is a mere truism to say that it is the home that counts. The average woman has, I think, a little the hardest lot in life, and every man is bound in honor to try to make it as easy as he can. It is the home that counts most, and the first requisite of a man's being a good citizen is that he shall be a good homemaker, a good father, a good husband, then a good neighbor, then a square and decent man in his dealings with the state, and I congratulate you here that you have had the two qualities-- the belief in decency, the belief in honor, the belief in patriotism, the love of country, and in the next place the strength, the courage, the hardihood, which made the effort count. Every decent man, if he is going to count, has got to have that back of him. Patriotism did not count in '61 unless you had the fighting edge to back it up. So it is in citizenship; we need body, we need mind, we need most of all character--character, in which many elements enter but three most of all, the quality of decency, of honesty, the quality of courage, of strength, and finally the saving grace of common sense.",
+"I believe in you with all my heart. I wish you well in the future and an ever increasing portion of the prosperity and the material and moral well-being which you now enjoy. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -24685,13 +24980,91 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0344",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0344",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Senator; and you, My Fellow Citizens:",
+"It is a great pleasure to me to come here into Kansas now, into the western part of the state, and see you. I thank you for your greeting of me. Wherever I have gone yesterday and to-day I have been greeted by two sets of Kansans whom it has given me peculiar pleasure to see-- the men of the Grand Army, the men to whom this country owes more than it ever has owed to any other set of men since its foundation, the men who in the days of the civil war upheld the hands ofAbraham Lincoln as they followed Grant, and Sherman, and Sheridan, and Thomas to the ultimate victory. To you first, to you who illustrate all the glory of the nation's past and who serve as a constant inspiration for the present and the future, And [?] next to the future, to the children, I want to say how glad I am to see you all. Gentlemen and Ladies, while I like all that you have done and congratulate you upon your crops I congratulate you upon your children most. (Applause) I like your stock and I am glad it is being kept up. These children seem to be all right in quality and all right in quantity. (Applause)",
+"I have been struck as I have come through Kansas by much what struck me in Nebraska, in this prairie region, and that is the astonishing difference that has been made by the work of man in turning the prairie land into fertile cultivated regions. The growth of the trees, the mere tree planting that has been done, is something wonderful. More and more in our country we are getting to understand the value of the woods, the value of the trees, In some of the older states and in some of the newer out to the west the problem is to preserve the forests. Here in Kansas you have been individually planting groves until the increase in the woodland is something astonishing, and I hope that soon we shall have a special governmental reserve in the southwest, so that the government will be able to do its part in testing what trees can best be grown in certain soils. In the next place, remembering how Kansas was when I first saw it some twenty years ago, I want to congratulate you upon the change that the alfalfa has made. It is a good thing when any state can get more than one staple, a very good thing. There is not as much chance of disaster happening when this is the case. I congratulate you upon the growing diversity of your products, but most of all, my fellow citizens, do I congratulate you upon the type of manhood and womanhood that you are producing here, upon the work that is being done here. Of the work of many kinds perhaps I appreciate most the work that",
+"is done by those who have charge of the educational system. In the long run what counts is not soil, not climate, but the kind of stuff in the men. who are to make the best of soil and climate.",
+"Kansas could not have become what it is, could not have taken the place that it has taken, save because of the kind of blood that went into the making ofits [?] people. Kansas was founded by men who came here for an ideal, an ideal for which they were willing to struggle, and if need to die. Kansas has since then passed through the fire, the people of Kansas have seen and faced iron difficulties, and they have won out because they had the right temper, the right spirit, the right quality of mind and body and soul, that enabled them to win out, because they had the right men and what is even more important-- the right women. Of course it is a mere truism to say that it is the home that counts. The average woman has, I think, a little the hardest lot in life, and every man is bound in honor to try to make it as easy as he can. It is the home that counts most, and the first requisite of a man's being a good citizen is that he shall be a good homemaker, a good father, a good husband, then a good neighbor, then a square and decent man in his dealings with the state, and I congratulate you here that you have had the two qualities-- the belief in decency, the belief in honor, the belief in patriotism, the love of country, and in the next place the strength, the courage, the hardihood, which made the effort count. Every decent man, if he is going to count, has got to have that back of him. Patriotism did not count in '61 unless you had the fighting edge to back it up. So it is in citizenship; we need body, we need mind, we need most of all character--character, in which many elements enter but three most of all, the quality of decency, of honesty, the quality of courage, of strength, and finally the saving grace of common sense.",
+"I believe in you with all my heart. I wish you well in the future and an ever increasing portion of the prosperity and the material and moral well-being which you now enjoy. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 40 (frame 425:0344)</span>",
+"Mr. Senator; and you, My Fellow Citizens:",
+"It is a great pleasure to me to come here into Kansas now, into the western part of the state, and see you. I thank you for your greeting of me. Wherever I have gone yesterday and to-day I have been greeted by two sets of Kansans whom it has given me peculiar pleasure to see-- the men of the Grand Army, the <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> men to whom this country owes more than it ever has owed to any other set of men since its foundation, the men who in the days of the civil war upheld the hands of<del title=\"struck through\">xxxx</del>Abraham Lincoln as they followed Grant, <span class=\"sic\" title=\"reads: and Sherman\">andSherman</span>, and Sheridan, and Thomas to the ultimate victory<ins title=\"added by hand\">.</ins> <del title=\"struck through\">t</del><ins title=\"added by hand\">T</ins>o you first, to you who illustrate all the glory of the nation&#x27;s past and who serve as a constant inspiration for the present and the future, <span class=\"unc\" title=\"uncertain reading\">And</span> next to the future, to the children, I want to say how glad I am to see you all. Gentlemen and Ladies, while I like all that you have done and congratulate you upon your crops I congratulate you upon your children most. (Applause) I like your stock and I am glad it is being kept up. These children seem to be all right in quality and all right in <del title=\"struck through\">xxxx xxxx</del> quantity. (Applause) <del title=\"struck through\">I <span class=\"unc\" title=\"uncertain reading\">guess</span> Kansas is all right on the <span class=\"illeg\">[illegible]</span></del>",
+"I have been struck as I have come through Kansas by much what struck me in Nebraska, in this prairie region, and that is the astonishing difference that has been made by the work of man in turning the prairie land into fertile cultivated regions. The growth of the <span class=\"sic\" title=\"reads: trees\">thees</span>, the mere tree planting that has been done, is something wonderful. More and more in our country we are getting to understand the value of the woods, the value of the trees, In some of the older states and in some of the newer out to the west the problem is to preserve the forests. Here in Kansas you have been individually planting groves until the increase in the woodland is something astonishing, and I hope that soon we shall have a special governmental reserve in the southwest, so that the government will be able to do its part in testing what trees can best be grown in certain soils. In the next place, remembering how Kansas was when I first saw it some twenty years ago, I want to congratulate you upon the change that the alfalfa has made. It is a good thing when any state can get <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">more</ins> than one staple, a very good thing. There is not as much chance of disaster happening when this is the case. I congratulate you upon the growing diversity of your products, but most of all, my fellow citizens, do I congratulate you upon the type of manhood and womanhood that you are <span class=\"sic\" title=\"reads: producing\">produdng</span> here, upon the work that is being done here. Of the work of many kinds perhaps I appreciate most the work that",
+"<span class=\"pb\">Page 41 (frame 425:0344)</span>",
+"is done by those who <span class=\"sic\" title=\"reads: have charge\">havecharge</span> of the educational system. In the long run what counts is not soil, not climate, but the kind of stuff in the <span class=\"sic\" title=\"reads: men\">m n</span>. who are to make the best of soil and climate.",
+"Kansas could not have become what it is, could not have taken the place that <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">she</span></del><ins title=\"added by hand\">it</ins> has taken, save <del title=\"struck through\">xx xxxx</del> because of the kind of blood that went into the making of<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">our</span></del><ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">its</span></ins> people. Kansas was founded by men who came here for an ideal, an ideal for which they were willing to struggle, and if need to die. Kansas has since then passed through the <span class=\"sic\" title=\"reads: fire\">fir e</span> , the people of Kansas have seen and faced iron difficulties, and they have won out because they had the right temper, the right spirit, the right quality of mind and body and soul, that enabled them to win out, because they had the <span class=\"sic\" title=\"reads: right\">ri ght</span> men and what is even more important-- the right women. Of course it is a mere truism to say that it is the home that counts. The average woman has, I think, a little the hardest lot in life, and every man is bound in honor to try to make it as easy as he can. It is the home that counts most, and the first requisite of a man&#x27;s <span class=\"sic\" title=\"reads: being\">be ing</span> a good citizen is that he shall be a good homemaker, a good father, a good husband, then a good neighbor, then a square and decent man in his dealings with the state, and I congratulate you here that you have had the two qualities-- the belief in decency, the belief in honor, the belief in patriotism, the love of country, and in the next place the strength, <span class=\"sic\" title=\"reads: the\">t he</span> courage, the hardihood, which made the effort count. Every decent man, if he is going to count, has got to have that back of him. Patriotism did not count in &#x27;61 unless you had the fighting edge to back it up. So it is in citizenship; we need body, we <span class=\"sic\" title=\"reads: need mind\">needmind</span>, we need most of all character--character, in which many elements enter but <span class=\"sic\" title=\"reads: three most\">threemost</span> of all, the quality of decency, of honesty, the quality of courage, of strength, and finally the saving grace of common sense.",
+"I believe in you with all my heart. I wish you well in the future and an ever increasing portion of the prosperity and the material and moral well-being which you now enjoy. (Cheers and applause)",
+"<span class=\"tnote\">Folio 40: after &quot;the Grand Army, the&quot; a typed word at the line end is overtyped into a blot and cannot be read. A handwritten period and capital &quot;T&quot; are added at &quot;victory. To you first&quot;; the comma after &quot;future&quot; is reinforced by hand, and the first letter of &quot;And next&quot; is inked over by hand to capital height, so the reading &quot;And&quot; is doubtful. &quot;more&quot; is typed between the lines above an x-ed word. The line after &quot;quantity. (Applause)&quot; is struck through by hand with a heavy line; only its first words are partly legible. A hand stroke separates &quot;Kansas&quot; and &quot;by&quot;.</span>\n<span class=\"tnote\">Folio 41: in &quot;that it has taken&quot; a handwritten &quot;it&quot; is written over a struck typed word (perhaps &quot;she&quot;); in &quot;the making of its people&quot; a handwritten word (perhaps &quot;its&quot;) is written over a struck typed word (perhaps &quot;our&quot;). A hand stroke follows &quot;who&quot; in the first line. Square brackets in the margin and text mark &quot;every man is bound ... as he can.&quot; and &quot;It is the home ... with the state,&quot;; they do not change words.</span>\n<span class=\"tnote\">Several letters in folio 41 are blurred or overtyped (&quot;strength&quot;, &quot;courage&quot;, &quot;congratulate&quot;, &quot;you&quot;); the readings follow the visible letter shapes.</span>\n<span class=\"tnote\">The typed page number &quot;-2-&quot; at the head of folio 41 is left out of the text.</span>"
+],
+"notes": [
+"Folio 40: after \"the Grand Army, the\" a typed word at the line end is overtyped into a blot and cannot be read. A handwritten period and capital \"T\" are added at \"victory. To you first\"; the comma after \"future\" is reinforced by hand, and the first letter of \"And next\" is inked over by hand to capital height, so the reading \"And\" is doubtful. \"more\" is typed between the lines above an x-ed word. The line after \"quantity. (Applause)\" is struck through by hand with a heavy line; only its first words are partly legible. A hand stroke separates \"Kansas\" and \"by\".",
+"Folio 41: in \"that it has taken\" a handwritten \"it\" is written over a struck typed word (perhaps \"she\"); in \"the making of its people\" a handwritten word (perhaps \"its\") is written over a struck typed word (perhaps \"our\"). A hand stroke follows \"who\" in the first line. Square brackets in the margin and text mark \"every man is bound... as he can.\" and \"It is the home... with the state,\"; they do not change words.",
+"Several letters in folio 41 are blurred or overtyped (\"strength\", \"courage\", \"congratulate\", \"you\"); the readings follow the visible letter shapes.",
+"The typed page number \"-2-\" at the head of folio 41 is left out of the text."
+],
+"file": "transcriptions/1903-05-02-russell.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"home-family",
+"conservation",
+"the-west"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+},
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"kansas",
+"congratulate",
+"trees",
+"belief",
+"quality",
+"count",
+"counts",
+"next",
+"right",
+"applause"
+],
+"stats": {
+"words": 909,
+"unique_words": 337,
+"sentences": 26,
+"avg_sentence": 35.0,
+"minutes": 7,
+"i_count": 21,
+"we_count": 5
+}
 },
 {
 "id": "1903-05-02-sharon-springs",
@@ -25073,10 +25446,18 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1114,
+"paragraphs": [
+"Senator Burton, and you, my friends and fellow-citizens:",
+"It is a pleasure to come to the home of Senator Burton in which he has spent a quarter of a century of his life, and to be greeted by his neighbors, and I thank you, Senator, and I thank you all for the courtesy you have extended to me. I want to thank here for the first time a body of your people before I thank the Grand Army,-- the small people, those little girls who greeted me and who threw the flowers down as we passed. I am very much obliged to you and I greet you and I greet all the children here to-day. And I know you men of the Grand Army, do not mind my having put them first. They are the future, and fortunate it is for the generation of the future when they live in a state, in a country, in a city, where they have in evidence before them the organization of the men to whom we owe it that we have a country. Great though the deeds were that you did in the past, great though their effect was, nothing can be greater than the example you thus gave to those who are coming up, who are to be the Americans of to-morrow. I want to thank the band and say I recognized in the tune the war tune of the 20th Kansas, and I heard it in the trenches myself.",
+"It has been a great pleasure to come through Kansas. I know Kansas well. It is the first time I have been here as President, but I have been here often before, and you are partly responsible for having me here as President.(Applause.) I am glad to have the chance of meeting you, the men and women of this great state. I congratulate you upon the material products of the state, upon your crops, upon your industries of every kind. I have been through your cities that are railroad centers and that are growing to be centers of manufactures; but after all the prime product of any state must be its men and women. That is what counts; and those men and women have got to have two sets of qualities if they are to make their state and their nation a source of pride for the ages Two sets, the",
+"strength and the sweetness that have been held essential from the days when the son of Jesse became King of Israel. Strength! There is no place in this world for those who are afraid, for those who shirk life's difficulties, for those who have not daring, hardihood, resolution. You who came here and made this state great, you could have done nothing if it had not been that you had cool heads, stout hands, strong hearts. We must have the virile, manly virtues if we are to make of this nation the success which we shall make of it, and with those qualities must go others; must go self-mastery and selfrestraint, the spirit that makes a man deal fair and square with his neighbors. We need virtue, decency, honesty, the spirit of fair dealing, the spirit of obedience to law, the spirit that makes a good husband, a good father, and a good neighbor, a decent man in his relations with the rest of the world. We must have them, and then we must have something more. The virtue that stays at home in its own parlor and regrets that the world is not better, does not count. The good man who is afraid is of no use. With virtue, with decency, must go hand in hand the quality of manliness, the quality that makes a man able to hold his own in the hurly-burly of life.",
+"You, my comrades, in the great war demanded and had to demand in a soldier first that he should have the power of devotion to the flag, the power of devotion to the country. He had to be patriotic. Patriotism, that was the first quality, but you did not care how patriotic a man was if he ran away he was no good. In addition to being patriotic he had to possess the fighting edge. He had to be the kind of man that when the order came to move would move in the right direction. It is so in citizenship. We must have patriotism and decency and honesty. If a man has not the root of decent conduct in him then the abler he is and the braver he is the more dangerous he is to the community at large. He is purely a kind of civic wild beast and you need to hunt him down and hunt him out of the community.",
+"There is not in all America a more dangerous trait than the deification of mere smartness unaccompanied by any [illegible] of moral responsibility. All of us know of some manof whom our foolish neighbors, for we all of us have occasionally foolish neighbors, will say, \"well maybe he is not quite straight, but he is dreffful [?] smart.\" The man of whom that can be said and the man who says it are both poor citizens, and we shall not make of this great republic and commonwealth what it must be made until we join to hunt down the successful rascal just as eagerly as we hunt down the unsuccessful rascal.",
+"We have got to have first, the spirit of decency, and joined with that [?] the spirit of manliness, the spirit that makes a man able to hold his own in military strife or in the hard, rough work of the world. Our soldiers in '61 had not only to possess good intentions but the power to put them into effect to make themselves felt; and the men who came out here to carve this great and beautiful state out of the prairie land had to possess not merely the desire to do well, but the power, the rugged strength to do well. Kansas is great to-day, and our country is great to-day because hitherto we have been able to combine the two qualities in our citizenship. [?] T [?]he quality of striving after decency and the quality of striving so as to make our force efficiently felt. In citizenship we need strong bodies, and even more than strength of body we need strength of mind, and most of all we need what counts for more than body and more than mind-character-- Character, into which many elements enter, but three especially-the elements of honesty, of courage and the saving grace of common sense. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -25098,13 +25479,76 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0340, 0341",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0340",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)",
+"reading": [
+"Senator Burton, and you, my friends and fellow-citizens:",
+"It is a pleasure to come to the home of Senator Burton in which he has spent a quarter of a century of his life, and to be greeted by his neighbors, and I thank you, Senator, and I thank you all for the courtesy you have extended to me. I want to thank here for the first time a body of your people before I thank the Grand Army,-- the small people, those little girls who greeted me and who threw the flowers down as we passed. I am very much obliged to you and I greet you and I greet all the children here to-day. And I know you men of the Grand Army, do not mind my having put them first. They are the future, and fortunate it is for the generation of the future when they live in a state, in a country, in a city, where they have in evidence before them the organization of the men to whom we owe it that we have a country. Great though the deeds were that you did in the past, great though their effect was, nothing can be greater than the example you thus gave to those who are coming up, who are to be the Americans of to-morrow. I want to thank the band and say I recognized in the tune the war tune of the 20th Kansas, and I heard it in the trenches myself.",
+"It has been a great pleasure to come through Kansas. I know Kansas well. It is the first time I have been here as President, but I have been here often before, and you are partly responsible for having me here as President.(Applause.) I am glad to have the chance of meeting you, the men and women of this great state. I congratulate you upon the material products of the state, upon your crops, upon your industries of every kind. I have been through your cities that are railroad centers and that are growing to be centers of manufactures; but after all the prime product of any state must be its men and women. That is what counts; and those men and women have got to have two sets of qualities if they are to make their state and their nation a source of pride for the ages Two sets, the",
+"strength and the sweetness that have been held essential from the days when the son of Jesse became King of Israel. Strength! There is no place in this world for those who are afraid, for those who shirk life's difficulties, for those who have not daring, hardihood, resolution. You who came here and made this state great, you could have done nothing if it had not been that you had cool heads, stout hands, strong hearts. We must have the virile, manly virtues if we are to make of this nation the success which we shall make of it, and with those qualities must go others; must go self-mastery and selfrestraint, the spirit that makes a man deal fair and square with his neighbors. We need virtue, decency, honesty, the spirit of fair dealing, the spirit of obedience to law, the spirit that makes a good husband, a good father, and a good neighbor, a decent man in his relations with the rest of the world. We must have them, and then we must have something more. The virtue that stays at home in its own parlor and regrets that the world is not better, does not count. The good man who is afraid is of no use. With virtue, with decency, must go hand in hand the quality of manliness, the quality that makes a man able to hold his own in the hurly-burly of life.",
+"You, my comrades, in the great war demanded and had to demand in a soldier first that he should have the power of devotion to the flag, the power of devotion to the country. He had to be patriotic. Patriotism, that was the first quality, but you did not care how patriotic a man was if he ran away he was no good. In addition to being patriotic he had to possess the fighting edge. He had to be the kind of man that when the order came to move would move in the right direction. It is so in citizenship. We must have patriotism and decency and honesty. If a man has not the root of decent conduct in him then the abler he is and the braver he is the more dangerous he is to the community at large. He is purely a kind of civic wild beast and you need to hunt him down and hunt him out of the community.",
+"There is not in all America a more dangerous trait than the deification of mere smartness unaccompanied by any [illegible] of moral responsibility. All of us know of some manof whom our foolish neighbors, for we all of us have occasionally foolish neighbors, will say, \"well maybe he is not quite straight, but he is dreffful [?] smart.\" The man of whom that can be said and the man who says it are both poor citizens, and we shall not make of this great republic and commonwealth what it must be made until we join to hunt down the successful rascal just as eagerly as we hunt down the unsuccessful rascal.",
+"We have got to have first, the spirit of decency, and joined with that [?] the spirit of manliness, the spirit that makes a man able to hold his own in military strife or in the hard, rough work of the world. Our soldiers in '61 had not only to possess good intentions but the power to put them into effect to make themselves felt; and the men who came out here to carve this great and beautiful state out of the prairie land had to possess not merely the desire to do well, but the power, the rugged strength to do well. Kansas is great to-day, and our country is great to-day because hitherto we have been able to combine the two qualities in our citizenship. [?] T [?]he quality of striving after decency and the quality of striving so as to make our force efficiently felt. In citizenship we need strong bodies, and even more than strength of body we need strength of mind, and most of all we need what counts for more than body and more than mind-character-- Character, into which many elements enter, but three especially-the elements of honesty, of courage and the saving grace of common sense. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 32 (frame 425:0340)</span>",
+"<span class=\"margin\">In the margin: Copy</span>",
+"Senator Burton, and you,my <span class=\"sic\" title=\"reads: friends\">friands</span> and fellow-citizens:",
+"It is a pleasure to come to the home of Senator Burton in which he has spent a quarter of a century of his life, and to be greeted by his neighbors<ins title=\"added by hand\">,</ins> and I thank you, Senator, and <span class=\"sic\" title=\"reads: I\">OI</span> thank you all for the courtesy you have extended to me. I want to thank here for the first time a body of your people before I thank the Grand Army,<ins title=\"added by hand\">--</ins> the small people, those little girls who greeted me and who threw the flowers down as we passed. I am <span class=\"sic\" title=\"reads: very much\">verymuch</span> obliged to you and I greet you and I greet all the children here to-day. And <ins title=\"added by hand\">I know</ins> you men of the Grand Army<ins title=\"added by hand\">,</ins> do not mind my having put them first. They are the future, and fortunate it is for the generation of the future when they live in a state, in a country, in a city, where they have in evidence before them the organization of the men to whom we owe it that we have a country. Great though the deeds were that you did in the past, great though their effect was, nothing can be greater than the example you thus gave to those who are coming up, who are to be the Americans of to-morrow. I want to thank the band and say I recognized in the tune the war tune of the 20th Kansas, and I heard it in the trenches myself.",
+"It has been a great pleasure to come through Kansas. I know Kansas well. It is the first time I have been here as President, but I have been here often before, and you are partly responsible for having me here as President.(Applause.) <del title=\"struck through\">In fact, Senator Burton, you may remember when you and the other Kansas delegates insisted upon my taking the Vice Presidency and I did not want it. (Senator Burton: &quot;We wanted you to have it as a stepping stone.&quot;)</del> I am glad to have the chance of <span class=\"sic\" title=\"reads: meeting\">meetin g</span> you, the men and women of this great state. I congratulate you upon the material products of the state, upon your crops, upon your industries of every kind. I have been through your cities that are railroad centers and that are growing to be centers of manufactures; but after all the prime product of any state must be its men and women. That is what <span class=\"sic\" title=\"reads: counts\">co unts</span>; and those men and women have got to have two sets of <del title=\"struck through\">xxxx</del> qualities if they are to make their state and their nation a source of pride for the ages<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <del title=\"struck through\">t</del><ins title=\"added by hand\">T</ins>wo sets, the",
+"<span class=\"pb\">Page 33 (frame 425:0340)</span>",
+"<span class=\"margin\">In the margin: Copy</span>",
+"strength and the sweetness that have been held essential from the days when the son of Jesse became King of <del title=\"struck through\">xxx</del> Israel. Strength! There is no place in this world for those who are <del title=\"struck through\">x</del> afraid, for those who shirk life&#x27;s difficulties, for those who have not daring, hardihood, resolution. You who came here and made this state great, you could have done nothing if it had not been that you had cool heads, stout <del title=\"struck through\">xxxx</del> hands, strong hearts. We must have the virile , <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">manly</ins> virtues if we are to make of this nation the success which we shall make of it, and with those qualities must go others; must go self-mastery and self<del title=\"struck through\">xxx</del><ins title=\"added by hand\">r</ins>estraint, the spirit that makes a man deal <del title=\"struck through\">xxxx</del> fair and square with his neighbors. We need <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> virtue, decency, honesty, the spirit of fair dealing, the spirit of obedience to law, the spirit that makes a good husband, a good father, and a good neighbor, a decent man in his relations with the rest of the world. We must have them, and then we must have something more. The virtue that <span class=\"sic\" title=\"reads: stays\">stay s</span> at home in its own parlor and regrets that the world is not better, does not count. The good man who is afraid is of no use. With virtue, with decency, must go hand in hand the quality of manliness, the quality that makes a man able to hold his own in the hurly-burly of life.",
+"You, my <span class=\"sic\" title=\"reads: comrades\">camrades</span>, in the great war demanded and had to demand in a soldier first that he should have the power of devotion to the flag, the power of devotion to the country<ins title=\"added by hand\">.</ins> <del title=\"struck through\">h</del><ins title=\"added by hand\">H</ins>e had to be patriotic. Patriotism, that was the first quality, but you did not care how patriotic a man was if he ran away he was no good. In addition to being patriotic he had to possess the fighting edge. He had to be the kind of man that when the order came to move <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">he</span></del> would move in the right direction. It is so in citizenship. We must have patriotism and decency and honesty. If a man has not <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">got</span></del> the root of decent conduct in him then the abler he is and the braver he is the more dangerous he is to the community at large. He is purely a kind of civic wild beast and you need to hunt him down and hunt him out of the community.",
+"<span class=\"pb\">Page 34 (frame 425:0341)</span>",
+"There is not in all America a more dangerous trait than the deification of mere smartness unaccompanied by any <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\"><span class=\"illeg\">[illegible]</span></ins> of moral responsibility. All of us know of some man<ins title=\"added by hand\">of</ins> whom our foolish neighbors , for we all of us have occasionally foolish neighbors, will say, <ins title=\"added by hand\">&quot;</ins>well maybe he is not quite straight, but he is <span class=\"unc\" title=\"uncertain reading\">dreffful</span> smart.<ins title=\"added by hand\">&quot;</ins> The man of whom that can be said and the man who says it are both poor citizens, and we shall not make of this great republic and commonwealth what it must <del title=\"struck through\">xxxx</del> be made until we join to hunt down the successful <span class=\"sic\" title=\"reads: rascal just\">rascaljust</span> as eagerly as we hunt down the unsuccessful rascal.",
+"We have got to have first, the spirit of decency, and joined with <span class=\"unc\" title=\"uncertain reading\">that</span> the spirit of manliness, the spirit that makes a man able to hold his own in military strife or in the hard, rough work of the world. Our soldiers in &#x27;61 had not only to possess good intentions <ins title=\"added by hand\">but the power to put them into effect</ins> to make themselves felt; and the men who came out here <del title=\"struck through\">x</del> to carve this great and beautiful state out of the prairie land had to possess not merely the desire to do well, but the power, the rugged strength to do well. Kansas is great to-day, and our country is great to-day <del title=\"struck through\">xxxx</del> because hitherto we have been able to combine the two qualities <del title=\"struck through\">xx</del> <del title=\"struck through\">xxxx</del> in our citizenship<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">.</span></ins> <del title=\"struck through\">t</del><ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">T</span></ins>he quality of striving after decency and the quality of <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <span class=\"sic\" title=\"reads: striving so\">strivingse</span> as to make our force <span class=\"sic\" title=\"reads: efficiently\">efficien ly</span> felt. In citizenship we need strong bodies, and even more than strength of body we need strength of mind, and most of all we need what counts for more than body and more than mind-character<ins title=\"added by hand\">--</ins> Character, into which many elements enter, but three especially-the <span class=\"sic\" title=\"reads: elements of\">elementSof</span> honesty<ins title=\"added by hand\">,</ins> of courage and the saving grace of common sense. (Cheers and applause.)",
+"<span class=\"tnote\">&quot;Copy&quot; is written by hand at the top of folios 32 and 33, beside the folio numbers; on folio 32 a second figure under &quot;32&quot; is struck through.</span>\n<span class=\"tnote\">Folio 32: the passage from &quot;In fact, Senator Burton&quot; to &quot;stepping stone.&quot;)&quot; is struck through by hand with heavy wavy lines; it is legible under the strikes, though &quot;want&quot; and &quot;stepping stone&quot; are partly covered. A check mark stands before &quot;We wanted&quot;. After &quot;the ages&quot; a typed character is struck by hand and the &quot;t&quot; of &quot;two&quot; is made a capital &quot;T&quot; by hand. &quot;I know&quot; is typed between the lines with a handwritten caret. The commas after &quot;neighbors&quot; and &quot;Army&quot; and the dash after &quot;Grand Army,&quot; are by hand.</span>\n<span class=\"tnote\">Folio 33: &quot;manly&quot; is handwritten above a struck typed word (with a caret); the &quot;r&quot; above &quot;selfrestraint&quot; is handwritten over x-ed letters. After &quot;We need&quot; a typed phrase running to the next line is struck through by hand and cannot be read. The struck words after &quot;to move&quot; and &quot;has not&quot; are struck by hand; readings &quot;he&quot; and &quot;got&quot; are uncertain. &quot;He had to be patriotic&quot;: a handwritten period and capital &quot;H&quot; are added. Square brackets in the left margin mark the passages &quot;There is no place ... resolution.&quot; and &quot;something more. The virtue ... hurly-burly of life.&quot;; they do not change words.</span>\n<span class=\"tnote\">Folio 34: the handwritten word above the struck word before &quot;of moral responsibility&quot; cannot be read with confidence (perhaps &quot;sense&quot; or &quot;trust&quot;). &quot;of&quot; above &quot;man whom&quot; is typed between the lines, with a hand caret. The quotation marks around &quot;well maybe ... smart.&quot; are handwritten. The word before &quot;smart&quot; is blurred in the image; it reads like &quot;dreffful&quot;. Square brackets in the left margin mark the first paragraph.</span>\n<span class=\"tnote\">Folio 34: &quot;but the power to put them into effect&quot; is typed between the lines above &quot;had not only to possess good intentions&quot;; a long handwritten line and caret place it after &quot;intentions&quot;. A line of typing between &quot;to-day&quot; and &quot;because&quot; and a run after &quot;qualities&quot; (beginning &quot;st&quot;) are x-ed out on the typewriter. A handwritten period and capital &quot;T&quot; are added at &quot;citizenship. The&quot;; a caret with a bar above, after &quot;mind-character&quot;, appears to mark an inserted dash; the comma after &quot;honesty&quot; is by hand.</span>\n<span class=\"tnote\">Third look: &quot;dreffful&quot; is kept as doubtful; the typed word is blurred, its letters look like &quot;d&quot;, a wide second letter, &quot;e&quot;, then f&#x27;s, &quot;u&quot;, &quot;l&quot;. &quot;that&quot; after &quot;joined with&quot; has its last letters overtyped (it could be &quot;them&quot;). After &quot;citizenship&quot; the hand marks (a blot after &quot;p&quot; and a bar with a caret over &quot;th&quot;) read as a period and a capital &quot;T&quot;, but they could instead mark a dash.</span>\n<span class=\"tnote\">Typed page numbers &quot;-2-&quot; and &quot;-3-&quot; at the heads of folios 33 and 34 are left out of the text.</span>"
+],
+"notes": [
+"\"Copy\" is written by hand at the top of folios 32 and 33, beside the folio numbers; on folio 32 a second figure under \"32\" is struck through.",
+"Folio 32: the passage from \"In fact, Senator Burton\" to \"stepping stone.\")\" is struck through by hand with heavy wavy lines; it is legible under the strikes, though \"want\" and \"stepping stone\" are partly covered. A check mark stands before \"We wanted\". After \"the ages\" a typed character is struck by hand and the \"t\" of \"two\" is made a capital \"T\" by hand. \"I know\" is typed between the lines with a handwritten caret. The commas after \"neighbors\" and \"Army\" and the dash after \"Grand Army,\" are by hand.",
+"Folio 33: \"manly\" is handwritten above a struck typed word (with a caret); the \"r\" above \"selfrestraint\" is handwritten over x-ed letters. After \"We need\" a typed phrase running to the next line is struck through by hand and cannot be read. The struck words after \"to move\" and \"has not\" are struck by hand; readings \"he\" and \"got\" are uncertain. \"He had to be patriotic\": a handwritten period and capital \"H\" are added. Square brackets in the left margin mark the passages \"There is no place... resolution.\" and \"something more. The virtue... hurly-burly of life.\"; they do not change words.",
+"Folio 34: the handwritten word above the struck word before \"of moral responsibility\" cannot be read with confidence (perhaps \"sense\" or \"trust\"). \"of\" above \"man whom\" is typed between the lines, with a hand caret. The quotation marks around \"well maybe... smart.\" are handwritten. The word before \"smart\" is blurred in the image; it reads like \"dreffful\". Square brackets in the left margin mark the first paragraph.",
+"Folio 34: \"but the power to put them into effect\" is typed between the lines above \"had not only to possess good intentions\"; a long handwritten line and caret place it after \"intentions\". A line of typing between \"to-day\" and \"because\" and a run after \"qualities\" (beginning \"st\") are x-ed out on the typewriter. A handwritten period and capital \"T\" are added at \"citizenship. The\"; a caret with a bar above, after \"mind-character\", appears to mark an inserted dash; the comma after \"honesty\" is by hand.",
+"Third look: \"dreffful\" is kept as doubtful; the typed word is blurred, its letters look like \"d\", a wide second letter, \"e\", then f's, \"u\", \"l\". \"that\" after \"joined with\" has its last letters overtyped (it could be \"them\"). After \"citizenship\" the hand marks (a blot after \"p\" and a bar with a caret over \"th\") read as a period and a capital \"T\", but they could instead mark a dash.",
+"Typed page numbers \"-2-\" and \"-3-\" at the heads of folios 33 and 34 are left out of the text."
+],
+"file": "transcriptions/1903-05-02-abilene.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"military"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"hunt",
+"kansas",
+"decency",
+"patriotic",
+"senator",
+"neighbors",
+"quality",
+"strength",
+"virtue",
+"possess"
+],
+"stats": {
+"words": 1114,
+"unique_words": 363,
+"sentences": 36,
+"avg_sentence": 30.9,
+"minutes": 9,
+"i_count": 17,
+"we_count": 19
+}
 },
 {
 "id": "1903-05-02-hays",
@@ -25211,10 +25655,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 386,
+"paragraphs": [
+"My fellow-citizens:",
+"I thank you all with all my heart for coming here to greet me. I have been travelling yesterday and to-day through your beautiful state, and I cannot say how I admire it and how I believe in its future, because I believe in the men and women of the state.. I believe in the men and women of the state, and I believe in the children and am glad to see them and greet them.",
+"It is eminently fitting that here near this old United States Military Reservation where we have a portion of our army, the President should be greeted by the men of the great war, the men to whom we owe it that there is a President or a country to-day. I thank you for your greeting. In Kansas, with its record in the civil war, with its record in the Spanish War and in the Philippine contest which was its aftermath, I need make no defense of the United States Army. (Applause.) Remember we speak of the volunteer army. Our regulars are volunteers. We have no army except a volunteer army. Officersandenlisted men in the regular army are our fellow citizens who have volunteered to wear the uniform which is a badge of honor to them and to us, and no body of men in all the country deserve well more emphatically of the entire country than the officers and enlisted men of the army of the United States. (Applause.) They have added fresh pages to the honor roll of the republic by what they have done in the philippines, by the courage and soldierlike efficiency which they have shown in those islands and by the extraordinary moderation, self-restraint and humanity with which they have carried themselves in one of the most difficult and one of the most righteous contests ever waged by any civilized nation.",
+"I am glad to have the chance, not merely of greeting you this morning, but of asking you to listen to a few words from one of the ablest public servants with whom any nation at the present time is blest, and as great a War Secretary as any nation has ever had. I introduce [?] to this audience my friend and your servant, the Hon. Elihu Root, Secretary of War.(Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -25236,13 +25685,82 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0337",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0337",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"My fellow-citizens:",
+"I thank you all with all my heart for coming here to greet me. I have been travelling yesterday and to-day through your beautiful state, and I cannot say how I admire it and how I believe in its future, because I believe in the men and women of the state.. I believe in the men and women of the state, and I believe in the children and am glad to see them and greet them.",
+"It is eminently fitting that here near this old United States Military Reservation where we have a portion of our army, the President should be greeted by the men of the great war, the men to whom we owe it that there is a President or a country to-day. I thank you for your greeting. In Kansas, with its record in the civil war, with its record in the Spanish War and in the Philippine contest which was its aftermath, I need make no defense of the United States Army. (Applause.) Remember we speak of the volunteer army. Our regulars are volunteers. We have no army except a volunteer army. Officersandenlisted men in the regular army are our fellow citizens who have volunteered to wear the uniform which is a badge of honor to them and to us, and no body of men in all the country deserve well more emphatically of the entire country than the officers and enlisted men of the army of the United States. (Applause.) They have added fresh pages to the honor roll of the republic by what they have done in the philippines, by the courage and soldierlike efficiency which they have shown in those islands and by the extraordinary moderation, self-restraint and humanity with which they have carried themselves in one of the most difficult and one of the most righteous contests ever waged by any civilized nation.",
+"I am glad to have the chance, not merely of greeting you this morning, but of asking you to listen to a few words from one of the ablest public servants with whom any nation at the present time is blest, and as great a War Secretary as any nation has ever had. I introduce [?] to this audience my friend and your servant, the Hon. Elihu Root, Secretary of War.(Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 27 (frame 425:0337)</span>",
+"My fellow-citizens:",
+"I thank you all with all my heart for coming here to greet me. I have been travelling yesterday and to-day <span class=\"sic\" title=\"reads: through\">th ough</span> your beautiful state, and I cannot say how I <span class=\"sic\" title=\"reads: admire\">adm ire</span> it and how I believe in its future, because I believe in the men and women of the state. . I believe in the men and women of the state, and I believe in the children and am glad to see them and greet them.",
+"It is eminently fitting that here near this old <del title=\"struck through\">xxxx</del> United States Military Reservation where we have a portion of our army<ins title=\"added by hand\">,</ins> <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> the President should be greeted by the men of the great war , the men to whom we owe it that there is a <del title=\"struck through\">xxxx</del> President or a country to-day. I thank you for your greeting<ins title=\"added by hand\">.</ins> <del title=\"struck through\">and</del> <del title=\"struck through\">i</del><ins title=\"added by hand\">I</ins>n Kansas, with its record in the civil war, with its record in the Spanish <span class=\"sic\" title=\"reads: War\">Wa r</span> and in the <span class=\"sic\" title=\"reads: Philippine\">Philippi ne</span> contest which was its aftermath,I need make no defense of the United States Army. (Applause.) Remember we speak of the volunteer army. Our regulars are volunteers. We have no army except a volunteer army. Officers<ins title=\"added by hand\">and</ins>enlisted men in the regular army are our fellow citizens who have volunteered to wear the uniform which is a badge of honor to them and to us, and no body of men in all the country deserve well more emphatically of the entire country than the officers <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">and</ins> enlisted men of the army of the United States. (Applause.) They have added fresh pages to the honor roll of the republic by what they have done in the philippines, by the <del title=\"struck through\">xxx</del> courage and soldierlike efficiency which they have shown in those islands and by the extraordinary moderation, self-restraint and humanity with which they have carried themselves in one of the most difficult and one of the most righteous contests ever waged by any civilized nation.",
+"I am glad <del title=\"struck through\">xxxx</del> to have the chance, not merely of greeting you this morning, but of asking you to listen to a few words from one of the ablest public servants with <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">which</span></del><ins title=\"added by hand\">whom</ins> any nation at the present time is blest, and as great a War Secretary as any nation has ever had. I <span class=\"unc\" title=\"uncertain reading\">introduce</span> to this audience my friend and your servant, the Hon. Elihu Root, Secretary of War.(Cheers and applause.)",
+"<span class=\"tnote\">The heading is typed with errors as shown: &quot;Rooseveltx&quot; (final letter x-ed), &quot;Aat&quot; (A typed over), &quot;Jundtion&quot;, and &quot;Kans/&quot; with a slash over the period.</span>\n<span class=\"tnote\">After &quot;our army&quot; a typed word is struck out by hand, with a hand comma before it; it cannot be read.</span>\n<span class=\"tnote\">&quot;greeting.&quot; : a handwritten period is added over the end of &quot;greeting&quot;, &quot;and&quot; is struck by hand, and the &quot;i&quot; of &quot;in&quot; is made a capital &quot;I&quot; by hand (triple underline).</span>\n<span class=\"tnote\">&quot;and&quot; between &quot;Officers&quot; and &quot;enlisted&quot; is handwritten with a caret; the &quot;and&quot; above the x-ed word before the second &quot;enlisted&quot; is typed between the lines.</span>\n<span class=\"tnote\">The typed word under the handwritten &quot;whom&quot; is struck out by hand; it may be &quot;which&quot;. &quot;introduce&quot; is typed with its first letter blurred.</span>\n<span class=\"tnote\">In &quot;to-day&quot; (end of the &quot;President or a country&quot; sentence) the final letters are overtyped; the reading is &quot;to-day&quot;.</span>\n<span class=\"tnote\">Third look: the mark below &quot;you&quot; in &quot;asking you to listen&quot; is the top of the handwritten &quot;whom&quot; on the next line, not a comma.</span>"
+],
+"notes": [
+"The heading is typed with errors as shown: \"Rooseveltx\" (final letter x-ed), \"Aat\" (A typed over), \"Jundtion\", and \"Kans/\" with a slash over the period.",
+"After \"our army\" a typed word is struck out by hand, with a hand comma before it; it cannot be read.",
+"\"greeting.\": a handwritten period is added over the end of \"greeting\", \"and\" is struck by hand, and the \"i\" of \"in\" is made a capital \"I\" by hand (triple underline).",
+"\"and\" between \"Officers\" and \"enlisted\" is handwritten with a caret; the \"and\" above the x-ed word before the second \"enlisted\" is typed between the lines.",
+"The typed word under the handwritten \"whom\" is struck out by hand; it may be \"which\". \"introduce\" is typed with its first letter blurred.",
+"In \"to-day\" (end of the \"President or a country\" sentence) the final letters are overtyped; the reading is \"to-day\".",
+"Third look: the mark below \"you\" in \"asking you to listen\" is the top of the handwritten \"whom\" on the next line, not a comma."
+],
+"file": "transcriptions/1903-05-02-junction-city.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"military",
+"empire"
+],
+"mentions": {
+"people": [
+{
+"id": "elihu-root",
+"name": "Elihu Root",
+"count": 1
+}
+],
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 1
+},
+{
+"id": "spain",
+"name": "Spain",
+"count": 1
+}
+]
+},
+"distinctive": [
+"army",
+"war",
+"applause",
+"believe",
+"united",
+"states",
+"nation",
+"state",
+"country"
+],
+"stats": {
+"words": 386,
+"unique_words": 174,
+"sentences": 12,
+"avg_sentence": 32.2,
+"minutes": 3,
+"i_count": 12,
+"we_count": 4
+}
 },
 {
 "id": "1903-05-02-manhattan",
@@ -25256,10 +25774,19 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1004,
+"paragraphs": [
+"My fellow-citizens:",
+"In going through Kansas one cannot but be struck not merely by the marvelous fertility of your state, but by the way in which your people are building upon your foundation of material prosperity the structure of the higher moral and intellectual life. Yesterday I passed through the historic town of Lawrence, the seat of your university, which has numbered so many men of mark among its graduates; the seat of Haskell Indian School, the existence of which makes a long credit mark on the side of the white race on the balance sheet of its dealings with the red race, a balance sheet which otherwise has many debit marks on it. Now I come to this city, the seat of one of those agricultural colleges which have done so much for the education of that class of our people upon whom more than any other ultimately the entire national well-being rests-those devoted to the tilling of the soil, raising crops and live stock. Until within the lifetime of the present generation but little effort was made to bring the education of the farmer up to the high standard toward which we were endeavoring to bring so many other professions. That has now been changed. Nothing is more striking in our educational system of to-day than the number of institutions in which the work of the farmer is taught in a way that makes farming in its highest form one of the learned professions.",
+"I am speaking on [?] one of the great agricultural districts of the country, and as I have gone through it this morning, exactly as I went through the district of the lower Kaw yesterday afternoon, I have been lost in ceaseless admiration of its beauty and fertility, and it is eminently fitting that here there should be one of those institutions which train the man who is to till the soil, the man who is ultimately to control the destiny of the nation more than any other, more even than the wage worker,-- train him not only how to wield aright the implements ready to his hand, but train him how to render the highest service of citizenship to the state.",
+"I want to congratulate this cadet corps. I like to see such corps' always. Our people work for themselves, and if need comes areto beable to take care of themselves in actual war. Kansas is full of the men who fought in the great war, and when in 1898 the appeal to arms came Kansas farms and Kansas colleges sent forth ten-fold the number of men that were asked for by Uncle Sam; ten times as many wished to get into the volunteer service as there was room for in the volunteer service; and in the Philippines it was given to Kansas to produce one of those men who made marked reputations in the war, in the person of General Funston; and in the 20th Kansas you had one of the regiments which had the good luck to have the opportunity, and then the power to take advantage of the opportunity, for you have got to have both, the opportunity and then the power to take advantage of it. It was for the good fortune of the 20th Kansas that it had [?] that power.",
+"Compared with the struggle which you, my comrades in the great war had, ours was a mighty small one: All that can be said is that we hope we showed we had the right spirit in us, the desire to emulate your deeds. (Applause.)",
+"I want to say a word especially to the students. It is always a pleasure to be greeted by the student body. You go out into the great world with a peculiar weight of responsibility upon you, because it largely depends upon how you handle yourselves as to the esteem in which education will be held by the community at large. If you make the privileges you have serve as an excuse for not working as hard, not doing as good work, not getting down to the ground and working up, you will not merely discredit yourselves, but you will discredit those who have not had your advantages. If, however, instead you feel that they have made an added burden of responsibility, that they make it more incumbent upon you to show that you profit by the advantages you have had, then you will reflect credit not merely upon yourself, but upon those who founded and keep up institutions of learning, such as this.",
+"There is one bit of advice I like to give to the young and to the old. I believe in play and I believe in work. When you play, play hard, and when you work, do not play at all. I believe in having a good",
+"time. Get all the enjoyment you can, but do not let getting the enjoyment interfere with your duty, with your work in the world. The best workers that I have ever known were men who knew how to play when the chance came, and the poorest creatures I have ever known any where, and the most miserable, were those who had the theory that life consisted merely of play. I pity no man because he has to work. I respect him, and I despise the man who does not work. (Applause.) We have no place in our American society for the man or the woman who fails to appreciate the need of effort, the need of work to justify his or her existence. If a man is removed from the need of laboring each day for his daily bread, that means that he is set free to do work of a different kind if he has got the stuff in him to enable him to do it. Of all people whom I most pity, it is the children whom the misguided father or mother brings up not to work but to try to have an easy time in life. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -25281,13 +25808,82 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0336, 0337",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0336",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My fellow-citizens:",
+"In going through Kansas one cannot but be struck not merely by the marvelous fertility of your state, but by the way in which your people are building upon your foundation of material prosperity the structure of the higher moral and intellectual life. Yesterday I passed through the historic town of Lawrence, the seat of your university, which has numbered so many men of mark among its graduates; the seat of Haskell Indian School, the existence of which makes a long credit mark on the side of the white race on the balance sheet of its dealings with the red race, a balance sheet which otherwise has many debit marks on it. Now I come to this city, the seat of one of those agricultural colleges which have done so much for the education of that class of our people upon whom more than any other ultimately the entire national well-being rests-those devoted to the tilling of the soil, raising crops and live stock. Until within the lifetime of the present generation but little effort was made to bring the education of the farmer up to the high standard toward which we were endeavoring to bring so many other professions. That has now been changed. Nothing is more striking in our educational system of to-day than the number of institutions in which the work of the farmer is taught in a way that makes farming in its highest form one of the learned professions.",
+"I am speaking on [?] one of the great agricultural districts of the country, and as I have gone through it this morning, exactly as I went through the district of the lower Kaw yesterday afternoon, I have been lost in ceaseless admiration of its beauty and fertility, and it is eminently fitting that here there should be one of those institutions which train the man who is to till the soil, the man who is ultimately to control the destiny of the nation more than any other, more even than the wage worker,-- train him not only how to wield aright the implements ready to his hand, but train him how to render the highest service of citizenship to the state.",
+"I want to congratulate this cadet corps. I like to see such corps' always. Our people work for themselves, and if need comes areto beable to take care of themselves in actual war. Kansas is full of the men who fought in the great war, and when in 1898 the appeal to arms came Kansas farms and Kansas colleges sent forth ten-fold the number of men that were asked for by Uncle Sam; ten times as many wished to get into the volunteer service as there was room for in the volunteer service; and in the Philippines it was given to Kansas to produce one of those men who made marked reputations in the war, in the person of General Funston; and in the 20th Kansas you had one of the regiments which had the good luck to have the opportunity, and then the power to take advantage of the opportunity, for you have got to have both, the opportunity and then the power to take advantage of it. It was for the good fortune of the 20th Kansas that it had [?] that power.",
+"Compared with the struggle which you, my comrades in the great war had, ours was a mighty small one: All that can be said is that we hope we showed we had the right spirit in us, the desire to emulate your deeds. (Applause.)",
+"I want to say a word especially to the students. It is always a pleasure to be greeted by the student body. You go out into the great world with a peculiar weight of responsibility upon you, because it largely depends upon how you handle yourselves as to the esteem in which education will be held by the community at large. If you make the privileges you have serve as an excuse for not working as hard, not doing as good work, not getting down to the ground and working up, you will not merely discredit yourselves, but you will discredit those who have not had your advantages. If, however, instead you feel that they have made an added burden of responsibility, that they make it more incumbent upon you to show that you profit by the advantages you have had, then you will reflect credit not merely upon yourself, but upon those who founded and keep up institutions of learning, such as this.",
+"There is one bit of advice I like to give to the young and to the old. I believe in play and I believe in work. When you play, play hard, and when you work, do not play at all. I believe in having a good",
+"time. Get all the enjoyment you can, but do not let getting the enjoyment interfere with your duty, with your work in the world. The best workers that I have ever known were men who knew how to play when the chance came, and the poorest creatures I have ever known any where, and the most miserable, were those who had the theory that life consisted merely of play. I pity no man because he has to work. I respect him, and I despise the man who does not work. (Applause.) We have no place in our American society for the man or the woman who fails to appreciate the need of effort, the need of work to justify his or her existence. If a man is removed from the need of laboring each day for his daily bread, that means that he is set free to do work of a different kind if he has got the stuff in him to enable him to do it. Of all people whom I most pity, it is the children whom the misguided father or mother brings up not to work but to try to have an easy time in life. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 24 (frame 425:0336)</span>",
+"My fellow-citizens:",
+"In going through Kansas one cannot but be struck not merely by the marvelous fertility of your state, but <del title=\"struck through\">xxxx</del> by the way in which your people are building upon your foundation of material prosperity the structure of the higher moral and <span class=\"sic\" title=\"reads: intellectual\">inte llectual</span> life. Yesterday I passed through the historic town of Lawrence, the seat of your university, which has numbered so many men of mark among its graduates; the seat of Haskell Indian School, the existence of which makes a long credit mark on the side of <del title=\"struck through\">x</del> the white race on the balance sheet of its dealings with the red race, a balance sheet which otherwise has many debit marks on it. Now I come to this city, the seat of one of those agricultural colleges which have done so much for the education of that class of our people upon whom more than any other ultimately the entire national well-being rests-those devoted to the tilling of the soil, raising crops and live stock. Until within the lifetime of the present generation but little effort was made to bring the education of the farmer up to the high standard toward which we were endeavoring to bring so many <span class=\"sic\" title=\"reads: other\">ohher</span> professions. That has now been changed. Nothing is more striking in our educational system of to-day than the number of institutions in which the work of the farmer is taught in a way that makes farming in its highest form one of the learned professions.",
+"I am speaking <span class=\"unc\" title=\"uncertain reading\">on</span> one of the great agricultural districts of the country, and as I have gone through it this morning, exactly as I went through the district of the lower Kaw yesterday afternoon, I have been lost in ceaseless admiration of its beauty and fertility, and it is eminently fitting that here there should be one of those institutions which train the man who is to till the soil, the man who is ultimately to control the destiny of the nation more than any other , more even than the wage worker,<ins title=\"added by hand\">--</ins> train him not only how to wield aright the implements ready to his hand, <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">but</ins> <span class=\"sic\" title=\"reads: train\">train g</span> him how to render the <span class=\"sic\" title=\"reads: highest\">hdghest</span> service of citizenship to the state.",
+"<span class=\"pb\">Page 25 (frame 425:0336)</span>",
+"I want to congratulate this cadet corps. I like to see such corps&#x27; always. Our people work for themselves, and if need comes are<ins title=\"added by hand\">to be</ins>able to take care of themselves in actual war. Kansas is full of the men who fought in the great war, and when in 1898 the appeal to arms came Kansas farms and Kansas colleges sent forth ten-fold the number of men that were asked for by Uncle Sam; ten times as many wished to get into the volunteer service as there was room for in the volunteer service; and in the Philippines it was given to Kansas to produce one of those men who made marked reputations in the war,in the person of General Funston; and <span class=\"sic\" title=\"reads: in\">i in</span> the 20th Kansas you had one of the regiments which had the good luck to have the opportunity, and then the power to take advantage of the opportunity, for you have got to have both,the opportunity and then the power to take advantage of it. It was for the good fortune of the 20th Kansas that it <span class=\"unc\" title=\"uncertain reading\">had</span> that power.",
+"Compared with the struggle <del title=\"struck through\">xxxx</del> which you, my <span class=\"sic\" title=\"reads: comrades\">comgades</span> in the great war had, ours was a mighty small one: All that can be said is that we hope we showed we had the right spirit in us , the desire to emulate your deeds. (Applause.)",
+"I want to say a word especially to the students. It is always a pleasure <span class=\"sic\" title=\"reads: to be\">tobe</span> greeted by the student body. You go out into the great world with a peculiar weight of responsibility upon you, because it largely depends upon how you handle yourselves as to the esteem in which education will be held by the <del title=\"struck through\">xxxx</del> community at large. If you make the privileges you have serve as an excuse for not working as hard, not doing as good work, not getting down to the ground and working up, you will not merely discredit yourselves, but you will discredit those who have not had your advantages. If, however, instead you feel that they have made an added <del title=\"struck through\">xxxx</del> burden of responsibility, that they make it more incumbent upon you to show that you profit by the advantages you have had, then you will reflect credit not merely upon yourself, but upon those who founded and keep up institutions of learning,such as this.",
+"<span class=\"sic\" title=\"reads: There is\">Thereis</span> one bit of advice I <span class=\"sic\" title=\"reads: like\">li ke</span> to give to the young and to the old. I believe in play and I believe in work. <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> When you play,play hard, and when you work, do not play at all. I believe in having a good",
+"<span class=\"pb\">Page 26 (frame 425:0337)</span>",
+"time. Get all the enjoyment you can, but do not let getting the enjoyment interfere with your duty, with your work in the world. The best workers that I have ever known were men who knew how to play when the chance came, and the poorest creatures I have ever known any where, and the most miserable, were those who had the theory that life consisted <del title=\"struck through\">xx</del> merely of play. I <del title=\"struck through\">xxxx</del> pity no man because he has to work. I respect him, and I despise the man who <span class=\"sic\" title=\"reads: does\">do s</span> not work. (Applause.) We have no place in our American society for the man or the woman who fails to appreciate the need of effort, the need of work to justify his or her existence. If a man is removed from the need of laboring each day for his daily bread<ins title=\"added by hand\">,</ins> that means that he is set free <del title=\"struck through\">xxxx</del> to do work of a different kind if he has got the stuff in him to enable him to do <span class=\"sic\" title=\"reads: it. Of\">itOf</span> all people whom I most pity , it is the <span class=\"sic\" title=\"reads: children\">childxxx</span> whom the misguided father or mother brings up <del title=\"struck through\">xx</del> not to work but to try to have an easy time in life. <ins title=\"added by hand\">(Applause)</ins>",
+"<span class=\"tnote\">Heading: a handwritten &quot;n&quot; is added above &quot;Manhatta&quot; to make &quot;Manhattan&quot;.</span>\n<span class=\"tnote\">Folio 24: the struck word before &quot;train g him&quot; is heavily inked over by hand and cannot be read; &quot;but&quot; is written above it. A handwritten caret with a bar above it after &quot;wage worker,&quot; appears to mark an inserted dash; a hand stroke also separates &quot;nation&quot; and &quot;more&quot;.</span>\n<span class=\"tnote\">Folio 24: in &quot;speaking <span class=\"unc\" title=\"uncertain reading\">on</span> one&quot; an &quot;i&quot; and an &quot;o&quot; are typed in the same space (an &quot;i&quot; dot shows above), so the word may be &quot;in&quot;; in &quot;agricultural&quot; the &quot;c&quot; is typed over another letter.</span>\n<span class=\"tnote\">Folio 25: &quot;to be&quot; is typed between the lines above &quot;are able&quot;, with a handwritten caret.</span>\n<span class=\"tnote\">Folio 25: &quot;had&quot; in &quot;it had that power&quot; is partly covered by a handwritten mark. Before &quot;When you play&quot; a typed character is struck through by hand. A hand stroke stands between &quot;will&quot; and &quot;reflect&quot;.</span>\n<span class=\"tnote\">Folio 26: &quot;Of&quot; in &quot;itOf&quot; has a handwritten capital O over the typed letter, with no space after &quot;it&quot;; &quot;children&quot; is typed with the end of the word overtyped with x&#x27;s; &quot;(Applause)&quot; at the end is handwritten. A handwritten comma is added after &quot;bread&quot;. Hand scribbles above &quot;theory&quot; and a dot above &quot;woman&quot; do not change words.</span>\n<span class=\"tnote\">Typed page numbers &quot;-2-&quot; and &quot;-3-&quot; at the heads of folios 25 and 26 are left out of the text.</span>"
+],
+"notes": [
+"Heading: a handwritten \"n\" is added above \"Manhatta\" to make \"Manhattan\".",
+"Folio 24: the struck word before \"train g him\" is heavily inked over by hand and cannot be read; \"but\" is written above it. A handwritten caret with a bar above it after \"wage worker,\" appears to mark an inserted dash; a hand stroke also separates \"nation\" and \"more\".",
+"Folio 24: in \"speaking on [?] one\" an \"i\" and an \"o\" are typed in the same space (an \"i\" dot shows above), so the word may be \"in\"; in \"agricultural\" the \"c\" is typed over another letter.",
+"Folio 25: \"to be\" is typed between the lines above \"are able\", with a handwritten caret.",
+"Folio 25: \"had\" in \"it had that power\" is partly covered by a handwritten mark. Before \"When you play\" a typed character is struck through by hand. A hand stroke stands between \"will\" and \"reflect\".",
+"Folio 26: \"Of\" in \"itOf\" has a handwritten capital O over the typed letter, with no space after \"it\"; \"children\" is typed with the end of the word overtyped with x's; \"(Applause)\" at the end is handwritten. A handwritten comma is added after \"bread\". Hand scribbles above \"theory\" and a dot above \"woman\" do not change words.",
+"Typed page numbers \"-2-\" and \"-3-\" at the heads of folios 25 and 26 are left out of the text."
+],
+"file": "transcriptions/1903-05-02-manhattan.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education",
+"farming"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"kansas",
+"play",
+"seat",
+"institutions",
+"train",
+"education",
+"opportunity",
+"work",
+"service",
+"applause"
+],
+"stats": {
+"words": 1004,
+"unique_words": 378,
+"sentences": 27,
+"avg_sentence": 37.2,
+"minutes": 8,
+"i_count": 19,
+"we_count": 5
+}
 },
 {
 "id": "1903-05-04-colorado-springs",
@@ -25410,8 +26006,8 @@
 "distinctive": [
 "win",
 "loyalty",
-"applause",
 "love",
+"applause",
 "virtue",
 "spirit",
 "decency",
@@ -25614,8 +26210,8 @@
 "colorado",
 "water",
 "law",
-"farms",
 "benefit",
+"farms",
 "irrigation",
 "lands",
 "policy",
@@ -26793,8 +27389,8 @@
 "decency",
 "fought",
 "forestry",
-"congratulate",
-"one's"
+"one's",
+"law"
 ],
 "stats": {
 "words": 2439,
@@ -27132,6 +27728,26 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0373",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0373",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow-citizens:",
+"I want to say what a pleasure it is to see you. I am enjoying so much coming into California. I have looked forward toward visiting your wonderful and beautiful state for years, and I am so glad of having the chance of being here. I welcome you all. I am glad to see the men, the women, and especially the children, for I believe in your stock and I am glad it is being kept up. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 94 (frame 425:0373)</span>",
+"My fellow-citizens:",
+"I want to say what a pleasure it is to see you. I am enjoying so much coming into California. I have looked forward toward visiting your wonderful and beautiful state for years, and I am so glad of having the chance of being here. I welcome you all. I am glad to see the men, the women, and especially the children, for I believe <span class=\"sic\" title=\"reads: in your\">innyour</span> stock and I am glad it is being kept up. (Cheers and applause.)",
+"<span class=\"margin\">In the margin: &quot;File&quot; with a stroke at upper left; below the text, between two hand-drawn lines: &quot;This speech should precede the Redlands speech.&quot;</span>\n<span class=\"tnote\">The listed page (reel 418, frame 0712, left half) is a printed galley of these remarks followed by the Redlands address, not the typescript. The typescript was found at reel 425, frame 0373, left half (folio 94), and is what is transcribed here. In the heading, &quot;President&quot; has an overtyped letter and the day of the month is blotted by overtyping; it may be 7 but cannot be read with certainty.</span>"
+],
+"notes": [
+"The listed page (reel 418, frame 0712, left half) is a printed galley of these remarks followed by the Redlands address, not the typescript. The typescript was found at reel 425, frame 0373, left half (folio 94), and is what is transcribed here. In the heading, \"President\" has an overtyped letter and the day of the month is blotted by overtyping; it may be 7 but cannot be read with certainty."
+],
+"file": "transcriptions/1903-05-07-victorville.txt"
+},
 "themes": [],
 "mentions": {
 "people": [],
@@ -27246,6 +27862,28 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0375",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0375",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Children: [?]",
+"I wish to say how glad I am [?] to see you. I wish to congratulate the men and women of this city upon the children. You seem to be all right in quality and in quantity. (Applause)",
+"I wish to say a word of special acknowledgment to the teachers. There is no body of men and women in the country to whom more is owing than to that body of men and women upon whose efforts so much of the cleanliness and efficiency of our government twenty years hence depends, because on their training largely depends the kind of citizenship of the next generation. There is no duty as important as the duty of taking care that the boys and girls are so trained as to make the highest type of men and women in the future. It is a duty that cannot be shirked by the home. The fathers and mothers must remember that it is the duty that comes before everything else after the getting of mere subsistence. The first duty after the duty of self-support is the training of the children as they should be trained. That comes upon the fathers and mothers. They cannot put it off entirely upon the teachers; but much depends upon the teachers also, and the fact that they have done and are doing their duty so well entitles them in a peculiar degree to the gratitude of all Americans who understand the prime needs of the republic. I am glad to see you, I believe in you, and I thank you. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 99 (frame 425:0375)</span>",
+"Childre<span class=\"unc\" title=\"uncertain reading\">n:</span>",
+"I wish to say how glad I <span class=\"unc\" title=\"uncertain reading\">am</span> to see you. I wish to congratulate the men and women of this city upon the children. You seem to be all right in quality and in quantity. (Applause)",
+"I wish to say a <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">special</span></del> word of special acknowledgment to the teachers. There is no body of men and women in the country to whom more is owing than to that body of men and women upon whose efforts so much of the cleanliness and efficiency of our government twenty years hence depends, because on their training largely depends the kind of citizenship of the next generation. There is no duty <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">as</ins> important as the duty of taking care that the boys and girls are so trained as to make the highest type of men and women in the future. It is a duty that cannot be shirked by the home. The fathers and mothers must remember that it is the duty that comes before everything else after the getting of mere subsistence. The first duty after the duty of self-support is the training of the children as they should be trained. That comes upon the fathers and mothers. They cannot put it off entirely upon the teachers; but much depends upon the teachers also, and the fact that they have done and are doing their duty so well entitles them in a peculiar degree to the gratitude of all Americans who understand the prime needs of the republic. I am glad to see you, I believe in you, and I thank you. (Cheers and applause)",
+"<span class=\"margin\">In the margin: &quot;Fil&quot; with a stroke at upper left; handwritten at upper right: &quot;This speech should appear before other speech at San Bernardino&quot;</span>\n<span class=\"tnote\">The first letters of the heading (&quot;Rema&quot; of &quot;Remarks&quot;, &quot;San Bernar&quot; of &quot;San Bernardino&quot;) are heavily overtyped/blotted; the heading is read from the visible &quot;rks&quot; and &quot;dino&quot; and the context. The end of the salutation (&quot;n:&quot; of &quot;Children:&quot;) is also blotted. In &quot;I am to see you&quot; the word after &quot;I&quot; is a single overtyped blot read as &quot;am&quot;. The x-ed out word before &quot;word of special&quot; looks like &quot;special&quot; overtyped with x&#x27;s. The &quot;as&quot; before &quot;important&quot; is typed above the line with a caret. &quot;country&quot;, &quot;government&quot;, &quot;depends&quot;, &quot;teach ers&quot; and &quot;republic&quot; have stray spacing or overtyped letters; the final readings are given. The lower part of the page holds the start of the Riverside address of the same day, not transcribed here.</span>"
+],
+"notes": [
+"The first letters of the heading (\"Rema\" of \"Remarks\", \"San Bernar\" of \"San Bernardino\") are heavily overtyped/blotted; the heading is read from the visible \"rks\" and \"dino\" and the context. The end of the salutation (\"n:\" of \"Children:\") is also blotted. In \"I am to see you\" the word after \"I\" is a single overtyped blot read as \"am\". The x-ed out word before \"word of special\" looks like \"special\" overtyped with x's. The \"as\" before \"important\" is typed above the line with a caret. \"country\", \"government\", \"depends\", \"teach ers\" and \"republic\" have stray spacing or overtyped letters; the final readings are given. The lower part of the page holds the start of the Riverside address of the same day, not transcribed here."
+],
+"file": "transcriptions/1903-05-07-san-bernardino-2.txt"
+},
 "themes": [
 "home-family",
 "citizenship",
@@ -27450,7 +28088,7 @@
 "remember",
 "injustice",
 "brother",
-"believe"
+"new"
 ],
 "stats": {
 "words": 1625,
@@ -27759,8 +28397,8 @@
 "solve",
 "brotherhood",
 "world's",
-"applause",
 "soil",
+"applause",
 "fail"
 ],
 "stats": {
@@ -27842,8 +28480,8 @@
 },
 "distinctive": [
 "truth",
-"applause",
 "soil",
+"applause",
 "play",
 "senator",
 "california",
@@ -28285,8 +28923,8 @@
 },
 "distinctive": [
 "county",
-"applause",
 "today",
+"applause",
 "california",
 "congratulate",
 "products",
@@ -28799,8 +29437,8 @@
 "distinctive": [
 "applause",
 "california",
-"system",
 "currency",
+"system",
 "cheers",
 "law",
 "legislation",
@@ -28897,9 +29535,9 @@
 "places": []
 },
 "distinctive": [
+"christian",
 "applause",
 "guided",
-"christian",
 "adherence",
 "young",
 "decency",
@@ -29018,8 +29656,8 @@
 "distinctive": [
 "beauty",
 "scholarship",
-"land",
 "california",
+"land",
 "preservation",
 "forest",
 "university",
@@ -29273,8 +29911,8 @@
 "sea",
 "roman",
 "seated",
-"atlantic",
 "nations",
+"atlantic",
 "california"
 ],
 "stats": {
@@ -29775,8 +30413,8 @@
 "comrades",
 "first-class",
 "spanish",
-"war",
-"old"
+"old",
+"war"
 ],
 "stats": {
 "words": 405,
@@ -29961,7 +30599,7 @@
 "building",
 "victory",
 "credit",
-"applause"
+"secretary"
 ],
 "stats": {
 "words": 835,
@@ -30204,8 +30842,8 @@
 "francisco",
 "providing",
 "fleet",
-"san",
-"congress"
+"congress",
+"san"
 ],
 "stats": {
 "words": 922,
@@ -30323,8 +30961,8 @@
 "choice",
 "names",
 "college",
-"philippines",
 "cuba",
+"philippines",
 "education",
 "graduated"
 ],
@@ -31079,9 +31717,9 @@
 "decency",
 "needed",
 "honesty",
-"loyalty",
-"future",
-"preservation"
+"water",
+"preservation",
+"loyalty"
 ],
 "stats": {
 "words": 1919,
@@ -31416,8 +32054,8 @@
 "distinctive": [
 "play",
 "women",
-"believe",
 "heart",
+"believe",
 "body",
 "work"
 ],
@@ -31681,8 +32319,8 @@
 "envy",
 "squarely",
 "self-respecting",
-"decency",
 "founded",
+"decency",
 "feeling",
 "average",
 "neighbor",
@@ -31921,8 +32559,8 @@
 "california",
 "enjoyed",
 "seeing",
-"applause",
 "nations",
+"applause",
 "type",
 "citizen",
 "nation",
@@ -36468,8 +37106,8 @@
 "immigration",
 "capacity",
 "civil",
-"side",
 "union",
+"side",
 "land",
 "history",
 "american"
@@ -37299,7 +37937,7 @@
 "average",
 "deeds",
 "memories",
-"fighting"
+"capital"
 ],
 "stats": {
 "words": 1728,
@@ -38226,8 +38864,8 @@
 ]
 },
 "distinctive": [
-"colombia",
 "panama",
+"colombia",
 "colombian",
 "isthmus",
 "treaty",
@@ -38450,11 +39088,11 @@
 "negation",
 "peoples",
 "self-restraint",
-"produce",
 "freedom",
+"produce",
 "therefore",
-"responsibility",
 "government",
+"responsibility",
 "together"
 ],
 "stats": {
@@ -38821,8 +39459,8 @@
 "chiefs",
 "freedom",
 "rare",
-"war",
 "armies",
+"war",
 "battle",
 "civil"
 ],
@@ -39475,7 +40113,7 @@
 "filipinos",
 "gold",
 "readjustment",
-"surplus"
+"treaty"
 ],
 "stats": {
 "words": 2919,
@@ -40120,8 +40758,8 @@
 "congress",
 "labor",
 "indian",
-"islands",
 "government",
+"islands",
 "bureau",
 "alaska"
 ],
@@ -40207,7 +40845,7 @@
 "trees",
 "sentiment",
 "industries",
-"preserved"
+"policy"
 ],
 "stats": {
 "words": 3056,
@@ -40426,7 +41064,7 @@
 "control",
 "club",
 "interstate",
-"intention"
+"business"
 ],
 "stats": {
 "words": 1847,
@@ -40496,8 +41134,8 @@
 "baseless",
 "lacked",
 "arbitration",
-"courage",
 "step",
+"courage",
 "position",
 "ships",
 "prepare"
@@ -40764,9 +41402,9 @@
 "distinctive": [
 "colored",
 "white",
-"applause",
 "race",
 "south",
+"applause",
 "black",
 "north",
 "problem",
@@ -40882,7 +41520,7 @@
 "president",
 "end",
 "duty",
-"brought"
+"whatever"
 ],
 "stats": {
 "words": 1439,
@@ -40986,8 +41624,8 @@
 "washington's",
 "benevolence",
 "washington",
-"education",
 "navy",
+"education",
 "justice",
 "govern",
 "principles",
@@ -41503,8 +42141,8 @@
 "uvres",
 "dewey",
 "built",
-"hit",
 "defence",
+"hit",
 "revolution"
 ],
 "stats": {
@@ -41571,12 +42209,12 @@
 "distinctive": [
 "doctor",
 "medical",
-"profession",
 "navy",
+"profession",
 "preparation",
 "relation",
-"army",
 "advance",
+"army",
 "professional",
 "responsibility"
 ],
@@ -41656,8 +42294,8 @@
 "wore",
 "fathers",
 "regiment",
-"deeds",
 "arms",
+"deeds",
 "fought"
 ],
 "stats": {
@@ -41728,8 +42366,8 @@
 "principles",
 "agree",
 "railroad",
-"square",
 "panama",
+"square",
 "injustice",
 "pretty",
 "rich",
@@ -41804,8 +42442,8 @@
 "affairs",
 "responsibility",
 "duties",
-"proud",
-"advantage"
+"advantage",
+"proud"
 ],
 "stats": {
 "words": 1169,
@@ -41984,7 +42622,7 @@
 "commander",
 "day's",
 "wanted",
-"care"
+"weapon"
 ],
 "stats": {
 "words": 3426,
@@ -42567,12 +43205,12 @@
 },
 "distinctive": [
 "slocum",
-"israel",
 "statue",
+"israel",
 "aggressive",
-"qualities",
 "first-class",
 "warred",
+"qualities",
 "general",
 "devotion",
 "memories"
@@ -42717,8 +43355,8 @@
 "common-sense",
 "sake",
 "value",
-"president",
-"comes"
+"comes",
+"president"
 ],
 "stats": {
 "words": 1474,
@@ -43874,7 +44512,7 @@
 "forests",
 "highways",
 "power",
-"southern"
+"government"
 ],
 "stats": {
 "words": 2433,
@@ -44028,11 +44666,11 @@
 "china",
 "chinese",
 "wealth",
-"senator",
 "boycott",
+"senator",
 "planter",
-"islands",
 "wage-workers",
+"islands",
 "corporations"
 ],
 "stats": {
@@ -44308,7 +44946,7 @@
 "accomplished",
 "benefit",
 "faith",
-"cause"
+"effective"
 ],
 "stats": {
 "words": 1264,
@@ -44378,8 +45016,8 @@
 "clean",
 "education",
 "white",
-"race",
 "interested",
+"race",
 "true",
 "house"
 ],
@@ -46518,8 +47156,8 @@
 "non-partisan",
 "service",
 "lower",
-"getting",
 "department",
+"getting",
 "law",
 "business"
 ],
@@ -46584,8 +47222,8 @@
 "departments",
 "methods",
 "recommendations",
-"work",
 "ink",
+"work",
 "bureaus",
 "department",
 "red",
@@ -46685,8 +47323,8 @@
 "law",
 "petition",
 "fewer",
-"immigrants",
 "labor",
+"immigrants",
 "bill"
 ],
 "stats": {
@@ -47129,8 +47767,8 @@
 "church",
 "questions",
 "afford",
-"honesty",
 "rule",
+"honesty",
 "decent",
 "life"
 ],
@@ -47244,8 +47882,8 @@
 "jones",
 "navy",
 "paul",
-"surrender",
 "ship",
+"surrender",
 "john",
 "dead",
 "cumberland",
@@ -47543,8 +48181,8 @@
 "negro",
 "average",
 "color",
-"intelligent",
 "farm",
+"intelligent",
 "smooth"
 ],
 "stats": {
@@ -47637,8 +48275,8 @@
 "befallen",
 "army",
 "afloat",
-"civil",
 "ashore",
+"civil",
 "everyday",
 "average"
 ],
@@ -47767,15 +48405,15 @@
 },
 "distinctive": [
 "happiest",
-"burton",
 "foundation",
+"burton",
 "college",
 "graduating",
 "graduate",
 "success",
 "woman",
-"material",
-"practical"
+"practical",
+"material"
 ],
 "stats": {
 "words": 1485,
@@ -47998,8 +48636,8 @@
 "college",
 "intellect",
 "condemn",
-"learning",
 "prowess",
+"learning",
 "boy",
 "students",
 "dishonest"
@@ -48307,8 +48945,8 @@
 "constitution",
 "government",
 "judicial",
-"marshall",
 "national",
+"marshall",
 "epoch"
 ],
 "stats": {
@@ -49928,7 +50566,7 @@
 "raiders",
 "murderous",
 "shot",
-"soldiers"
+"criminals"
 ],
 "stats": {
 "words": 4663,
@@ -50547,8 +51185,8 @@
 "queen",
 "chariot",
 "chariots",
-"king",
 "irish",
+"king",
 "emer"
 ],
 "stats": {
@@ -50786,7 +51424,7 @@
 "inland",
 "aloof",
 "political",
-"students"
+"athletics"
 ],
 "stats": {
 "words": 5735,
@@ -50875,8 +51513,8 @@
 "admiration",
 "served",
 "war",
-"lot",
-"killed"
+"killed",
+"lot"
 ],
 "stats": {
 "words": 2822,
@@ -51133,8 +51771,8 @@
 "ease",
 "glory",
 "disagreeable",
-"woman",
 "statue",
+"woman",
 "duty"
 ],
 "stats": {
@@ -51473,8 +52111,8 @@
 "places": []
 },
 "distinctive": [
-"neighbor",
 "wife",
+"neighbor",
 "remember"
 ],
 "stats": {
@@ -51724,8 +52362,8 @@
 "tax",
 "wilderness",
 "animals",
-"animal",
-"fiction"
+"fiction",
+"animal"
 ],
 "stats": {
 "words": 9802,
@@ -51835,8 +52473,8 @@
 "puritan",
 "corporations",
 "criminal",
-"corporation",
 "action",
+"corporation",
 "puritans",
 "criminally",
 "business",
@@ -51935,8 +52573,8 @@
 "distinctive": [
 "discouragement",
 "republics",
-"president",
 "wealth",
+"president",
 "honest",
 "dishonest",
 "wrongdoing",
@@ -52554,8 +53192,8 @@
 "movement",
 "honest",
 "well-being",
-"policies",
 "wealth",
+"policies",
 "property",
 "business",
 "tennessee",
@@ -52746,7 +53384,7 @@
 "graduate",
 "forty",
 "thousand",
-"bear"
+"property"
 ],
 "stats": {
 "words": 1339,
@@ -53579,8 +54217,8 @@
 "tenderness",
 "partner",
 "duty",
-"children",
 "sentiment",
+"children",
 "thoughtless",
 "reward",
 "fears"
@@ -53734,8 +54372,8 @@
 "international",
 "effective",
 "naval",
-"society",
-"adequate"
+"adequate",
+"society"
 ],
 "stats": {
 "words": 520,
@@ -54402,7 +55040,7 @@
 "condemn",
 "capitalists",
 "praise",
-"foolish"
+"government"
 ],
 "stats": {
 "words": 1346,
@@ -54582,8 +55220,8 @@
 },
 "distinctive": [
 "act",
-"grant",
 "sovereign",
+"grant",
 "corporation",
 "reward",
 "federal",
@@ -54653,8 +55291,8 @@
 "evil",
 "mother",
 "national",
-"grown",
 "true",
+"grown",
 "material"
 ],
 "stats": {
@@ -54913,12 +55551,12 @@
 "taft",
 "senator",
 "compromise",
+"haskell",
 "ohio",
 "administration",
 "republicans",
 "acquiescence",
 "taft's",
-"correspondence",
 "party"
 ],
 "stats": {
@@ -55933,8 +56571,8 @@
 "distinctive": [
 "secret",
 "service",
-"investigated",
 "congress",
+"investigated",
 "criminals",
 "treasury",
 "provision",
@@ -56745,8 +57383,8 @@
 "practical",
 "possessed",
 "brother",
-"devotion",
 "mankind",
+"devotion",
 "struggle"
 ],
 "stats": {
@@ -57172,8 +57810,8 @@
 "military",
 "technical",
 "advisory",
-"advice",
 "rear-admiral",
+"advice",
 "bureaus",
 "responsibility"
 ],
@@ -57297,8 +57935,8 @@
 "naval",
 "division",
 "supplies",
-"military",
 "bureau",
+"military",
 "navy",
 "personnel",
 "reorganization",
@@ -57455,8 +58093,8 @@
 "college",
 "stopped",
 "government",
-"educational",
-"missionary"
+"missionary",
+"educational"
 ],
 "stats": {
 "words": 1735,
@@ -57560,8 +58198,8 @@
 "education",
 "assassin",
 "europe",
-"pretence",
 "egypt",
+"pretence",
 "orient",
 "copy"
 ],
@@ -57670,8 +58308,8 @@
 "reward",
 "inequality",
 "individualism",
-"intellect",
 "orator",
+"intellect",
 "force"
 ],
 "stats": {
@@ -58020,8 +58658,8 @@
 "distinctive": [
 "civilization",
 "movement",
-"centuries",
 "roman",
+"centuries",
 "peoples",
 "conquests",
 "modern",
@@ -58224,8 +58862,8 @@
 "sudan",
 "uganda",
 "africa",
-"civilized",
 "self-government",
+"civilized",
 "egyptian",
 "british",
 "murder",
@@ -58550,8 +59188,8 @@
 "resources",
 "forests",
 "water",
-"sites",
 "east",
+"sites",
 "national"
 ],
 "stats": {
@@ -58860,11 +59498,11 @@
 "special",
 "struggle",
 "welfare",
-"kansas",
 "political",
 "corporations",
 "earned",
-"interests"
+"interests",
+"public"
 ],
 "stats": {
 "words": 6605,
@@ -59060,8 +59698,8 @@
 "cruise",
 "navy",
 "announced",
-"sam",
 "sail",
+"sam",
 "panama",
 "excavation",
 "around"
@@ -59157,7 +59795,7 @@
 "maverick",
 "exceptional",
 "protection",
-"dishonestly"
+"rich"
 ],
 "stats": {
 "words": 4194,
@@ -59253,9 +59891,9 @@
 "earners",
 "hours",
 "social",
-"employer",
 "progress",
-"earner"
+"earner",
+"conditions"
 ],
 "stats": {
 "words": 3887,
@@ -59477,8 +60115,8 @@
 "milwaukee",
 "pubhc",
 "schools",
-"skilled",
 "profession",
+"skilled",
 "public",
 "girls",
 "editor",
@@ -59770,8 +60408,8 @@
 "judicial",
 "rights",
 "dissenting",
-"abraham",
 "court",
+"abraham",
 "lincoln"
 ],
 "stats": {
@@ -60078,8 +60716,8 @@
 "window",
 "parent",
 "woman",
-"father",
 "suffrage",
+"father",
 "ideals",
 "woman's",
 "daughter",
@@ -60273,7 +60911,7 @@
 "honesty",
 "knave",
 "maverick",
-"afraid"
+"range"
 ],
 "stats": {
 "words": 4943,
@@ -60387,10 +61025,10 @@
 "herald",
 "public",
 "magazine",
-"loyalty",
 "sugar",
 "magazines",
 "newspaper",
+"loyalty",
 "comrade",
 "servant",
 "penitentiary"
@@ -61461,11 +62099,11 @@
 },
 "distinctive": [
 "tariff",
-"control",
 "business",
+"control",
 "consumer",
-"platform",
 "commission",
+"platform",
 "trusts",
 "industrial",
 "conditions",
@@ -61798,8 +62436,8 @@
 "wilson",
 "shot",
 "party",
-"applause",
 "bullet",
+"applause",
 "friends",
 "republican",
 "wisconsin",

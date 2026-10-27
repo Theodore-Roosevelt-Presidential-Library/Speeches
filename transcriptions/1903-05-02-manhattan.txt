@@ -4,7 +4,7 @@ title: Speech of President Roosevelt at Manhatta,Kansas,May,2,1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0336, 0337
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0336
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 24 425:0336]
@@ -31,7 +31,8 @@ time. Get all the enjoyment you can, but do not let getting the enjoyment interf
 
 [note: Heading: a handwritten "n" is added above "Manhatta" to make "Manhattan".]
 [note: Folio 24: the struck word before "train g him" is heavily inked over by hand and cannot be read; "but" is written above it. A handwritten caret with a bar above it after "wage worker," appears to mark an inserted dash; a hand stroke also separates "nation" and "more".]
-[note: Folio 24: in "speaking on one" the first letter of "on" is typed over another letter; in "agricultural" the "c" is typed over another letter.]
+[note: Folio 24: in "speaking [?on?] one" an "i" and an "o" are typed in the same space (an "i" dot shows above), so the word may be "in"; in "agricultural" the "c" is typed over another letter.]
 [note: Folio 25: "to be" is typed between the lines above "are able", with a handwritten caret.]
 [note: Folio 25: "had" in "it had that power" is partly covered by a handwritten mark. Before "When you play" a typed character is struck through by hand. A hand stroke stands between "will" and "reflect".]
 [note: Folio 26: "Of" in "itOf" has a handwritten capital O over the typed letter, with no space after "it"; "children" is typed with the end of the word overtyped with x's; "(Applause)" at the end is handwritten. A handwritten comma is added after "bread". Hand scribbles above "theory" and a dot above "woman" do not change words.]
+[note: Typed page numbers "-2-" and "-3-" at the heads of folios 25 and 26 are left out of the text.]
