@@ -1076,8 +1076,8 @@
 "groups",
 "expediency",
 "factory",
-"statistics",
 "community",
+"statistics",
 "separate",
 "contact"
 ],
@@ -1876,8 +1876,8 @@
 "commonwealths",
 "unity",
 "spread",
-"alleghanies",
 "continent",
+"alleghanies",
 "union",
 "older"
 ],
@@ -4249,8 +4249,8 @@
 "forces",
 "went",
 "church",
-"spiritual",
 "material",
+"spiritual",
 "expect",
 "realize",
 "vital"
@@ -6475,8 +6475,8 @@
 "trouble",
 "corporations",
 "believe",
-"deal",
-"real"
+"real",
+"deal"
 ],
 "stats": {
 "words": 907,
@@ -6641,8 +6641,8 @@
 "distinctive": [
 "applause",
 "weapons",
-"laughter",
 "richmond",
+"laughter",
 "patent",
 "defeat",
 "victory",
@@ -8946,8 +8946,8 @@
 },
 "distinctive": [
 "tennessee",
-"applause",
 "chickamauga",
+"applause",
 "waters",
 "works",
 "care",
@@ -11034,8 +11034,8 @@
 "destroy",
 "industrial",
 "applause",
-"fellow",
-"consequence"
+"consequence",
+"fellow"
 ],
 "stats": {
 "words": 1339,
@@ -12612,8 +12612,8 @@
 "party",
 "election",
 "governor",
-"allow",
-"honor"
+"honor",
+"allow"
 ],
 "stats": {
 "words": 763,
@@ -12807,8 +12807,8 @@
 "complaint",
 "gospel",
 "failed",
-"president",
-"prosperity"
+"prosperity",
+"president"
 ],
 "stats": {
 "words": 2542,
@@ -13347,8 +13347,8 @@
 "sword",
 "statesmanship",
 "homage",
-"supreme",
 "fought",
+"supreme",
 "father",
 "justice"
 ],
@@ -14355,10 +14355,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 794,
+"paragraphs": [
+"Mr. President, and you my fellow Alumni:",
+"The first degree of Doctor of Laws that I ever received was from your University (Cries of \"Good! [?]\" cheers and applause); and I am doubly glad to have the chance of coming here ten years later to greet you and wish you well.",
+"One word before I speak especially to college men and women, and that is Mr. Mayor, about the city of Evanston, to say how glad I am to be here in this beautiful city, how glad I have been to see your people and especially the children. (Laughter and applause long continued). It seems to me, Mr. Mayor, that they are all right in point both of quality and quantity. (Laughter) And I wish to state in all seriousness that a deficiency in either cannot be atoned for in the excellence of the other respect.",
+"And now a word, and only a word, to you of the college here. The President said that still after two thousand years it is a subject of discussion as to exactly how much a college education does for a man or woman. It seems to me that the explanation of why that is still a question, is, after all, simple. If either the boy or the girl, the man or the woman, has not got the right stuff in him or her you cannot bring it out. But if you have got the right stuff in you,— why then surely it is merely a truism to say,— that the better your training the better will be the kind of work that you can do. Above all, to the young men going out each to do a man's work in the world, (and if he has not that purpose he is of no use whatever in our American life), we have no room for the idler here, we have no room for the man who merely wishes to lead a pleasant life, if that is all he desires he can never count in American work. If the man has not got in him the desire to count, the desire to do good work in whichever line he adopts, then scant is our use for him. But if he has got it in him then all that I ask him to remember is this, all that I ask each one of you here to remember is this; that if you go from this University, from any university, feeling merely that your course has given you special privileges, if you feel that it has put you in a class apart, you will fail in life. If you feel on the other hand that the very fact of your having had special advantages imposes upon you special responsibilities, makes it specially incumbent upon you to show that you can do your duty with peculiar excellence, if you approach life in that spirit, the university training will have done much for you.",
+"We need all the training for mind that can be given. We need all the training for body that can be given. I welcome every form of rough, vigorous, athletic sports, (Applause); (Some of the cheering this morning made me feel as if I was looking on at a good football game) (Applause). I welcome all forms of manly, vigorous, rough exercise, the best of course. The best kind of work of that type that can be done is such as is done by your lifesaving crew here. (Applause) But as all universities cannot be placed beside a lake where there is a chance for the crew, they have got to do the best they can with the nine and eleven. It is a great thing to have a sound, strong, and vigorous body. It is a better thing to have a sound, strong and vigorous mind. But best of all is it to have that which is partly made up of both, and partly made up of something higher and better -- character. That is what counts. (Applause) And the most good that can be done for you, after all, in a university such as this, is to give you -- and I am proud to believe our American universities do give -- character, a fine, high type of citizenship; that is what we must strive to produce in our universities. Physical strength? Yes. Manly Strength? Yes. Even more emphatically and above all let us strive to develop that for the lack of which neither bodily prowess nor manly capacity can atone, a quality of the soul, of the heart; the qualities of strength, of courage, of sweetness, which we group together when we say that a man, that a woman, has character. I thank you for listening to me to-day. (Great applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -14389,13 +14395,67 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0006, 0007",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0006",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. President, and you my fellow Alumni:",
+"The first degree of Doctor of Laws that I ever received was from your University (Cries of \"Good! [?]\" cheers and applause); and I am doubly glad to have the chance of coming here ten years later to greet you and wish you well.",
+"One word before I speak especially to college men and women, and that is Mr. Mayor, about the city of Evanston, to say how glad I am to be here in this beautiful city, how glad I have been to see your people and especially the children. (Laughter and applause long continued). It seems to me, Mr. Mayor, that they are all right in point both of quality and quantity. (Laughter) And I wish to state in all seriousness that a deficiency in either cannot be atoned for in the excellence of the other respect.",
+"And now a word, and only a word, to you of the college here. The President said that still after two thousand years it is a subject of discussion as to exactly how much a college education does for a man or woman. It seems to me that the explanation of why that is still a question, is, after all, simple. If either the boy or the girl, the man or the woman, has not got the right stuff in him or her you cannot bring it out. But if you have got the right stuff in you,— why then surely it is merely a truism to say,— that the better your training the better will be the kind of work that you can do. Above all, to the young men going out each to do a man's work in the world, (and if he has not that purpose he is of no use whatever in our American life), we have no room for the idler here, we have no room for the man who merely wishes to lead a pleasant life, if that is all he desires he can never count in American work. If the man has not got in him the desire to count, the desire to do good work in whichever line he adopts, then scant is our use for him. But if he has got it in him then all that I ask him to remember is this, all that I ask each one of you here to remember is this; that if you go from this University, from any university, feeling merely that your course has given you special privileges, if you feel that it has put you in a class apart, you will fail in life. If you feel on the other hand that the very fact of your having had special advantages imposes upon you special responsibilities, makes it specially incumbent upon you to show that you can do your duty with peculiar excellence, if you approach life in that spirit, the university training will have done much for you.",
+"We need all the training for mind that can be given. We need all the training for body that can be given. I welcome every form of rough, vigorous, athletic sports, (Applause); (Some of the cheering this morning made me feel as if I was looking on at a good football game) (Applause). I welcome all forms of manly, vigorous, rough exercise, the best of course. The best kind of work of that type that can be done is such as is done by your lifesaving crew here. (Applause) But as all universities cannot be placed beside a lake where there is a chance for the crew, they have got to do the best they can with the nine and eleven. It is a great thing to have a sound, strong, and vigorous body. It is a better thing to have a sound, strong and vigorous mind. But best of all is it to have that which is partly made up of both, and partly made up of something higher and better -- character. That is what counts. (Applause) And the most good that can be done for you, after all, in a university such as this, is to give you -- and I am proud to believe our American universities do give -- character, a fine, high type of citizenship; that is what we must strive to produce in our universities. Physical strength? Yes. Manly Strength? Yes. Even more emphatically and above all let us strive to develop that for the lack of which neither bodily prowess nor manly capacity can atone, a quality of the soul, of the heart; the qualities of strength, of courage, of sweetness, which we group together when we say that a man, that a woman, has character. I thank you for listening to me to-day. (Great applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 4 (frame 425:0006)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. President, and you my fellow Alumni:",
+"The first degree of Doctor of Laws that I ever received was from you<ins title=\"added by hand\">r</ins> University (Cries of &quot;<span class=\"unc\" title=\"uncertain reading\">Good!</span>&quot; cheers and applause);  and I am doubly <span class=\"sic\" title=\"reads: glad\">glqd</span> to have the chance of coming here ten years later to greet you and wish you well.",
+"One word before I speak especially to college men and women, and that is Mr. Mayor, about the city of Evanston, to say how glad I am to be here in this beautiful city, how glad I have been to see your people and especially the children. (Laughter and applause long continued). It seems to me , Mr. Mayor, that they are all right in point both of quality and quantity. (Laughter) And I wish to state in all seriousness that a deficiency in either cannot be atoned for in the excellence of the other respect.",
+"And now a <span class=\"sic\" title=\"reads: word\">wprd</span>, and only a word,  to you of the college here. The President said that still after two thousand years it is a subject of discussion as to exactly how much a college education does for a man or woman. It seems to me that the explanation of why that is still a question, is, after all, simple. If either the boy or the girl, the man or the woman, has not got the right stuff in him or her  you cannot bring it out. But if you have got the right stuff in you,<ins title=\"added by hand\">—</ins> why then surely it is merely a truism to say<ins title=\"added by hand\">,—</ins> that the better your training the better will be the kind of work that you can do. Above all, to the young men going out each to do a man&#x27;s work in the world, <ins title=\"added by hand\">(</ins>and if he has not that purpose he is of no use whatever in our American life<ins title=\"added by hand\">)</ins>, we have no room for the idler here, we have no room for the man who merely wishes to lead a pleasant life, if that is all he desires he can never count in American work. If the man has not got in him the desire to count,the desire to do good work in whichever line he adopts, then scant is our use for him. But if he has got <ins title=\"added by hand\">it</ins> in him  then all that I ask <del title=\"struck through\">xx</del> him to remember is this, all that I ask each one of you here to remember is this;  that if you go from this University, from any university, feeling merely that your course has given you special <span class=\"sic\" title=\"reads: privileges\">provileges</span>, if you feel <span class=\"pb\">Page 5 (frame 425:0007)</span> that it has put you in a class apart, you will fail in life. If you feel on the other hand that the very fact of your having had special advantages imposes upon you special responsibilities, makes it specially incumbent upon you to show that you can do your duty with peculiar excellence, if you <span class=\"sic\" title=\"reads: approach\">appraoch</span> life in that spirit, the university training will have done much for you.",
+"We need all the training for  mind <span class=\"sic\" title=\"reads: that\">tht</span> can be given. We need all the training for body that can be given. I welcome every form of rough, vigorous, <span class=\"sic\" title=\"reads: athletic\">atlethic</span> sports, (Applause); (Some of the cheering this morning made me feel as if I was looking on at a good football game) (Applause). I welcome  all forms of manly, vigorous, rough exercise, the best of course . The best kind of work of that type that can be done is such as is done by your lifesaving crew here. (Applause) But as all universities cannot be placed beside a lake where there is a chance for the crew, they have got to do the best they can with the nine and eleven. It is a great thing to have a sound, <del title=\"struck through\">xx</del> strong, and vigorous body. It is a better thing to have a sound, strong and vigorous mind. But best of all is it to have that which is partly made up of both, and partly made up of something higher and better -- character. That is what counts. (Applause) And the most good that can be done for you, after all, in a university such as this,  is to give you -- and I am proud to believe our American universities do give -- character, a fine, high type of citizenship;  that is what we must strive to produce in our universities. Physical strength? Yes. Manly Strength? Yes. Even more emphatically and above all let us strive to develop that for the lack of which neither bodily prowess nor manly capacity can atone, a quality of the soul, of the heart;  the qualities of strength, of courage, of sweetness, which we group together when we say that a man, that a woman, has character. I thank you for listening to me to-day.  (Great applause)",
+"<span class=\"tnote\">Pages as listed: right half of frame 0006 (folio 4) and left half of frame 0007 (folio 5, typed &quot;-2-&quot;). The left half of frame 0006 holds separate remarks at the Evanston depot and the right half of frame 0007 begins the University of Chicago address; neither is transcribed here.</span>\n<span class=\"tnote\">&quot;File&quot; with a check mark is written in pencil at the top of folio 4. The &quot;r&quot; of &quot;your&quot; is added by hand. &quot;<span class=\"unc\" title=\"uncertain reading\">Good!</span>&quot;: the last letter is overtyped and reads like &quot;g&quot;.</span>\n<span class=\"tnote\">In &quot;you,— why&quot; and &quot;say,— that&quot; a dash (and in the second a comma) is inserted by hand with carets; the parentheses around &quot;and if he has not ... American life&quot; are added by hand; &quot;it&quot; in &quot;got it in him&quot; is written above the line. A hand stroke separates &quot;stilla&quot; into &quot;still a&quot;.</span>\n<span class=\"tnote\">Before &quot;strong&quot; and &quot;vigorous&quot; in both phrases (&quot;a sound, strong, and vigorous body&quot; and &quot;a sound, strong and vigorous mind&quot;) there are heavy hand-drawn diagonal marks; they do not appear to change the words. A hand mark precedes &quot;(Great applause)&quot;. Several letters are overtyped (e.g. &quot;before&quot;, &quot;speak&quot;, &quot;applause&quot;, &quot;right&quot;, &quot;university&quot;, &quot;Manly&quot;, &quot;bodily&quot;); final readings given.</span>"
+],
+"notes": [
+"Pages as listed: right half of frame 0006 (folio 4) and left half of frame 0007 (folio 5, typed \"-2-\"). The left half of frame 0006 holds separate remarks at the Evanston depot and the right half of frame 0007 begins the University of Chicago address; neither is transcribed here.",
+"\"File\" with a check mark is written in pencil at the top of folio 4. The \"r\" of \"your\" is added by hand. \"Good! [?]\": the last letter is overtyped and reads like \"g\".",
+"In \"you,— why\" and \"say,— that\" a dash (and in the second a comma) is inserted by hand with carets; the parentheses around \"and if he has not... American life\" are added by hand; \"it\" in \"got it in him\" is written above the line. A hand stroke separates \"stilla\" into \"still a\".",
+"Before \"strong\" and \"vigorous\" in both phrases (\"a sound, strong, and vigorous body\" and \"a sound, strong and vigorous mind\") there are heavy hand-drawn diagonal marks; they do not appear to change the words. A hand mark precedes \"(Great applause)\". Several letters are overtyped (e.g. \"before\", \"speak\", \"applause\", \"right\", \"university\", \"Manly\", \"bodily\"); final readings given."
+],
+"file": "transcriptions/1903-04-02-evanston.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education",
+"citizenship",
+"strenuous"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"university",
+"applause",
+"vigorous",
+"universities",
+"manly",
+"training",
+"college",
+"woman",
+"strength",
+"special"
+],
+"stats": {
+"words": 794,
+"unique_words": 278,
+"sentences": 25,
+"avg_sentence": 31.8,
+"minutes": 6,
+"i_count": 13,
+"we_count": 7
+}
 },
 {
 "id": "1903-04-02-chicago-2",
@@ -14792,10 +14852,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 97,
+"paragraphs": [
+"I will just stop for a moment to greet you and to say how glad I am to be in your state. It is spring, but the fur overcoats are still comfortable. I was fortunate to live a good part of my time a good deal farther west and farther north than this out on the Dakota border, and when I get up where the air has that touch of winter in it, I am at home. I am mighty glad to see you, I like you, and I am proud of you as fellow Americans. Good-bye."
+],
 "editions": [],
 "trc": [
 {
@@ -14817,13 +14879,47 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0050",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0050",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"I will just stop for a moment to greet you and to say how glad I am to be in your state. It is spring, but the fur overcoats are still comfortable. I was fortunate to live a good part of my time a good deal farther west and farther north than this out on the Dakota border, and when I get up where the air has that touch of winter in it, I am at home. I am mighty glad to see you, I like you, and I am proud of you as fellow Americans. Good-bye."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 21 (frame 425:0050)</span>",
+"<span class=\"margin\">In the margin: file</span>",
+"I will just stop for a moment to greet you and to say how glad I am to be in your state. It is spring, but the fur overcoats are still comfortable. I was fortunate to live a good part of my time a good deal farther west and farther north than this out on the Dakota border, and when I get up where the air has that touch of winter in it, I am at home.     I am mighty glad to see you, I like you, and I am proud of you as fellow Americans. Good-bye.",
+"<span class=\"tnote\">Upper part of the left half of frame 0050 (folio 21), as listed; the lower part of the same page holds the Jefferson Junction remarks. &quot;file&quot; is written in pencil above the heading, and a small hand mark stands before the heading.</span>"
+],
+"notes": [
+"Upper part of the left half of frame 0050 (folio 21), as listed; the lower part of the same page holds the Jefferson Junction remarks. \"file\" is written in pencil above the heading, and a small hand mark stands before the heading."
+],
+"file": "transcriptions/1903-04-03-lake-mills.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 97,
+"unique_words": 66,
+"sentences": 4,
+"avg_sentence": 24.2,
+"minutes": 1,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-03-milwaukee-2",
@@ -14923,10 +15019,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 124,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"I am glad to have the chance of greeting you. I shall say but one word. It is always a pleasure to come here to Wisconsin. For a number of years I lived further to the north and west, out on the border line of Dakota and Montana, and it is like getting home again to feel the touch of the brisk spring weather and see the fur coat. (Laughter) It reminds me of the days when I punched cows myself; and I wonder if any of you ever had the experience of accompanying a cattle train.",
+"I am very glad to see you; I believe in the northwest, for I think that here you are typical Americans. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -14948,13 +15048,51 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0050",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0050",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen and Ladies:",
+"I am glad to have the chance of greeting you. I shall say but one word. It is always a pleasure to come here to Wisconsin. For a number of years I lived further to the north and west, out on the border line of Dakota and Montana, and it is like getting home again to feel the touch of the brisk spring weather and see the fur coat. (Laughter) It reminds me of the days when I punched cows myself; and I wonder if any of you ever had the experience of accompanying a cattle train.",
+"I am very glad to see you; I believe in the northwest, for I think that here you are typical Americans. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 21 (frame 425:0050)</span>",
+"Gentlemen and Ladies:",
+"I am glad to have the chance of greeting you. I shall say but one word. It is always a pleasure to come here to Wisconsin.  For a number of years I lived further to the north and west, out on the border line of Dakota and Montana, and it is like getting home again to feel the touch of the brisk spring weather and see the fur coat. (Laughter) It reminds me of the days when I punched cows myself;  and I wonder if any of you ever had the experience of accompanying a cattle train.",
+"I am very glad to see you;  I believe in the northwest, for I think that here you are typical Americans.  (Cheers and applause)",
+"<span class=\"tnote\">The listed page (right half of frame 0050) holds the Waukesha remarks; this speech is on the lower part of the left half of frame 0050 (folio 21), below the Lake Mills remarks. The listed page was off.</span>\n<span class=\"tnote\">A small hand stroke runs down from &quot;(Laughter)&quot;; it does not change the text.</span>"
+],
+"notes": [
+"The listed page (right half of frame 0050) holds the Waukesha remarks; this speech is on the lower part of the left half of frame 0050 (folio 21), below the Lake Mills remarks. The listed page was off.",
+"A small hand stroke runs down from \"(Laughter)\"; it does not change the text."
+],
+"file": "transcriptions/1903-04-03-jefferson-junction.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 124,
+"unique_words": 79,
+"sentences": 5,
+"avg_sentence": 24.8,
+"minutes": 1,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-04-la-crosse",
@@ -16506,7 +16644,7 @@
 "taft",
 "civil",
 "philippines",
-"regular"
+"government"
 ],
 "stats": {
 "words": 2603,
@@ -16588,8 +16726,8 @@
 "fair",
 "trying",
 "justice",
-"laws",
 "secure",
+"laws",
 "administration"
 ],
 "stats": {
@@ -19355,8 +19493,8 @@
 },
 "distinctive": [
 "love",
-"quality",
 "hardihood",
+"quality",
 "charity",
 "miserable",
 "qualities",
@@ -23347,8 +23485,8 @@
 "taft",
 "wood",
 "choice",
-"college",
 "names",
+"college",
 "philippines",
 "cuba",
 "education",
@@ -25824,8 +25962,8 @@
 "distinctive": [
 "steamship",
 "law",
-"line",
 "cutting",
+"line",
 "railroads",
 "crime",
 "foolish",
@@ -29676,8 +29814,8 @@
 "cuban",
 "stations",
 "economic",
-"market",
 "policy",
+"market",
 "senate",
 "naval",
 "legislation"
@@ -30444,8 +30582,8 @@
 },
 "distinctive": [
 "colombia",
-"colombian",
 "panama",
+"colombian",
 "isthmus",
 "treaty",
 "colon",
@@ -30869,8 +31007,8 @@
 "boys",
 "life",
 "ideal",
-"eleven",
 "school",
+"eleven",
 "athletics",
 "physical",
 "prowess"
@@ -32338,8 +32476,8 @@
 "congress",
 "islands",
 "labor",
-"bureau",
 "government",
+"bureau",
 "alaska"
 ],
 "stats": {
@@ -33206,8 +33344,8 @@
 "education",
 "navy",
 "justice",
-"university",
 "principles",
+"university",
 "govern",
 "lincoln"
 ],
@@ -36090,8 +36228,8 @@
 "shippers",
 "forests",
 "highways",
-"north",
-"southern"
+"southern",
+"north"
 ],
 "stats": {
 "words": 2433,
@@ -37239,14 +37377,14 @@
 "distinctive": [
 "louisiana",
 "greeted",
-"orleans",
 "governor",
+"orleans",
 "gratitude",
 "mayor",
 "summer",
 "request",
 "favor",
-"white"
+"away"
 ],
 "stats": {
 "words": 1790,
@@ -37807,8 +37945,8 @@
 "law",
 "congress",
 "commission",
-"immigrants",
 "government",
+"immigrants",
 "immigration"
 ],
 "stats": {
@@ -39853,8 +39991,8 @@
 "befallen",
 "army",
 "afloat",
-"ashore",
 "civil",
+"ashore",
 "everyday",
 "average"
 ],
@@ -40214,8 +40352,8 @@
 "college",
 "intellect",
 "boy",
-"prowess",
 "learning",
+"prowess",
 "condemn",
 "students",
 "count"
@@ -40381,8 +40519,8 @@
 "supervision",
 "lay",
 "government",
-"city",
 "help",
+"city",
 "injustice"
 ],
 "stats": {
@@ -40524,8 +40662,8 @@
 "constitution",
 "marshall",
 "judicial",
-"legislation",
-"government"
+"government",
+"legislation"
 ],
 "stats": {
 "words": 3848,
@@ -43089,8 +43227,8 @@
 "army",
 "lesson",
 "admiration",
-"served",
 "war",
+"served",
 "honesty",
 "killed"
 ],
@@ -43350,8 +43488,8 @@
 "glory",
 "disagreeable",
 "woman",
-"statue",
-"fought"
+"fought",
+"statue"
 ],
 "stats": {
 "words": 2780,
@@ -43408,8 +43546,8 @@
 "boy",
 "boys",
 "professor",
-"football",
 "strength",
+"football",
 "weak",
 "enjoy",
 "selfish",
@@ -44484,8 +44622,8 @@
 "chuzzlewit",
 "martin",
 "navy",
-"insult",
 "democracy",
+"insult",
 "corporations",
 "affairs",
 "regards",
@@ -44844,8 +44982,8 @@
 "jackson",
 "hermitage",
 "presidents",
-"tennessee",
 "generation",
+"tennessee",
 "change",
 "stuff",
 "blue",
@@ -48634,8 +48772,8 @@
 "provide",
 "permanent",
 "possible",
-"children",
-"government"
+"government",
+"children"
 ],
 "stats": {
 "words": 947,
@@ -50238,8 +50376,8 @@
 "movement",
 "roman",
 "centuries",
-"conquests",
 "peoples",
+"conquests",
 "civilizations",
 "science",
 "europe",

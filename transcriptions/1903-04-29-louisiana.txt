@@ -1,0 +1,21 @@
+---
+speech: 1903-04-29-louisiana
+title: Remarks of President Roosevelt at Louisiana, Missouri, April 29, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0314
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0314
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 177 425:0314]
+
+[margin: Not corrected]
+
+Mr. Congressman; Mr. Mayor, and you, My Fellow Citizens:
+
+It is indeed a great pleasure to be in historic Pike County. I have heard a great deal of pike county. I know its fertility; I know its good roads; I know the extraordinary nursery you have got right here, a nursery of a double kind by the way; I passed the new dynamite factory . I congratulate you on all your products but I want to say that what counts finally as the best type of product is the men and women, and therefore, as I like your stock, I want to congratulate you on the children. And one word to them, and it applies just as much to those of an older growth , I believe in play and I believe in work. When you play, play hard, and when you work do not play at all. I have enjoyed greatly coming here into your great and beautiful state. I congratulate you upon the prosperity which we are all enjoying. There will come ups and downs in that prosperity, but on the {wholeas|whole as} sure as there is a sun in Heaven, the tendency will be upward when you have a race like ours standing on a continent as a base. We are sometimes criticised for a vein of boastfulness in talking of the future of our country. {Menand|Men and} women, we cannot overestimate what that future will be if we {areonly|are only} true to ourselves . We must have, as a base of that future as a foundation, material prosperity , material well-being, but that is only the base, only the foundation. Upon it must be {builtas|built as} a superstructure the quality for the lack of which no material well-being can atone , the qualities of [-xxxxxxx-] [-xxxxxxx,-] [+devotion to+] an ideal, of lofty adherence to the right for the right's sake, of rugged power to achieve that ideal in practical methods. It is a fine thing to have a strong body, it is a better thing to have a strong mind, and best of a,ll is it to have that which counts for more than body, for more than mind -- character. In character I include not only the passive virtues, not only the abstention from wrong, but the power to war effectively {fror|for} the right. I include the qualities which made our people alike those that wore the blue and those who wore the gray {leawe|leave} an imperishable heritage of renown for their children and their children's children in the times that tried men's souls. (Applause.)
+
+I am on my way to St. Louis to commemorate the time {acentury|a century} ago when this great country became a part of the United States. I thank you for coming here, I appreciate it to the full, and I wish you for the future an even greater {sshare|share} of the well-being which you now so abundantly enjoy. (Cheers and applause)
+
+[note: "Not corrected" is written by hand diagonally in the top left margin. Folio 177 is the left page of frame 0314; Clarksville begins on the right page.]
+[note: "devotion to" is typed between the lines above two x-ed out words after "qualities of"; a caret below the line and a slash after "of" are added by hand. The last paragraph of the speech (from "character. In character") is typed single-spaced. Pen marks, apparently proofreading only, stand over "for" in "fror the right", over "that" in "those that wore", inside "commemorate", and after "(Applause.)", where a pen mark that looks like a paragraph sign stands before the new paragraph. Gaps closed up: "an d you" (salutation), "e njoying", "t he time". "do" in "when you work do not" is faintly typed. The letter "o" in "lack of" is struck over.]
