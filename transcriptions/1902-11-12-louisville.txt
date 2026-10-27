@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Louisville,Ky.,Nov.12,1902.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 823
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0823
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb ? 424:0823]
@@ -13,10 +13,11 @@ Mr. Mayor, Ladies and gentlemen; and you my comrades:
 
 I thank you for the entirely unexpected honor you have done me in coming to {gret|greet} me this evening I shall surely during my term make the opportunity to visit your beautiful city when I shall have a chance of being shown around it and of greeting all of your citizens at length. This evening I shall merely thank you particularly Mr. Mayor and the gentlemen with you representing the city, and you who are knit to me by such close ties, for having come down to greet me(Cheers and applause)
 
-(At this time the gates of the station[+ were opened,+] and a large crowd assembled behind them[+,+] were permitted to approach the President's train, whereupon he made the following remarks:)
+(At this time the gates of the station[+ were opened,+] and a large crowd assembled behind them.were permitted to approach the President's train, whereupon he made the following remarks:)
 
 Ladies and Gentlemen:
 
 I shall not try to address you in a speech this evening. I shall have the honor on some later occasion to come to Louisville ,to your beautiful city, at a time when I can stop here to see it and to have a chance of meeting you. This evening all I shall say is to express my hearty appreciation of the courtesy you have shown me in coming to greet me. (Cheers and applause)
 
 [note: Typed sheet in the upper part of the page; the Smedes, Miss., slip is pasted below it. No folio number visible. "were opened," is written by hand above a caret after "station"; a small hand mark (comma) after "them". No full stop after "this evening" in the first paragraph, as typed.]
+[note: Third look: the mark after "behind them" is a typed period (same ink as the type, no tail), with no space before "were"; it is not a handwritten comma.]

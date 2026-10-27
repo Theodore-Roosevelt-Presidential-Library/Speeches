@@ -1,0 +1,24 @@
+---
+speech: 1903-04-25-gillette
+title: Remarks of President Roosevelt at Gillette, Wyoming, April 25, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0279
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0279
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 108 425:0279]
+
+[margin: File]
+
+Gentlemen and Ladies:
+
+It is a great pleasure to me to get back into Wyoming. It is just nineteen years ago--in 1884-- that I first struck Wyoming. I was handling a cow outfit myself then in North Dakota, on the little Missouri, and first of all we wanted to get some horses, so we struck across the Powder river and Clear Fork into [-[?Buffalo?]-] Buffalo and came on over here. I tell you it seems natural to get back here. Of course there have been great changes. I am struck in the first place coming along and looking at the stock, at the different quality of stock it is to what it was twenty years ago. You recollect when the cattle were all horns and tails. (Laughter) Now you see the white faces, {Hewefords|Herefords} and shorthorns. The way the cattle and sheep interests have grown in this country is a most interesting thing to me.
+
+I am very glad to get back among you. I feel as though when I get out here I am at home. I know you well and I believe in you. If there are any men here who have ever worked with the "101" outfit (Cries of "I have"), I want to say to you that I used to sleep with the {formman|foreman} of that outfit at one time and naturally I feel at home when I am here. I believe in you with all my heart because I feel that the men who have taken the lead in settling this great west have come nearer than any other people in civil life to doing the kind of work that we honor the soldier for doing. They have not had easy lives. Pioneer lives are hard on everyone. But they have done the big deeds; they have prepared the way for civilization; they have been the vanguard of the host who have conquered this continent. I believe in them because they have been {strongmen|strong men}. Out here in Wyoming I believe in what you raise, and I believe especially in the men and women you raise. Those are the best types, after all, and for that reason I am mighty glad to see so many children. And as I believe in you and in your stock I am glad to see that it is not dying out. (Applause)
+
+[note: The word before "Buffalo" is x-ed out on the typewriter; its letters look like "Buffalo" under the strike-over but cannot be read with certainty.]
+[note: The third letter of "Hewefords" is overtyped and could be "w" or "s"; either way the intended word is "Herefords".]
+[note: "with" and "But" show one letter typed over another ("with" has t/h overlapping; "But" has a letter struck over the "u"); the final readings are given.]
+[note: A hand-drawn vertical stroke separates "strong" and "men" in the typed "strongmen", marking a space.]
+[note: The handwritten "File" with a slash in the upper left margin is a filing mark.]

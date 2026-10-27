@@ -2745,8 +2745,8 @@
 "lincoln",
 "afford",
 "love",
-"taught",
 "leave",
+"taught",
 "ideal",
 "duty",
 "mighty"
@@ -2969,7 +2969,7 @@
 "prosperity",
 "philippines",
 "events",
-"combinations"
+"struggle"
 ],
 "stats": {
 "words": 2501,
@@ -3795,8 +3795,8 @@
 "navy",
 "officers",
 "ships",
-"train",
-"actual"
+"actual",
+"train"
 ],
 "stats": {
 "words": 904,
@@ -4051,8 +4051,8 @@
 "mount",
 "dead",
 "presence",
-"applause",
 "loyalty",
+"applause",
 "comrades",
 "enlisted"
 ],
@@ -4325,8 +4325,8 @@
 "comrades",
 "ordinary",
 "battle",
-"citizenship",
 "duties",
+"citizenship",
 "war",
 "duty",
 "act"
@@ -5120,8 +5120,8 @@
 "wealth",
 "harm",
 "conditions",
-"prosper",
-"community"
+"community",
+"prosper"
 ],
 "stats": {
 "words": 2587,
@@ -5821,8 +5821,8 @@
 "practical",
 "mere",
 "community",
-"success",
-"feeling"
+"feeling",
+"success"
 ],
 "stats": {
 "words": 840,
@@ -5911,8 +5911,8 @@
 "practical",
 "mere",
 "community",
-"success",
-"feeling"
+"feeling",
+"success"
 ],
 "stats": {
 "words": 836,
@@ -6181,8 +6181,8 @@
 "honest",
 "works",
 "honesty",
-"citizen",
 "labor",
+"citizen",
 "citizenship",
 "courage"
 ],
@@ -9421,8 +9421,8 @@
 ]
 },
 "distinctive": [
-"cheers",
 "dangers",
+"cheers",
 "applause",
 "believed",
 "comrades",
@@ -9430,7 +9430,7 @@
 "physical",
 "difficulties",
 "continent",
-"big"
+"believe"
 ],
 "stats": {
 "words": 749,
@@ -9454,10 +9454,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1339,
+"paragraphs": [
+"Mr. Chairman; and you, my fellow citizens, men and women of Indiana:",
+"I am glad to have the chance of meeting you this morning. I have enjoyed greatly my ride through your beautiful state; I have enjoyed passing through your rich country districts and through city after city growing up to be an industrial center. Right in this region you have many resources. You have natural gas; you have capacities within and upon the soil. The resources would amount to nothing were it not for the fact that you have the men able to develop them. Nothing would illustrate more the changing social condition of our country, the way in which we are being bound one to another in closer intimacy, than the change which is going on here and there throughout our land, and I understand is taking place right here in the methods of mail delivery. I understand that on October 1st you are to have free delivery for the city, and that by the middle of the month you expect to have complete mail service for the entire county. Just think of what a dream that would have seemed to the men who first settled here in Indiana! Think of what it would have meant to those men a century, no, not even that-a half century ago, if they had been told such a thing was possible! The railroads, the telegraph, the telephone, have absolutely revolutionized our social life and our whole industrial life. In consequence we have seen the growth of the great industrial organizations that come as inevitably as rural free delivery itself in consequence of the change in conditions. It is thus aggregations of capital can be employed to such an advantage. They will inevitably be so employed. The effort to destroy them would be futile in the first place, and if it were not futile it would be mischievous in the second. We do not wish to try to destroy the great industrial aggregations. What we wish to do is to make them subserve the public good. When any new tendency comes in the business world or the social world, at first there is dislocation; there are troubles and difficulties; there comes evil with the good. Those people are short sighted and unwise who would seek to destroy the evil by a method which would at the same time do away with the good. We need to show not merely resolution, but sanity, intelligence, and common sense in dealing with the great problems caused by the presence of these industrial combinations. We do not war on them; we war on any evil in them. And you can reach that evil, I am certain, only through exercising national control over them. In the old days each state could deal with the corporations within its borders; but the corporations were small; their field of activity limited. Now the extraordinary revolution wrought by the change in the methods of shipment of merchandise and of transmission of news has brought about a condition which in my judgment renders it inevitable that the nation should assume the power of supervising and regulating these great industrial combinations. Not for one moment in a spirit of hostility to those that do well, but with the firm determination that they shall do well; with a firm determination that every individual, public or private, single or corporate shall obey the will of the people as expressed in the fundamental law of the land.",
+"It is pleasant to come here, to see the evidences of material well-being round about me. In thanking all of those who acted as my escort when I came from the car to the platform let me say a particular word for those whom I saw at the other end of the line-the men who had fought in the Philippines, or in the Spanish War, a very small war comrades, compared to the war you saw from '61 to '65; but the boys had the same spirit in them after all. (Cries of \"That is right!\" and applause.) There was not a chance to do much except to show that they had in them the wish to do what their fathers did. Now I was struck as I came up here by seeing that one of the first men was a man in a sailor's uniform. He had been with Dewey at Manila. Just as I said before in speaking of the great change wrought by closer interchange of communication, so it is true as another consequence of that change that we are knit together closer for good or for ill than ever before in the nation's history. It was from the inland state of Vermont that Dewey came, and here from the still further inland state of Indiana I come upon some of Dewey's men. It makes no difference to us where the man came from if he wore the uniform honorably and well, be he northerner or southerner or easterner [?] or westerner. If his metal rang true in the times that tried men's souls we hail him as brother and comrade; we are proud of him as a fellow American. (Applause)",
+"You have done much here in developing the material resources of this country because you had in you the stuff that made you able to develop them. A good deal can be done by combination among ourselves; something can be done through the governmental agencies of the state and the nation, but oh, my friends and fellow countrymen, let no one ever delude you into the belief that any law or any association or combination can take the place of the man's own individual qualities as the determining factor in working out his success! No tactics at the time of the civil war, no organization would make a good soldier out of a man who did not have the stuff in him. When you got down to the time of emergencies, when each man was left on his own resources, then what you wanted to know of the man on your right hand or your left, was whether he would\"stay put\". That was it, wasn't it? Exactly! And so now to make a good citizen, laws will help, constitution will help. We can easily enough spoil all his chances by bad laws. Heaven knows that is easy enough! We can by good laws give him the best opportunity by which to work out his own salvation, [?] but he has to take advantage of the opportunity himself. No one can supply in him the lack of the capacity thus to take advantage of it.",
+"Every man stumbles. There is not a man here who does not at some time or other need a helping hand to be stretched out toward him; and shame to the man who when the need arises would not thus stretch out a helping hand to his brother. But if the man lies down you cannot carry him. You can help him up if he stumbles, but if wants to be carried he is not worth carrying. Isn't that true? Exactly! You will often hear people talk as if some how the government could do something more and make us all prosperous. Now, the government is us here, you and I; the rest of us right around here, and you can tell about what the government can do on a large scale by seeing what it can do on a small scale in this city, in this county. It can do a good deal. You can do more for it than it can do for you everytime. Certain things can be done for our people through national legislation. I urge that those things be done. But in the last resort when everything has been said and done it remains true that this country is going to succeed in the future for the reason because of which it has succeeded in the past- the high average of citizenship of the ordinary American citizen. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -9479,13 +9485,79 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 751, 752",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0751",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman; and you, my fellow citizens, men and women of Indiana:",
+"I am glad to have the chance of meeting you this morning. I have enjoyed greatly my ride through your beautiful state; I have enjoyed passing through your rich country districts and through city after city growing up to be an industrial center. Right in this region you have many resources. You have natural gas; you have capacities within and upon the soil. The resources would amount to nothing were it not for the fact that you have the men able to develop them. Nothing would illustrate more the changing social condition of our country, the way in which we are being bound one to another in closer intimacy, than the change which is going on here and there throughout our land, and I understand is taking place right here in the methods of mail delivery. I understand that on October 1st you are to have free delivery for the city, and that by the middle of the month you expect to have complete mail service for the entire county. Just think of what a dream that would have seemed to the men who first settled here in Indiana! Think of what it would have meant to those men a century, no, not even that-a half century ago, if they had been told such a thing was possible! The railroads, the telegraph, the telephone, have absolutely revolutionized our social life and our whole industrial life. In consequence we have seen the growth of the great industrial organizations that come as inevitably as rural free delivery itself in consequence of the change in conditions. It is thus aggregations of capital can be employed to such an advantage. They will inevitably be so employed. The effort to destroy them would be futile in the first place, and if it were not futile it would be mischievous in the second. We do not wish to try to destroy the great industrial aggregations. What we wish to do is to make them subserve the public good. When any new tendency comes in the business world or the social world, at first there is dislocation; there are troubles and difficulties; there comes evil with the good. Those people are short sighted and unwise who would seek to destroy the evil by a method which would at the same time do away with the good. We need to show not merely resolution, but sanity, intelligence, and common sense in dealing with the great problems caused by the presence of these industrial combinations. We do not war on them; we war on any evil in them. And you can reach that evil, I am certain, only through exercising national control over them. In the old days each state could deal with the corporations within its borders; but the corporations were small; their field of activity limited. Now the extraordinary revolution wrought by the change in the methods of shipment of merchandise and of transmission of news has brought about a condition which in my judgment renders it inevitable that the nation should assume the power of supervising and regulating these great industrial combinations. Not for one moment in a spirit of hostility to those that do well, but with the firm determination that they shall do well; with a firm determination that every individual, public or private, single or corporate shall obey the will of the people as expressed in the fundamental law of the land.",
+"It is pleasant to come here, to see the evidences of material well-being round about me. In thanking all of those who acted as my escort when I came from the car to the platform let me say a particular word for those whom I saw at the other end of the line-the men who had fought in the Philippines, or in the Spanish War, a very small war comrades, compared to the war you saw from '61 to '65; but the boys had the same spirit in them after all. (Cries of \"That is right!\" and applause.) There was not a chance to do much except to show that they had in them the wish to do what their fathers did. Now I was struck as I came up here by seeing that one of the first men was a man in a sailor's uniform. He had been with Dewey at Manila. Just as I said before in speaking of the great change wrought by closer interchange of communication, so it is true as another consequence of that change that we are knit together closer for good or for ill than ever before in the nation's history. It was from the inland state of Vermont that Dewey came, and here from the still further inland state of Indiana I come upon some of Dewey's men. It makes no difference to us where the man came from if he wore the uniform honorably and well, be he northerner or southerner or easterner [?] or westerner. If his metal rang true in the times that tried men's souls we hail him as brother and comrade; we are proud of him as a fellow American. (Applause)",
+"You have done much here in developing the material resources of this country because you had in you the stuff that made you able to develop them. A good deal can be done by combination among ourselves; something can be done through the governmental agencies of the state and the nation, but oh, my friends and fellow countrymen, let no one ever delude you into the belief that any law or any association or combination can take the place of the man's own individual qualities as the determining factor in working out his success! No tactics at the time of the civil war, no organization would make a good soldier out of a man who did not have the stuff in him. When you got down to the time of emergencies, when each man was left on his own resources, then what you wanted to know of the man on your right hand or your left, was whether he would\"stay put\". That was it, wasn't it? Exactly! And so now to make a good citizen, laws will help, constitution will help. We can easily enough spoil all his chances by bad laws. Heaven knows that is easy enough! We can by good laws give him the best opportunity by which to work out his own salvation, [?] but he has to take advantage of the opportunity himself. No one can supply in him the lack of the capacity thus to take advantage of it.",
+"Every man stumbles. There is not a man here who does not at some time or other need a helping hand to be stretched out toward him; and shame to the man who when the need arises would not thus stretch out a helping hand to his brother. But if the man lies down you cannot carry him. You can help him up if he stumbles, but if wants to be carried he is not worth carrying. Isn't that true? Exactly! You will often hear people talk as if some how the government could do something more and make us all prosperous. Now, the government is us here, you and I; the rest of us right around here, and you can tell about what the government can do on a large scale by seeing what it can do on a small scale in this city, in this county. It can do a good deal. You can do more for it than it can do for you everytime. Certain things can be done for our people through national legislation. I urge that those things be done. But in the last resort when everything has been said and done it remains true that this country is going to succeed in the future for the reason because of which it has succeeded in the past- the high average of citizenship of the ordinary American citizen. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 65 (frame 424:0751)</span>",
+"Mr. Chairman; and you, my fellow citizens, men and women of Indiana:",
+"I am glad to have the chance of meeting you this morning. I have enjoyed greatly my ride through your beautiful state; I have enjoyed pa<ins title=\"added by hand\">s</ins>sing through your rich country districts and through city after city growing up to be an industrial center. Right in this region you have many resources. You have natural gas; you have capacities within and upon the soil. The resources would amount to nothing were it not for the fact that you have the men able to develop them. Nothing would illustrate more the changing social condition of our country, the way in which we are being bound one to another in closer intimacy, than the change which is going on here and there throughout our land, and I understand is taking place right here in the methods of mail delivery. I understand that on October 1st you are to have free delivery for the city, and that by the middle of the month you expect to have complete mail service for the entire county. Just think of what a dream that would have seemed to the men who first settled here in Indiana! Think of what it would have meant to those men a century, no, not even that-a half century ago, if <del title=\"struck through\">xx</del> they had been told such a thing was possible! The railroads, the telegraph, the telephone, have absolutely revolutionized our social life and our whole industrial life. In consequence we have seen the growth of the great industrial organizations that come as inevitably as rural free delivery itself in consequence of the change in conditions. It is thus aggregations of capital can be employed to such an advantage. They will inevitably be so employed. The effort to destroy them would be futile in the first place, and if it were not futile it would be mischievous in the second. We do not wish to try to destroy the great industrial aggregation<ins title=\"added by hand\">s</ins>. What we wish to do is to make <del title=\"struck through\">it</del><ins title=\"added by hand\">them</ins> subserve the public good. When any new tendency comes in the business world or the social world<ins title=\"added by hand\">,</ins> at first there is <span class=\"pb\">Page 66 (frame 424:0751)</span> dislocation; there are troubles and difficulties; there comes evil with the good. Those people are short sighted and unwise who would seek to destroy the evil by a method which would at the same time do away with the good. We need to show not merely resolution, but sanity, intelligence, and common sense in dealing with the great problems caused by the presence of these industrial combinations. We do not war on them; we war on any evil in them. And you can reach that evil<ins title=\"added by hand\">,</ins> I am certain<ins title=\"added by hand\">,</ins> only through exercising national control over them. In the old days each state could deal with the corporations within its borders; but the corporations were small; their field of activity limited. Now the <span class=\"sic\" title=\"reads: extraordinary\">extraoddinary</span> revolution wrought by the change in the methods of shipment of merchandise and of transmission of news has brought about a condition which in <del title=\"struck through\">M</del> my judgment renders it inevitable that the nation should assume the power of supervising and regulating these great industrial combinations. Not for one moment in a spirit of hostility to those that do well, but with the firm determination that they shall do well; with a firm determination that every individual, public or private, <del title=\"struck through\">individual</del><ins title=\"added by hand\">single</ins> or corporate shall obey the will of the people as expressed in the fundamental law of the land.",
+"It is pleasant to come here<ins title=\"added by hand\">,</ins> to see the evidences of material well-being round about me. In thanking all of those who acted as my escort when I came from the car to the platform let me say a particular word for those whom I saw at the other end of the line-the men who had fought in the Philippines, or in the Spanish War, a very small war<ins title=\"added by hand\"> comrades,</ins> compared to the war you saw from &#x27;61 to &#x27;65; but the boys had the same spirit in them after all. (Cries of &quot;That is right!&quot; and applause.) There was not a chance to do much <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> except to show that they had in them the wish to do what their fathers did. Now I was struck as I came up here by seeing that one of the first men <ins title=\"added by hand\">was a man</ins> in a sailor<ins title=\"added by hand\">&#x27;</ins>s uniform . He had been with Dewey at Manila. Just as I said before in speaking of the great change wrought <del title=\"struck through\">xx</del> by closer interchange of communication, so it is true as <span class=\"pb\">Page 67 (frame 424:0752)</span> another consequence<del title=\"struck through\">x</del> of that change that we are knit together closer for good or for ill than ever before in the nation&#x27;s history. It was from the inland state of Vermont that <span class=\"sic\" title=\"reads: Dewey\">Deway</span> came, and here from the still further inland state of Indiana I come upon some of Dewey&#x27;s men. It makes no difference to us where the man came from if he wore the uniform honorably and well, be he northerner or southerner or <span class=\"unc\" title=\"uncertain reading\">easterner</span> or westerner. If his metal rang true in the times that tried men&#x27;s souls we hail him as brother and comrade; we are proud of him as a fellow American. (Applause)",
+"You have done much here in developing the material resources of this country <span class=\"sic\" title=\"reads: because\">bewause</span> you had in you the stuff that made you able to <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">take</span></del> develop them. A good deal can be done by combination among ourselves; something can be done through the governmental agencies o<ins title=\"added by hand\">f</ins> the state and the nation, but oh,my friends and fellow countrymen, let no one ever delude you into the belief that any law or any association or combination can take the place of the man&#x27;s own individual qualities as the determining factor in working out his success! No tactics at the time of the civil war, no organization woul<ins title=\"added by hand\">d</ins> make a good soldier out of a man who did not have <del title=\"struck through\">xx</del> the stuff in him. When you got down to the time of emergencies<ins title=\"added by hand\">,</ins> <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">what</span>xxxx</del> when each man was left on his own resources, then what you wanted to know of the man on your right hand or your left, was whether he would&quot;stay put&quot;. That was it, wasn&#x27;t it? Exactly! And so now to make a good citizen<ins title=\"added by hand\">,</ins> laws will help, constitution will help. We can easily enough spoil all his chances by bad laws. Heaven knows that is easy enough! We can by good laws give him the best opportunity by which to work out his own salvation<span class=\"unc\" title=\"uncertain reading\">,</span> but he has to take advantage of the opportunity<del title=\"struck through\">xx</del> himself. No one can supply in him the lack of the capacity thus to take advantage of it.",
+"Every man <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> stumbles. There is not a man here who does not at some time or other need a helping hand to be stretched out toward him; and shame to the man who when the need arises would not thus stretch out a helping hand to his brother. But if the man lies down you cannot carry him. You can help him up if he stumbles, but if <span class=\"pb\">Page 68 (frame 424:0752)</span> wants to be carried he is not worth carrying. Isn&#x27;t that true? Exactly! You will often hear people talk as if some how the government could do something more and make us all prosperous. Now<ins title=\"added by hand\">,</ins> the government is us here, you and I; the rest of us right around here, and you can tell about <del title=\"struck through\">h<span class=\"illeg\">[illegible]</span></del> what the government can do on a large scale by seeing what it can do on a small scale in this city, in this county. It can do a good deal. You can do more for it than it can do for you everytime. <del title=\"struck through\">Itxisxthexmanxthatx</del> Certain things can be done for our people through national legislation. I urge that those things be done. But in the last resort when everything has been said and done it remains true that this country is going to succeed in the future for the reason because of which it has succeeded in the past-<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> the high average of citizenship of the ordinary American citizen. (Applause)",
+"<span class=\"tnote\">p.65: in &quot;pa<ins title=\"added by hand\">s</ins>sing&quot; a hand &quot;s&quot; is written above a caret over the typed word; &quot;aggregation<ins title=\"added by hand\">s</ins>&quot; has a hand &quot;s&quot; written over the blotted final typed letter; &quot;them&quot; is written by hand above struck-through &quot;it&quot;. p.66: &quot;single&quot; is written by hand above struck-through &quot;individual&quot;, with a hand caret after &quot;private,&quot;. &quot;comrades,&quot; and &quot;was a man&quot; are typed above the line with hand carets. A hand stroke separates &quot;show&quot; from &quot;that&quot;. The apostrophe in &quot;sailor&#x27;s&quot; is added by hand. p.67: &quot;easterner&quot; has its first letter typed over another (it may read &quot;wasterner&quot;); &quot;f&quot; in &quot;of&quot; and &quot;d&quot; in &quot;would&quot; are written by hand over the typed letters. After &quot;salvation&quot; the punctuation is overwritten by a hand-circled mark and the &quot;b&quot; of &quot;but&quot; is underlined by hand (possibly marking a full stop and capital); the typed punctuation beneath is not clear. p.68: a hand close-up mark joins &quot;some&quot; and &quot;how&quot;; a hand stroke follows &quot;reason&quot;. &quot;it is true as another consequence<del title=\"struck through\">x</del>&quot;: the last letter of &quot;consequence&quot; is typed over. &quot;everytime&quot; and &quot;past-&quot; are as typed. Missing &quot;he&quot; in &quot;but if wants to be carried&quot; is as typed.</span>\n<span class=\"tnote\">Third look: on p.67 &quot;down&quot; is typed heavily (apparently struck twice) but its letters are clear and there is no x-ing over it, so it stands as text; the page turn falls after &quot;but if&quot;, not after &quot;down&quot;.</span>"
+],
+"notes": [
+"p.65: in \"passing\" a hand \"s\" is written above a caret over the typed word; \"aggregations\" has a hand \"s\" written over the blotted final typed letter; \"them\" is written by hand above struck-through \"it\". p.66: \"single\" is written by hand above struck-through \"individual\", with a hand caret after \"private,\". \"comrades,\" and \"was a man\" are typed above the line with hand carets. A hand stroke separates \"show\" from \"that\". The apostrophe in \"sailor's\" is added by hand. p.67: \"easterner\" has its first letter typed over another (it may read \"wasterner\"); \"f\" in \"of\" and \"d\" in \"would\" are written by hand over the typed letters. After \"salvation\" the punctuation is overwritten by a hand-circled mark and the \"b\" of \"but\" is underlined by hand (possibly marking a full stop and capital); the typed punctuation beneath is not clear. p.68: a hand close-up mark joins \"some\" and \"how\"; a hand stroke follows \"reason\". \"it is true as another consequence\": the last letter of \"consequence\" is typed over. \"everytime\" and \"past-\" are as typed. Missing \"he\" in \"but if wants to be carried\" is as typed.",
+"Third look: on p.67 \"down\" is typed heavily (apparently struck twice) but its letters are clear and there is no x-ing over it, so it stands as text; the page turn falls after \"but if\", not after \"down\"."
+],
+"file": "transcriptions/1902-09-23-noblesville.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"corporations"
+],
+"mentions": {
+"people": [
+{
+"id": "george-dewey",
+"name": "George Dewey",
+"count": 3
+}
+],
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 2
+},
+{
+"id": "spain",
+"name": "Spain",
+"count": 1
+}
+]
+},
+"distinctive": [
+"indiana",
+"delivery",
+"resources",
+"closer",
+"change",
+"destroy",
+"applause",
+"industrial",
+"fellow",
+"consequence"
+],
+"stats": {
+"words": 1339,
+"unique_words": 459,
+"sentences": 53,
+"avg_sentence": 25.3,
+"minutes": 10,
+"i_count": 14,
+"we_count": 12
+}
 },
 {
 "id": "1902-09-23-tipton",
@@ -10526,10 +10598,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 209,
+"paragraphs": [
+"Mr. Mayor, Ladies and gentlemen; and you my comrades:",
+"I thank you for the entirely unexpected honor you have done me in coming to greet me this evening I shall surely during my term make the opportunity to visit your beautiful city when I shall have a chance of being shown around it and of greeting all of your citizens at length. This evening I shall merely thank you particularly Mr. Mayor and the gentlemen with you representing the city, and you who are knit to me by such close ties, for having come down to greet me(Cheers and applause)",
+"(At this time the gates of the station were opened, and a large crowd assembled behind them.were permitted to approach the President's train, whereupon he made the following remarks:)",
+"Ladies and Gentlemen:",
+"I shall not try to address you in a speech this evening. I shall have the honor on some later occasion to come to Louisville, to your beautiful city, at a time when I can stop here to see it and to have a chance of meeting you. This evening all I shall say is to express my hearty appreciation of the courtesy you have shown me in coming to greet me. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -10551,13 +10629,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 823",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0823",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor, Ladies and gentlemen; and you my comrades:",
+"I thank you for the entirely unexpected honor you have done me in coming to greet me this evening I shall surely during my term make the opportunity to visit your beautiful city when I shall have a chance of being shown around it and of greeting all of your citizens at length. This evening I shall merely thank you particularly Mr. Mayor and the gentlemen with you representing the city, and you who are knit to me by such close ties, for having come down to greet me(Cheers and applause)",
+"(At this time the gates of the station were opened, and a large crowd assembled behind them.were permitted to approach the President's train, whereupon he made the following remarks:)",
+"Ladies and Gentlemen:",
+"I shall not try to address you in a speech this evening. I shall have the honor on some later occasion to come to Louisville, to your beautiful city, at a time when I can stop here to see it and to have a chance of meeting you. This evening all I shall say is to express my hearty appreciation of the courtesy you have shown me in coming to greet me. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page ? (frame 424:0823)</span>",
+"Mr. Mayor, Ladies and gentlemen; and you my comrades:",
+"I thank you for the entirely unexpected honor you have done me in coming to <span class=\"sic\" title=\"reads: greet\">gret</span> me this evening I shall surely during my term make the opportunity to visit your beautiful city when I shall have a chance of being shown around it and of greeting all of your citizens at length. This evening I shall merely thank you particularly Mr. Mayor and the gentlemen with you representing the city, and you who are knit to me by such close ties, for having come down to greet me(Cheers and applause)",
+"(At this time the gates of the station<ins title=\"added by hand\"> were opened,</ins> and a large crowd assembled behind them.were permitted to approach the President&#x27;s train, whereupon he made the following remarks:)",
+"Ladies and Gentlemen:",
+"I shall not try to address you in a speech this evening. I shall have the honor on some later occasion to come to Louisville ,to your beautiful city, at a time when I can stop here to see it and to have a chance of meeting you. This evening all I shall say is to express my hearty appreciation of the courtesy you have shown me in coming to greet me. (Cheers and applause)",
+"<span class=\"tnote\">Typed sheet in the upper part of the page; the Smedes, Miss., slip is pasted below it. No folio number visible. &quot;were opened,&quot; is written by hand above a caret after &quot;station&quot;; a small hand mark (comma) after &quot;them&quot;. No full stop after &quot;this evening&quot; in the first paragraph, as typed.</span>\n<span class=\"tnote\">Third look: the mark after &quot;behind them&quot; is a typed period (same ink as the type, no tail), with no space before &quot;were&quot;; it is not a handwritten comma.</span>"
+],
+"notes": [
+"Typed sheet in the upper part of the page; the Smedes, Miss., slip is pasted below it. No folio number visible. \"were opened,\" is written by hand above a caret after \"station\"; a small hand mark (comma) after \"them\". No full stop after \"this evening\" in the first paragraph, as typed.",
+"Third look: the mark after \"behind them\" is a typed period (same ink as the type, no tail), with no space before \"were\"; it is not a handwritten comma."
+],
+"file": "transcriptions/1902-11-12-louisville.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"evening",
+"greet",
+"city"
+],
+"stats": {
+"words": 209,
+"unique_words": 102,
+"sentences": 5,
+"avg_sentence": 41.8,
+"minutes": 2,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1902-11-12-worthville",
@@ -10608,10 +10726,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 60,
+"paragraphs": [
+"I am not going to make any speech. I am not here on a speech-making trip. I want to thank you and say how glad I have been to see you, and how much I have enjoyed being out with Holt Collier, Pope Swint and all the others who were out with me. (Good night. Good luck. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -10633,13 +10753,40 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 823",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0823",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"I am not going to make any speech. I am not here on a speech-making trip. I want to thank you and say how glad I have been to see you, and how much I have enjoyed being out with Holt Collier, Pope Swint and all the others who were out with me. (Good night. Good luck. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page ? (frame 424:0823)</span>",
+"I am not going to make any speech. I am not here on a speech-making trip. I want to thank you and say how glad I have been to see you, and how much I have enjoyed being out with Holt Collier, Pope Swint and all the others who were out with me. (<del title=\"struck through\">Cheersxandxapplausexxxxxxx</del> Good night. Good luck. (Cheers and applause)",
+"<span class=\"tnote\">The listed page (frame 823, right half) was off: the Smedes remarks are the typed slip pasted at the bottom of the left half of frame 823, below the Louisville remarks of Nov. 12. No folio number visible. &quot;Cheers and applause&quot; after the first opening parenthesis is x-ed out on the typewriter; the parenthesis itself is left standing.</span>"
+],
+"notes": [
+"The listed page (frame 823, right half) was off: the Smedes remarks are the typed slip pasted at the bottom of the left half of frame 823, below the Louisville remarks of Nov. 12. No folio number visible. \"Cheers and applause\" after the first opening parenthesis is x-ed out on the typewriter; the parenthesis itself is left standing."
+],
+"file": "transcriptions/1902-11-18-smedes.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 60,
+"unique_words": 43,
+"sentences": 4,
+"avg_sentence": 15.0,
+"minutes": 1,
+"i_count": 5,
+"we_count": 0
+}
 },
 {
 "id": "1902-11-19-memphis",
@@ -11127,12 +11274,12 @@
 "prospered",
 "policies",
 "issues",
-"complaint",
 "liberty",
+"complaint",
 "gospel",
 "failed",
-"prosperity",
-"president"
+"president",
+"prosperity"
 ],
 "stats": {
 "words": 2542,
@@ -11156,10 +11303,18 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1166,
+"paragraphs": [
+"Mr. Chairman, Ladies and Gentlemen:",
+"It is indeed a pleasure to be here, and as I came up the stairs and through the corridors I felt as if I was at a foot ball game. (Applause) I am thoroughly convinced that the pupils of the High School are taught not only how to work hard but how to play hard, (Applause) and it is a good thing to know both. Do not let play interfere with work. Work hard, and when you do play, play hard. (Applause)",
+"I am glad to have the chance of being present at the formal dedication of this new building, which in its management stands in line of succession to a series of buildings themselves typifying in no small degree the extraordinary development of the public school system of the United States. It is some sixty-four years ago that this institution was first established under a man of great eminence alike in the work of pedagogy and in other fields - Professor Biggs. At the time when it was started the public school system of the United States had begun and was in the process of its first development. Now in the city of Philadelphia in attendance upon the public schools, including the night schools, there are some hundred and seventy thousand pupils and over four thousand teachers. The development of the high school, especially during the last half century, has been literally phenomenal. Nothing like our present system of education was known in earlier times. No such system of popular education for the people by the representatives of the people existed.",
+"It is of course a mere truism to say that the stability and future welfare of our institutions of government depend upon the grade of citizenship turned out from our public schools,(Applause) And no body of public servants, no body of individuals associated in private life, are better worth the admiration and respect of all who value citizenship at its true worth, than the body composed of the teachers in the public schools throughout the length and breadth of this Union. (Applause) They have to deal with citizenship in the, [?] raw, (Laughter and applause) and turn it out something like a finished product. I think that all of us who also endeavor to deal with that citizenship in the raw in our own homes appreciate the burden and the responsibility. (Applause) The training given in the public schools must of course be not merely a training in intellect, but a training in what counts for infinitely more than intellect, a training in character. (Applause) And the chief factor in that training must be the personal equation of the teachers; the influence exerted, sometimes consciously and sometimes unconsciously, by the man or woman who stands in so peculiar a relation to the boys and girls under his or her care, a relation closer, more intricate and more vital in its after effects than any other relation save that of parent and child. Wherever a burden of that kind is laid, those who carry it necessarily carry a great responsibility. There can be no greater. Scant should be our patience with any man or woman doing a bit of work vitally worth doing, who does not approach it in the spirit of sincere love for the work, and of desire to do it well for the work's sake. (Great applause)",
+"Doubtless most of you remember the distinction drawn by Ruskin between the two kinds of work, the work done for the sake of the fee and the work done for the sake of the work itself. The man or woman in public or private life who ever works only for the sake of the reward that comes for the work outside of the work will in the long run do poor work. (Applause) The man or woman who does work worth doing is the man or woman who lives, who breathes that work; with whom it is ever present in his or her soul; whose ambition is to do it well and to feel rewarded by the thought of having done it well. (Applause) That man, that woman, puts the whole country under an obligation. And as a body all those connected with the education of our people are entitled to the heartiest praise from all lovers of their country, because as a body they are devoting heart and soul to the welfare of those under them. (Applause)",
+"It is a poor type of school nowadays that hasn't got a good play ground attached. (Applause) It is not so long ago that, in my own city at least, that was held as revolutionary doctrine, especially in the very quarters where play grounds were needed, in the crowded quarters. People didn't need play grounds. It was a new fangled idea. They expected to turn out good citizens of the boys and girls who when they were not in school were put upon the streets in the crowded quarters of New york to play at the kind of games that they alone could play at in the streets. We have passed that stage. I think we realize what a good healthy play ground means to children. I think we understand not only the effects for good upon their bodies but for good upon their minds. We need healthy bodies. We need to have schools physically developed. We need to have even more, the proper development of what counts for far more than body, for what counts for far more than mind-the sum of the characteristics, the sum of the virtues which we think of when we say that such and such a man or woman has good character(Applause) the development of character. Sometimes you can develop it by the direct inculcation of moral precept; a good deal more often you cannot. A good deal more often you develop it less by precept than by your practice. Let it come as an incident of the association with you; as an incident to the general tone of the whole body; the tone which in the aggregate we all create. Now, is not that your experience, all of you, in dealing with these children in the schools, in dealing with them in the family, in dealing with them in bodies anywhere? They are quick to take the tone of those to whom they look up, and if they do not look up to you, then you can preach virtue all you wish, the effect will be small. (Applause)",
+"I have not come here to try to make any extended speech to you, but I should hold myself a poor citizen if I did not welcome the chance to be here to wish you Godspeed in your work for yourselves and to wish you Godspeed in your work as representatives of that great body upon the success of whose efforts to train aright the children of to-day depends the safety of our institutions of to-morrow. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -11197,13 +11352,68 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 869, 870",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0869",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman, Ladies and Gentlemen:",
+"It is indeed a pleasure to be here, and as I came up the stairs and through the corridors I felt as if I was at a foot ball game. (Applause) I am thoroughly convinced that the pupils of the High School are taught not only how to work hard but how to play hard, (Applause) and it is a good thing to know both. Do not let play interfere with work. Work hard, and when you do play, play hard. (Applause)",
+"I am glad to have the chance of being present at the formal dedication of this new building, which in its management stands in line of succession to a series of buildings themselves typifying in no small degree the extraordinary development of the public school system of the United States. It is some sixty-four years ago that this institution was first established under a man of great eminence alike in the work of pedagogy and in other fields - Professor Biggs. At the time when it was started the public school system of the United States had begun and was in the process of its first development. Now in the city of Philadelphia in attendance upon the public schools, including the night schools, there are some hundred and seventy thousand pupils and over four thousand teachers. The development of the high school, especially during the last half century, has been literally phenomenal. Nothing like our present system of education was known in earlier times. No such system of popular education for the people by the representatives of the people existed.",
+"It is of course a mere truism to say that the stability and future welfare of our institutions of government depend upon the grade of citizenship turned out from our public schools,(Applause) And no body of public servants, no body of individuals associated in private life, are better worth the admiration and respect of all who value citizenship at its true worth, than the body composed of the teachers in the public schools throughout the length and breadth of this Union. (Applause) They have to deal with citizenship in the, [?] raw, (Laughter and applause) and turn it out something like a finished product. I think that all of us who also endeavor to deal with that citizenship in the raw in our own homes appreciate the burden and the responsibility. (Applause) The training given in the public schools must of course be not merely a training in intellect, but a training in what counts for infinitely more than intellect, a training in character. (Applause) And the chief factor in that training must be the personal equation of the teachers; the influence exerted, sometimes consciously and sometimes unconsciously, by the man or woman who stands in so peculiar a relation to the boys and girls under his or her care, a relation closer, more intricate and more vital in its after effects than any other relation save that of parent and child. Wherever a burden of that kind is laid, those who carry it necessarily carry a great responsibility. There can be no greater. Scant should be our patience with any man or woman doing a bit of work vitally worth doing, who does not approach it in the spirit of sincere love for the work, and of desire to do it well for the work's sake. (Great applause)",
+"Doubtless most of you remember the distinction drawn by Ruskin between the two kinds of work, the work done for the sake of the fee and the work done for the sake of the work itself. The man or woman in public or private life who ever works only for the sake of the reward that comes for the work outside of the work will in the long run do poor work. (Applause) The man or woman who does work worth doing is the man or woman who lives, who breathes that work; with whom it is ever present in his or her soul; whose ambition is to do it well and to feel rewarded by the thought of having done it well. (Applause) That man, that woman, puts the whole country under an obligation. And as a body all those connected with the education of our people are entitled to the heartiest praise from all lovers of their country, because as a body they are devoting heart and soul to the welfare of those under them. (Applause)",
+"It is a poor type of school nowadays that hasn't got a good play ground attached. (Applause) It is not so long ago that, in my own city at least, that was held as revolutionary doctrine, especially in the very quarters where play grounds were needed, in the crowded quarters. People didn't need play grounds. It was a new fangled idea. They expected to turn out good citizens of the boys and girls who when they were not in school were put upon the streets in the crowded quarters of New york to play at the kind of games that they alone could play at in the streets. We have passed that stage. I think we realize what a good healthy play ground means to children. I think we understand not only the effects for good upon their bodies but for good upon their minds. We need healthy bodies. We need to have schools physically developed. We need to have even more, the proper development of what counts for far more than body, for what counts for far more than mind-the sum of the characteristics, the sum of the virtues which we think of when we say that such and such a man or woman has good character(Applause) the development of character. Sometimes you can develop it by the direct inculcation of moral precept; a good deal more often you cannot. A good deal more often you develop it less by precept than by your practice. Let it come as an incident of the association with you; as an incident to the general tone of the whole body; the tone which in the aggregate we all create. Now, is not that your experience, all of you, in dealing with these children in the schools, in dealing with them in the family, in dealing with them in bodies anywhere? They are quick to take the tone of those to whom they look up, and if they do not look up to you, then you can preach virtue all you wish, the effect will be small. (Applause)",
+"I have not come here to try to make any extended speech to you, but I should hold myself a poor citizen if I did not welcome the chance to be here to wish you Godspeed in your work for yourselves and to wish you Godspeed in your work as representatives of that great body upon the success of whose efforts to train aright the children of to-day depends the safety of our institutions of to-morrow. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 28 (frame 424:0869)</span>",
+"Mr. Chairman, Ladies and Gentlemen:",
+"It is indeed a pleasure to be here, and as I came up the stairs and through the corridors I felt as if I was at a foot ball game. (Applause) I am thoroughly convinced that the pupils of the High School are taught not only how to work hard but how to play hard, (Applause) and it is a good thing to know both. Do not let play interfere with work. Work hard, and when you do play, play hard. (Applause)",
+"I am glad to have the chance of being present at the formal dedication of this new building, which in its management stands in line of succession to a series of buildings themselves typifying in no small degree the extraordinary development of the public school system of the United States. It is some sixty-four years ago that this institution was first established under a man of great eminence alike in the work of pedagogy and in other fields - Professor Biggs. At the time when it was started the public school system of the United States had begun and was in the process of its first development. Now in the city of Philadelphia in attendance upon the public schools, including the night schools, there are some hundred and seventy thousand pupils and over four thousand teachers. The development of the high school, especially during the last half century, has been literally phenomenal. Nothing like our present system of education was known in earlier times. No such system of popular education for the people by the representatives of the people existed.",
+"It is of course a mere truism to say that the stability <del title=\"struck through\">xx</del> and future welfare of our <span class=\"sic\" title=\"reads: institutions\">instutions</span> of government depend upon the grade of citizenship turned out from our public schools,(Applause) And no body of public servants, no body of individuals associated in private life, are better worth the admiration and respect of all who value citizenship at its true worth, than the body composed of the teachers in the public schools throughout the length and breadth of this Union. (Applause) They have to deal with citizenship in the <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><span class=\"unc\" title=\"uncertain reading\">,</span> <span class=\"pb\">Page 29 (frame 424:0870)</span> raw,<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">applause</span>xxx</del> (Laughter and applause) and turn it out something like a finished product. I think that all of us who also endeavor to deal with that citizenship in the raw in our own homes appreciate the burden and the responsibility. (Applause) The training given in the public schools must of course be not merely a training in intellect, but a training in what counts for infinitely more than intellect, a training in character. (Applause) And the chief <del title=\"struck through\">xx</del> factor in that training must be the personal equation of the teachers; the influence exerted, sometimes consciously and sometimes unconsciously, by the man or woman who stands in so peculiar a relation to the boys and girls under his or her care, a relation closer, more intricate and more vital in its after effects than any other relation save that of parent and child. Wherever a burden of that kind is laid, those who carry it necessarily carry a great responsibility. There can be no greater. Scant should be our patience with any man or woman doing a bit of work vitally worth doing, who does not approach it in the spirit of sincere love for the work, and of desire to do it well for the work&#x27;s sake. (Great applause)",
+"Doubtless most of you remember the distinction drawn by Ruskin between the two kinds of work, the work done for the sake of the fee and the work done for the sake of the work itself. The man or woman in public or private life who ever works only for the sake of the reward that comes for the work outside of the work will in the long run do poor work. (Applause) The man or woman who does work worth doing is the man or woman who lives, who breathes that work; with whom it is ever present in his or her soul; whose ambition is <del title=\"struck through\">xxxxx</del> to do it well and to feel rewarded by the thought of having done it well. (Applause) That man, that woman, puts the whole country under an obligation. And as a body all those connected with the education of our people are entitled to the heartiest praise from all lovers of their country, because as a body they are devoting heart and soul to the welfare of those under them. (Applause)",
+"It is a poor type of school nowadays that hasn&#x27;t got a good play ground attached. (Applause) It is not so long ago that, in my own city at least, that was held as revolutionary doctrine, especially in the <span class=\"pb\">Page 30 (frame 424:0870)</span> very quarters where play grounds were needed, in the crowded quarters. People didn&#x27;t need play grounds. It was a new fangled idea. They expected to turn out good citizens of the boys and girls who when they were not in school were put upon the streets in the crowded quarters of New york to play at the kind of games that they alone could play at in the streets. We have passed that stage. I think we realize what a good healthy play ground means to children. I think we understand not only the effects for good upon their bodies but for good upon their minds. We need healthy bodies. We need to have schools physically <span class=\"sic\" title=\"reads: developed\">d eveloped</span>. We need to have even more, the proper development of what counts for far more than body, for what counts for far more than mind-the sum of the characteristics, the sum of the virtues which we think of when we say <del title=\"struck through\">xx</del> that such and such a man or woman has good character<del title=\"struck through\">x</del>(Applause ) the development of character. Sometimes you can develop it by the direct inculcation of moral precept; a good deal more often you cannot. A good deal more often you develop it less by precept than by your practice. Let it come as an incident of the association with you; as an incident to the general <span class=\"sic\" title=\"reads: tone\">tome</span> of the whole body; the tone which in the aggregate we all create. Now, is not that your experience, all of you, in dealing with these children in the schools, in dealing with them in the family, in dealing with them in bodies anywhere? They are quick to take the tone of those to whom they look up, and if they do not look up to you, then you can preach virtue all you wish, the effect will be small. (Applause)",
+"I have not come here to try to make any extended speech to you, but I should hold myself a poor citizen if I did not welcome the chance to be here to wish you Godspeed in your work for yourselves and to wish you Godspeed in your work as representatives of that great body upon the success of whose efforts to train aright the children of to-day depends the safety of our institutions of to-morrow. (Applause)",
+"<span class=\"tnote\">The listed pages were off: the speech begins on frame 869 (folio 28, a single page; the job listed only frame 870), and continues on both halves of frame 870 (folios 29 and 30). The last word on folio 28 is blotted, probably by hand, with a hand comma after it; it appears to be &quot;raw&quot;, which is repeated at the top of folio 29. At the top of folio 29 a typed word (apparently &quot;applause&quot;) is x-ed out before &quot;(Laughter and applause)&quot;. Several letters are typed over (buildings, years, Professor, by, phenomenal, public, what, rewarded, they, of); final readings recorded.</span>\n<span class=\"tnote\">Third look: at the foot of p.28 the last word is blacked out completely and cannot be read (p.29 begins &quot;raw,&quot;); after the blot a hand stroke runs down and a comma-like mark follows, which may be the surviving typed comma or part of the hand cancellation. On p.30 the mark after &quot;character&quot; is a dark typed x (perhaps over a period), not a plain period.</span>"
+],
+"notes": [
+"The listed pages were off: the speech begins on frame 869 (folio 28, a single page; the job listed only frame 870), and continues on both halves of frame 870 (folios 29 and 30). The last word on folio 28 is blotted, probably by hand, with a hand comma after it; it appears to be \"raw\", which is repeated at the top of folio 29. At the top of folio 29 a typed word (apparently \"applause\") is x-ed out before \"(Laughter and applause)\". Several letters are typed over (buildings, years, Professor, by, phenomenal, public, what, rewarded, they, of); final readings recorded.",
+"Third look: at the foot of p.28 the last word is blacked out completely and cannot be read (p.29 begins \"raw,\"); after the blot a hand stroke runs down and a comma-like mark follows, which may be the surviving typed comma or part of the hand cancellation. On p.30 the mark after \"character\" is a dark typed x (perhaps over a period), not a plain period."
+],
+"file": "transcriptions/1902-11-22-philadelphia-2.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education",
+"home-family",
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"play",
+"schools",
+"tone",
+"quarters",
+"school",
+"woman",
+"teachers",
+"sake",
+"training"
+],
+"stats": {
+"words": 1166,
+"unique_words": 403,
+"sentences": 30,
+"avg_sentence": 38.9,
+"minutes": 9,
+"i_count": 11,
+"we_count": 9
+}
 },
 {
 "id": "1902-11-26-remarks-to-representatives-of-english-in",
@@ -11488,13 +11698,13 @@
 "cable",
 "tariff",
 "congress",
-"corporations",
 "consideration",
-"islands",
 "navy",
+"islands",
+"corporations",
 "system",
-"rural",
-"reciprocity"
+"reciprocity",
+"rural"
 ],
 "stats": {
 "words": 9756,
@@ -11901,8 +12111,8 @@
 "movements",
 "christian",
 "movement",
-"century",
 "young",
+"century",
 "associations"
 ],
 "stats": {
@@ -12161,7 +12371,7 @@
 "islands",
 "candidate",
 "leader",
-"choice"
+"result"
 ],
 "stats": {
 "words": 2784,
@@ -15600,8 +15810,8 @@
 "wyoming",
 "idaho",
 "wilderness",
-"beauties",
 "preservation",
+"beauties",
 "enjoyment",
 "scenery"
 ],
@@ -17622,9 +17832,9 @@
 "miserable",
 "embody",
 "qualities",
-"men's",
 "preacher",
-"tendencies"
+"tendencies",
+"men's"
 ],
 "stats": {
 "words": 2356,
@@ -27244,11 +27454,11 @@
 "fitter",
 "clean",
 "younger",
-"preaching",
 "example",
-"boys",
+"preaching",
 "society",
 "admire",
+"boys",
 "young",
 "foul"
 ],
@@ -27860,7 +28070,7 @@
 "lord",
 "burden",
 "church",
-"praise"
+"heart"
 ],
 "stats": {
 "words": 1796,
@@ -28017,7 +28227,7 @@
 "generation",
 "corruption",
 "address",
-"officer"
+"justice"
 ],
 "stats": {
 "words": 1179,
@@ -30245,8 +30455,8 @@
 "distinctive": [
 "parish",
 "grown",
-"woman",
 "qualities",
+"woman",
 "future",
 "average",
 "strength",
@@ -32134,8 +32344,8 @@
 "wore",
 "fathers",
 "regiment",
-"fought",
 "arms",
+"fought",
 "deeds"
 ],
 "stats": {
@@ -32549,10 +32759,10 @@
 "family",
 "neighbors",
 "army",
-"win",
 "mean",
-"stuff",
-"average"
+"win",
+"average",
+"stuff"
 ],
 "stats": {
 "words": 1361,
@@ -32809,8 +33019,8 @@
 "recognizes",
 "behave",
 "courtesy",
-"station",
 "navy",
+"station",
 "establishment",
 "abandon",
 "foreign",
@@ -32888,8 +33098,8 @@
 "situation",
 "federal",
 "mayor",
-"obey",
 "employers",
+"obey",
 "mob",
 "statement",
 "president"
@@ -33571,12 +33781,12 @@
 "fever",
 "wood",
 "panama",
-"yellow",
 "cuba",
+"yellow",
 "profession",
 "front",
 "trouble",
-"battle"
+"work"
 ],
 "stats": {
 "words": 1148,
@@ -34511,7 +34721,7 @@
 "planter",
 "islands",
 "wage-workers",
-"corporations"
+"fortunes"
 ],
 "stats": {
 "words": 3521,
@@ -34652,8 +34862,8 @@
 "distinctive": [
 "ugly",
 "corrupt",
-"thief",
 "corruption",
+"thief",
 "harris",
 "accuse",
 "georgia",
@@ -35500,8 +35710,8 @@
 "distinctive": [
 "greeted",
 "louisiana",
-"mayor",
 "orleans",
+"mayor",
 "gratitude",
 "governor",
 "summer",
@@ -36067,8 +36277,8 @@
 "domingo",
 "law",
 "congress",
-"immigrants",
 "commission",
+"immigrants",
 "immigration",
 "government"
 ],
@@ -36404,8 +36614,8 @@
 "thank",
 "navy",
 "speed",
-"trip",
 "guns",
+"trip",
 "gun"
 ],
 "stats": {
@@ -36915,8 +37125,8 @@
 "witnesses",
 "oaths",
 "commission",
-"attendance",
 "prosecution",
+"attendance",
 "compel",
 "signed"
 ],
@@ -37724,8 +37934,8 @@
 "surrender",
 "ship",
 "john",
-"cumberland",
 "dead",
+"cumberland",
 "ships",
 "prepared"
 ],
@@ -38401,8 +38611,8 @@
 "happiness",
 "admiral",
 "ideal",
-"family",
 "mother",
+"family",
 "selfish",
 "self-respect",
 "bishop"
@@ -38997,8 +39207,8 @@
 ]
 },
 "distinctive": [
-"connected",
 "canal",
+"connected",
 "feeling",
 "country",
 "work"
@@ -40784,8 +40994,8 @@
 "bill",
 "aboard",
 "consular",
-"australia",
 "ships",
+"australia",
 "pacific"
 ],
 "stats": {
@@ -41898,8 +42108,8 @@
 "farming",
 "social",
 "economic",
-"school",
-"farmer"
+"farmer",
+"labor"
 ],
 "stats": {
 "words": 5767,
@@ -42414,8 +42624,8 @@
 "republics",
 "honest",
 "president",
-"dishonest",
 "wealth",
+"dishonest",
 "wrongdoing",
 "wheeler",
 "poverty",
@@ -42520,8 +42730,8 @@
 "fencing",
 "land",
 "master",
-"commodities",
 "range",
+"commodities",
 "homesteaders",
 "correspondent",
 "farmer",
@@ -43030,8 +43240,8 @@
 "distinctive": [
 "movement",
 "honest",
-"well-being",
 "tennessee",
+"well-being",
 "policies",
 "wealth",
 "property",
@@ -43108,8 +43318,8 @@
 "presidents",
 "generation",
 "stuff",
-"change",
 "blue",
+"change",
 "gray"
 ],
 "stats": {
@@ -44994,8 +45204,8 @@
 "natural",
 "forests",
 "conservation",
-"maine",
 "coal",
+"maine",
 "waterways",
 "discovery",
 "court",
@@ -45470,8 +45680,8 @@
 "association",
 "lady",
 "missionary",
-"building",
 "philanthropic",
+"building",
 "women",
 "district"
 ],
@@ -47223,8 +47433,8 @@
 "possessed",
 "brother",
 "lived",
-"common",
-"devotion"
+"devotion",
+"common"
 ],
 "stats": {
 "words": 1535,
@@ -48901,7 +49111,7 @@
 "science",
 "culture",
 "europe",
-"new"
+"peoples"
 ],
 "stats": {
 "words": 12886,
@@ -49170,8 +49380,8 @@
 "hfe",
 "pubhc",
 "crooked",
-"men's",
 "conservation",
+"men's",
 "christian",
 "wonderful",
 "honesty",
@@ -50745,8 +50955,8 @@
 "servant",
 "public",
 "corporation",
-"knave",
 "honesty",
+"knave",
 "candidate",
 "entity",
 "afraid",
@@ -51284,8 +51494,8 @@
 "judges",
 "decision",
 "court",
-"popular",
 "courts",
+"popular",
 "business",
 "decisions",
 "delegated"
@@ -51647,8 +51857,8 @@
 "court",
 "illinois",
 "taft",
-"cheers",
 "friends",
+"cheers",
 "york"
 ],
 "stats": {

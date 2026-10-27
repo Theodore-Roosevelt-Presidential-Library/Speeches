@@ -1,0 +1,29 @@
+---
+speech: 1903-04-06-redfield
+title: Remarks of President Roosevelt at Redfield, S. D., April 6, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0230
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0230
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 73 425:0230]
+
+[margin: File]
+
+My Fellow Citizens:
+
+It is a great pleasure to be here to be presented to you. I thank you for coming: Let me thank, especially, [-[illegible]-] the men of the National guard who have turned out to-day. I thank you for being here. I have enjoyed greatly traveling through your beautiful state, seeing the men and the women and the children. I am struck not only by the evidences of prosperity, by the proof of what you have done[+/+] in agriculture and stockraising, but I am also struck by the way in which you are providing for the growing up of the best crop of all -- good citizens. It was a pleasure to see the schools, academies and colleges as I have passed by. After all, it is what the man is that counts. Here I see in the crowd, as I have seen {eveyywhere|everywhere} to-day, the man who shows by the button that he fought in the great war. He was one of those, my comrades, some of whom fought in the lesser war, who taught us by what he did a lesson not only [-xx-] for war but [-xx-] for peace. Fundamentally, that lesson was to judge each man on his worth as a man. That was what you had to do in the civil war; the test of value applied to the man on your right hand or your left. You cared nothing as to his wealth, or creed, or where he was born, what you wished to know was if he had in him the right stuff, if he was a good fighting man, and if he would stay put when the emergency came.
+
+It is just the same thing in citizenship. The vital thing to know east or west, north or south, is not as to how the man worships his Maker, not as to his birthplace, but as to whether he has in him those qualities which make a good husband and father, a good neighbor and friend, a good citizen.
+
+It is a fin[+e+] thing to have your magnificent wheat fields and corn fields, your stock range[-xx-] , your mines in the southwestern part of the state; but it is a finer thing still to have the men and women who make the state. That is the thing that counts in the long run. These prairies might have lain until [-[illegible]-] [+[?doomsday?]+] and nothing come out of them, if you had not had the right type of men to come here as pioneers. The pioneer days were hard; They [-xxxx-] were hard on the man, and harder on the woman. You had to have men and women who could stand the strain and do the work, in order that from [-xxxx-] that work such a commonwealth could be built.
+
+[pb 74 425:0230]
+
+You did it, and I congratulate you, and I am mighty glad I am your fellow citizen. (Long continued applause)
+
+[note: "File" is written by hand at the upper left of folio 73 with a slash; filing mark. The "R" of "Redfield" in the heading is retouched by hand.]
+[note: The words struck by hand after "especially," cannot be read.]
+[note: A hand slash follows "done". "for" (twice) is typed above the line over x-ed out words. Several letters are overtyped and given in their evident reading ("thank", "men", "Fundamentally", "you", "your", "his", "born", "as").]
+[note: In "fine thing" the last letter of "fine" is written by hand over a typed letter. The word struck by hand after "until" cannot be read; the handwritten replacement above it, with a caret, appears to be "doomsday".]
