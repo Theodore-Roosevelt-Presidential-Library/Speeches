@@ -5258,8 +5258,8 @@
 "distinctive": [
 "corporations",
 "trusts",
-"boston",
 "corporation",
+"boston",
 "evils",
 "creator",
 "deal",
@@ -7690,8 +7690,8 @@
 },
 "distinctive": [
 "corporations",
-"levees",
 "period",
+"levees",
 "wheeling",
 "change",
 "dam",
@@ -8551,8 +8551,8 @@
 "distinctive": [
 "corporations",
 "change",
-"levees",
 "period",
+"levees",
 "wheeling",
 "applause",
 "dam",
@@ -11057,8 +11057,8 @@
 "reciprocity",
 "cable",
 "destiny",
-"rico",
-"war"
+"war",
+"rico"
 ],
 "stats": {
 "words": 2360,
@@ -11188,8 +11188,8 @@
 "destiny",
 "mighty",
 "future",
-"prosperity",
 "war",
+"prosperity",
 "fought",
 "peace",
 "country"
@@ -14381,8 +14381,8 @@
 "nomination",
 "result",
 "islands",
-"leader",
-"history"
+"history",
+"leader"
 ],
 "stats": {
 "words": 2784,
@@ -18936,8 +18936,8 @@
 "filipinos",
 "taft",
 "army",
-"militia",
 "government",
+"militia",
 "regular",
 "civil"
 ],
@@ -23138,8 +23138,8 @@
 "sigel",
 "win",
 "principle",
-"applause",
 "general",
+"applause",
 "wanted",
 "evening",
 "left",
@@ -23244,8 +23244,8 @@
 "road",
 "districts",
 "electricity",
-"bent",
 "existence",
+"bent",
 "space",
 "steam"
 ],
@@ -28145,8 +28145,8 @@
 "liberty",
 "law",
 "win",
-"applause",
 "remember",
+"applause",
 "helped",
 "brotherhood",
 "injustice",
@@ -29598,8 +29598,8 @@
 "law",
 "business",
 "laws",
-"cheers",
-"prosperity"
+"prosperity",
+"cheers"
 ],
 "stats": {
 "words": 1668,
@@ -30060,8 +30060,8 @@
 },
 "distinctive": [
 "pacific",
-"applause",
 "incarnate",
+"applause",
 "mediterranean",
 "sea",
 "roman",
@@ -34716,8 +34716,8 @@
 "school",
 "qualities",
 "wonderful",
-"applause",
-"build"
+"build",
+"applause"
 ],
 "stats": {
 "words": 2241,
@@ -35433,8 +35433,8 @@
 "places": []
 },
 "distinctive": [
-"steamship",
 "law",
+"steamship",
 "cutting",
 "line",
 "railroads",
@@ -40646,10 +40646,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 67,
+"paragraphs": [
+"It is a great pleasure to see you, gentlemen. I have just come from a trip across the continent, first to the Pacific, now back again; and the thing that has pleased me most is to find everywhere the substantial unity of Americans. Wherever he goes the President of the United States is at home among his fellow-Americans, east or west, north or south. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -40671,13 +40673,41 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 559",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0559",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"It is a great pleasure to see you, gentlemen. I have just come from a trip across the continent, first to the Pacific, now back again; and the thing that has pleased me most is to find everywhere the substantial unity of Americans. Wherever he goes the President of the United States is at home among his fellow-Americans, east or west, north or south. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 72 (frame 425:0559)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"It is a great pleasure to see you,gentlemen. I have just come from a trip across the continent, first to the Pacific, now back again; and the thing that has pleased me most is to find everywhere the substantial unity of Americans. Wherever he goes the President of the United States is at home among his fellow-Americans, east or west, north or south. (Cheers and applause.)",
+"<span class=\"tnote\">The listed page (left half of frame 559, folio 71) is blank; the speech is on the right half of frame 559 (folio 72), above the Harrisburg remarks. &quot;File&quot; with a check and a slash is written by hand beside the heading. The s of &quot;west&quot; and the t of &quot;States&quot; are retouched by hand.</span>"
+],
+"notes": [
+"The listed page (left half of frame 559, folio 71) is blank; the speech is on the right half of frame 559 (folio 72), above the Harrisburg remarks. \"File\" with a check and a slash is written by hand beside the heading. The s of \"west\" and the t of \"States\" are retouched by hand."
+],
+"file": "transcriptions/1903-06-05-altoona.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 67,
+"unique_words": 54,
+"sentences": 3,
+"avg_sentence": 22.3,
+"minutes": 1,
+"i_count": 1,
+"we_count": 0
+}
 },
 {
 "id": "1903-06-05-harrisburg",
@@ -40691,10 +40721,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 139,
+"paragraphs": [
+"It is a great pleasure to see you, and I am much obliged to you for coming to greet me. I passed through here two months and four days ago. I have had a thoroughly enjoyable trip, and I come back in entire safety owing to the railroadmen. There has not been a day and hardly an hour that I have not owed my safety to them, and it is something I appreciate to the full,",
+"I am very glad to see you all. The thing that has struck me most, going from the Atlantic to the Pacific, is the substantial unity of our people, for wherever I have been I have been able to simply speak as one American to his fellow-Americans, and I am among first class Americans now. Good bye and good luck. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -40716,13 +40749,42 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 559",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0559",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"It is a great pleasure to see you, and I am much obliged to you for coming to greet me. I passed through here two months and four days ago. I have had a thoroughly enjoyable trip, and I come back in entire safety owing to the railroadmen. There has not been a day and hardly an hour that I have not owed my safety to them, and it is something I appreciate to the full,",
+"I am very glad to see you all. The thing that has struck me most, going from the Atlantic to the Pacific, is the substantial unity of our people, for wherever I have been I have been able to simply speak as one American to his fellow-Americans, and I am among first class Americans now. Good bye and good luck. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 72 (frame 425:0559)</span>",
+"It is a great pleasure to see you, and I am much obliged to you for coming to greet me. <del title=\"struck through\">I have just come back,</del> I passed through here two months and four days ago<ins title=\"added by hand\">.</ins> <del title=\"struck through\">and</del> I have had a thoroughly enjoyable trip, and I come back in entire safety owing to the railroadmen. There has not been a day and hardly an hour that I have not owed my safety to them, and it is something I appreciate to the full,",
+"I am very glad to see you all. The thing that has struck me most , going from the Atlantic to the Pacific, is the substantial unity of our people, for wherever I have been I have been able to simply speak as one American to his fellow-Americans, and I am among first class Americans now. Good bye and good luck. ( Cheers and applause.)",
+"<span class=\"tnote\">Second item on folio 72 (right half of frame 559), below the Altoona remarks; a hand check mark is beside the heading. Hand corrections: the struck words before &quot;I passed&quot; are partly blotted (<span class=\"unc\" title=\"uncertain reading\">I have just come back,</span>); after &quot;ago&quot; a circled period is added, &quot;and&quot; is struck through and the following &quot;I&quot; is double-underlined as a capital. A hand slash divides &quot;railroad/men&quot;, and &quot;to&quot; and &quot;simply&quot; are marked with a transposition loop (to read &quot;simply to speak&quot;); the typed order is kept above. Faint hand marks over &quot;been&quot; and &quot;I&quot; in the last paragraph.</span>"
+],
+"notes": [
+"Second item on folio 72 (right half of frame 559), below the Altoona remarks; a hand check mark is beside the heading. Hand corrections: the struck words before \"I passed\" are partly blotted (I have just come back, [?]); after \"ago\" a circled period is added, \"and\" is struck through and the following \"I\" is double-underlined as a capital. A hand slash divides \"railroad/men\", and \"to\" and \"simply\" are marked with a transposition loop (to read \"simply to speak\"); the typed order is kept above. Faint hand marks over \"been\" and \"I\" in the last paragraph."
+],
+"file": "transcriptions/1903-06-05-harrisburg.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 139,
+"unique_words": 87,
+"sentences": 6,
+"avg_sentence": 23.2,
+"minutes": 1,
+"i_count": 10,
+"we_count": 0
+}
 },
 {
 "id": "1903-06-07-washington",
@@ -41186,8 +41248,8 @@
 "example",
 "younger",
 "young",
-"preaching",
 "expect",
+"preaching",
 "admire",
 "boys"
 ],
@@ -48079,8 +48141,8 @@
 "material",
 "foundation",
 "north",
-"afford",
 "citizen",
+"afford",
 "lines"
 ],
 "stats": {
@@ -49082,8 +49144,8 @@
 "citizen",
 "duty",
 "children",
-"national",
-"nation"
+"nation",
+"national"
 ],
 "stats": {
 "words": 889,
@@ -54499,8 +54561,8 @@
 "river",
 "valley",
 "imperial",
-"colorado",
 "california",
+"colorado",
 "water",
 "break",
 "subsidiary",
@@ -55549,9 +55611,9 @@
 "potomac",
 "ease",
 "glory",
+"duty",
 "statue",
 "disagreeable",
-"duty",
 "seek"
 ],
 "stats": {
@@ -58285,8 +58347,8 @@
 "grants",
 "dam",
 "charge",
-"plans",
 "act",
+"plans",
 "navigable",
 "breach",
 "rainy",
@@ -58538,8 +58600,8 @@
 "steel",
 "legislation",
 "boston",
-"abuses",
-"law"
+"law",
+"abuses"
 ],
 "stats": {
 "words": 4303,
@@ -60350,8 +60412,8 @@
 "distinctive": [
 "secret",
 "service",
-"investigated",
 "congress",
+"investigated",
 "criminals",
 "treasury",
 "provision",
@@ -61590,8 +61652,8 @@
 "technical",
 "advisory",
 "rear-admiral",
-"bureaus",
 "responsibility",
+"bureaus",
 "commission"
 ],
 "stats": {
@@ -63044,8 +63106,8 @@
 "press",
 "writes",
 "violence",
-"legislature",
-"public"
+"public",
+"legislature"
 ],
 "stats": {
 "words": 3165,
@@ -65880,8 +65942,8 @@
 "tariff",
 "control",
 "business",
-"consumer",
 "commission",
+"consumer",
 "platform",
 "trusts",
 "industrial",
