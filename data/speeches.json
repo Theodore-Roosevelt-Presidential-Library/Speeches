@@ -908,9 +908,9 @@
 },
 "distinctive": [
 "grant",
-"dangers",
 "grant's",
 "greatness",
+"dangers",
 "crises",
 "war",
 "peace",
@@ -1638,14 +1638,14 @@
 "distinctive": [
 "associations",
 "envy",
-"malice",
 "christian",
+"malice",
 "betterment",
 "charity",
 "brotherhood",
 "men's",
-"sentimentality",
-"young"
+"young",
+"sentimentality"
 ],
 "stats": {
 "words": 2699,
@@ -1873,8 +1873,8 @@
 "statehood",
 "westward",
 "colorado",
-"unity",
 "commonwealths",
+"unity",
 "alleghanies",
 "spread",
 "continent",
@@ -2155,7 +2155,7 @@
 "struggles",
 "ranks",
 "fought",
-"regiments"
+"ended"
 ],
 "stats": {
 "words": 3084,
@@ -2969,7 +2969,7 @@
 "prosperity",
 "philippines",
 "events",
-"struggle"
+"combinations"
 ],
 "stats": {
 "words": 2501,
@@ -3471,8 +3471,8 @@
 "university",
 "scholarship",
 "sake",
-"virile",
 "service",
+"virile",
 "decent",
 "counts",
 "reward",
@@ -4052,8 +4052,8 @@
 "dead",
 "presence",
 "loyalty",
-"applause",
 "comrades",
+"applause",
 "enlisted"
 ],
 "stats": {
@@ -4174,8 +4174,8 @@
 "presbyterian",
 "reformed",
 "wanted",
-"island",
 "shortcomings",
+"island",
 "cuba",
 "hundred",
 "army"
@@ -4325,11 +4325,11 @@
 "comrades",
 "ordinary",
 "battle",
-"duties",
 "citizenship",
+"duties",
 "war",
 "duty",
-"act"
+"nation"
 ],
 "stats": {
 "words": 830,
@@ -4519,8 +4519,8 @@
 "profession",
 "professions",
 "members",
-"glad",
 "work",
+"glad",
 "life"
 ],
 "stats": {
@@ -4747,11 +4747,11 @@
 "harvard",
 "yale",
 "taft",
-"elihu",
 "college",
+"elihu",
 "leonard",
-"graduate",
 "back",
+"graduate",
 "root",
 "secretary"
 ],
@@ -5121,7 +5121,7 @@
 "harm",
 "conditions",
 "community",
-"prosper"
+"power"
 ],
 "stats": {
 "words": 2587,
@@ -6182,8 +6182,8 @@
 "works",
 "honesty",
 "labor",
-"citizen",
 "citizenship",
+"citizen",
 "courage"
 ],
 "stats": {
@@ -6372,7 +6372,7 @@
 "remedies",
 "win",
 "patent",
-"ignorance"
+"problems"
 ],
 "stats": {
 "words": 2080,
@@ -6640,8 +6640,8 @@
 },
 "distinctive": [
 "applause",
-"laughter",
 "weapons",
+"laughter",
 "richmond",
 "patent",
 "defeat",
@@ -8328,7 +8328,7 @@
 "accustomed",
 "confederate",
 "generals",
-"profession",
+"general",
 "served"
 ],
 "stats": {
@@ -8431,10 +8431,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 144,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"I want to say what a pleasure it is to me to be going through your beautiful state this afternoon. I am glad to be here. It is a good thing for any American, and especially for the American who happens to be President, to go about among his fellow-countrymen throughout this country, and to learn the lesson that a decent American is about the same wherever he happens to live. If he is a good man he is all right. It does not make any difference whether he is in the north or south or east or west, or what his occupation is. All we need to ask is does he do his work squarely as a man and as a citizen, and if he does he is a good American and you can stand by him. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8456,13 +8459,45 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0708",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0708",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen and Ladies:",
+"I want to say what a pleasure it is to me to be going through your beautiful state this afternoon. I am glad to be here. It is a good thing for any American, and especially for the American who happens to be President, to go about among his fellow-countrymen throughout this country, and to learn the lesson that a decent American is about the same wherever he happens to live. If he is a good man he is all right. It does not make any difference whether he is in the north or south or east or west, or what his occupation is. All we need to ask is does he do his work squarely as a man and as a citizen, and if he does he is a good American and you can stand by him. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 52 (frame 424:0708)</span>",
+"Gentlemen and Ladies:",
+"I want to say what a pleasure it is to me to be going through your beautiful state this afternoon. I am glad to be here. It is a good thing for any American , and <span class=\"sic\" title=\"reads: especially\">es ecially</span> for the American who happens to be President, to go about among his fellow-countrymen throughout this country, and to learn the lesson that a decent American is about the same wherever he happens to live. If he is a good man he is all right. It does not make any difference whether he is in the north or south or east or west, or what his occupation is. All we need to ask is does he do his work squarely as a man and as a citizen, and if he does he is a good American and you can stand by him. (Cheers and applause)",
+"<span class=\"tnote\">Left half (a) of frame 0708, folio 52.</span>\n<span class=\"tnote\">&quot;any&quot; in &quot;make any difference&quot; is crowded/blotted on the typewriter; &quot;does&quot; in &quot;if he does&quot; has an overstruck letter.</span>"
+],
+"notes": [
+"Left half (a) of frame 0708, folio 52.",
+"\"any\" in \"make any difference\" is crowded/blotted on the typewriter; \"does\" in \"if he does\" has an overstruck letter."
+],
+"file": "transcriptions/1902-09-09-connelly-springs.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"american"
+],
+"stats": {
+"words": 144,
+"unique_words": 80,
+"sentences": 6,
+"avg_sentence": 24.0,
+"minutes": 1,
+"i_count": 2,
+"we_count": 1
+}
 },
 {
 "id": "1902-09-09-greensboro",
@@ -8476,10 +8511,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 450,
+"paragraphs": [
+"My fellow citizens; men and women of North Carolina:",
+"I shall say just a word of greeting to you. I have enjoyed to the full my trip through North Carolina to-day. I have enjoyed seeing the signs of the great industrial development of this. I speak from the heart when I say that I feel that here in this state, as also in eastern Tennessee, and in the immediate neighborhood, you have that region of all our country in which this century that has opened will see the greatest industrial development.(Cheers and applause) Now, gentlemen, I should be glad of that anyhow for your sakes, because I am an American and I wish to see my fellow Americans prosper. But more than that, no one section of this country can prosper greatly without its helping other sections.(Applause) If we have a period of good times, more or less of the prosperity comes to all of us; and if there are bad times they come all over the Union; they do not stop for state lines. In '93 we were not very happy in New York, and I guess you had a middling rough time here. Now we are getting on well as a whole, and we are getting on well as a consequence all over the Union. (Cries of \"Good.\" With 80,000,000 people you cannot make all prosperous- not to save your necks- but you can arrange the conditions so that each man shall have the best chance of prospering. No law, no general condition in the country will give a man intelligence if he hasn't got it; will give a man courage if he is a coward; will make a man decent if he is a knave; but if he is brave and honest, and if he has got hard common sense you can make the conditions such that he can use to the best advantage those qualities.",
+"Now, gentlemen, you have here certain natural advantages, but what counts a great deal more than any natural advantages, is the character of the men and women who are to take advantage of them.(Applause) I know you pretty well, and I believe in you(Laughter and applause), and therefore I say that I do not risk much in prophesying that if you will set to work resolutely and intelligently to take advantage of the chances that here open themselves, you can and will make of this section in your state, of all the neighboring regions, without regard to state lines, one of those portions of the world's surface which will see the greatest progress, the greatest prosperity during the half century upon which we are now entering. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8501,13 +8540,54 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0711",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0711",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow citizens; men and women of North Carolina:",
+"I shall say just a word of greeting to you. I have enjoyed to the full my trip through North Carolina to-day. I have enjoyed seeing the signs of the great industrial development of this. I speak from the heart when I say that I feel that here in this state, as also in eastern Tennessee, and in the immediate neighborhood, you have that region of all our country in which this century that has opened will see the greatest industrial development.(Cheers and applause) Now, gentlemen, I should be glad of that anyhow for your sakes, because I am an American and I wish to see my fellow Americans prosper. But more than that, no one section of this country can prosper greatly without its helping other sections.(Applause) If we have a period of good times, more or less of the prosperity comes to all of us; and if there are bad times they come all over the Union; they do not stop for state lines. In '93 we were not very happy in New York, and I guess you had a middling rough time here. Now we are getting on well as a whole, and we are getting on well as a consequence all over the Union. (Cries of \"Good.\" With 80,000,000 people you cannot make all prosperous- not to save your necks- but you can arrange the conditions so that each man shall have the best chance of prospering. No law, no general condition in the country will give a man intelligence if he hasn't got it; will give a man courage if he is a coward; will make a man decent if he is a knave; but if he is brave and honest, and if he has got hard common sense you can make the conditions such that he can use to the best advantage those qualities.",
+"Now, gentlemen, you have here certain natural advantages, but what counts a great deal more than any natural advantages, is the character of the men and women who are to take advantage of them.(Applause) I know you pretty well, and I believe in you(Laughter and applause), and therefore I say that I do not risk much in prophesying that if you will set to work resolutely and intelligently to take advantage of the chances that here open themselves, you can and will make of this section in your state, of all the neighboring regions, without regard to state lines, one of those portions of the world's surface which will see the greatest progress, the greatest prosperity during the half century upon which we are now entering. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 58 (frame 424:0711)</span>",
+"<span class=\"margin\">In the margin: File</span>\n<span class=\"margin\">In the margin: not given <span class=\"unc\" title=\"uncertain reading\">out</span></span>",
+"My fellow citizens; men and women of North Carolina:",
+"I shall say just a word of greeting to you. I have enjoyed to the full my trip through North Carolina to-day. I have enjoyed seeing the signs of the great industrial development of this . I speak from the heart when I say that I feel that here in this state, as also in eastern Tennessee, and in the immediate neighborhood, you have that region of all our country in which this century that has opened will see the greatest industrial development.(Cheers and applause) Now, gentlemen, I should be glad of that anyhow for your sakes, because I am an American and I wish to see my fellow Americans prosper. But more than that, no one section of this country can prosper greatly without its helping other <span class=\"sic\" title=\"reads: sections\">sectic ns</span>.(Applause) If we have a period of good times, more or less of the prosperity comes to all of us; and if there are bad times they come all over the Union; they do not stop for state lines. In &#x27;93 we were not very happy in New York, and I guess you <del title=\"struck through\">xxxxxxx</del> had a middling rough time here. Now we are getting on well as a whole, and we are getting on well as a consequence all over the Union. (Cries of &quot;Good.&quot; With 80,000,000 people you cannot make all prosperous- not to save your necks- but you can arrange the conditions so that each man shall have the best chance <del title=\"struck through\">xxx</del> of prospering. No law, no general condition in the country will give a man intelligence if he hasn&#x27;t got it; will give a man courage if he is a coward; will make a man decent if he is a knave; but if he is brave and honest, and if he has got hard common sense you can make the conditions such that he can use to the best advantage those qualities.",
+"Now, gentlemen, you have here certain natural advantages, but what counts a <del title=\"struck through\">xxxxxxxx</del> great deal more than any natural advantages, is the character of the men and women who are to take advantage of them.(Applause) I know you pretty well, and I believe in you(Laughter <span class=\"sic\" title=\"reads: and\">a d</span> applause), and therefore I say that I do not <del title=\"struck through\">x</del> risk much in prophesying that if you will set to work resolutely and intelligently to take advantage of the chances that here <del title=\"struck through\">xxxx</del> open <del title=\"struck through\">xx</del> themselves, you can and will make of this section in your state ,of all the neighboring regions, without regard to state lines, one of those portions of the world&#x27;s surface which will see the greatest progress, the greatest prosperity during the half century upon which we are now entering. (Cheers and applause)",
+"<span class=\"tnote\">Frame 0711, left half (a), folio 58. Two diagonal pencil lines cross the upper left corner over the start of the heading and salutation, with &quot;File&quot; and &quot;not given <span class=\"unc\" title=\"uncertain reading\">out</span>&quot; written between them.</span>\n<span class=\"tnote\">Overstruck letters in &quot;come&quot;, &quot;state&quot;, &quot;one&quot; and &quot;during&quot;; the final readings are given. The last seven lines are typed with closer line spacing than the rest.</span>"
+],
+"notes": [
+"Frame 0711, left half (a), folio 58. Two diagonal pencil lines cross the upper left corner over the start of the heading and salutation, with \"File\" and \"not given out [?]\" written between them.",
+"Overstruck letters in \"come\", \"state\", \"one\" and \"during\"; the final readings are given. The last seven lines are typed with closer line spacing than the rest."
+],
+"file": "transcriptions/1902-09-09-greensboro.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"advantage",
+"greatest",
+"state",
+"country"
+],
+"stats": {
+"words": 450,
+"unique_words": 201,
+"sentences": 9,
+"avg_sentence": 50.0,
+"minutes": 3,
+"i_count": 14,
+"we_count": 5
+}
 },
 {
 "id": "1902-09-09-hickory",
@@ -8521,10 +8601,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 402,
+"paragraphs": [
+"My friends:",
+"I am glad to have the opportunity of greeting you and being greeted by you. Travelling to-day through North Carolina, yesterday through Tennessee, I have been particularly struck by the evidences of industrial growth of which this town is itself an example. The industrial awakening of the South, of which there have been so many evidences during the past few years is a feature fraught with great benefits to the south and with great benefits to the entire country; (Applause) because, remember, my fellow citizens, we are going to go up or go down together(cries of \"That is right!\") In good times we are all going to feel them; some will feel them more than others will; some less; but all will feel the good times somewhat; and when bad times come we will all be unhappy together.(Laughter) Bad times do not stop at state lines; they do not stop by sections; we go up or we go down together. And the industrial awakening of the south which is going on and which I believe will go on with ever increasing rapidity, means good fortune not merely for the south, but for all the American people. It always happens that a good year for crops is a good year for weeds. When you have prosperity some people for whom you don't much care prosper somewhat too. It is a great deal better that some people should prosper too much while most of us prosper somewhat, than that we should none of us prosper enough-a good deal better to have too much prosperity, even if according to the ideas of some of us it is not quite as equally distributed as it should be, than not to have enough prosperity for any one at any time.",
+"The gospel of intelligent hard work is the gospel that pays, and of all gospels the one that pays least is the gospel of envy and rancor, a gospel preached to inflame class against class or section against section.",
+"And so my fellow citizens I hail your industrial growth, I hail the manifestations I see here in this state, as I saw yesterday in Tennessee, the manifestations of the rapid approach of the period of tremendous industrial development in the south. I hail [?] it for the sake of the south and I hail it for the sake of the nation.(Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8546,13 +8631,66 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0708",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0708",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My friends:",
+"I am glad to have the opportunity of greeting you and being greeted by you. Travelling to-day through North Carolina, yesterday through Tennessee, I have been particularly struck by the evidences of industrial growth of which this town is itself an example. The industrial awakening of the South, of which there have been so many evidences during the past few years is a feature fraught with great benefits to the south and with great benefits to the entire country; (Applause) because, remember, my fellow citizens, we are going to go up or go down together(cries of \"That is right!\") In good times we are all going to feel them; some will feel them more than others will; some less; but all will feel the good times somewhat; and when bad times come we will all be unhappy together.(Laughter) Bad times do not stop at state lines; they do not stop by sections; we go up or we go down together. And the industrial awakening of the south which is going on and which I believe will go on with ever increasing rapidity, means good fortune not merely for the south, but for all the American people. It always happens that a good year for crops is a good year for weeds. When you have prosperity some people for whom you don't much care prosper somewhat too. It is a great deal better that some people should prosper too much while most of us prosper somewhat, than that we should none of us prosper enough-a good deal better to have too much prosperity, even if according to the ideas of some of us it is not quite as equally distributed as it should be, than not to have enough prosperity for any one at any time.",
+"The gospel of intelligent hard work is the gospel that pays, and of all gospels the one that pays least is the gospel of envy and rancor, a gospel preached to inflame class against class or section against section.",
+"And so my fellow citizens I hail your industrial growth, I hail the manifestations I see here in this state, as I saw yesterday in Tennessee, the manifestations of the rapid approach of the period of tremendous industrial development in the south. I hail [?] it for the sake of the south and I hail it for the sake of the nation.(Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 53 (frame 424:0708)</span>",
+"My <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">friends</ins>:",
+"I am glad to have the opportunity of greeting you and being greeted by you. Travelling to-day through North Carolina,yesterday through Tennessee, I have been particularly struck by the evidences of industrial growth of which this town is itself an example. The <del title=\"struck through\">xxxxxxxxxxx</del> industrial awakening of the South, of which there have been so many evidences during the past few years is a feature fraught with great benefits to the south and with great benefits to the entire country; (Applause) because, remember, my fellow citizens, we are going to go up or go down together(cries of &quot;That is right!&quot;<ins title=\"added by hand\">)</ins> In good times we are all going to feel them; some will <span class=\"sic\" title=\"reads: feel\">fed</span> them more than others will; some less; but all will feel the <span class=\"sic\" title=\"reads: good\">god</span> times somewhat; and when bad times come we will all be unhappy together.(Laughter) Bad times do not stop at state lines; they do not stop by sections; we go up or we go down together. And the industrial awakening of the south which is going on and which I believe will go on with ever increasing rapidity, means good fortune not merely for the south, but for all the American people. It always happens that a good year for crops is a good year for weeds. When you have prosperity some people for whom you don&#x27;t much care prosper somewhat too. It is a great deal better that some people should <span class=\"sic\" title=\"reads: prosper\">prosppr</span> too much while <del title=\"struck through\">xxxx</del> most of us prosper somewhat, than that we should none <del title=\"struck through\">xx</del> of us prosper enough-a good deal better to have too much prosperity, even if <span class=\"sic\" title=\"reads: according to\">accordingmto</span> the ideas of some of us it is not quite as equally distributed as it should be, than not to have enough <span class=\"sic\" title=\"reads: prosperity\">propperity</span> for any one at any time.",
+"The gospel of intelligent hard work is the gospel that pays, and of all gospels the one that pays least is the gospel of envy and rancor, a gospel preached to inflame class against class or section against section.",
+"And so my fellow citizens I hail your industrial growth, I <del title=\"struck through\">hale</del><ins title=\"added by hand\">hail</ins> the manifestations I see here in this state, as I saw <del title=\"struck through\">xxx</del> yesterday in Tennessee, the manifestations of the rapid approach of the period of tremendous industrial development in the south. I <span class=\"unc\" title=\"uncertain reading\">hail</span> it for the sake of the south and I <del title=\"struck through\">hale</del><ins title=\"added by hand\">hail</ins> it for the sake of the nation.(Cheers and applause)",
+"<span class=\"tnote\">Right half (b) of frame 0708, folio 53. The word struck after &quot;My&quot; is inked over by hand and cannot be read; &quot;friends&quot; is written above it.</span>\n<span class=\"tnote\">The x-ed word after &quot;The&quot; (before &quot;industrial awakening&quot;) appears to be &quot;awakening&quot; overstruck, but it is not certain. The closing parenthesis after &quot;That is right!&quot; is written by hand; the &quot;!&quot; is typed over another mark.</span>\n<span class=\"tnote\">&quot;god times&quot; has a hand mark (a curved stroke) between &quot;god&quot; and &quot;times&quot;. &quot;approach&quot; has overstruck letters.</span>\n<span class=\"tnote\">In &quot;I hail it for the sake of the south&quot; the typed word is underlined and overwritten by hand and is hard to read; it is read as &quot;hail&quot; in line with the hand corrections of &quot;hale&quot; to &quot;hail&quot; before and after it.</span>"
+],
+"notes": [
+"Right half (b) of frame 0708, folio 53. The word struck after \"My\" is inked over by hand and cannot be read; \"friends\" is written above it.",
+"The x-ed word after \"The\" (before \"industrial awakening\") appears to be \"awakening\" overstruck, but it is not certain. The closing parenthesis after \"That is right!\" is written by hand; the \"!\" is typed over another mark.",
+"\"god times\" has a hand mark (a curved stroke) between \"god\" and \"times\". \"approach\" has overstruck letters.",
+"In \"I hail it for the sake of the south\" the typed word is underlined and overwritten by hand and is hard to read; it is read as \"hail\" in line with the hand corrections of \"hale\" to \"hail\" before and after it."
+],
+"file": "transcriptions/1902-09-09-hickory.txt"
+},
+"text_source": "typescript",
+"themes": [
+"religion"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "the-south",
+"name": "The South",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"hail",
+"gospel",
+"prosper",
+"south",
+"somewhat",
+"industrial",
+"prosperity",
+"together"
+],
+"stats": {
+"words": 402,
+"unique_words": 169,
+"sentences": 10,
+"avg_sentence": 40.2,
+"minutes": 3,
+"i_count": 9,
+"we_count": 6
+}
 },
 {
 "id": "1902-09-09-marshall",
@@ -8656,10 +8794,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 277,
+"paragraphs": [
+"My fellow citizens; My fellow Americans:",
+"It has been a real pleasure to pass through North Carolina to-day; to see on every hand the symptoms of your awakening industrial development, and above all to meet the people of a state whose sons have always been manly, whose daughters have always been womanly. (Applause) I remember an answer reputed to have been made in the war of 1812. There was some one who said to a certain person in a certain county:\"Well, in your county they all seem to be supporting the war\". The man answered:\"Where I come from all those who are not women are men.\" (Laughter and applause) I am glad to meet you here because I believe in men and I believe in women. I have very little use for those who are neither.",
+"It is a good thing for a man, and above all, for the man who happens to be President, to travel through the country and meet his fellow Americans of every section, because thereby it is brought home to him more strongly than ever that a good American is a good American in whatever part of the United States he lives. The differences among us are trivial; the resemblances are fundamental and vital. If a man is a decent man, a square man, right, and treats his neighbors well; if he is a good husband, a good father, a good neighbor, good in the ordinary relations of life; if he does his duty as a square man, is just in his relations to the state, then he is a good citizen and we can stick with him. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8681,13 +8823,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0709",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0709",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow citizens; My fellow Americans:",
+"It has been a real pleasure to pass through North Carolina to-day; to see on every hand the symptoms of your awakening industrial development, and above all to meet the people of a state whose sons have always been manly, whose daughters have always been womanly. (Applause) I remember an answer reputed to have been made in the war of 1812. There was some one who said to a certain person in a certain county:\"Well, in your county they all seem to be supporting the war\". The man answered:\"Where I come from all those who are not women are men.\" (Laughter and applause) I am glad to meet you here because I believe in men and I believe in women. I have very little use for those who are neither.",
+"It is a good thing for a man, and above all, for the man who happens to be President, to travel through the country and meet his fellow Americans of every section, because thereby it is brought home to him more strongly than ever that a good American is a good American in whatever part of the United States he lives. The differences among us are trivial; the resemblances are fundamental and vital. If a man is a decent man, a square man, right, and treats his neighbors well; if he is a good husband, a good father, a good neighbor, good in the ordinary relations of life; if he does his duty as a square man, is just in his relations to the state, then he is a good citizen and we can stick with him. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 54 (frame 424:0709)</span>",
+"<span class=\"margin\">In the margin: File</span>\n<span class=\"margin\">In the margin: not given <span class=\"unc\" title=\"uncertain reading\">out</span></span>",
+"My fellow citizens; My fellow Americans:",
+"It has been a real pleasure to pass through North Carolina to-day; to see on every hand the symptoms of your awakening industrial development, and above all to meet the people of <del title=\"struck through\">the</del><ins title=\"added by hand\">a</ins> state whose sons have always been manly, whose daughters have always been womanly. (Applause) I remember an answer reputed to have been made in the war of 1812. There was some one who said to a certain person in a certain county:&quot;Well, in your county they all seem to be <span class=\"sic\" title=\"reads: supporting\">suppprting</span> the war&quot;. The man <span class=\"sic\" title=\"reads: answered\">an swered</span>:&quot;Where I come from all those who are not women are men.&quot; (Laughter and applause) I am glad to meet you here <span class=\"sic\" title=\"reads: because\">becuase</span> I believe in men and I believe in women. I have very little use <span class=\"sic\" title=\"reads: for\">fur</span> those who are neither.",
+"It is a good thing for a man, and above all, for the man <span class=\"sic\" title=\"reads: who\">qwho</span> happens to be President, to travel through the country and meet his fellow <span class=\"sic\" title=\"reads: Americans\">Americams</span> of every section, because thereby it is brought home to him more strongly than ever that a good American is a good <span class=\"sic\" title=\"reads: American\">Americam</span> in whatever part of the United States he lives. The differences among us are trivial; the resemblances are fundamental and vital. If a man is a decent man, a square man, right, and treats his neighbors well; if he is a good husband, a good father, a good neighbor, good in the ordinary re<ins title=\"added by hand\">l</ins>ations of life; if he does his duty as a square man<ins title=\"added by hand\">, is</ins> just in his relations to the state, then he is a good citizen and we can stick with him. (Cheers and applause)",
+"<span class=\"tnote\">Left half (a) of frame 0709, folio 54. The heading is crossed by two diagonal pencil lines, with &quot;File&quot; and &quot;not given <span class=\"unc\" title=\"uncertain reading\">out</span>&quot; written between them; the last digits of the year in the heading are overstruck but read 1902.</span>\n<span class=\"tnote\">A hand stroke stands before &quot;to meet the people&quot;. &quot;trivial&quot; has an overstruck letter. In &quot;ordinary relations&quot; the &quot;l&quot; is written by hand above a caret; after &quot;square man&quot; a caret with &quot;is&quot; written above (and what may be a comma) is added by hand.</span>"
+],
+"notes": [
+"Left half (a) of frame 0709, folio 54. The heading is crossed by two diagonal pencil lines, with \"File\" and \"not given out [?]\" written between them; the last digits of the year in the heading are overstruck but read 1902.",
+"A hand stroke stands before \"to meet the people\". \"trivial\" has an overstruck letter. In \"ordinary relations\" the \"l\" is written by hand above a caret; after \"square man\" a caret with \"is\" written above (and what may be a comma) is added by hand."
+],
+"file": "transcriptions/1902-09-09-statesville.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"home-family"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"fellow",
+"meet"
+],
+"stats": {
+"words": 277,
+"unique_words": 140,
+"sentences": 7,
+"avg_sentence": 39.6,
+"minutes": 2,
+"i_count": 6,
+"we_count": 1
+}
 },
 {
 "id": "1902-09-09-before-reaching-salisbury",
@@ -8701,10 +8883,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 63,
+"paragraphs": [
+"Gentlemen:",
+"I want to say what a pleasure it is to be greeted by you. I have greatly enjoyed passing through North Carolina. It is a genuine pleasure to come down and see the industrial development that is taking place here- The industrial development that is going to make the south one of the most prosperous parts of the Union. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -8726,13 +8911,44 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0709",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0709",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen:",
+"I want to say what a pleasure it is to be greeted by you. I have greatly enjoyed passing through North Carolina. It is a genuine pleasure to come down and see the industrial development that is taking place here- The industrial development that is going to make the south one of the most prosperous parts of the Union. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 55 (frame 424:0709)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Gentlemen:",
+"I want to say what a pleasure it is to be greeted by you. I have greatly enjoyed passing through North Carolina. It is a genuine pleasure to come down and see the industrial development that is taking place here<del title=\"struck through\">x</del>- The industrial development that is going to make the south one of the most prosperous parts of the Union . (Cheers and <span class=\"sic\" title=\"reads: applause\">ap plause</span>.<ins title=\"added by hand\">)</ins>",
+"<span class=\"tnote\">Right half (b) of frame 0709, folio 55. &quot;File&quot; is written by hand above the heading with a diagonal line through the corner.</span>\n<span class=\"tnote\">&quot;development&quot; after &quot;industrial&quot; is typed above the line, with a caret marked by hand. The closing parenthesis after &quot;applause.&quot; is written by hand.</span>"
+],
+"notes": [
+"Right half (b) of frame 0709, folio 55. \"File\" is written by hand above the heading with a diagonal line through the corner.",
+"\"development\" after \"industrial\" is typed above the line, with a caret marked by hand. The closing parenthesis after \"applause.\" is written by hand."
+],
+"file": "transcriptions/1902-09-09-before-reaching-salisbury.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 63,
+"unique_words": 44,
+"sentences": 3,
+"avg_sentence": 21.0,
+"minutes": 1,
+"i_count": 2,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-09-salisbury",
@@ -8836,10 +9052,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 93,
+"paragraphs": [
+"Ladies and gentlemen:",
+"I am glad to have the chance of greeting you. I shall not try to make any speech at this time of the evening, and with the trains running in rivalry. I shall only say that it is always a great pleasure to go through or stop in your state of Pennsylvania; that I am pleased to be greeted by you; that I wish you well and thank you for having come to see me. I only wish I could stay and talk to you. Good evening. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8861,13 +9080,44 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0714",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0714",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and gentlemen:",
+"I am glad to have the chance of greeting you. I shall not try to make any speech at this time of the evening, and with the trains running in rivalry. I shall only say that it is always a great pleasure to go through or stop in your state of Pennsylvania; that I am pleased to be greeted by you; that I wish you well and thank you for having come to see me. I only wish I could stay and talk to you. Good evening. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 1 (frame 424:0714)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Ladies and gentlemen:",
+"I am glad to have the chance of <span class=\"sic\" title=\"reads: greeting\">greting</span> you. I shall not try to make any speech at this time of the evening, and with the trains running in rivalry. I shall only say that <span class=\"sic\" title=\"reads: it is\">is is</span> always a great pleasure to go through or stop in your state of Pennsylvania; that I am pleased to be greeted by you; that I wish you well and thank you for having come to see me. I only wish I could stay and talk to you. Good evening. (Cheers and applause)",
+"<span class=\"tnote\">The listed page (0714, right half) holds the Cincinnati Music Hall speech of September 20, not this one. The Altoona remarks are on the lower of two typed slips mounted on the left half (a) of frame 0714 (folio 1), below the Harrisburg remarks; that is the page transcribed here.</span>\n<span class=\"tnote\">&quot;File&quot; is written by hand diagonally beside the heading. &quot;you&quot; in &quot;I wish you well&quot; has an overstruck letter.</span>"
+],
+"notes": [
+"The listed page (0714, right half) holds the Cincinnati Music Hall speech of September 20, not this one. The Altoona remarks are on the lower of two typed slips mounted on the left half (a) of frame 0714 (folio 1), below the Harrisburg remarks; that is the page transcribed here.",
+"\"File\" is written by hand diagonally beside the heading. \"you\" in \"I wish you well\" has an overstruck letter."
+],
+"file": "transcriptions/1902-09-19-altoona.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 93,
+"unique_words": 62,
+"sentences": 5,
+"avg_sentence": 18.6,
+"minutes": 1,
+"i_count": 7,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-19-harrisburg",
@@ -8881,10 +9131,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 61,
+"paragraphs": [
+"Ladies and gentlemen:",
+"I want to thank you very much for letting me say what a pleasure it is to get even a glimpse of you. I only wish I were to stop off here and have a chance of making more of an address to you. I thank you ladies and gentlemen for having come out to see me. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8906,13 +9159,44 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0714",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0714",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and gentlemen:",
+"I want to thank you very much for letting me say what a pleasure it is to get even a glimpse of you. I only wish I were to stop off here and have a chance of making more of an address to you. I thank you ladies and gentlemen for having come out to see me. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 1 (frame 424:0714)</span>",
+"<span class=\"margin\">In the margin: not given out.</span>",
+"Ladies and gentlemen:",
+"I <span class=\"sic\" title=\"reads: want\">went</span> to thank you very much for letting me say what a pleasure it is to get even a glimpse of you. I only wish I were to stop off here and have a <span class=\"sic\" title=\"reads: chance\">chan ce</span> of making more of an address to you. I thank you ladies and gentlemen for having come out to see me. (Applause)",
+"<span class=\"tnote\">Upper of two typed slips mounted on the left half (a) of frame 0714 (folio 1); the Altoona remarks are on the lower slip. In the heading, letters after &quot;Pa.,&quot; (apparently &quot;P&quot; followed by x&#x27;s) are x-ed out on the typewriter and are omitted from the title above.</span>\n<span class=\"tnote\">&quot;not given out.&quot; is written by hand diagonally beside the heading, with an underline stroke.</span>"
+],
+"notes": [
+"Upper of two typed slips mounted on the left half (a) of frame 0714 (folio 1); the Altoona remarks are on the lower slip. In the heading, letters after \"Pa.,\" (apparently \"P\" followed by x's) are x-ed out on the typewriter and are omitted from the title above.",
+"\"not given out.\" is written by hand diagonally beside the heading, with an underline stroke."
+],
+"file": "transcriptions/1902-09-19-harrisburg.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 61,
+"unique_words": 40,
+"sentences": 3,
+"avg_sentence": 20.3,
+"minutes": 1,
+"i_count": 4,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-20-cincinnati",
@@ -9069,9 +9353,9 @@
 "corporation",
 "evils",
 "big",
+"business",
 "schedules",
 "cured",
-"business",
 "monopoly"
 ],
 "stats": {
@@ -9089,17 +9373,39 @@
 "date": "1902-09-22",
 "date_precision": "day",
 "date_source": "trc",
-"title": "A talk with comrades",
+"title": "A Talk with Comrades, Spanish War Veterans, Detroit",
 "occasion": null,
-"place": null,
+"place": "detroit-michigan",
 "kind": "speech",
 "period": "President, first term",
-"note": null,
+"note": "The document is printed pages cut into slips, not a typescript. It is a longer text of the Detroit address to the Spanish War Veterans than the one printed in Presidential Addresses and State Papers, which is listed separately.",
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 2351,
+"paragraphs": [
+"Mr. Mayor, and Men and Women of Michigan, and particularly you, My Comrades, who volunteered in the war with Spain, I thank you for your greeting.",
+"The first engagement I made this year was when I accepted the invitation so kindly extended to me by the Mayor of this city to speak on this occasion, for I felt that, coming from him as it did, and extended in such a way, I could not refuse.",
+"The war with Spain, though from it such great consequences have flowed, was itself but a small war, and, in the presence of the veterans of the Grand Army, all we can say is that we hope that we of the younger generation showed a desire to come up to the standard set by our fathers, the men of '61 to '65. Yet though the actual deeds done were trivial, when measured with the giant struggle in which Grant and Sherman and Thomas and Sheridan and Faragut and Porter won imperishable renown, it still remains true that the way in which those deeds were done was of good omen to the country. It emphasized in peculiar fashion the fundamental unity of our people. It brought home to us what should be the ever-present fact in our minds, that a good deed done by any American is put down to the credit of all Americans, and that, therefore, conversely, no act of wrong-doing can be performed by any of our number without the evil effects being felt to a greater or less degree by all of us. Here in Detroit, in Michigan, you had the good fortune most signally to illustrate this national unity.",
+"I myself served in the army, and, therefore, at Santiago I served beside two regiments of Michigan volunteers--the Thirty-third and Thirty-fourth--so that, with many of your sons, I can claim that right of comradeship which comes to those who have known one another under the close intimacy of such conditions. But Michigan also performed the unique feat, for an inland State, of manning one of the war vessels of the nation. A more striking tribute to the national militia of the State could not be paid than was paid when in their custody was placed the honor and interest of the United States, for there is no part of our honor and interest which we more jealously guard than that bound up in the fate of any of the war vessels of the nation. It had been my good fortune, while Assistant Secretary of the Navy, to come here and witness for myself the zeal and workmanlike efficiency of the officers and enlisted men of your naval militia.",
+"It did not need a long acquaintance with them to convince anyone that they meant business, that they had in them the stuff that would make it safe to trust them in time of trial, and that they had diligently and assiduously improved their opportunities in learning all that they could of their profession. When the period arose to utilize as many as possible of our people who were trained to go down to sea in ships, it was natural and fitting that one of our war-craft should be manned by your naval militia. It is, of course, a far more difficult and complicated thing to learn war duty afloat than war duty ashore, for the naval profession is a highly specialized one. A peculiar mode of honor, therefore, rightly belongs to the naval militia, and especially to the naval militia of the inland waters who so quickly and well responded to the call made upon them.",
+"Michigan's action is but one illustration of how closely bound together all our interests are in this nation. There are many such illustrations. Every State in this country had its sons represented on some of the war-craft which won honor in that short struggle during the summer of 1898. The names of the ships, no less than the birthplace of the officers and men aboard them, bear witness to the fact that our navy, like our army, is indeed national in character.",
+"DUTIES YET TO BE PERFORMED.",
+"The war itself was an easy one. The tasks left behind us, though glorious, have been hard. You, the men of the Spanish War, you and your comrades in arms who fought in Cuba and Porto Rico and in the Philippines, won renown for the country, added to its moral grandeur and to its material prosperity; but you also left duties to be done by those who came after you. In Porto Rico the duty has been merely administrative, and it has been so well done that very little need be said about it.",
+"In the Philippines the problem was one of extreme difficulty; but, after three years of bitter fighting, peace has been won by the valor of our soldiers, and civil government has been introduced, so that the islanders have now greater opportunities for life, liberty and the pursuit of happiness than ever they have enjoyed before during their recorded history. Last week I ordered a taking of the census of the islands, and two years hence, according to the law of Congress, the first steps will be taken in the direction of giving the Philippine people a legislative assembly. No other Oriental country in the possession of an alien power--indeed, no Oriental country at all save only Japan--has given any such measure of self-government and personal freedom as we have already given to the Filipinos.",
+"One of the most important recent measures has been the providing of a cable for the Philippines, this being necessary both from a commercial and from a military standpoint. It is only just to the representative to Congress from Detroit to say that we owe to him more than to any one man the fact that this cable is to be laid down upon terms absolutely satisfactory to the Government, which guarantee to the people of this country that their every right and interest in the cable shall be amply safeguarded.",
+"GOOD FAITH WITH CUBA.",
+"With Cuba the matter is different. We pledged ourselves solemnly at the outbreak of the war with Spain to give to Cuba independence. The world at large sneered at the pledge, and even some of our own people scoffed at the thought we intended to keep it. But we have kept it in good faith and with a keen regard for the welfare of the Cubans. We did not turn Cuba loose to sink into a welter of anarchy. We first administered the affairs of the island until order had been brought out of chaos, until the cities had been cleaned, the courts purified, an educational system started and a just and efficient government introduced. Then we turned the new republic over to the hands of those whom its people had elected as its servants, and bade it God-speed on its journey of independence.",
+"But neither our duty to, nor our interest in, the island have come to an end with the establishment of its independence. Cuba's immediate proximity to the United States rendered its well-being of such interest to us that we were forced to interfere in its interest by force of arms. For the same reason, its future welfare cannot but be a matter of grave concern to us. We do not desire Cuba to stand toward any other nation in the same relations of intimate friendship and alliance that we desire to see it adopt toward us. It must, therefore, be, in a certain sense, a part of our international political system, and it accepted this position when it accepted the Platt amendment. But it is out of the question for us to expect that it will assume such a position toward us with regard to international politics without at the same time sharing somewhat in the benefits of our economic system.",
+"It was for this reason that President McKinley urged, and that I have since urged and will continue to urge, the need of establishing closer relations with Cuba by reciprocity. We urge reciprocity because it is for our interests to control the Cuban market; because we are bound to place the Cubans on a peculiar standing economically when they consent, in our interests as well as their own, to assume a peculiar status internationally, and because it is fitting for a great and generous republic to stretch out a helping hand toward her feebler sister just starting to tread the path of independence. The case stands by itself, and there can be no other like it. Porto Rico, Hawaii and the Philippines have relations of varying intimacy to us, and they have either been admitted within our economic system or have been given some of the benefits thereof.",
+"Cuba, though independent, also stands in a peculiar position towards us, and should receive, in similar fashion, a measure of benefit from and partial inclusion within our system. The questions that ordinarily concern us as of prime weight in a tariff matter do not come in here as of primary importance. We cannot choose what the articles are which Cuba shall export. Doubtless very many of us would prefer, for reasons connected with our own tariff policy, that her inhabitants were engaged in different industries from those which they, as a matter of fact, now follow, just as, doubtless, others of our people would prefer that the market offered by Cuba was one for other things than those which she actually demands. But we can neither determine the wants nor the productions of Cuba. We must accept them as they are, and we must remember that, in dealing with this island--especially now that we are about to build the isthmian canal and our interests in the West Indian waters have become so great--we must shape our policy with a far-sighted regard for the future and for the interest and honor of the nation as a whole.",
+"I do not believe a particle of harm will come to any American interest from the adoption of a reasonable measure of reciprocity with Cuba. I am certain that the adoption of such a measure will be in the interest of our people as a whole. Above all, while fully acknowledging the high-mindedness and moral sincerity of those of my associates with whom on this point I differ, I yet feel most strongly that, by every consideration of a generous and far-sighted public policy, we are bound to prove to Cuba that our friendship with her is of a continuing character, and that we intend to aid her in her struggle for the material well-being which must underlie healthy national development.",
+"I speak in the presence not only of the men who fought in the Spanish War and in the Philippine War, which was its aftermath, but in the presence of the veterans who fought in the great war; and, more than that, I speak here in a typical city of the old Northwest, of what is now the Middle West, in a typical State of our Union. You, men of Michigan, have been mighty in war and mighty in peace. You belong to a country mighty in war and mighty in peace--a country of a great past, whose great present is but an earnest of an even greater future. The world has never seen more marvelous prosperity than that which we now enjoy, and this prosperity is not ephemeral. We shall have our ups and downs. The wave at times will recede, but the tide will go steadily higher.",
+"This country has never yet been called upon to meet a crisis in war or a crisis in peace to which it did not eventually prove equal, and, decade by decade, its power grows greater, and the likelihood of its meeting successfully any crisis becomes even more assured.",
+"THE GOSPEL OF HOPE",
+"I preach the gospel of hope to you men of the West, who, in thought and life, embody this gospel of hope, this gospel of resolute and confident belief in your own powers and in the destiny of this mighty Republic. I believe in the future--not in a spirit which will sit down and look for the future to work itself out--but with a determination each of us to do his part in making the future what it can and shall be made. We are optimists. We spurn the teachings of despair and distrust. We have an abiding faith in the growing strength, the growing future, of the mighty young nation, still in the flush of its youth, and yet already with the might of a giant which stands on a continent and grasps an ocean with either hand.",
+"Succeed? Of course we shall succeed! How can success fail to come to a race of masterful energy and resolute character which has a continent for the base of its domain and which feels within its veins the thrill that comes to generous souls when their strength stirs in them and they know that the future is theirs. No great destiny ever yet came to a nation whose people were laggards or feint-hearted. No great destiny ever yet came to a people walking with their eyes on the ground and their faces shrouded in gloom. No great destiny ever yet came to a people who feared the future, who feared failure more than they hoped for success. With such as these we have no part. We know there are dangers ahead, as we know there are evils to fight and overcome, but we feel to the full the pulse of the prosperity which we enjoy. Stout of heart, we see across the dangers the great future that lies beyond, and we rejoice as a giant refreshed, as a strong man girt for the race, and we go down into the arena where the nations strive for mastery, our hearts lifted with the faith that, to us and to our children and our children's children, it shall be given to make this Republic the greatest of all the peoples of mankind. [Applause.]"
+],
 "editions": [],
 "trc": [
 {
@@ -9121,16 +9427,162 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0733, 0734, 0735, 0736",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0733",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Mayor, and Men and Women of Michigan, and particularly you, My Comrades, who volunteered in the war with Spain, I thank you for your greeting.",
+"The first engagement I made this year was when I accepted the invitation so kindly extended to me by the Mayor of this city to speak on this occasion, for I felt that, coming from him as it did, and extended in such a way, I could not refuse.",
+"The war with Spain, though from it such great consequences have flowed, was itself but a small war, and, in the presence of the veterans of the Grand Army, all we can say is that we hope that we of the younger generation showed a desire to come up to the standard set by our fathers, the men of '61 to '65. Yet though the actual deeds done were trivial, when measured with the giant struggle in which Grant and Sherman and Thomas and Sheridan and Faragut and Porter won imperishable renown, it still remains true that the way in which those deeds were done was of good omen to the country. It emphasized in peculiar fashion the fundamental unity of our people. It brought home to us what should be the ever-present fact in our minds, that a good deed done by any American is put down to the credit of all Americans, and that, therefore, conversely, no act of wrong-doing can be performed by any of our number without the evil effects being felt to a greater or less degree by all of us. Here in Detroit, in Michigan, you had the good fortune most signally to illustrate this national unity.",
+"I myself served in the army, and, therefore, at Santiago I served beside two regiments of Michigan volunteers--the Thirty-third and Thirty-fourth--so that, with many of your sons, I can claim that right of comradeship which comes to those who have known one another under the close intimacy of such conditions. But Michigan also performed the unique feat, for an inland State, of manning one of the war vessels of the nation. A more striking tribute to the national militia of the State could not be paid than was paid when in their custody was placed the honor and interest of the United States, for there is no part of our honor and interest which we more jealously guard than that bound up in the fate of any of the war vessels of the nation. It had been my good fortune, while Assistant Secretary of the Navy, to come here and witness for myself the zeal and workmanlike efficiency of the officers and enlisted men of your naval militia.",
+"It did not need a long acquaintance with them to convince anyone that they meant business, that they had in them the stuff that would make it safe to trust them in time of trial, and that they had diligently and assiduously improved their opportunities in learning all that they could of their profession. When the period arose to utilize as many as possible of our people who were trained to go down to sea in ships, it was natural and fitting that one of our war-craft should be manned by your naval militia. It is, of course, a far more difficult and complicated thing to learn war duty afloat than war duty ashore, for the naval profession is a highly specialized one. A peculiar mode of honor, therefore, rightly belongs to the naval militia, and especially to the naval militia of the inland waters who so quickly and well responded to the call made upon them.",
+"Michigan's action is but one illustration of how closely bound together all our interests are in this nation. There are many such illustrations. Every State in this country had its sons represented on some of the war-craft which won honor in that short struggle during the summer of 1898. The names of the ships, no less than the birthplace of the officers and men aboard them, bear witness to the fact that our navy, like our army, is indeed national in character.",
+"DUTIES YET TO BE PERFORMED.",
+"The war itself was an easy one. The tasks left behind us, though glorious, have been hard. You, the men of the Spanish War, you and your comrades in arms who fought in Cuba and Porto Rico and in the Philippines, won renown for the country, added to its moral grandeur and to its material prosperity; but you also left duties to be done by those who came after you. In Porto Rico the duty has been merely administrative, and it has been so well done that very little need be said about it.",
+"In the Philippines the problem was one of extreme difficulty; but, after three years of bitter fighting, peace has been won by the valor of our soldiers, and civil government has been introduced, so that the islanders have now greater opportunities for life, liberty and the pursuit of happiness than ever they have enjoyed before during their recorded history. Last week I ordered a taking of the census of the islands, and two years hence, according to the law of Congress, the first steps will be taken in the direction of giving the Philippine people a legislative assembly. No other Oriental country in the possession of an alien power--indeed, no Oriental country at all save only Japan--has given any such measure of self-government and personal freedom as we have already given to the Filipinos.",
+"One of the most important recent measures has been the providing of a cable for the Philippines, this being necessary both from a commercial and from a military standpoint. It is only just to the representative to Congress from Detroit to say that we owe to him more than to any one man the fact that this cable is to be laid down upon terms absolutely satisfactory to the Government, which guarantee to the people of this country that their every right and interest in the cable shall be amply safeguarded.",
+"GOOD FAITH WITH CUBA.",
+"With Cuba the matter is different. We pledged ourselves solemnly at the outbreak of the war with Spain to give to Cuba independence. The world at large sneered at the pledge, and even some of our own people scoffed at the thought we intended to keep it. But we have kept it in good faith and with a keen regard for the welfare of the Cubans. We did not turn Cuba loose to sink into a welter of anarchy. We first administered the affairs of the island until order had been brought out of chaos, until the cities had been cleaned, the courts purified, an educational system started and a just and efficient government introduced. Then we turned the new republic over to the hands of those whom its people had elected as its servants, and bade it God-speed on its journey of independence.",
+"But neither our duty to, nor our interest in, the island have come to an end with the establishment of its independence. Cuba's immediate proximity to the United States rendered its well-being of such interest to us that we were forced to interfere in its interest by force of arms. For the same reason, its future welfare cannot but be a matter of grave concern to us. We do not desire Cuba to stand toward any other nation in the same relations of intimate friendship and alliance that we desire to see it adopt toward us. It must, therefore, be, in a certain sense, a part of our international political system, and it accepted this position when it accepted the Platt amendment. But it is out of the question for us to expect that it will assume such a position toward us with regard to international politics without at the same time sharing somewhat in the benefits of our economic system.",
+"It was for this reason that President McKinley urged, and that I have since urged and will continue to urge, the need of establishing closer relations with Cuba by reciprocity. We urge reciprocity because it is for our interests to control the Cuban market; because we are bound to place the Cubans on a peculiar standing economically when they consent, in our interests as well as their own, to assume a peculiar status internationally, and because it is fitting for a great and generous republic to stretch out a helping hand toward her feebler sister just starting to tread the path of independence. The case stands by itself, and there can be no other like it. Porto Rico, Hawaii and the Philippines have relations of varying intimacy to us, and they have either been admitted within our economic system or have been given some of the benefits thereof.",
+"Cuba, though independent, also stands in a peculiar position towards us, and should receive, in similar fashion, a measure of benefit from and partial inclusion within our system. The questions that ordinarily concern us as of prime weight in a tariff matter do not come in here as of primary importance. We cannot choose what the articles are which Cuba shall export. Doubtless very many of us would prefer, for reasons connected with our own tariff policy, that her inhabitants were engaged in different industries from those which they, as a matter of fact, now follow, just as, doubtless, others of our people would prefer that the market offered by Cuba was one for other things than those which she actually demands. But we can neither determine the wants nor the productions of Cuba. We must accept them as they are, and we must remember that, in dealing with this island--especially now that we are about to build the isthmian canal and our interests in the West Indian waters have become so great--we must shape our policy with a far-sighted regard for the future and for the interest and honor of the nation as a whole.",
+"I do not believe a particle of harm will come to any American interest from the adoption of a reasonable measure of reciprocity with Cuba. I am certain that the adoption of such a measure will be in the interest of our people as a whole. Above all, while fully acknowledging the high-mindedness and moral sincerity of those of my associates with whom on this point I differ, I yet feel most strongly that, by every consideration of a generous and far-sighted public policy, we are bound to prove to Cuba that our friendship with her is of a continuing character, and that we intend to aid her in her struggle for the material well-being which must underlie healthy national development.",
+"I speak in the presence not only of the men who fought in the Spanish War and in the Philippine War, which was its aftermath, but in the presence of the veterans who fought in the great war; and, more than that, I speak here in a typical city of the old Northwest, of what is now the Middle West, in a typical State of our Union. You, men of Michigan, have been mighty in war and mighty in peace. You belong to a country mighty in war and mighty in peace--a country of a great past, whose great present is but an earnest of an even greater future. The world has never seen more marvelous prosperity than that which we now enjoy, and this prosperity is not ephemeral. We shall have our ups and downs. The wave at times will recede, but the tide will go steadily higher.",
+"This country has never yet been called upon to meet a crisis in war or a crisis in peace to which it did not eventually prove equal, and, decade by decade, its power grows greater, and the likelihood of its meeting successfully any crisis becomes even more assured.",
+"THE GOSPEL OF HOPE",
+"I preach the gospel of hope to you men of the West, who, in thought and life, embody this gospel of hope, this gospel of resolute and confident belief in your own powers and in the destiny of this mighty Republic. I believe in the future--not in a spirit which will sit down and look for the future to work itself out--but with a determination each of us to do his part in making the future what it can and shall be made. We are optimists. We spurn the teachings of despair and distrust. We have an abiding faith in the growing strength, the growing future, of the mighty young nation, still in the flush of its youth, and yet already with the might of a giant which stands on a continent and grasps an ocean with either hand.",
+"Succeed? Of course we shall succeed! How can success fail to come to a race of masterful energy and resolute character which has a continent for the base of its domain and which feels within its veins the thrill that comes to generous souls when their strength stirs in them and they know that the future is theirs. No great destiny ever yet came to a nation whose people were laggards or feint-hearted. No great destiny ever yet came to a people walking with their eyes on the ground and their faces shrouded in gloom. No great destiny ever yet came to a people who feared the future, who feared failure more than they hoped for success. With such as these we have no part. We know there are dangers ahead, as we know there are evils to fight and overcome, but we feel to the full the pulse of the prosperity which we enjoy. Stout of heart, we see across the dangers the great future that lies beyond, and we rejoice as a giant refreshed, as a strong man girt for the race, and we go down into the arena where the nations strive for mastery, our hearts lifted with the faith that, to us and to our children and our children's children, it shall be given to make this Republic the greatest of all the peoples of mankind. [Applause.]"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 33 (frame 424:0733)</span>",
+"<span class=\"margin\">In the margin: <span class=\"unc\" title=\"uncertain reading\">Script of Detroit speech as revised by the President</span></span>",
+"Mr. Mayor, and Men and Women of Michigan, and particularly you, My Comrades, who volunteered in the war with Spain, I thank you for your greeting.",
+"The first engagement I made this year was when I accepted the invitation so kindly extended to me by the Mayor of this city to speak on this occasion, for I felt that, coming from him as it did, and extended in such a way, I could not refuse.",
+"The war with Spain, though from it such great consequences have flowed, was itself but a small war, and, in the presence of the veterans of the Grand Army, all we can say is that we hope that we of the younger generation showed a desire to come up to the standard set by our fathers, the men of &#x27;61 to &#x27;65. Yet though the actual deeds done were trivial, when measured with the giant struggle in which Grant and Sherman and Thomas and Sheridan and Faragut and Porter won imperishable renown, it still remains true that the way in which those deeds were done was of good omen to the country. It emphasized in peculiar fashion the fundamental unity of our people. It brought home to us what should be the ever-present fact in our minds, that a good deed done by any American is put down to the credit of all Americans, and that, therefore, conversely, no act of wrong-doing can be performed by any of our number without the evil effects being felt to a greater or less degree by all of us. Here in Detroit, in Michigan, you had the good fortune most signally to illustrate this national unity.",
+"I myself served in the army, and, therefore, at Santiago I served beside two regiments of Michigan volunteers--the Thirty-third and Thirty-fourth--so that, with many of your sons, I can claim that right of comradeship <span class=\"pb\">Page 33 (frame 424:0734)</span> which comes to those who have known one another under the close intimacy of such conditions. But Michigan also performed the unique feat, for an inland State, of manning one of the war vessels of the nation. A more striking tribute to the national militia of the State could not be paid than was paid when in their custody was placed the honor and interest of the United States, for there is no part of our honor and interest which we more jealously guard than that bound up in the fate of any of the war vessels of the nation. It had been my good fortune, while Assistant Secretary of the Navy, to come here and witness for myself the zeal and workmanlike efficiency of the officers and enlisted men of your naval militia.",
+"It did not need a long acquaintance with them to convince anyone that they meant business, that they had in them the stuff that would make it safe to trust them in time of trial, and that they had diligently and assiduously improved their opportunities in learning all that they could of their profession. When the period arose to utilize as many as possible of our people who were trained to go down to sea in ships, it was natural and fitting that one of our war-craft should be manned by your naval militia. It is, of course, a far more difficult and complicated thing to learn war duty afloat than war duty ashore, for the naval profession is a highly specialized one. A peculiar mode of honor, therefore, rightly belongs to the naval militia, and especially to the naval militia of the inland waters who so quickly and well responded to the call made upon them.",
+"Michigan&#x27;s action is but one illustration of how closely bound together all our interests are in this nation. There are many such illustrations. Every State in this country had its sons represented on some of the war-craft which won honor in that short struggle during the summer of 1898. The names of the ships, no less than the birthplace of the officers and men aboard them, bear witness to the fact that our navy, like our army, is indeed national in character.",
+"DUTIES YET TO BE PERFORMED.",
+"The war itself was an easy one. The tasks left behind us, though glorious, have been hard. You, the men of the Spanish War, you and your comrades in arms who fought in Cuba and Porto Rico and in the Philippines, won renown for the country, added to its moral grandeur and to its material prosperity; but you also left duties to be done by those who came after you. In Porto Rico the duty has been merely administrative, and it has been so well done that very little need be said about it.",
+"In the Philippines the problem was one of extreme difficulty; but, after three years of bitter fighting, peace has been won by the valor of our soldiers, and civil government has been introduced, so that the islanders have now greater opportunities for life, liberty and the pursuit of happiness than ever they have enjoyed before during their recorded history. Last week I ordered a taking of the census of the islands, and two years hence, according to the law of Congress, the first steps will be taken in the direction of giving the Philippine people a legislative assembly. No other Oriental country in the possession of an alien power--indeed, no Oriental country at all save only Japan--has given any such measure of self-government and personal freedom as we have already given to the Filipinos.",
+"One of the most important recent measures has been the providing of a cable for the Philippines, this being necessary both from a commercial and from a military standpoint. It is only just to the representative to Congress from <span class=\"pb\">Page 34 (frame 424:0735)</span> Detroit to say that we owe to him more than to any one man the fact that this cable is to be laid down upon terms absolutely satisfactory to the Government, which guarantee to the people of this country that their every right and interest in the cable shall be amply safeguarded.",
+"GOOD FAITH WITH CUBA.",
+"With Cuba the matter is different. We pledged ourselves solemnly at the outbreak of the war with Spain to give to Cuba independence. The world at large sneered at the pledge, and even some of our own people scoffed at the thought we intended to keep it. But we have kept it in good faith and with a keen regard for the welfare of the Cubans. We did not turn Cuba loose to sink into a welter of anarchy. We first administered the affairs of the island until order had been brought out of chaos, until the cities had been cleaned, the courts purified, an educational system started and a just and efficient government introduced. Then we turned the new republic over to the hands of those whom its people had elected as its servants, and bade it God-speed on its journey of independence.",
+"But neither our duty to, nor our interest in, the island have come to an end with the establishment of its independence. Cuba&#x27;s immediate proximity to the United States rendered its well-being of such interest to us that we were forced to interfere in its interest by force of arms. For the same reason, its future welfare cannot but be a matter of grave concern to us. We do not desire Cuba to stand toward any other nation in the same relations of intimate friendship and alliance that we desire to see it adopt toward us. It must, therefore, be, in a certain sense, a part of our international political system, and it accepted this position when it accepted the Platt amendment. But it is out of the question for us to expect that it will assume such a position toward us with regard to international politics without at the same time sharing somewhat in the benefits of our economic system.",
+"It was for this reason that President McKinley urged, and that I have since urged and will continue to urge, the need of establishing closer relations with Cuba by reciprocity. We urge reciprocity because it is for our interests to control the Cuban market; because we are bound to place the Cubans on a peculiar standing economically when they consent, in our interests as well as their own, to assume a peculiar status internationally, and because it is fitting for a great and generous republic to stretch out a helping hand toward her feebler sister just starting to tread the path of independence. The case stands by itself, and there can be no other like it. Porto Rico, Hawaii and the Philippines have relations of varying intimacy to us, and they have either been admitted within our economic system or have been given some of the benefits thereof.",
+"Cuba, though independent, also stands in a peculiar position towards us, and should receive, in similar fashion, a measure of benefit from and partial inclusion within our system. The questions that ordinarily concern us as of prime weight in a tariff matter do not come in here as of primary importance. We cannot choose what the articles are which Cuba shall export. Doubtless very many of us would prefer, for reasons connected with our own tariff policy, that her inhabitants were engaged in different industries from those which they, as a matter of fact, now follow, just as, doubtless, others of our people would prefer that the market offered by Cuba was one for other things than those which she actually demands. But we can neither determine the wants nor the productions of Cuba. We must accept them as they are, and we must remember that, in dealing with <span class=\"pb\">Page 34 (frame 424:0736)</span> this island--especially now that we are about to build the isthmian canal and our interests in the West Indian waters have become so great--we must shape our policy with a far-sighted regard for the future and for the interest and honor of the nation as a whole.",
+"I do not believe a particle of harm will come to any American interest from the adoption of a reasonable measure of reciprocity with Cuba. I am certain that the adoption of such a measure will be in the interest of our people as a whole. Above all, while fully acknowledging the high-mindedness and moral sincerity of those of my associates with whom on this point I differ, I yet feel most strongly that, by every consideration of a generous and far-sighted public policy, we are bound to prove to Cuba that our friendship with her is of a continuing character, and that we intend to aid her in her struggle for the material well-being which must underlie healthy national development.",
+"I speak in the presence not only of the men who fought in the Spanish War and in the Philippine War, which was its aftermath, but in the presence of the veterans who fought in the great war; and, more than that, I speak here in a typical city of the old Northwest, of what is now the Middle West, in a typical State of our Union. You, men of Michigan, have been mighty in war and mighty in peace. You belong to a country mighty in war and mighty in peace--a country of a great past, whose great present is but an earnest of an even greater future. The world has never seen more marvelous prosperity than that which we now enjoy, and this prosperity is not ephemeral. We shall have our ups and downs. The wave at times will recede, but the tide will go steadily higher.",
+"This country has never yet been called upon to meet a crisis in war or a crisis in peace to which it did not eventually prove equal, and, decade by decade, its power grows greater, and the likelihood of its meeting successfully any crisis becomes even more assured.",
+"THE GOSPEL OF HOPE",
+"I preach the gospel of hope to you men of the West, who, in thought and life, embody this gospel of hope, this gospel of resolute and confident belief in your own powers and in the destiny of this mighty Republic. I believe in the future--not in a spirit which will sit down and look for the future to work itself out--but with a determination each of us to do his part in making the future what it can and shall be made. We are optimists. We spurn the teachings of despair and distrust. We have an abiding faith in the growing strength, the growing future, of the mighty young nation, still in the flush of its youth, and yet already with the might of a giant which stands on a continent and grasps an ocean with either hand.",
+"Succeed? Of course we shall succeed! How can success fail to come to a race of masterful energy and resolute character which has a continent for the base of its domain and which feels within its veins the thrill that comes to generous souls when their strength stirs in them and they know that the future is theirs. No great destiny ever yet came to a nation whose people were laggards or feint-hearted. No great destiny ever yet came to a people walking with their eyes on the ground and their faces shrouded in gloom. No great destiny ever yet came to a people who feared the future, who feared failure more than they hoped for success. With such as these we have no part. We know there are dangers ahead, as we know there are evils to fight and overcome, but we feel <span class=\"pb\">Page 34 (frame 424:0735)</span> to the full the pulse of the prosperity which we enjoy. Stout of heart, we see across the dangers the great future that lies beyond, and we rejoice as a giant refreshed, as a strong man girt for the race, and we go down into the arena where the nations strive for mastery, our hearts lifted with the faith that, to us and to our children and our children&#x27;s children, it shall be given to make this Republic the greatest of all the peoples of mankind. [Applause.]",
+"<span class=\"tnote\">This is not a typescript: the speech is a printed text (book pages 47-50) cut into five slips, numbered 1 to 5 by hand, and mounted on folios 33 and 34. The listed pages (0735 left, 0736 left and right) were off: the speech begins on frame 0733 (slip 1, printed page 47, below the end of a preceding speech), continues on the fold-out slip 2 seen on frame 0734 (page 48), slip 3 on frame 0735 (page 49), the fold-out slip 4 seen on frame 0736 (page 50), and ends on slip 5 at the foot of folio 34 (visible on both 0735 and 0736).</span>\n<span class=\"tnote\">Dashes printed as em-dashes are given as &quot;--&quot;. Printed spellings are kept (&quot;Faragut&quot;, &quot;feint-hearted&quot;, &quot;Porto Rico&quot;).</span>\n<span class=\"tnote\">On slip 1 a large hand X cancels the end of the preceding speech, and a diagonal hand note runs across it in the margin; its reading is uncertain. On slip 2 there are faint pencil marks (a few strokes and ticks over &quot;also&quot;, &quot;any&quot;, &quot;workmanlike&quot;, &quot;diligently&quot;, &quot;afloat&quot;, &quot;especially&quot;) that do not change the text.</span>"
+],
+"notes": [
+"This is not a typescript: the speech is a printed text (book pages 47-50) cut into five slips, numbered 1 to 5 by hand, and mounted on folios 33 and 34. The listed pages (0735 left, 0736 left and right) were off: the speech begins on frame 0733 (slip 1, printed page 47, below the end of a preceding speech), continues on the fold-out slip 2 seen on frame 0734 (page 48), slip 3 on frame 0735 (page 49), the fold-out slip 4 seen on frame 0736 (page 50), and ends on slip 5 at the foot of folio 34 (visible on both 0735 and 0736).",
+"Dashes printed as em-dashes are given as \"--\". Printed spellings are kept (\"Faragut\", \"feint-hearted\", \"Porto Rico\").",
+"On slip 1 a large hand X cancels the end of the preceding speech, and a diagonal hand note runs across it in the margin; its reading is uncertain. On slip 2 there are faint pencil marks (a few strokes and ticks over \"also\", \"any\", \"workmanlike\", \"diligently\", \"afloat\", \"especially\") that do not change the text."
+],
+"file": "transcriptions/1902-09-22-a-talk-with-comrades.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"empire",
+"military"
+],
+"mentions": {
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
 },
 {
-"id": "1902-09-22-detroit",
+"id": "william-mckinley",
+"name": "William McKinley",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+}
+],
+"places": [
+{
+"id": "cuba",
+"name": "Cuba",
+"count": 16
+},
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 7
+},
+{
+"id": "spain",
+"name": "Spain",
+"count": 5
+},
+{
+"id": "porto-rico",
+"name": "Puerto Rico (Porto Rico)",
+"count": 3
+},
+{
+"id": "the-west",
+"name": "The West",
+"count": 2
+},
+{
+"id": "hawaii",
+"name": "Hawaii",
+"count": 1
+},
+{
+"id": "japan",
+"name": "Japan",
+"count": 1
+},
+{
+"id": "santiago",
+"name": "Santiago and San Juan Hill",
+"count": 1
+}
+]
+},
+"distinctive": [
+"cuba",
+"michigan",
+"militia",
+"gospel",
+"reciprocity",
+"naval",
+"destiny",
+"cable",
+"war",
+"rico"
+],
+"stats": {
+"words": 2360,
+"unique_words": 736,
+"sentences": 76,
+"avg_sentence": 31.1,
+"minutes": 18,
+"i_count": 18,
+"we_count": 39
+}
+},
+{
+"id": "1902-09-22-detroit-2",
 "date": "1902-09-22",
 "date_precision": "day",
 "date_source": "text",
@@ -9430,7 +9882,7 @@
 "physical",
 "difficulties",
 "continent",
-"believe"
+"big"
 ],
 "stats": {
 "words": 749,
@@ -9538,8 +9990,8 @@
 ]
 },
 "distinctive": [
-"indiana",
 "delivery",
+"indiana",
 "resources",
 "closer",
 "change",
@@ -9689,10 +10141,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 382,
+"paragraphs": [
+"My fellow Americans; men and women of this beautiful city, this beautiful State:",
+"I am glad to have the chance of witnessing as noteworthy a sight as this sea of people with as a background the majestic and beautiful monument which you have reared to the sons of Indiana who did well for the republic in the past.(Applause) I have come through your state this morning, seeing on every hand the proofs of the marvelous and abounding prosperity which we now as a people enjoy. It is a good thing for the state, for the nation, to have such material well-being. That of course is the foundation upon which we must build; but it is an even greater thing when a great state erects a monument such as that to those of her sons whom the people most delight to honor.(Applause) Material well-being counts for much-for very much; but the lift toward lofty deeds counts for even more, and we, the citizens of this great American republic, when we come together on an occasion like this, come as preachers of the gospel of hope, not the gospel of despair. The men who have done mightily for the nation in the past have been the men who believed with all their hearts and souls in the nation and the nation's destiny. The men who won honor in the Civil War were the men who said that the Union should indeed be preserved and made their words good by their deeds. We have our faces set toward the future. Scant is our sympathy with the men who fear failure so much that they dare not try for success. This nation is to play a great part in the world, and as it moves down into the arena where the nations of the world strive for the lead in shaping the destiny of mankind, we its people feel our veins thrill with the confident faith that to us and our children and our children's children it is given to face the dangers and difficulties, not to shirk them; to do our duty at home and to do it abroad; to dare to be great and to make our nation what it shall be-the greatest upon which the sun has ever shone. (Great applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -9714,13 +10169,51 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0758",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0758",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow Americans; men and women of this beautiful city, this beautiful State:",
+"I am glad to have the chance of witnessing as noteworthy a sight as this sea of people with as a background the majestic and beautiful monument which you have reared to the sons of Indiana who did well for the republic in the past.(Applause) I have come through your state this morning, seeing on every hand the proofs of the marvelous and abounding prosperity which we now as a people enjoy. It is a good thing for the state, for the nation, to have such material well-being. That of course is the foundation upon which we must build; but it is an even greater thing when a great state erects a monument such as that to those of her sons whom the people most delight to honor.(Applause) Material well-being counts for much-for very much; but the lift toward lofty deeds counts for even more, and we, the citizens of this great American republic, when we come together on an occasion like this, come as preachers of the gospel of hope, not the gospel of despair. The men who have done mightily for the nation in the past have been the men who believed with all their hearts and souls in the nation and the nation's destiny. The men who won honor in the Civil War were the men who said that the Union should indeed be preserved and made their words good by their deeds. We have our faces set toward the future. Scant is our sympathy with the men who fear failure so much that they dare not try for success. This nation is to play a great part in the world, and as it moves down into the arena where the nations of the world strive for the lead in shaping the destiny of mankind, we its people feel our veins thrill with the confident faith that to us and our children and our children's children it is given to face the dangers and difficulties, not to shirk them; to do our duty at home and to do it abroad; to dare to be great and to make our nation what it shall be-the greatest upon which the sun has ever shone. (Great applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 82 (frame 424:0758)</span>",
+"My fellow Americans; men and women of this beautiful city,this beautiful <span class=\"sic\" title=\"reads: State:\">States</span>",
+"I am glad to have the chance of witnessing as noteworthy a sight as this sea of people with as a background the majestic and beautiful monument which you have reared to the sons of Indiana who did well for the republic in the past.(Applause) I have come through your state this morning,seeing on every hand the proofs of the marvelous and abounding prosperity which we now as a people enjoy. It is a good thing for the state, for the nation, to have such material well-being. That of course <span class=\"sic\" title=\"reads: is\">id</span> the foundation upon which we must build; but it is an even greater thing when a great state erects a monument such as that to those of her sons whom the people most delight to honor.(Applause) Material well-being counts for much-for very much; but the lift toward lofty deeds counts for even more, and we,the citizens of this great American republic, when we come together on an occasion like this, come as preachers of the gospel <span class=\"sic\" title=\"reads: of\">o f</span> hope, <span class=\"sic\" title=\"reads: not\">hot</span> the gospel of despair. The men who have done <span class=\"sic\" title=\"reads: mightily\">mi ghtily</span> for the nation in the past have been the men who believed with all their hearts and souls in the nation <del title=\"struck through\">xxxxxx</del> and the nation&#x27;s destiny. The men who won honor in the Civil War were the men who said that the Union should indeed be preserved<del title=\"struck through\">x</del> and made their words good by their deeds. We have our faces set toward the future. Scant is our sympathy with the men who fear failure so much that they dare not try for success. This nation is to play a great part in the world, and as it <del title=\"struck through\">xxxx</del> moves down into the arena where the nations of the world strive for the lead in shaping the destiny of mankind, we its people feel our veins thrill with the confident faith that to us and our children and our children&#x27;s children it is given to face the dangers and difficulties, not to shirk them; to do our duty at home and to do it abroad; to dare to be great and to make our nation what it shall be-the greatest upon which the sun has ever shone. (Great applause)",
+"<span class=\"tnote\">Right half (b) of frame 0758, folio 82.</span>\n<span class=\"tnote\">The last character of the salutation (&quot;States&quot;) appears to be a colon overstruck with &quot;s&quot; or the reverse; read as &quot;State:&quot;. &quot;hope&quot; has an overstruck letter with a stray mark below it.</span>"
+],
+"notes": [
+"Right half (b) of frame 0758, folio 82.",
+"The last character of the salutation (\"States\") appears to be a colon overstruck with \"s\" or the reverse; read as \"State:\". \"hope\" has an overstruck letter with a stray mark below it."
+],
+"file": "transcriptions/1902-09-23-address-from-balcony-of-columbia-club.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family",
+"religion"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"beautiful",
+"state",
+"nation"
+],
+"stats": {
+"words": 382,
+"unique_words": 181,
+"sentences": 8,
+"avg_sentence": 47.8,
+"minutes": 3,
+"i_count": 2,
+"we_count": 6
+}
 },
 {
 "id": "1902-09-23-logansport",
@@ -10956,8 +11449,8 @@
 "filipinos",
 "philippines",
 "sons",
-"philippine",
 "general",
+"philippine",
 "governor",
 "soldiers"
 ],
@@ -11399,11 +11892,11 @@
 "schools",
 "tone",
 "quarters",
-"school",
 "woman",
+"school",
 "teachers",
-"sake",
-"training"
+"training",
+"sake"
 ],
 "stats": {
 "words": 1166,
@@ -11698,13 +12191,13 @@
 "cable",
 "tariff",
 "congress",
-"consideration",
-"navy",
-"islands",
 "corporations",
+"navy",
+"consideration",
+"islands",
 "system",
-"reciprocity",
-"rural"
+"rural",
+"absorption"
 ],
 "stats": {
 "words": 9756,
@@ -13656,9 +14149,9 @@
 "economic",
 "trusts",
 "reduction",
+"treaty",
 "market",
 "cuban",
-"treaty",
 "interests"
 ],
 "stats": {
@@ -14271,8 +14764,8 @@
 },
 "distinctive": [
 "department",
-"wheat",
 "agriculture",
+"wheat",
 "growers",
 "wage-worker",
 "tiller",
@@ -17830,9 +18323,9 @@
 "quality",
 "charity",
 "miserable",
-"embody",
 "qualities",
 "preacher",
+"embody",
 "tendencies",
 "men's"
 ],
@@ -19122,8 +19615,8 @@
 ]
 },
 "distinctive": [
-"pasturage",
 "regiment",
+"pasturage",
 "mexico",
 "territory",
 "born",
@@ -21309,8 +21802,8 @@
 "pacific",
 "mediterranean",
 "seated",
-"sea",
 "roman",
+"sea",
 "strove",
 "antiquity",
 "centuries",
@@ -22497,8 +22990,8 @@
 "lumbering",
 "california",
 "mountains",
-"fundamental",
 "land",
+"fundamental",
 "soil",
 "supply"
 ],
@@ -23689,8 +24182,8 @@
 },
 "distinctive": [
 "alaska",
-"union",
 "growth",
+"union",
 "state"
 ],
 "stats": {
@@ -25301,7 +25794,7 @@
 "over-grazing",
 "irrigated",
 "forests",
-"range"
+"land"
 ],
 "stats": {
 "words": 2338,
@@ -27454,8 +27947,8 @@
 "fitter",
 "clean",
 "younger",
-"example",
 "preaching",
+"example",
 "society",
 "admire",
 "boys",
@@ -27881,7 +28374,7 @@
 "gallant",
 "grand",
 "regiment",
-"union"
+"liberty"
 ],
 "stats": {
 "words": 1585,
@@ -28226,8 +28719,8 @@
 "divide",
 "generation",
 "corruption",
-"address",
-"justice"
+"justice",
+"officer"
 ],
 "stats": {
 "words": 1179,
@@ -29143,7 +29636,7 @@
 "responsibility",
 "therefore",
 "government",
-"together"
+"unless"
 ],
 "stats": {
 "words": 929,
@@ -29712,8 +30205,8 @@
 "valley",
 "saved",
 "commemorate",
-"crises",
 "effort",
+"crises",
 "crisis",
 "history",
 "washington"
@@ -30154,8 +30647,8 @@
 ]
 },
 "distinctive": [
-"tariff",
 "promises",
+"tariff",
 "opponents",
 "reciprocity",
 "republican",
@@ -31677,8 +32170,8 @@
 "education",
 "navy",
 "university",
-"govern",
 "justice",
+"govern",
 "principles",
 "lincoln"
 ],
@@ -32344,8 +32837,8 @@
 "wore",
 "fathers",
 "regiment",
-"arms",
 "fought",
+"arms",
 "deeds"
 ],
 "stats": {
@@ -32570,7 +33063,7 @@
 "rules",
 "army",
 "legitimate",
-"railroads"
+"wealth"
 ],
 "stats": {
 "words": 1528,
@@ -32936,8 +33429,8 @@
 },
 "distinctive": [
 "party",
-"questions",
 "power",
+"questions",
 "wheeled",
 "frankest",
 "corporations",
@@ -33781,8 +34274,8 @@
 "fever",
 "wood",
 "panama",
-"cuba",
 "yellow",
+"cuba",
 "profession",
 "front",
 "trouble",
@@ -33972,8 +34465,8 @@
 "creditors",
 "custom-houses",
 "debts",
-"monroe",
-"policy"
+"policy",
+"monroe"
 ],
 "stats": {
 "words": 4357,
@@ -34104,8 +34597,8 @@
 "face",
 "fought",
 "sons",
-"south",
 "age",
+"south",
 "scrupulous",
 "faced",
 "valor"
@@ -34346,9 +34839,9 @@
 "problems",
 "organization",
 "connected",
-"north",
 "material",
 "level",
+"north",
 "foundation",
 "citizen",
 "afford",
@@ -34556,8 +35049,8 @@
 "highway",
 "administrative",
 "railroad",
-"carolina",
 "railroads",
+"carolina",
 "shippers",
 "forests",
 "highways",
@@ -34721,7 +35214,7 @@
 "planter",
 "islands",
 "wage-workers",
-"fortunes"
+"corporations"
 ],
 "stats": {
 "words": 3521,
@@ -34995,8 +35488,8 @@
 "concerned",
 "accomplished",
 "benefit",
-"south",
-"faith"
+"faith",
+"south"
 ],
 "stats": {
 "words": 1264,
@@ -35712,8 +36205,8 @@
 "louisiana",
 "orleans",
 "mayor",
-"gratitude",
 "governor",
+"gratitude",
 "summer",
 "request",
 "favor",
@@ -36500,7 +36993,7 @@
 "action",
 "evils",
 "twisted",
-"oyster"
+"wrong"
 ],
 "stats": {
 "words": 6288,
@@ -36615,8 +37108,8 @@
 "navy",
 "speed",
 "guns",
-"trip",
-"gun"
+"gun",
+"trip"
 ],
 "stats": {
 "words": 1101,
@@ -36684,8 +37177,8 @@
 "commission",
 "canal",
 "statements",
-"isthmian",
 "false",
+"isthmian",
 "employment",
 "panama"
 ],
@@ -36760,8 +37253,8 @@
 "distinctive": [
 "medical",
 "profession",
-"corps",
 "army",
+"corps",
 "panama",
 "disaster",
 "department",
@@ -37936,8 +38429,8 @@
 "john",
 "dead",
 "cumberland",
-"ships",
-"prepared"
+"prepared",
+"ships"
 ],
 "stats": {
 "words": 1937,
@@ -38322,10 +38815,10 @@
 "navy",
 "military",
 "befallen",
-"afloat",
 "army",
-"ashore",
+"afloat",
 "civil",
+"ashore",
 "everyday",
 "francisco"
 ],
@@ -38685,8 +39178,8 @@
 "intellect",
 "college",
 "prowess",
-"learning",
 "boy",
+"learning",
 "condemn",
 "students",
 "count"
@@ -38851,10 +39344,10 @@
 "factor",
 "supervision",
 "lay",
-"city",
 "government",
-"injustice",
-"help"
+"city",
+"help",
+"injustice"
 ],
 "stats": {
 "words": 1536,
@@ -38996,7 +39489,7 @@
 "constitution",
 "judicial",
 "legislation",
-"evils"
+"government"
 ],
 "stats": {
 "words": 3848,
@@ -39787,8 +40280,8 @@
 "law",
 "crime",
 "government",
-"japan",
 "rio",
+"japan",
 "court",
 "colored"
 ],
@@ -40061,8 +40554,8 @@
 "emphatically",
 "deed",
 "meant",
-"responsibility",
 "shown",
+"responsibility",
 "qualities",
 "honor"
 ],
@@ -40419,8 +40912,8 @@
 "range",
 "lands",
 "land",
-"commutation",
 "fraud",
+"commutation",
 "forests",
 "grazing",
 "reserves"
@@ -40992,10 +41485,10 @@
 "domingo",
 "america",
 "bill",
-"aboard",
 "consular",
-"ships",
+"aboard",
 "australia",
+"ships",
 "pacific"
 ],
 "stats": {
@@ -41469,8 +41962,8 @@
 "sport",
 "waterways",
 "athletic",
-"inland",
 "control",
+"inland",
 "aloof",
 "athletics",
 "students"
@@ -41555,8 +42048,8 @@
 },
 "distinctive": [
 "regiment",
-"grief",
 "dead",
+"grief",
 "lesson",
 "army",
 "admiration",
@@ -41710,7 +42203,7 @@
 "grew",
 "absorbed",
 "stock",
-"tide"
+"reform"
 ],
 "stats": {
 "words": 3908,
@@ -42000,8 +42493,8 @@
 "securities",
 "valuation",
 "railway",
-"railways",
 "railroad",
+"railways",
 "investors",
 "roads",
 "stocks",
@@ -42108,8 +42601,8 @@
 "farming",
 "social",
 "economic",
-"farmer",
-"labor"
+"labor",
+"farmer"
 ],
 "stats": {
 "words": 5767,
@@ -42849,8 +43342,8 @@
 "control",
 "constitution",
 "interpreted",
-"canal",
 "national",
+"canal",
 "centralization",
 "highway"
 ],
@@ -43240,8 +43733,8 @@
 "distinctive": [
 "movement",
 "honest",
-"tennessee",
 "well-being",
+"tennessee",
 "policies",
 "wealth",
 "property",
@@ -43318,8 +43811,8 @@
 "presidents",
 "generation",
 "stuff",
-"blue",
 "change",
+"blue",
 "gray"
 ],
 "stats": {
@@ -43433,7 +43926,7 @@
 "graduate",
 "forty",
 "thousand",
-"struck"
+"bear"
 ],
 "stats": {
 "words": 1339,
@@ -43762,8 +44255,8 @@
 "commerce",
 "conference",
 "legislation",
-"grades",
-"department"
+"department",
+"public"
 ],
 "stats": {
 "words": 27310,
@@ -44653,9 +45146,9 @@
 "peace",
 "military",
 "navy",
-"wrong-doing",
 "treaties",
-"oppression"
+"oppression",
+"measures"
 ],
 "stats": {
 "words": 1727,
@@ -45085,8 +45578,8 @@
 "employee",
 "employers",
 "reactionary",
-"condemn",
 "help",
+"condemn",
 "capitalists",
 "praise",
 "foolish"
@@ -45341,8 +45834,8 @@
 "grown",
 "evil",
 "qualities",
-"material",
-"true"
+"true",
+"material"
 ],
 "stats": {
 "words": 1387,
@@ -45680,8 +46173,8 @@
 "association",
 "lady",
 "missionary",
-"philanthropic",
 "building",
+"philanthropic",
 "women",
 "district"
 ],
@@ -45782,9 +46275,9 @@
 ]
 },
 "distinctive": [
-"sheridan",
 "cavalry",
 "career",
+"sheridan",
 "ideal",
 "nation's",
 "general",
@@ -45871,8 +46364,8 @@
 "thriving",
 "churches",
 "pledged",
-"behaves",
-"building"
+"building",
+"behaves"
 ],
 "stats": {
 "words": 2665,
@@ -46163,12 +46656,12 @@
 "forests",
 "courts",
 "interstate",
-"fisheries",
 "mountains",
+"fisheries",
 "deforestation",
 "corporations",
-"savings",
-"control"
+"control",
+"savings"
 ],
 "stats": {
 "words": 19444,
@@ -47344,8 +47837,8 @@
 "agriculture",
 "farmer",
 "agricultural",
-"towns",
 "life",
+"towns",
 "plan"
 ],
 "stats": {
@@ -47529,8 +48022,8 @@
 "conference",
 "agencies",
 "children",
-"conclusions",
 "dependent",
+"conclusions",
 "charities",
 "board",
 "bureau",
@@ -48442,8 +48935,8 @@
 "agreement",
 "armaments",
 "court",
-"international",
 "treaties",
+"international",
 "arbitration",
 "police"
 ],
@@ -48531,8 +49024,8 @@
 "distinctive": [
 "custom-houses",
 "domingo",
-"island",
 "san",
+"island",
 "cuba",
 "creditors",
 "philippines",
@@ -49111,7 +49604,7 @@
 "science",
 "culture",
 "europe",
-"peoples"
+"new"
 ],
 "stats": {
 "words": 12886,
@@ -49236,8 +49729,8 @@
 "colorado",
 "resources",
 "forests",
-"east",
 "water",
+"east",
 "sites",
 "west"
 ],
@@ -49936,8 +50429,8 @@
 "wage",
 "labor",
 "organized",
-"earners",
 "hours",
+"earners",
 "workers",
 "social",
 "earner",
@@ -50168,8 +50661,8 @@
 "profession",
 "skilled",
 "editor",
-"wields",
-"politician"
+"politician",
+"wields"
 ],
 "stats": {
 "words": 4465,
@@ -50367,7 +50860,7 @@
 "miners",
 "justice",
 "workers",
-"discharge"
+"employees"
 ],
 "stats": {
 "words": 2067,
@@ -50956,8 +51449,8 @@
 "public",
 "corporation",
 "honesty",
-"knave",
 "candidate",
+"knave",
 "entity",
 "afraid",
 "maverick"
@@ -51494,11 +51987,11 @@
 "judges",
 "decision",
 "court",
-"courts",
 "popular",
+"courts",
 "business",
 "decisions",
-"delegated"
+"justice"
 ],
 "stats": {
 "words": 10456,
@@ -51858,8 +52351,8 @@
 "illinois",
 "taft",
 "friends",
-"cheers",
-"york"
+"york",
+"brakeman"
 ],
 "stats": {
 "words": 6414,
@@ -52152,8 +52645,8 @@
 "platform",
 "business",
 "trusts",
-"control",
 "commission",
+"control",
 "primaries",
 "industrial",
 "party"
@@ -52484,10 +52977,10 @@
 "distinctive": [
 "applause",
 "wilson",
-"cheers",
 "shot",
 "bullet",
 "friends",
+"cheers",
 "party",
 "republican",
 "wisconsin",

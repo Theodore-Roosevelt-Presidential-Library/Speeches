@@ -45,6 +45,17 @@
    "keep_id": "1902-09-fitchburg",
    "note": "This is the extract given to the press. The full address, headed \"Address of President Roosevelt at Fitchburg, Mass., Sept. 2, 1902,\" is on the pages just before it (LOC reel 424, frames 0619 to 0622) and is not yet transcribed here.",
    "why": "The catalog record gives only September 1902; the full address on the preceding folios is headed Sept. 2, 1902, as read by the second transcriber."
+  },
+  {
+   "trc": "o288832",
+   "title": "A Talk with Comrades, Spanish War Veterans, Detroit",
+   "place": [
+    "Detroit",
+    "MI"
+   ],
+   "keep_id": "1902-09-22-a-talk-with-comrades",
+   "note": "The document is printed pages cut into slips, not a typescript. It is a longer text of the Detroit address to the Spanish War Veterans than the one printed in Presidential Addresses and State Papers, which is listed separately.",
+   "why": "Both transcription passes read the opening 'Mr. Mayor, and Men and Women of Michigan, and particularly you, My Comrades, who volunteered in the war with Spain'; the 1910 printed text of the same evening differs and is about a quarter of the length."
   }
  ]
 }
