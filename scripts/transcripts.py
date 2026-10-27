@@ -109,6 +109,9 @@ def load():
         raw = open(os.path.join(d, fn), encoding="utf-8").read()
         m = re.match(r"---\n(.*?)\n---\n(.*)", raw, re.S)
         head = dict(re.findall(r"^(\w+):\s*(.*)$", m.group(1), re.M))
+        # only transcriptions that passed the second, independent reading are published
+        if head.get("checked", "pending").startswith("pending") or head.get("status", "ok") != "ok":
+            continue
         body = m.group(2).strip()
         paras = [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]
         read_p, dip_p, notes = [], [], []
