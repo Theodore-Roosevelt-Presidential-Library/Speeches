@@ -4,7 +4,7 @@ title: Address of President Roosevelt at the laying of the corner-stone of the Y
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0330, 0331
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0330
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read, agreed word for word)
 status: ok
 ---
 [pb 13 425:0330]
