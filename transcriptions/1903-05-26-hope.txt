@@ -1,0 +1,18 @@
+---
+speech: 1903-05-26-hope
+title: Remarks of President Roosevelt at Hope, Idaho, May 26, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0485
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0485
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 119 425:0485]
+
+[margin: File]
+
+My friends:
+
+It is a great pleasure to me to be here and see you. It is some sixteen or seventeen years ago that I was last here and the change is wonderful. Now as I pass through it seems literally impossible that the changes could have been so great. I do not wonder that you are proud of this count ry. If you were not I would be ashamed of you. (Applause) I know you; I have worked with you; I have lived with you; and I believe in you with all my heart and soul; and I believe in {thefuture|the future} of this great nation as I do in the future of this state because I believe in the quality of the average citizenship of the state, of the average man and woman who make up the state. (Cheers and applause)
+
+[note: Folio 119 is the left half of frame 0485. "File" with a pen stroke is written in the top left margin. "friends", "pleasure", "me" and "through" show overtyped letters.]

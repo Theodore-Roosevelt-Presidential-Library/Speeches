@@ -1,0 +1,20 @@
+---
+speech: 1903-05-27-boulder
+title: Remarks of President Roosevelt at Boulder, Montana, May 27, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0488
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0488
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 125 425:0488]
+
+[margin: File]
+
+Ladies and Gentlemen:
+
+It has been a great pleasure to me to come again to Montana. I came to it first when a good many of you were not here, twenty years ago, and I know your state well. I have watched its growth. I know your resources, your mines, your {randh es|ranches}, and above all what can be done by the use of your water in upbuilding manufactures,and what can be done with irrigation; but the main thing that I like about [-Monatan-][+Montana+] is the quality of its men and women. ({Cheess|Cheers} and applause) And of all your products I {admite|admire} most the children. They seem to be all right in quality and in quantity; and as I like your stock I am glad it is being kept up.
+
+Of course it is a mere truism to say that the fate of any commonwealth depends primarily not upon its natural resources, not even upon the kind of laws enforced therein, but upon the quality of its average citizenship. If the average man and the average woman are what they should be we are going to get the right results out of the state; and if they are not you cannot expect to get what [-xxx-] we ought to have. It is just as it was in the civil war. I[-d-] do not care what you had else, if you did not have the right man in the army you could not win. So it is in citizenship. (Cheers and applause)
+
+[note: Folio 125 is the left half of frame 0488. "File" with a pen stroke is written in the top left margin. "Montana" is written by hand over struck typed "Monatan". A hand stroke strikes the letter after "I" (before "do not care"). "when", "women" and "If" show overtyped letters.]

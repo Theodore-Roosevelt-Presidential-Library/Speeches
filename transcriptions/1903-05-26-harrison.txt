@@ -1,0 +1,22 @@
+---
+speech: 1903-05-26-harrison
+title: Remarks of President Roosevelt at Harrison, Idaho, May 26, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0480
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0480
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 109 425:0480]
+
+[margin: File]
+
+My Fellow Citizens:
+
+I thank you greatly for having come out to greet me. I thank especially the veterans of the civil war, the men of the Grand Army, for having turned out, and after thanking them, the men who in the past have done so much, to whom we owe it that now a president can go from one side of this country to the other, from the Gulf to Canada, and feel at home anywhere, [-[?after thanking them?]-] I wish to say a special word of greeting to the children. Glad as I am to see all you in Idaho, I do not know but what I am more pleased to see the children than the old folks.
+
+I have known Idaho of old. I know your resources, your mines, your lumber, your agriculture, your cattle. I know what this state has before it, the great future that it has, but most of all, men and women of Idaho, I congratulate [-xx-] you [-xxxx-] and your state upon the quality of its citizenship. It is the man and woman of the state {than|that} count most. To you here, to you of the Rocky Mountains, to you of the west, I do not have to preach the gospel of the strenuous life, because you have led it. That is why you have made of your state what it is.
+
+I believe with all my heart in decency, morality, justice, square dealing as between man and man,in the spirit which refuses to wrong rich or poor, which treats with absolute justice rich and poor alike, which secures liberty by, through, and under the law. {In|I} believe in all that with all my heart, but I believe also in the qualities to which we allude when we say of a man that he is not only a good man, but emphatically a man. I believe in courage, hardihood, the spirit that dares, the spirit that endures, the spirit that drives to battle, the spirit that has driven you of the west to explore the metal wealth of the mountains, to drive the cattle on the plains, to make the wilderness blossom like the rose as you {tumned|turned} the waters upon it. Because you have had those qualities, the qualities that you need to conquer in any contest, you have made Idaho great. (Cheers and applause)
+
+[note: Folio 109 is the left half of frame 0480. "File" with a pen stroke is written in the top left margin. The words struck by hand after "anywhere," are mostly blotted and read only tentatively. A small hand mark stands after "turned out," and a hand stroke crosses the "u" of "much". "Harrison" (heading), "My", "known", "of" (before "Idaho" and before "the Rocky"), "strenuous" and "treats" show overtyped letters.]

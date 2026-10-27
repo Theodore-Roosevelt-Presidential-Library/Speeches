@@ -1,0 +1,18 @@
+---
+speech: 1903-05-26-spokane-2
+title: Remarks of President Roosevelt in receiving [-xxxxxxxxxx-] flowers from Gonzaga College, Spokane, Washington, May 26,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0482
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0482
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 113 425:0482]
+
+[margin: File — not given out]
+
+Father:
+
+I thank you and through you the faculty and students of Gonzaga College. I appreciate the gift you have given. I appreciate still more the words you have uttered and the sincerity of your devotion and attachment to the country.
+
+[note: Folio 113 is the left half of frame 0482. "File — not given out" is written in the top left margin. In the heading a typed word before "flowers" is x-ed out, and the character between "26" and "903" is overtyped (read as a comma and "1"). The "e" of "the" (before "gift") and the "d" of "words" are faintly typed. The remarks end without "(Applause)"; the rest of the page is blank.]

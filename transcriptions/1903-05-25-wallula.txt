@@ -1,0 +1,20 @@
+---
+speech: 1903-05-25-wallula
+title: Remarks of President Roosevelt at Wallula, Washington, May 25, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0475
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0475
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 99 425:0475]
+
+[margin: File]
+
+My Friends and Fellow Citizens:
+
+It is a great pleasure to see you. I greet you here in this town with its historic associations. It makes us realize how far we have gone of recent years when one thinks of the old fur traders' post that used to be situated here on the Columbia, {whent he|when the} entire yield of what are now Washington and Oregon was a few boat loads of furs, and these had to be sent to market over the mountains and down the Saskatchewan. This co untry has been developed in the most extraordinary fashion , and it will be developed still more as we apply with greater knowledge the principles of irrigation; so that the water of the Columbia and the waters of the Snake can be used to make your plains blossom as I have seen them blossom wherever irrigated in passing through them to-day.
+
+I thank you all for coming to greet me, and I thank especially the children. I have been particularly pleased all through Washington at seeing the attention that is being paid to the development of your school system, and to taking care of the next generation. For after all, much though I believe in irrigation, much though I believe in [-xxxx-] your products, in your forests and fields, in your manufactures, and your transportation companies, it is the citizenship that counts; it is the average man [-xxx-] [+or+] woman who goes to make up the state. (Cheers and applause)
+
+[note: Folio 99 is the left half of frame 0475. "File" with a pen stroke is written in the top left margin. "xxxx" is typed between the lines above "your"; "or" is typed above x-ed letters. "Remarks", "at", "Columbia", "irrigated", "especially", "manufactures" and "average" show overtyped letters.]

@@ -1,0 +1,20 @@
+---
+speech: 1903-05-28-nampa
+title: Remarks of President Roosevelt at Nampa, Idaho, May 28, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0501
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0501
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 149 425:0501]
+
+[margin: File]
+
+My Friends and Fellow Citizens:
+
+It is a very great pleasure to have the chance of greeting you to-day. Let me say a special word of greeting to the members of the national guard. For the first time in our history Congress has enacted a measure to provide for an adequately armed national guard in each of the states; and Idaho is the first state to be taking advantage of the terms of the act. I congratulate Idaho upon this typical instance of progress. (Cheers and applause)
+
+I wish to say what [-[illegible]-] pleasure it has given me to come here and be witnessing with my own eyes what you are doing in this state with irrigation. Idaho [-xxx-],will, I firmly believe, and I base it not merely upon my own observation but upon what I am told by men of judgment dealing within the state, grow with peculiar rapidity and with a peculiar stability of growth during the years now immediately opening. While a great part of that growth will surely be due to the development of her unexplored mineral resources, I think the  most permanent and the most useful [-xx-] part of that growth will be the development of her {irrigatedagriculture|irrigated agriculture}. (Applause ) I do not have to tell you here that when you get irrigation fairly applied, rain is a poor substitute for it. With irrigation the wonderful fertility of your soil will be given full play , and we shall see a development in fruit and grain products in this state which would have seemed literally incredible even as late as twenty-five years ago. I have passed [-xxx-] through some of the great grazing regions of the state, the regions where cattle and sheep flourish. I congratulate you upon the chances of diversifying your industries;  and I earnestly hope that in the development and application of irrigation as in the development of all your other industries so far as the Federal and state laws affect them,  the one great object ever kept in mind will be the building up of the home maker, the building up of the man who takes a given quantity of land -- a large quantity if it is unirrigated;  a much smaller quantity if it is [-irrigx-] [-xxxx-] irrigable, [-x-] -- and out of that makes a home upon which he intends himself to live, and living to bring up his children. The citizen who counts in the development of the state is the man or women who makes this his or her home;  for it is upon the quality of the average man, the average woman, that the future of the state really depends. ({Cheersand|Cheers and} applause)
+
+[note: The word struck after "what" is covered by a hand blot. In "in this" a hand mark separates the two words, typed run together. Several letters are struck over on the typewriter (e.g. "Fellow", "of" in "chance of greeting", "progress", "my own eyes", "first", "of growth", "flourish", "development", "that the future"); the final reading is given.]

@@ -1,0 +1,24 @@
+---
+speech: 1903-05-28-shoshone
+title: Remarks of President Roosevelt at Shoshone, Idaho, May 28, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0499
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0499
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 145 425:0499]
+
+[margin: File]
+
+[margin: Letter]
+
+My Fellow Citizens;  My Fellow Americans:
+
+It is a great pleasure to greet you this morning-- to greet all of you, and especially the children. Traveling through this country as I have traveled, from the Atlantic across to the Pacific, and now on my return, the thing that has struck me most after all is not the diversity, but the essential unity of our people. Wherever I have gone from one end of the country to the other I have dealt with Americans to whom I could appeal in the name of the same [-principles-] [-American principles-] principles[-of [illegible]-].
+
+And you, the men of the great war, the men whom I have met wherever I have stopped in the plains, among the mountains, on the Pacific slope, you builded even better than you knew when you saved the country;  for not only did you make it possible for an American President to feel at home throughout this continental republic;  but you left us by your deeds the memory and the lesson of how we were to handle this government. You fought for real brotherhood, for the real rights of mankind. You fought to establish here the rule of liberty under, by and through the law . You established once for all that the worst enemy of this country is the man who tries to excite section against section, [-class against class-] creed against creed, or class against class. This government is not and never shall be a government either of a plutocracy or of a mob. It shall be a government, as it has been and is, in which all citizens rich or poor wherever they live, however they worship their Maker,[+—+] mechanics, farmers, miners, ranchmen, bankers, lawyers, it makes no difference what[+—+] if they are decent men have their [-share-] say in the government and are guaranteed protection by it. (Applause) The line that in the elemental matters we must ever draw is the line of conduct. The man who behaves well whatever he does or wherever he lives is a good citizen, entitled to the respect of all other good citizens;  and if he does not behave well[+,+] at whichever end of the social scale he stands he is a bad citizen. (Applause)
+
+[note: "principles" and "American principles" in the first paragraph are x-ed out on the typewriter; the words after the last "principles" are struck by hand (only "of" can be read) with a hand deletion mark beside them. "class against class" after "section against section," and "share" before "say" are x-ed out on the typewriter.]
+[note: The dashes after "Maker," and "what" are added by hand with carets. Several letters are struck over on the typewriter (e.g. "Americans", "deeds", "how", "brotherhood", "mankind"); the final reading is given.]
+[note: "Letter" is written and underlined by hand beside the folio number; "File" in the upper left margin.]
