@@ -1,0 +1,18 @@
+---
+speech: 1902-04-10-salisbury
+title: Remarks of President Roosevelt at Salisbury,N.C., April 10,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0456
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0456
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 23 424:0456]
+
+Ladies and Gentlemen:
+
+As it is growing late I will not attempt to say more than just a word to assure you how much I have enjoyed the hospitality with which I have been received in South Carolina, and this evening since entering the borders of North Carolina.  [-[?Also,?]-] It was my good fortune to meet your Governor yesterday; [+and+] to review a procession in which your[-xx-] state troops took part, and it was a  pleasure as an American to meet my fellow-Americans in that fashion at the Exposition in the old historic [-[?city?]xxxx-] southern city.    I thank you heartily.  I am glad to see you here and I wish you good luck and good night.  (Applause)
+
+[note: The word before "It" is heavily struck through in ink; only "Al" and a comma show. The "I" of "It" is inked over by hand, apparently capitalizing a typed "i". "and" is written above the line with a caret.]
+[note: "[?city?]xxxx" is a typed word x-ed out on the typewriter before "southern city"; the underlying letters are uncertain.]
+[note: Heading reads "Presid nt" with the "e" faint or broken, given as "President"; "Governor" is typed with a gap ("Govern or"), given as one word.]

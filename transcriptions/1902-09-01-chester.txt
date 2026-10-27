@@ -1,0 +1,10 @@
+---
+speech: 1902-09-01-chester
+title: Remarks at Chester, Vermont
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0600
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0600
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: wrong-page
+---
+[note: The assigned page (424:0600, left half) is a blank sheet. The Chester remarks ("REMARKS OF PRESIDENT ROOSEVELT AT CHESTER,VT., Sept. 1, 1902.", folio 131, with a handwritten note "See following sheet for speech at Bellows Falls. Vt.") are on the right half of the same frame. Job page reference should be corrected to half b. Not transcribed.]

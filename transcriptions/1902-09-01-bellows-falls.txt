@@ -1,0 +1,10 @@
+---
+speech: 1902-09-01-bellows-falls
+title: Speech at Bellows Falls, Vermont
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0601
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0601
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: wrong-page
+---
+[note: The assigned page (424:0601, left half) is a blank sheet. The Bellows Falls speech ("Speech of President Roosevelt at Bellows Falls, Vt.,Sept.1,1902.") begins on the right half of the same frame and runs on beyond it (the catalog gives 2 pages; the second page is not in the job). Job page reference should be corrected to 0601 half b plus the following page. Not transcribed.]

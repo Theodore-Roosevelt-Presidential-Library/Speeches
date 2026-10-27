@@ -1,0 +1,16 @@
+---
+speech: 1902-09-01-mount-vernon
+title: REMARKS OF PRESIDENT ROOSEVELT AT SOUTH VERNON,MASS., September 1, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0607
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0607
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 133 424:0607]
+
+I am very glad to see you and to be greeted upon my return to Massachusetts by you.   I enjoyed being in Massachusetts when I was here before, and I am glad to be back again.
+
+[note: The typed heading reads SOUTH VERNON, Mass., not "Mount Vernon" as in the catalog title; the catalog title appears to be in error. Same date (September 1, 1902) and same page assigned.]
+[note: The assigned crop (half a) cuts off the right side of this single-page frame, so the text was read from a full-width crop of the top of frame 424:0607. The lower half of the page holds "Remarks of President Roosevelt at Northfield School, Northfield,Mass.,Sept.1,1902.", not transcribed here.]
+[note: Typed gap in "be ing" closed up.]
