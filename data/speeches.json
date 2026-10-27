@@ -320,8 +320,8 @@
 "taxation",
 "tax",
 "york",
-"return",
 "subject",
+"return",
 "new",
 "interests",
 "national",
@@ -1077,8 +1077,8 @@
 "expediency",
 "factory",
 "statistics",
-"community",
 "work",
+"community",
 "separate"
 ],
 "stats": {
@@ -1903,11 +1903,11 @@
 "colorado",
 "commonwealths",
 "alleghanies",
-"union",
 "spread",
+"union",
 "continent",
-"race",
-"strength"
+"strength",
+"race"
 ],
 "stats": {
 "words": 3296,
@@ -2772,8 +2772,8 @@
 "afford",
 "lesson",
 "leave",
-"lincoln",
 "love",
+"lincoln",
 "taught",
 "duty",
 "ideal",
@@ -3496,13 +3496,13 @@
 },
 "distinctive": [
 "dean",
-"university",
 "scholarship",
+"university",
 "service",
 "sake",
 "virile",
-"reward",
 "decent",
+"reward",
 "fit",
 "work"
 ],
@@ -3691,7 +3691,7 @@
 "flag",
 "army",
 "justice",
-"americans"
+"present"
 ],
 "stats": {
 "words": 687,
@@ -4205,8 +4205,8 @@
 "shortcomings",
 "cuba",
 "work",
-"hundred",
-"wanted"
+"wanted",
+"hundred"
 ],
 "stats": {
 "words": 1569,
@@ -4350,8 +4350,8 @@
 "distinctive": [
 "gathering",
 "lesson",
-"comrades",
 "duties",
+"comrades",
 "ordinary",
 "war",
 "battle",
@@ -4487,8 +4487,8 @@
 "lynchings",
 "troops",
 "islands",
-"holidays",
 "acts",
+"holidays",
 "committed"
 ],
 "stats": {
@@ -5260,8 +5260,8 @@
 "trusts",
 "boston",
 "corporation",
-"creator",
 "evils",
+"creator",
 "deal",
 "publicity",
 "laws",
@@ -5500,8 +5500,8 @@
 "distinctive": [
 "reed",
 "speaker",
-"government",
 "congress",
+"government",
 "work"
 ],
 "stats": {
@@ -7123,8 +7123,8 @@
 "well-being",
 "guard",
 "material",
-"citizenship",
-"soldier"
+"soldier",
+"citizenship"
 ],
 "stats": {
 "words": 1295,
@@ -7291,8 +7291,8 @@
 },
 "distinctive": [
 "guard",
-"thank",
 "appreciation",
+"thank",
 "circumstances",
 "honor",
 "fellow"
@@ -7960,8 +7960,8 @@
 "won",
 "wore",
 "victory",
-"citizenship",
-"win"
+"win",
+"citizenship"
 ],
 "stats": {
 "words": 914,
@@ -9843,8 +9843,8 @@
 "places": []
 },
 "distinctive": [
-"applause",
 "advantage",
+"applause",
 "greatest",
 "state",
 "country"
@@ -10515,8 +10515,8 @@
 "confederate",
 "weapon",
 "forefathers",
-"government",
 "valiant",
+"government",
 "followed"
 ],
 "stats": {
@@ -12386,8 +12386,8 @@
 "distinctive": [
 "chamber",
 "york",
-"success",
 "commerce",
+"success",
 "peace",
 "refusal",
 "industrial",
@@ -14124,7 +14124,7 @@
 "christian",
 "century",
 "young",
-"evil"
+"effort"
 ],
 "stats": {
 "words": 1510,
@@ -14551,8 +14551,8 @@
 "theory",
 "peace",
 "building",
-"applause",
-"purpose"
+"purpose",
+"applause"
 ],
 "stats": {
 "words": 996,
@@ -14911,8 +14911,8 @@
 "lesson",
 "house",
 "interests",
-"applause",
-"help"
+"help",
+"applause"
 ],
 "stats": {
 "words": 534,
@@ -16633,7 +16633,7 @@
 "play",
 "work",
 "worth",
-"women"
+"believe"
 ],
 "stats": {
 "words": 547,
@@ -18562,8 +18562,8 @@
 "partly",
 "army",
 "went",
-"wrong",
 "hard",
+"wrong",
 "care",
 "worth",
 "civil",
@@ -18936,8 +18936,8 @@
 "filipinos",
 "taft",
 "army",
-"government",
 "militia",
+"government",
 "regular",
 "civil"
 ],
@@ -20032,8 +20032,8 @@
 "regions",
 "pioneers",
 "water",
-"agricultural",
 "legislation",
+"agricultural",
 "state"
 ],
 "stats": {
@@ -20460,7 +20460,7 @@
 "qualities",
 "hardihood",
 "courage",
-"fundamentally"
+"decent"
 ],
 "stats": {
 "words": 1531,
@@ -20571,8 +20571,8 @@
 "wyoming",
 "laws",
 "congressman",
-"qualities",
 "decent",
+"qualities",
 "brave",
 "irrigation",
 "fool",
@@ -22156,9 +22156,9 @@
 "building",
 "decent",
 "quality",
-"help",
 "counts",
-"applause"
+"help",
+"finally"
 ],
 "stats": {
 "words": 1322,
@@ -23013,8 +23013,8 @@
 "iowa",
 "applause",
 "solve",
-"vice",
 "organization",
+"vice",
 "jealousy",
 "equally",
 "traits",
@@ -23607,8 +23607,8 @@
 "missouri",
 "decency",
 "handle",
-"fellow",
 "enough",
+"fellow",
 "quality",
 "national"
 ],
@@ -24087,8 +24087,8 @@
 "distinctive": [
 "kansas",
 "foundation",
-"building",
 "memory",
+"building",
 "soul",
 "greet",
 "applause",
@@ -24831,8 +24831,8 @@
 "places": []
 },
 "distinctive": [
-"women",
 "believe",
+"women",
 "work"
 ],
 "stats": {
@@ -25046,8 +25046,8 @@
 },
 "distinctive": [
 "kansas",
-"congratulate",
 "trees",
+"congratulate",
 "belief",
 "quality",
 "count",
@@ -26210,8 +26210,8 @@
 "colorado",
 "water",
 "benefit",
-"law",
 "farms",
+"law",
 "lands",
 "irrigation",
 "policy",
@@ -28010,8 +28010,8 @@
 "distinctive": [
 "college",
 "well-to-do",
-"intellectual",
 "partly",
+"intellectual",
 "traits",
 "scholarship",
 "virtue",
@@ -28148,8 +28148,8 @@
 "applause",
 "remember",
 "helped",
-"injustice",
 "brotherhood",
+"injustice",
 "brother",
 "new"
 ],
@@ -28876,8 +28876,8 @@
 ]
 },
 "distinctive": [
-"enjoyed",
 "california",
+"enjoyed",
 "seeing"
 ],
 "stats": {
@@ -29081,8 +29081,8 @@
 "today",
 "california",
 "applause",
-"congratulate",
 "products",
+"congratulate",
 "educational",
 "higher",
 "training",
@@ -29597,8 +29597,8 @@
 "legislation",
 "law",
 "business",
-"cheers",
 "laws",
+"cheers",
 "prosperity"
 ],
 "stats": {
@@ -31873,8 +31873,8 @@
 "needed",
 "honesty",
 "preservation",
-"preserved",
-"loyalty"
+"loyalty",
+"preserved"
 ],
 "stats": {
 "words": 1919,
@@ -32429,8 +32429,8 @@
 "law",
 "believe",
 "play",
-"type",
 "war",
+"type",
 "greeting",
 "citizenship",
 "world",
@@ -32532,11 +32532,11 @@
 "distinctive": [
 "fool",
 "envy",
-"self-respecting",
 "squarely",
+"self-respecting",
 "founded",
-"decency",
 "feeling",
+"decency",
 "neighbor",
 "california",
 "average"
@@ -33843,15 +33843,15 @@
 },
 "distinctive": [
 "pity",
-"applause",
 "life",
+"applause",
 "worth",
 "succeed",
-"civil",
 "play",
+"civil",
 "work",
-"washington",
-"comes"
+"comes",
+"washington"
 ],
 "stats": {
 "words": 1190,
@@ -34133,7 +34133,7 @@
 "northwest",
 "river",
 "greatness",
-"acquired"
+"settlers"
 ],
 "stats": {
 "words": 2148,
@@ -34580,8 +34580,8 @@
 "life",
 "father",
 "weight",
-"applause",
-"spirit"
+"spirit",
+"applause"
 ],
 "stats": {
 "words": 1979,
@@ -35328,8 +35328,8 @@
 "weapon",
 "return",
 "regions",
-"type",
 "coast",
+"type",
 "utterly",
 "brotherhood",
 "education"
@@ -35732,8 +35732,8 @@
 },
 "distinctive": [
 "slips",
-"problems",
 "approach",
+"problems",
 "willing",
 "pay",
 "regret",
@@ -36087,8 +36087,8 @@
 },
 "distinctive": [
 "butte",
-"law",
 "creed",
+"law",
 "section",
 "class",
 "follow",
@@ -37154,8 +37154,8 @@
 "spite",
 "fundamentally",
 "laws",
-"borders",
-"woman"
+"woman",
+"borders"
 ],
 "stats": {
 "words": 2004,
@@ -37282,8 +37282,8 @@
 "navy",
 "helps",
 "play",
-"applause",
 "problems",
+"applause",
 "appeal",
 "broad"
 ],
@@ -38169,8 +38169,8 @@
 "atlantic",
 "equally",
 "east",
-"line",
 "pacific",
+"line",
 "civil"
 ],
 "stats": {
@@ -38379,8 +38379,8 @@
 "pleasant",
 "play",
 "brotherhood",
-"navy",
 "unity",
+"navy",
 "curse",
 "applause",
 "children",
@@ -39079,10 +39079,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 221,
+"paragraphs": [
+"Mr. Congressman, and you, my fellow-Americans:",
+"It is a very great pleasure to have even this glimpse of you. I thank especially the men of the Grand Army, to whom we owe it that there is now a President of a common country. I thank my own comrades, the men of the national guard; and glad though I am to see the men and women of Iowa, I think I am almost more glad to see the children, and as I like the people of Iowa I am glad to see that there seems no immediate danger of race suicide here.",
+"It is a great pleasure to travel through your wonderful and beautiful state and to see its material prosperity; for mind you, I do not think I have to tell you that occasionally disasters, such as that under which you are suffering, must come. It is a sad day when they do come, but when as is the case here the people have the right stuff in them success will come in spite of any temporary disaster. The important thing is to have the right type of man and woman to represent the average citizenship of the community. I believe in this community, I believe in this nation, because we have that right type of average citizenship. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -39104,13 +39108,48 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 529",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0529",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Congressman, and you, my fellow-Americans:",
+"It is a very great pleasure to have even this glimpse of you. I thank especially the men of the Grand Army, to whom we owe it that there is now a President of a common country. I thank my own comrades, the men of the national guard; and glad though I am to see the men and women of Iowa, I think I am almost more glad to see the children, and as I like the people of Iowa I am glad to see that there seems no immediate danger of race suicide here.",
+"It is a great pleasure to travel through your wonderful and beautiful state and to see its material prosperity; for mind you, I do not think I have to tell you that occasionally disasters, such as that under which you are suffering, must come. It is a sad day when they do come, but when as is the case here the people have the right stuff in them success will come in spite of any temporary disaster. The important thing is to have the right type of man and woman to represent the average citizenship of the community. I believe in this community, I believe in this nation, because we have that right type of average citizenship. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 12 (frame 425:0529)</span>",
+"Mr. Congressman, and you, my fellow-<span class=\"sic\" title=\"reads: Americans\">Americaps</span>:",
+"It is a very great pleasure to have even this glimpse of you. I thank especially the men of the Grand Army, to whom we owe it that there is now a President <span class=\"sic\" title=\"reads: of\">or</span> a common country. I thank my own comrades, the men of the national guard; and glad though I am to see the men and women of Iowa, I think I am almost more glad to see the children, and as I like <del title=\"struck through\">xxxxxxxxxxxx</del> the people of Iowa I am glad to see that there seems no immediate danger of race suicide here.",
+"It is a great pleasure to travel through your wonderful and beautiful state and to see its material prosperity; for mind you,I do not think I have to tell you that occasionally disasters<ins title=\"added by hand\">,</ins> such as that under which you are suffering, must come. It is a sad day when they do come, but when as <del title=\"struck through\">xx</del> is <span class=\"sic\" title=\"reads: the case\">the c ase</span> here the people have the right stuff in them success will come in spite of any temporary disaster. The important thing is to have the right type of man and woman to represent the average citizenship of the <del title=\"struck through\">xxxxxxx</del><ins title=\"added by hand\">community.</ins> I believe in this <del title=\"struck through\">xxxxxx</del><ins title=\"added by hand\">community,</ins> I believe in this nation, because we have that right type of average citizenship. (Cheers and applause.)",
+"<span class=\"tnote\">&quot;community.&quot; and &quot;community,&quot; are typed above the line over x-ed out words. The two characters x-ed out after &quot;when as&quot; look like an overstruck &quot;it&quot;.</span>\n<span class=\"tnote\">In the salutation the last letters of &quot;Americans&quot; are overtyped; the n appears struck with p. A comma after &quot;disasters&quot; is added by hand.</span>\n<span class=\"margin\">In the margin: File</span>"
+],
+"notes": [
+"\"community.\" and \"community,\" are typed above the line over x-ed out words. The two characters x-ed out after \"when as\" look like an overstruck \"it\".",
+"In the salutation the last letters of \"Americans\" are overtyped; the n appears struck with p. A comma after \"disasters\" is added by hand."
+],
+"file": "transcriptions/1903-06-02-webster-city.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"glad",
+"right"
+],
+"stats": {
+"words": 221,
+"unique_words": 111,
+"sentences": 7,
+"avg_sentence": 31.6,
+"minutes": 2,
+"i_count": 11,
+"we_count": 2
+}
 },
 {
 "id": "1903-06-02-dubuque",
@@ -39399,10 +39438,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 572,
+"paragraphs": [
+"Mr. Mayor; and you, My Friends and Fellow Citizens:",
+"I have enjoyed so much having the chance to ride through your town that but little time is left me to say more than to bid you greeting now, for I have to keep my engagements in other cities. It has been the greatest pleasure to see this beautiful city of yours, and to come to-day through this wonderful state, this state with its extraordinary agricultural and industrial resources, with a future of greatness as assured as any state in the Union. I take particular pleasure in coming here to the home of my old friend, Senator Hopkins, for the Senator and I knew one another many years ago, when I was in a position of far less influence and popularity than that of President; because I was civil service commissioner, and there were a good many people whose hands were against me. The Senator always gave me a square deal. That is fundamentally what the whole system of government is based on. Here in this city, with its merchants, its business men, its wageworkers -- I do not have to say to you that the chance of success of this republic lies in our continuing to act in the future as we have acted in the past, on the theory for which the men of the civil war fought, the theory that each man is entitled to be treated on his worth as a man without regard to aught else; (Cheers and applause) give a man a square deal, rich or poor, give him a square deal and if he wants any more he does not deserve anything at all. (Applause)",
+"Let me thank especially, first, the men of the Grand Army who have been the guard of honor to-day; and after seeing them march now I can understand how they marched and fought in the civil war; then let me say how glad I am to have seen the men of the national guard here; and how pleased I am that in the last Congress, thanks to the aid of representatives like the Senator, we got through what Washington had asked and what has been asked in vain for a hundred years -- the good law for the help of the national guard by the national authorities. Any man who wears Uncle Sam's uniform ought to have a good weapon. I am glad that now we are [?] going to see to it that the national guard has good weapons. I never want to see again what happened in '98, my comrades, you of the Spanish war, when some of our men were put with black powder muskets against men with the highest type of modern weapon. You might as well have given our men cross-bows as that weapon. Of course a poor man with a good weapon will be beaten by a good man with a club; but if there is anything like equality the weapon tells; therefore afloat and ashore I wish to see our men have the right type of weapons.",
+"I have only time to greet you in these few words. I want to say what a pleasure it is to see you. I believe in you with all my heart. I believe in the future of this country; because I think our average citizen has in him the qualities of courage, of decency, and of common sense. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -39424,13 +39468,66 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 540, 541",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0540",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Mayor; and you, My Friends and Fellow Citizens:",
+"I have enjoyed so much having the chance to ride through your town that but little time is left me to say more than to bid you greeting now, for I have to keep my engagements in other cities. It has been the greatest pleasure to see this beautiful city of yours, and to come to-day through this wonderful state, this state with its extraordinary agricultural and industrial resources, with a future of greatness as assured as any state in the Union. I take particular pleasure in coming here to the home of my old friend, Senator Hopkins, for the Senator and I knew one another many years ago, when I was in a position of far less influence and popularity than that of President; because I was civil service commissioner, and there were a good many people whose hands were against me. The Senator always gave me a square deal. That is fundamentally what the whole system of government is based on. Here in this city, with its merchants, its business men, its wageworkers -- I do not have to say to you that the chance of success of this republic lies in our continuing to act in the future as we have acted in the past, on the theory for which the men of the civil war fought, the theory that each man is entitled to be treated on his worth as a man without regard to aught else; (Cheers and applause) give a man a square deal, rich or poor, give him a square deal and if he wants any more he does not deserve anything at all. (Applause)",
+"Let me thank especially, first, the men of the Grand Army who have been the guard of honor to-day; and after seeing them march now I can understand how they marched and fought in the civil war; then let me say how glad I am to have seen the men of the national guard here; and how pleased I am that in the last Congress, thanks to the aid of representatives like the Senator, we got through what Washington had asked and what has been asked in vain for a hundred years -- the good law for the help of the national guard by the national authorities. Any man who wears Uncle Sam's uniform ought to have a good weapon. I am glad that now we are [?] going to see to it that the national guard has good weapons. I never want to see again what happened in '98, my comrades, you of the Spanish war, when some of our men were put with black powder muskets against men with the highest type of modern weapon. You might as well have given our men cross-bows as that weapon. Of course a poor man with a good weapon will be beaten by a good man with a club; but if there is anything like equality the weapon tells; therefore afloat and ashore I wish to see our men have the right type of weapons.",
+"I have only time to greet you in these few words. I want to say what a pleasure it is to see you. I believe in you with all my heart. I believe in the future of this country; because I think our average citizen has in him the qualities of courage, of decency, and of common sense. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 34 (frame 425:0540)</span>",
+"Mr. Mayor; and you, My Friends and Fellow Citizens:",
+"I have enjoyed so much having the chance to ride through your town that but little time is left me to <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">some</span></del><ins title=\"added by hand\">say</ins> more than to bid you greeting now, for I have to keep my engagements in other cities. It <span class=\"sic\" title=\"reads: has been\">hasbeen</span> the greatest pleasure to see this beautiful city of yours, and to come to-day through this wonderful state<del title=\"struck through\">s</del>, this state with its extraordinary agricultural and industrial resources, with a <span class=\"sic\" title=\"reads: future\">futue</span> of greatness as assured as any state in the Union. I take particular pleasure in coming here to the <del title=\"struck through\">xxxxx</del>home of my old friend, Senator Hopkins, for the Senator and I knew one another many years ago, when I was in a position of far <span class=\"sic\" title=\"reads: less influence\">lessinfluence</span> <span class=\"sic\" title=\"reads: and popular\">andpopular</span><ins title=\"added by hand\">ity</ins> than that of President; because I was civil service commissioner,and there were a good many people whose hands were ag<ins title=\"added by hand\">a</ins>inst me. The Senator always gave me a square deal. That is fundamentally what the whole system of government is based on. Here in this city , with its merchants, its business men, its wageworkers -- I do not have to say to you that the chance of success of this republic lies in our continuing to act in the future as we have acted in the past, on the theory for which the men of the civil war fought, the theory that <del title=\"struck through\">xxx</del> each man is entitled to be treated on his <del title=\"struck through\">xxxx</del> worth as a man without regard to aught else; (Cheers and applause) give a man a square deal, ri<ins title=\"added by hand\">c</ins>h or poor, give him a square deal and if he wants any more he does not deserve anything at all. (Applause)",
+"Let me thank especially, first, the men of the Grand Army who have been the guard of honor to-day; and after <span class=\"sic\" title=\"reads: seeing\">seei ng</span> them march now I can understand how they <span class=\"sic\" title=\"reads: marched\">marded</span> and fought in the civil war; then let me say how glad I am to have seen the men of the <span class=\"sic\" title=\"reads: national guard\">nationalgguard</span> here; and how pleased I am that in the last Congress, thanks to the aid of representatives like the Senator, we got through what Washington had asked and what has been asked in vain for a hundred years -- the good law for the help of the national guard by the national authorities. Any man who wears Uncle Sam&#x27;s uniform ought to have a good weapon. I am glad that now we <span class=\"unc\" title=\"uncertain reading\">are</span> going to see <del title=\"struck through\">xx</del> to it that the national guard has good weapons. I never <span class=\"pb\">Page 35 (frame 425:0541)</span> want to see again what <span class=\"sic\" title=\"reads: happened\">happen ed</span> in &#x27;98, my comrades, you of the Spanish war, when <del title=\"struck through\">xxx</del> some of our men were put with black powder muskets against men with the highest type of modern weapon. You might as well have given our men cross-bows as that weapon. Of course <span class=\"sic\" title=\"reads: a poor\">apoor</span> man with a good weapon will be beaten <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">with</span></del><ins title=\"added by hand\">by</ins> a good man with a club; but if there is anything like equality the weapon tells; therefore afloat and ashore I wish to see our men have the right type of weapons.",
+"I have only time to greet you in these few words. I want to say what a pleasure it is to see you. I believe in you with all my heart. I believe<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">in</ins> the future of this country; because I think our average citizen has in him the <span class=\"sic\" title=\"reads: qualities of\">qualitiesof</span> <span class=\"sic\" title=\"reads: courage\">curage</span>, of decency, and of common sense. (Cheers and applause)",
+"<span class=\"tnote\">p1: &quot;say&quot; is written by hand above a typed word (apparently &quot;some&quot;) struck through by hand. In &quot;state<del title=\"struck through\">s</del>,&quot; a hand stroke runs through the last letter. &quot;<span class=\"sic\" title=\"reads: future\">futue</span>&quot;: the last typed letters are overtyped and unclear. &quot;ity&quot; is added by hand after &quot;popular&quot;, &quot;a&quot; by hand in &quot;ag<ins title=\"added by hand\">a</ins>inst&quot;, and &quot;c&quot; by hand in &quot;ri<ins title=\"added by hand\">c</ins>h&quot;. &quot;we <span class=\"unc\" title=\"uncertain reading\">are</span> going&quot;: the word at the line end is heavily overtyped. Many letters are overtyped and read as their final letter (Friends, President, whose, merchants, continuing, future, men of, give).</span>\n<span class=\"tnote\">p2: &quot;by&quot; is written by hand over a typed word struck by hand (apparently &quot;with&quot;). After &quot;I believe&quot; a typed letter is struck by hand and &quot;in&quot; is written by hand. Typed page number &quot;-2-&quot; omitted.</span>\n<span class=\"margin\">In the margin: File</span>"
+],
+"notes": [
+"p1: \"say\" is written by hand above a typed word (apparently \"some\") struck through by hand. In \"state,\" a hand stroke runs through the last letter. \"future\": the last typed letters are overtyped and unclear. \"ity\" is added by hand after \"popular\", \"a\" by hand in \"against\", and \"c\" by hand in \"rich\". \"we are [?] going\": the word at the line end is heavily overtyped. Many letters are overtyped and read as their final letter (Friends, President, whose, merchants, continuing, future, men of, give).",
+"p2: \"by\" is written by hand over a typed word struck by hand (apparently \"with\"). After \"I believe\" a typed letter is struck by hand and \"in\" is written by hand. Typed page number \"-2-\" omitted."
+],
+"file": "transcriptions/1903-06-03-aurora.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "spain",
+"name": "Spain",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"weapon",
+"senator",
+"guard",
+"square",
+"deal",
+"national",
+"civil",
+"applause",
+"future",
+"pleasure"
+],
+"stats": {
+"words": 572,
+"unique_words": 252,
+"sentences": 15,
+"avg_sentence": 38.1,
+"minutes": 4,
+"i_count": 18,
+"we_count": 3
+}
 },
 {
 "id": "1903-06-03-dwight",
@@ -39444,10 +39541,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 392,
+"paragraphs": [
+"Mr. Mayor; and you, My Fellow Citizens; Men and Women of Dwight:",
+"Naturally I am pleased by the kind words the Mayor has said to me. Perhaps I prize them especially, Mr. Mayor, coming from one who is not of my party; but the whole thing is, my friends, if we are all good Americans that is enough platform for all of us to stand on. I prize more than I can say such words as have been uttered by the Mayor; and I assure you I shall do my best to try to deserve them.",
+"I thank you for coming out to greet me to-day. I have enjoyed to the full my trip through this great state. I congratulate you and all our people upon the material well-being that we enjoy. It is an absolutely essential thing that we should have well-being; but I congratulate you even more because you of Illinois -- I think I can say that we of the nation -- strive steadily to build upon that foundation a structure of the higher life, moral, intellectual, and spiritual. The things have got to go hand in hand, just exactly as the average citizen's first business is to pull his own weight, to earn his own livelihood and the livelihood of those dependent upon him; but it is not enough. He has got in addition to that to try to develop himself and to develop those dependent upon him to have the higher attributes of good citizenship, the kind of citizenship that made this government prompt to respond to the call of Abraham Lincoln. Fundamentally, though the laws are important, and the administration of the laws is important, what is most important of all is to have the average man and the average woman the right kind of man and woman, to have them good in the home, good in the intimate relations of the household, good as husband, as father, as mother, good as neighbors, good to work with and deal with, good in their relations to the state.",
+"In greeting all of you I want to greet especially those whom I see in the crowd, men and women, carrying children. I know that in greeting all of you, you will not object to my expressing a special sense of kinship with those whom I have mentioned. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -39469,13 +39571,58 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 542",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0542",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Mayor; and you, My Fellow Citizens; Men and Women of Dwight:",
+"Naturally I am pleased by the kind words the Mayor has said to me. Perhaps I prize them especially, Mr. Mayor, coming from one who is not of my party; but the whole thing is, my friends, if we are all good Americans that is enough platform for all of us to stand on. I prize more than I can say such words as have been uttered by the Mayor; and I assure you I shall do my best to try to deserve them.",
+"I thank you for coming out to greet me to-day. I have enjoyed to the full my trip through this great state. I congratulate you and all our people upon the material well-being that we enjoy. It is an absolutely essential thing that we should have well-being; but I congratulate you even more because you of Illinois -- I think I can say that we of the nation -- strive steadily to build upon that foundation a structure of the higher life, moral, intellectual, and spiritual. The things have got to go hand in hand, just exactly as the average citizen's first business is to pull his own weight, to earn his own livelihood and the livelihood of those dependent upon him; but it is not enough. He has got in addition to that to try to develop himself and to develop those dependent upon him to have the higher attributes of good citizenship, the kind of citizenship that made this government prompt to respond to the call of Abraham Lincoln. Fundamentally, though the laws are important, and the administration of the laws is important, what is most important of all is to have the average man and the average woman the right kind of man and woman, to have them good in the home, good in the intimate relations of the household, good as husband, as father, as mother, good as neighbors, good to work with and deal with, good in their relations to the state.",
+"In greeting all of you I want to greet especially those whom I see in the crowd, men and women, carrying children. I know that in greeting all of you, you will not object to my expressing a special sense of kinship with those whom I have mentioned. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 38 (frame 425:0542)</span>",
+"Mr. Mayor; and you, My Fellow Citizens; Men and Women of Dwight:",
+"Naturally I am pl<ins title=\"added by hand\">e</ins>ased by the kind words the Mayor has said to me. Perhaps I prize them especially, Mr. Mayor, coming from one who is not of my party; but the whole thing is, my friends, if we are all good Americans that is enough platform for all of us to stand on. I prize more than I can say such words as have been uttered by the Mayor; and I assure you I shall do my best to try to deserve them.",
+"I thank you for coming out to greet me to-day. I have enjoyed to the full my trip through this great state. I congratulate you and all our people upon the material well-being that we enjoy. It is an absolutely essential thing that we should have well-being; but I congratulate you even more because you of Illinois -- I think I can say that we of the nation -- strive steadily to build upon that foundation a structure of the higher life, moral, intellectual, and spiritual. The things have got to go hand in hand, just exactly as the average citizen&#x27;s first business is to pull his own weight, to earn his own livelihood and the livelihood of those dependent upon him; but it is not enough. He has got in addition to that to try to develop himself and to develop those dependent upon him to have <del title=\"struck through\">x</del><ins title=\"added by hand\">the</ins> higher attributes of good citizenship, the kind of citizenship that made this government prompt to respond to the call of Abraham Lincoln. Fundamentally, though the laws are important, and the administration of the laws is important, what is most important of all is to have the average man and the average woman the right kind of man and woman, to have them good in the home, good in the intimate relations of the household, good as husband, as father, as mother, <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">as children,</span></del> good as neighbors, good to work with and deal with, good in their relations to the state.",
+"In greeting all of you I want to greet especially those whom I see in the crowd, men and women, carrying children. I know that in greeting all of you, you will not object to my expressing a special sense of kinship with those whom I have mentioned. (Cheers and applause)",
+"<span class=\"tnote\">&quot;e&quot; is inserted by hand, with a caret, in &quot;pl<ins title=\"added by hand\">e</ins>ased&quot;. &quot;the&quot; is typed above the line over an x-ed out letter (apparently &quot;a&quot;) before &quot;higher&quot;. The words after &quot;as mother,&quot; are struck through by hand. Hand strokes run through the second &quot;l&quot; of the second &quot;livelihood&quot; and the &quot;t&quot; of &quot;to&quot; after &quot;him&quot;; they do not change the words. Overtyped letters read as their final letter (if, even, that).</span>\n<span class=\"margin\">In the margin: File</span>"
+],
+"notes": [
+"\"e\" is inserted by hand, with a caret, in \"pleased\". \"the\" is typed above the line over an x-ed out letter (apparently \"a\") before \"higher\". The words after \"as mother,\" are struck through by hand. Hand strokes run through the second \"l\" of the second \"livelihood\" and the \"t\" of \"to\" after \"him\"; they do not change the words. Overtyped letters read as their final letter (if, even, that)."
+],
+"file": "transcriptions/1903-06-03-dwight.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"mayor",
+"average",
+"important"
+],
+"stats": {
+"words": 392,
+"unique_words": 177,
+"sentences": 13,
+"avg_sentence": 30.2,
+"minutes": 3,
+"i_count": 16,
+"we_count": 4
+}
 },
 {
 "id": "1903-06-03-joliet",
@@ -39624,10 +39771,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 641,
+"paragraphs": [
+"Congressman Hitt, and you, my fellow-Americans, and particularly you, the men who in every gathering of the citizens of this republic are forevermore entitled to the right of the line:(Applause.)",
+"I count myself fortunate in being able to come to-day to this city to dedicate this beautiful memorial hall, a hall in the erection of which the citizens of this city have done themselves honor in honoring you.(Applause.) I greet you, the men who fought on land, and glad I am that here we should have the flags of the Monitor Winnebago to remind us, if we need such reminder,(and I hardly think we do) that the United States Navy is a matter of personal concern to every citizen of the Union.(Applause.)",
+"No more fitting monument, no more fitting memorial could be erected than a hall such as this, a hall beautiful in itself, and beautiful because of the uses to which it is consecrated. The hall, the monument, is not only for you, just as you are not only for yourselves; your lives, your deeds have now become part of the very fiber of the nation. You warred for four years that your children and children's children should within their borders have peace forever. You warred to establish the fact that this government was one not of license, but of liberty under, by and through the law; that this government was in very fact united and free. You and those like [?] you saw what Abraham Lincoln saw, that anarchy was the hand-maiden of tyranny; you saw that injustice by one man to that man's fellow inevitably must be revenged by the mere logic of facts; and that the only way to secure safety for the republic in the future was to do away with such injustice. You fought to establish the principle that this government should be for all time a government of self-respecting freemen; no man being permitted to wrong his neighbor and each man being in return shielded from wrong himself.",
+"The problems that we now have to face at the outset of the new century are different from the problems that you had to face. New methods for their solution must be devised, but the spirit in which we must face them must be the same spirit that you showed when Abraham Lincoln called and you answered.(Applause.) This is a government of law, of liberty, of order. It is not and it never shall be a government by a plutocracy. It is not and it never shall be a government by a mob.(Applause.)",
+"No baser creature exists than he who looks with arrogant disregard upon his fellow because that fellow is less well off. There can be no baser man than that, but there can be a man as base, and that is the man who regards with envy, rancor and hatred his fellow because that fellow is better off.(Applause.) The two spirits, the two attitudes are equally base and equally unworthy of every man bred up in the principles of American citizenship, or to the traditions of the men who under Washington founded this republic, who under Lincoln preserved it.(Applause.)",
+"I thank you; I thank you in the name of my own comrades of the Spanish American war;(Applause) and of the men of the national guard, ever ready to come forward and do their part as you did yours. Our job was a little one but we did it.(Applause.) We hope that you feel that in the hour of lesser trial we showed ourselves not wholly unworthy of the men whose spirit had wrung true in the hour of the great trial. I do not know that I have been able to you much good, but you have done me a great deal. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -39649,13 +39803,75 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 538, 539",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0538",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Congressman Hitt, and you, my fellow-Americans, and particularly you, the men who in every gathering of the citizens of this republic are forevermore entitled to the right of the line:(Applause.)",
+"I count myself fortunate in being able to come to-day to this city to dedicate this beautiful memorial hall, a hall in the erection of which the citizens of this city have done themselves honor in honoring you.(Applause.) I greet you, the men who fought on land, and glad I am that here we should have the flags of the Monitor Winnebago to remind us, if we need such reminder,(and I hardly think we do) that the United States Navy is a matter of personal concern to every citizen of the Union.(Applause.)",
+"No more fitting monument, no more fitting memorial could be erected than a hall such as this, a hall beautiful in itself, and beautiful because of the uses to which it is consecrated. The hall, the monument, is not only for you, just as you are not only for yourselves; your lives, your deeds have now become part of the very fiber of the nation. You warred for four years that your children and children's children should within their borders have peace forever. You warred to establish the fact that this government was one not of license, but of liberty under, by and through the law; that this government was in very fact united and free. You and those like [?] you saw what Abraham Lincoln saw, that anarchy was the hand-maiden of tyranny; you saw that injustice by one man to that man's fellow inevitably must be revenged by the mere logic of facts; and that the only way to secure safety for the republic in the future was to do away with such injustice. You fought to establish the principle that this government should be for all time a government of self-respecting freemen; no man being permitted to wrong his neighbor and each man being in return shielded from wrong himself.",
+"The problems that we now have to face at the outset of the new century are different from the problems that you had to face. New methods for their solution must be devised, but the spirit in which we must face them must be the same spirit that you showed when Abraham Lincoln called and you answered.(Applause.) This is a government of law, of liberty, of order. It is not and it never shall be a government by a plutocracy. It is not and it never shall be a government by a mob.(Applause.)",
+"No baser creature exists than he who looks with arrogant disregard upon his fellow because that fellow is less well off. There can be no baser man than that, but there can be a man as base, and that is the man who regards with envy, rancor and hatred his fellow because that fellow is better off.(Applause.) The two spirits, the two attitudes are equally base and equally unworthy of every man bred up in the principles of American citizenship, or to the traditions of the men who under Washington founded this republic, who under Lincoln preserved it.(Applause.)",
+"I thank you; I thank you in the name of my own comrades of the Spanish American war;(Applause) and of the men of the national guard, ever ready to come forward and do their part as you did yours. Our job was a little one but we did it.(Applause.) We hope that you feel that in the hour of lesser trial we showed ourselves not wholly unworthy of the men whose spirit had wrung true in the hour of the great trial. I do not know that I have been able to you much good, but you have done me a great deal. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 30 (frame 425:0538)</span>",
+"Congressman Hitt, and you, my fellow-Americans, and particularly you, the men who in every gathering of the citizens of this republic are forevermore entitled to the right of the line:(Applause.)",
+"I count myself fortunate in being able to come to-day to this city to dedicate this <span class=\"sic\" title=\"reads: beautiful\">beautifulm</span> memorial hall, a hall in the erection of which the citizens of this city have done themselves honor in honoring you.(Applause.) I greet you, the men who fought on land, and glad I am <span class=\"sic\" title=\"reads: that\">th t</span> here we should have the flags of the Monitor Winnebago to remind us, if we need such reminder,<ins title=\"added by hand\">(</ins>and I hardly think we do<ins title=\"added by hand\">)</ins> <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">to remind us</span></del> that the United States Navy is a matter of personal concern to every citizen of the Union.(Applause.)",
+"No more fitting monument, no more fitting memorial could be erected than a hall such as this,<del title=\"struck through\">xxxxx</del> a hall beautiful in itself, and beautiful because of the uses to which it is consecrated. The hall, the monument, is not only for you, just as you are not only for yourselves; your lives, your deeds have now become part of the very fiber of the nation. You warred for four years that your children and children&#x27;s children should within their borders have peace forever. You warred to establish the fact that this government was one not of license, but of liberty under, by and through the law; that this government was in very fact united and free. You and those <span class=\"unc\" title=\"uncertain reading\">like</span> you saw what Abraham Lincoln saw<ins title=\"added by hand\">,</ins> that anarchy was the hand-maiden of tyranny; you saw that injustice by one man to that man&#x27;s fellow inevitably must <ins title=\"added by hand\">be</ins> revenged by the mere logic of facts; and that the only way to secure safety for the republic in the future was to do away with such injustice. You fought to establish the principle that this government should be for all time a government of self-respecting freemen; no man being permitted to wrong his neighbor and each man being in return shielded from wrong<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> himself.",
+"The problems that we now have to face at the outset of the new century are different from the problems that you had to face. New <span class=\"pb\">Page 31 (frame 425:0539)</span> methods for their solution must be devised, but the spirit in which we must face them must be the same spirit that you showed when Abraham <span class=\"sic\" title=\"reads: Lincoln called\">Lincolncalled</span> and you answered.(Applause.) This is a government of law, of liberty, of order. It is not and it never shall be<del title=\"struck through\">xx</del> a government by a plutocracy. It is not and it never shall be a government by a mob.( Applause.)",
+"No baser <span class=\"sic\" title=\"reads: creature\">wreature</span> exists than he who looks with arrogant disregard upon his fellow because that fellow is less well off. There can be no baser man than that, but there can be a man as base, and that is the man who regards with envy, rancor and hatred his fellow because that fellow is better off.(Applause.) The two spirits , the two attitudes are equally base and equally unworthy of every man bred up in the principles of American citizenship, or to the traditions of the men who under Washington founded this republic, <span class=\"sic\" title=\"reads: who\">wh o</span> under Lincoln preserved it.(Applause.)",
+"I thank you; I thank <del title=\"struck through\">xxxxxxx</del> you in the name of my own comrades of the Spanish American war;(Applause) and of the men of the national guard, ever ready to come forward and do their part as you did yours. Our job was a little one but we did it.(Applause.) We hope that you feel that in <span class=\"sic\" title=\"reads: the hour\">thehour</span> of lesser trial we showed ourselves not wholly unworthy of the men whose spirit had wrung <del title=\"struck through\">x</del> true in the hour of the great trial. I do not know that I have been able to you much good, but you have done me a great deal. (Cheers and applause.)",
+"<span class=\"tnote\">Typed heading: &quot;President&quot; has its middle letters overtyped (&quot;PresH ent&quot;) and &quot;the&quot; is overtyped; read as &quot;President&quot; and &quot;the&quot;.</span>\n<span class=\"tnote\">p1: &quot;(&quot; and &quot;)&quot; around &quot;and I hardly think we do&quot; are added by hand, and the following words (apparently &quot;to remind us&quot;) are struck through by hand. A comma after &quot;saw&quot; is added by hand. &quot;be&quot; is typed above the line with a hand caret before &quot;revenged&quot;. After &quot;just as you&quot; there is a hand stroke like a caret with nothing written above it. The words struck by hand after &quot;wrong&quot; are not readable. In &quot;<span class=\"unc\" title=\"uncertain reading\">like</span>&quot; the last letters are overtyped.</span>\n<span class=\"tnote\">p2: hand slashes or strokes separate &quot;Lincoln/called&quot; and &quot;the/hour&quot; (proofreading marks). Typed page number &quot;-2-&quot; omitted. Several letters are overtyped and read as their final letter (than, city, outset, return, republic, Spanish).</span>\n<span class=\"margin\">In the margin: File</span>"
+],
+"notes": [
+"Typed heading: \"President\" has its middle letters overtyped (\"PresH ent\") and \"the\" is overtyped; read as \"President\" and \"the\".",
+"p1: \"(\" and \")\" around \"and I hardly think we do\" are added by hand, and the following words (apparently \"to remind us\") are struck through by hand. A comma after \"saw\" is added by hand. \"be\" is typed above the line with a hand caret before \"revenged\". After \"just as you\" there is a hand stroke like a caret with nothing written above it. The words struck by hand after \"wrong\" are not readable. In \"like [?]\" the last letters are overtyped.",
+"p2: hand slashes or strokes separate \"Lincoln/called\" and \"the/hour\" (proofreading marks). Typed page number \"-2-\" omitted. Several letters are overtyped and read as their final letter (than, city, outset, return, republic, Spanish)."
+],
+"file": "transcriptions/1903-06-03-rockford.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
-"people": [],
-"places": []
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 3
+}
+],
+"places": [
+{
+"id": "spain",
+"name": "Spain",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"hall",
+"applause",
+"fellow",
+"government",
+"saw",
+"lincoln",
+"beautiful",
+"face",
+"republic",
+"spirit"
+],
+"stats": {
+"words": 641,
+"unique_words": 257,
+"sentences": 13,
+"avg_sentence": 49.3,
+"minutes": 5,
+"i_count": 8,
+"we_count": 8
+}
 },
 {
 "id": "1903-06-04-lincoln",
@@ -39714,10 +39930,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 985,
+"paragraphs": [
+"My Fellow Citizens:",
+"I count myself fortunate in being given the privilege of dedicating this university. We are all as Americans to be congratulated that there are among us men who so worthily apply the fortunes that they have made, in devoting a portion of their fortunes to the cause of education in this country.",
+"Mr. Millikin, I feel that as an American it is proper for me to express to you and to those like you the obligation that good Americans feel for what you and they have done in this university and in other educational institutions throughout the land. (Applause) I am especially pleased that I am to take part in the dedication of an institution of learning where so much teaching is to be with a direct view to the industrial betterment of the community. Ours is an age of specialization; and the man who is to do the highest industrial work will find himself immeasurably better prepared for it, if he can have the proper kind of industrial training. I congratulate all of the men and women whom I address because this building consecrated to such a purpose is being erected here; for not only does such an institution benefit the student, benefit those supposed to be the only beneficiaries, but it also indirectly helps all of us; because it becomes at once a center for the diffusion of education.",
+"Now I wish to say a word to the students, to those who will profit by what has been done. To whom much has been given, from him much shall rightly be expected. The man who has received an education which he owes in part either to the state or to private gift, has accepted a favor which as a self-respecting American citizen he is bound to return; and he can return it in but one way. There is no return he can make to his alma mater of a tangible kind. There is no return he can make in the way of physical repayment of what has been spent upon his education either to the state or to the individual donor, to the benefactor of the university. The return must be made in the shape of good citizenship in the community. The return for the education must take the form of [?] the highest possible achievement on the part of the man who has received the education [?]. The college man is entitled to no privileges because he has received [?] a college education; but he is to be held peculiarly accountable, to be held to have acquired to a peculiar degree new responsibilities. The boy to whom his parents by their thrift and saving, or to whom the state by its erection of public schools, high schools, normal schools, universities, or to whom outside benefactors through the erection of schools of learning, have given the chance [?] to acquire special training, to fit him in the struggle for life, is bound to show that he has in him the quality to make good use of what has been given to him. Exactly as we rightly hold the man who has had a good training and advantages at home as one on whom we have a right to call for the proper performance of duty both in his home and with reference to the state, so we have that same right to demand an extra quality of service from the boy or the girl, the young man or the young woman, who has had the benefit of training, general or technical, in an institution such as this. In our American life no man is entitled to receive what he does not in some shape make return for; and the student, the college graduate, must make the return for the training that he has received in the shape of good citizenship in the community at large. (Applause)",
+"Let me say to you, men and women of Illinois, that in traveling through your state, much as I am impressed by the boundless beauty and fertility of the state, much though I am impressed by all that nature and Providence have done for you and by the way in which you have taken advantage of the gifts thus put at your disposal, I am even more impressed by the way in which you have recognized that you have more than merely material needs for which to care. It is of course the merest truism to say that natural advantages count only so far as they are made of use by the average citizen; and the success or failure of our American government in the future depends upon what kind of men and women the boys and girls of to-day turn out. I congratulate you upon the evidences I have seen that you appreciate that fact; that you are training in your homes, in your schools, in colleges such as this, the American boy and girl of to-day to turn into the kind of man, the kind of woman, to-morrow, who will be enabled to carry on with unfaltering courage and strength the work that the Americans of the past have done.",
+"We have great problems before us as a nation. We have solved great problems in the past, and we can do our duty in the future only on condition that we breed the same kind of man and woman that we have had in the past. Illinois sprang to the front and made the wonderful record it did in the civil war, because Illinois had the right stuff of citizenship within its borders. (Cheers and applause) And I believe that the people of Illinois; I believe that the people of all this country, will rise level to the needs of the future, because I believe we will continue to train properly the right type of citizenship to do the duties of the future. (Cheers and applause)."
+],
 "editions": [],
 "trc": [
 {
@@ -39739,13 +39962,67 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 553, 554",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0553",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Fellow Citizens:",
+"I count myself fortunate in being given the privilege of dedicating this university. We are all as Americans to be congratulated that there are among us men who so worthily apply the fortunes that they have made, in devoting a portion of their fortunes to the cause of education in this country.",
+"Mr. Millikin, I feel that as an American it is proper for me to express to you and to those like you the obligation that good Americans feel for what you and they have done in this university and in other educational institutions throughout the land. (Applause) I am especially pleased that I am to take part in the dedication of an institution of learning where so much teaching is to be with a direct view to the industrial betterment of the community. Ours is an age of specialization; and the man who is to do the highest industrial work will find himself immeasurably better prepared for it, if he can have the proper kind of industrial training. I congratulate all of the men and women whom I address because this building consecrated to such a purpose is being erected here; for not only does such an institution benefit the student, benefit those supposed to be the only beneficiaries, but it also indirectly helps all of us; because it becomes at once a center for the diffusion of education.",
+"Now I wish to say a word to the students, to those who will profit by what has been done. To whom much has been given, from him much shall rightly be expected. The man who has received an education which he owes in part either to the state or to private gift, has accepted a favor which as a self-respecting American citizen he is bound to return; and he can return it in but one way. There is no return he can make to his alma mater of a tangible kind. There is no return he can make in the way of physical repayment of what has been spent upon his education either to the state or to the individual donor, to the benefactor of the university. The return must be made in the shape of good citizenship in the community. The return for the education must take the form of [?] the highest possible achievement on the part of the man who has received the education [?]. The college man is entitled to no privileges because he has received [?] a college education; but he is to be held peculiarly accountable, to be held to have acquired to a peculiar degree new responsibilities. The boy to whom his parents by their thrift and saving, or to whom the state by its erection of public schools, high schools, normal schools, universities, or to whom outside benefactors through the erection of schools of learning, have given the chance [?] to acquire special training, to fit him in the struggle for life, is bound to show that he has in him the quality to make good use of what has been given to him. Exactly as we rightly hold the man who has had a good training and advantages at home as one on whom we have a right to call for the proper performance of duty both in his home and with reference to the state, so we have that same right to demand an extra quality of service from the boy or the girl, the young man or the young woman, who has had the benefit of training, general or technical, in an institution such as this. In our American life no man is entitled to receive what he does not in some shape make return for; and the student, the college graduate, must make the return for the training that he has received in the shape of good citizenship in the community at large. (Applause)",
+"Let me say to you, men and women of Illinois, that in traveling through your state, much as I am impressed by the boundless beauty and fertility of the state, much though I am impressed by all that nature and Providence have done for you and by the way in which you have taken advantage of the gifts thus put at your disposal, I am even more impressed by the way in which you have recognized that you have more than merely material needs for which to care. It is of course the merest truism to say that natural advantages count only so far as they are made of use by the average citizen; and the success or failure of our American government in the future depends upon what kind of men and women the boys and girls of to-day turn out. I congratulate you upon the evidences I have seen that you appreciate that fact; that you are training in your homes, in your schools, in colleges such as this, the American boy and girl of to-day to turn into the kind of man, the kind of woman, to-morrow, who will be enabled to carry on with unfaltering courage and strength the work that the Americans of the past have done.",
+"We have great problems before us as a nation. We have solved great problems in the past, and we can do our duty in the future only on condition that we breed the same kind of man and woman that we have had in the past. Illinois sprang to the front and made the wonderful record it did in the civil war, because Illinois had the right stuff of citizenship within its borders. (Cheers and applause) And I believe that the people of Illinois; I believe that the people of all this country, will rise level to the needs of the future, because I believe we will continue to train properly the right type of citizenship to do the duties of the future. (Cheers and applause)."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 60 (frame 425:0553)</span>",
+"My Fellow Citizens:",
+"I count myself fortunate in being given the privilege of dedicating this university. We are all as Americans to be congratulated that there are among us men who so worthily apply the fortunes that they have made<ins title=\"added by hand\">,</ins> in devoting a portion of their fortunes to the cause of education in this country.",
+"Mr. Millikin, I feel that as an American it is proper for me to express to you and to those like you the obligation that good Americans feel for what you and they have done in this university and in other educational institutions throughout the land. (Applause) I am especially pleased that I am to take part in <del title=\"struck through\">xxxx</del> the dedication of an institution of learning where so much teaching is to be with a direct view to the industrial betterment of the community. Ours is an age of specialization; and the man who is to do the highest industrial work will find himself <span class=\"sic\" title=\"reads: immeasurably\">imme asurably</span> better prepared for it, if he can have <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">had</span></del> the proper kind of industrial training. I congratulate all of the men and women whom I address because this building consecrated to such a purpose is being erected here; for not only does such an institution benefit the student, benefit those supposed to be the only <del title=\"struck through\">be</del>beneficiaries, but it also indirectly helps all of us; because it becomes at once a center for the diffusion <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">of learning, the diffusion</span></del> of education.",
+"Now I wish to say a word to the students, to those who will profit by what has been done. To whom much has been given, from him much shall rightly be expected. The man who has received an education which he owes in part either to the state or to private gift, has accepted a favor which <span class=\"sic\" title=\"reads: as\">aw</span> a self-respecting American citizen he is bound to return; and he can return it in but one way. There is no return he can make to his alma mater of a tangible kind. There is no return he can make in the way of physical repayment of what has been spent upon his education either to the state or to the <del title=\"struck through\">xxxxx</del> individual donor, to the benefactor of the university. The return must be made in the shape of good citizenship in the community. The return for the education must take the form <span class=\"unc\" title=\"uncertain reading\">of</span> the highest possible achievement on the part of the man who has received the <span class=\"unc\" title=\"uncertain reading\">education</span>. The college man is entitled to no privileges because he has <span class=\"unc\" title=\"uncertain reading\">received</span> a college education; but he is to be held peculiarly accountable , to be <span class=\"pb\">Page 61 (frame 425:0554)</span> held to have acquired to a peculiar degree new responsibilities. The boy to whom his parents by their thrift and saving, or to whom the state by its erection of public schools, high schools, normal schools, universities, or to whom outside <span class=\"sic\" title=\"reads: benefactors\">bemefactors</span> through the erection of schools of learning, have given the <span class=\"unc\" title=\"uncertain reading\">chance</span> to acquire special training<ins title=\"added by hand\">,</ins> to fit him in the struggle for life<ins title=\"added by hand\">,</ins> is bound to show that he has in him the quality to make good use of what has been given to him. Exactly as we rightly hold the man who has had a good training and advantages at home as one on whom we have a right to call for the proper performance of duty both in his home and with reference to the state, so we have that same right to demand an extra quality of service from the boy or the girl, the young man or the young woman, who has had the benefit of training, general or technical, in an institution such as this. In our American life no man is entitled to receive what he does not in some shape make return for; and the student, the college graduate, must make the return for the training that he has received in the shape of good citizenship in the community at large. (Applause)",
+"Let me say to you, men and women of Illinois, that in traveling through your state, much as I <span class=\"sic\" title=\"reads: am impressed\">ammimpressed</span> by the boundless beauty and fertility of the state, much though I am impressed by all that nature and Providence have done for you and by the way in which you have taken advantage of the gifts thus put at your disposal, I am even more impressed by the way in which you have recognized that you have more than merely material needs for which to care. It is of course the merest truism to say that natural advantages count only so far as they are made of use by the average citizen; and the success or failure of our American government in the future depends upon what kind of men and women the boys and girls of to-day turn out. I congratulate you upon the evidences I have seen that you appreciate that fact; that you are training in your homes, in your schools, in colleges such as this, the American boy and girl of to-day to turn into the kind of man, the kind of woman, to-morrow, who will be <del title=\"struck through\">xxx</del> enabled to carry on with unfaltering courage and strength the work that the Americans of the past have done.",
+"We have great problems before us as a nation. We have solved great problems in the past, and we can do our duty in the future only on condition that we <span class=\"pb\">Page 62 (frame 425:0554)</span> breed the same kind of man and woman that we have had in the past. Illinois sprang to the front and made the wonderful record it did in the civil war, because Illinois had the right stuff of citizenship within its borders. (Cheers and applause) And I believe that the people of Illinois; I believe that the people of all this country, will rise level to the needs of the future, because I believe we will continue to train properly the right type of citizenship to do the duties of the future. (Cheers and applause).",
+"<span class=\"tnote\">Heading: a hand slash runs through &quot;Illinois&quot; (&quot;Il/linois&quot;); it does not change the word.</span>\n<span class=\"tnote\">p1: hand comma after &quot;made&quot;; a typed word (apparently &quot;this&quot;) is x-ed out before &quot;the dedication&quot;; the word after &quot;can have&quot; (apparently &quot;had&quot;) and &quot;be&quot; before &quot;beneficiaries&quot; are struck by hand; after &quot;the diffusion&quot; a phrase (apparently &quot;of learning, the diffusion&quot;) is struck through by hand and is hard to read. A typed word is x-ed out before &quot;individual donor&quot;. At the foot of the page the left margin is covered by a folded corner of the sheet, so the starts of three lines are partly hidden: &quot;<span class=\"unc\" title=\"uncertain reading\">of</span> the highest&quot;, &quot;<span class=\"unc\" title=\"uncertain reading\">education</span>&quot; and &quot;re-<span class=\"unc\" title=\"uncertain reading\">ceived</span>&quot; are read from what shows.</span>\n<span class=\"tnote\">p2: hand strokes (commas) after &quot;training&quot; and &quot;life&quot;. &quot;<span class=\"unc\" title=\"uncertain reading\">chance</span>&quot; is overtyped at the line end. A typed word is x-ed out before &quot;enabled&quot;. Typed page numbers &quot;-2-&quot; and &quot;-3-&quot; omitted. On p3 there is a stray dot before &quot;of the future&quot;. Overtyped letters read as their final letter (feel, teaching, direct, himself, benefactor, to, turn).</span>\n<span class=\"margin\">In the margin: File</span>"
+],
+"notes": [
+"Heading: a hand slash runs through \"Illinois\" (\"Il/linois\"); it does not change the word.",
+"p1: hand comma after \"made\"; a typed word (apparently \"this\") is x-ed out before \"the dedication\"; the word after \"can have\" (apparently \"had\") and \"be\" before \"beneficiaries\" are struck by hand; after \"the diffusion\" a phrase (apparently \"of learning, the diffusion\") is struck through by hand and is hard to read. A typed word is x-ed out before \"individual donor\". At the foot of the page the left margin is covered by a folded corner of the sheet, so the starts of three lines are partly hidden: \"of [?] the highest\", \"education [?]\" and \"re-ceived [?]\" are read from what shows.",
+"p2: hand strokes (commas) after \"training\" and \"life\". \"chance [?]\" is overtyped at the line end. A typed word is x-ed out before \"enabled\". Typed page numbers \"-2-\" and \"-3-\" omitted. On p3 there is a stray dot before \"of the future\". Overtyped letters read as their final letter (feel, teaching, direct, himself, benefactor, to, turn)."
+],
+"file": "transcriptions/1903-06-04-decatur.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education",
+"home-family",
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"return",
+"illinois",
+"education",
+"schools",
+"training",
+"university",
+"institution",
+"impressed",
+"boy",
+"received"
+],
+"stats": {
+"words": 985,
+"unique_words": 322,
+"sentences": 21,
+"avg_sentence": 46.9,
+"minutes": 8,
+"i_count": 15,
+"we_count": 10
+}
 },
 {
 "id": "1903-06-04-springfield",
@@ -40357,8 +40634,8 @@
 "virginia",
 "literature",
 "mater",
-"alma",
 "crossed",
+"alma",
 "graduates",
 "roll",
 "production",
@@ -40547,8 +40824,8 @@
 "young",
 "preaching",
 "admire",
-"boys",
-"expect"
+"expect",
+"boys"
 ],
 "stats": {
 "words": 1336,
@@ -42430,8 +42707,8 @@
 "ideal",
 "eleven",
 "school",
-"physical",
 "athletics",
+"physical",
 "ideals"
 ],
 "stats": {
@@ -43543,8 +43820,8 @@
 "distinctive": [
 "parish",
 "grown",
-"woman",
 "qualities",
+"woman",
 "field",
 "future",
 "strength",
@@ -43608,8 +43885,8 @@
 "distinctive": [
 "wagner",
 "stable",
-"club",
 "church",
+"club",
 "vice",
 "book",
 "burned",
@@ -43893,8 +44170,8 @@
 "naturalization",
 "forest",
 "reserves",
-"congress",
 "labor",
+"congress",
 "indian",
 "islands",
 "government",
@@ -45658,7 +45935,7 @@
 "rules",
 "legitimate",
 "wealth",
-"proper"
+"power"
 ],
 "stats": {
 "words": 1528,
@@ -46187,8 +46464,8 @@
 "situation",
 "employers",
 "statement",
-"mob",
 "obey",
+"mob",
 "action",
 "mayor"
 ],
@@ -47805,8 +48082,8 @@
 "chinese",
 "wealth",
 "boycott",
-"senator",
 "planter",
+"senator",
 "wage-workers",
 "islands",
 "corporations"
@@ -48081,8 +48358,8 @@
 "undertaken",
 "possess",
 "concerned",
-"benefit",
 "accomplished",
+"benefit",
 "faith",
 "effective"
 ],
@@ -48437,8 +48714,8 @@
 "boys",
 "ordinary",
 "mayor",
-"citizen",
 "life",
+"citizen",
 "duty",
 "children",
 "nation",
@@ -48515,7 +48792,7 @@
 "education",
 "government",
 "important",
-"nation"
+"war"
 ],
 "stats": {
 "words": 763,
@@ -49363,8 +49640,8 @@
 "santo",
 "islands",
 "congress",
-"government",
 "domingo",
+"government",
 "commission",
 "law",
 "immigrants",
@@ -50833,8 +51110,8 @@
 "humphrey",
 "immunity",
 "commissioner",
-"garfield",
 "judge",
+"garfield",
 "evidence",
 "offence",
 "code",
@@ -51411,12 +51688,12 @@
 "navy",
 "military",
 "befallen",
-"afloat",
 "army",
+"afloat",
 "ashore",
 "civil",
 "everyday",
-"average"
+"francisco"
 ],
 "stats": {
 "words": 1843,
@@ -52083,8 +52360,8 @@
 "constitution",
 "government",
 "judicial",
-"national",
 "marshall",
+"national",
 "epoch"
 ],
 "stats": {
@@ -54439,8 +54716,8 @@
 "coal",
 "fraud",
 "mineral",
-"leases",
 "control",
+"leases",
 "leasing",
 "entries",
 "playgrounds"
@@ -54647,8 +54924,8 @@
 "grief",
 "regiment",
 "lesson",
-"army",
 "admiration",
+"army",
 "served",
 "war",
 "killed",
@@ -55193,8 +55470,8 @@
 "agricultural",
 "farmers",
 "agriculture",
-"colleges",
 "social",
+"colleges",
 "labor",
 "farming",
 "economic",
@@ -55334,8 +55611,8 @@
 "negligence",
 "workman",
 "compensation",
-"children",
-"legislation"
+"legislation",
+"children"
 ],
 "stats": {
 "words": 3662,
@@ -55817,8 +56094,8 @@
 "distinctive": [
 "farm",
 "land",
-"fencing",
 "master",
+"fencing",
 "actual",
 "commodities",
 "settlers",
@@ -56043,8 +56320,8 @@
 "distinctive": [
 "chuzzlewit",
 "martin",
-"navy",
 "corporations",
+"navy",
 "democracy",
 "regards",
 "conditions",
@@ -56258,7 +56535,7 @@
 "reactionary",
 "demagogues",
 "clamor",
-"fought"
+"triumphed"
 ],
 "stats": {
 "words": 4150,
@@ -60124,8 +60401,8 @@
 "forests",
 "inventory",
 "mineral",
-"forest",
 "lands",
+"forest",
 "commission",
 "report"
 ],
@@ -61074,8 +61351,8 @@
 "division",
 "supplies",
 "bureau",
-"navy",
 "military",
+"navy",
 "personnel",
 "reorganization",
 "report",
@@ -61230,8 +61507,8 @@
 "christianity",
 "college",
 "stopped",
-"government",
 "missionary",
+"government",
 "educational"
 ],
 "stats": {
@@ -61796,8 +62073,8 @@
 "distinctive": [
 "civilization",
 "movement",
-"roman",
 "centuries",
+"roman",
 "peoples",
 "modern",
 "conquests",
@@ -62194,8 +62471,8 @@
 "species",
 "rome",
 "science",
-"ancestral",
 "blood",
+"ancestral",
 "empire",
 "fauna",
 "new",
@@ -62930,10 +63207,10 @@
 "steal",
 "commission",
 "principle",
-"maverick",
 "exceptional",
+"maverick",
 "protection",
-"rich"
+"dakota"
 ],
 "stats": {
 "words": 4194,
@@ -63165,7 +63442,7 @@
 "development",
 "federal",
 "water",
-"natural"
+"corporations"
 ],
 "stats": {
 "words": 5943,
@@ -63372,8 +63649,8 @@
 "honesty",
 "party",
 "york",
-"illinois",
 "sake",
+"illinois",
 "dinner",
 "face"
 ],
@@ -63855,8 +64132,8 @@
 "parent",
 "woman",
 "suffrage",
-"father",
 "ideals",
+"father",
 "woman's",
 "daughter",
 "sit"
@@ -64947,8 +65224,8 @@
 "illinois",
 "taft",
 "york",
-"friends",
-"brakeman"
+"brakeman",
+"friends"
 ],
 "stats": {
 "words": 6414,
@@ -65578,8 +65855,8 @@
 "republican",
 "friends",
 "wisconsin",
-"applause",
 "movement",
+"applause",
 "roosevelt"
 ],
 "stats": {
