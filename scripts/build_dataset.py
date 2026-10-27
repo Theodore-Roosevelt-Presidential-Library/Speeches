@@ -372,6 +372,21 @@ def main():
             "trc": [{k: r[k] for k in ("id", "url", "title", "date", "pages", "repository", "thumb")} for r in s["trc"]],
             "loc": s["loc"],
         })
+    # new transcriptions from the archive typescripts (transcriptions/*.txt)
+    from transcripts import load as load_transcripts
+    tr = load_transcripts()
+    for x in out:
+        t = tr.pop(x["id"], None)
+        if not t:
+            continue
+        x["transcript"] = {k: t[k] for k in ("source", "image", "transcribed", "checked", "reading", "diplomatic", "notes", "file")}
+        if not x["has_text"]:
+            x["paragraphs"] = t["reading"]
+            x["has_text"] = True
+            x["text_source"] = "typescript"
+            x["word_count"] = len(words_of(t["reading"]))
+    if tr:
+        print("!! transcriptions with no matching speech id:", list(tr))
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     json.dump(out, open(os.path.join(ROOT, "data/speeches.json"), "w"), ensure_ascii=False, indent=0)
     json.dump(dict(sorted(cache.items())), open(CACHE_PATH, "w"), ensure_ascii=False, indent=1)

@@ -212,3 +212,14 @@ canvas.speechgrid { display: block; cursor: pointer; }
 .pager { display: flex; gap: 14px; align-items: center; margin-top: 14px; }
 .pager .btn[disabled] { opacity: .35; cursor: default; }
 .stripchart text { fill: #C9D4E2; font-size: 12px; }
+
+.vtabs { display: flex; gap: 8px; margin: 0 0 12px; }
+.reading del { color: #8A3A12; text-decoration-thickness: 2px; }
+.reading ins { text-decoration: none; background: #E3F1E4; color: var(--forest); padding: 0 2px; border-radius: 2px; }
+.reading .sic { border-bottom: 2px dotted var(--s4); cursor: help; }
+.reading .unc { border-bottom: 2px dashed var(--sky); }
+.reading .illeg { color: var(--ink-2); font-style: italic; }
+.reading .pb { display: block; font: 600 12px var(--sans); color: var(--ink-2); text-transform: uppercase; letter-spacing: .06em; border-top: 1px dashed var(--sand); padding-top: 6px; margin: 6px 0; }
+.reading .margin, .reading .tnote { display: block; font: 14px/1.45 var(--sans); color: var(--ink-2); background: var(--sand-2); padding: 6px 10px; margin: 4px 0; }
+.reading p.dip { font-family: "Courier Prime", ui-monospace, Menlo, monospace; font-size: 16px; line-height: 1.7; }
+.textnote del { color: #8A3A12; } .textnote ins { text-decoration: none; background: #E3F1E4; } .textnote .sic { border-bottom: 2px dotted var(--s4); }

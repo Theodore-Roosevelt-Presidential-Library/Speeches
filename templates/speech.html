@@ -62,32 +62,51 @@
 
   if (s.checks?.length) document.getElementById("textnote").insertAdjacentHTML("beforebegin", `<p class="dnote"><b>A note on this speech.</b> ${s.checks.map(SP.esc).join(" ")}</p>`);
 
-  // ---- the text ----
+  // ---- the text: printed edition, typescript (reading), typescript (as typed) ----
   const box = document.getElementById("text");
-  if (s.has_text) {
+  const isHead = p => p.length < 90 && p.replace(/[^A-Za-z]/g, "").length > 4 && p.replace(/[^A-Z]/g, "").length / p.replace(/[^A-Za-z]/g, "").length > .8;
+  const toHtml = ps => ps.map((p, i) => isHead(p) ? `<h3 class="subhead">${SP.esc(p.charAt(0) + p.slice(1).toLowerCase())}</h3>` : `<p${i === 0 && p.length < 140 && /[:,]$/.test(p) ? ' class="salute"' : ""}>${SP.esc(p)}</p>`).join("");
+  const views = [];
+  const dateNote = s.date_source === "dbd" ? ` The date comes from the Theodore Roosevelt Association's <i>Chronological Record</i>, by way of <a href="https://daybyday.labs.trlibrary.com/">Day by Day</a>; the printed edition does not give it.` : "";
+  const extra = (s.note ? ` ${SP.esc(s.note)}` : "") + ` Check the original before quoting.`;
+  const T = s.transcript;
+  if (T) {
+    const tnote = `New transcription by the Theodore Roosevelt Presidential Library from the typescript in the Library of Congress (<a href="${SP.esc(T.image)}/full/pct:50/0/default.jpg" target="_blank" rel="noopener">see the page</a>).` + (T.checked && T.checked !== "pending" ? ` Checked by a second, independent reading.` : ` Not yet checked by a second reading.`);
+    views.push({ key: "reading", label: "Typescript", html: toHtml(T.reading), note: tnote + ` Typing slips are corrected and words struck out by hand are left out; switch to “As typed” to see the page exactly.` + extra });
+    views.push({ key: "typed", label: "As typed", html: T.diplomatic.map(p => `<p class="dip">${p}</p>`).join(""), note: tnote + ` Shown exactly as on the page: <del>struck through</del>, <ins>added by hand</ins>, and <span class="sic">typing slips</span> (point at one to see the intended word).` + extra });
+  }
+  if (s.has_text && s.text_source !== "typescript") {
     const e0 = s.editions[0];
     let note = e0 ? `Text as printed in <i>${SP.esc(e0.title)}</i>.` : "";
     if (s.ocr) note += ` This text was read by machine from a scan of the printed page, so expect stray errors.`;
-    if (s.date_source === "dbd") note += ` The date comes from the Theodore Roosevelt Association's <i>Chronological Record</i>, by way of <a href="https://daybyday.labs.trlibrary.com/">Day by Day</a>; the printed edition does not give it.`;
-    if (s.note) note += ` ${SP.esc(s.note)}`;
-    note += ` Check the original before quoting.`;
-    document.getElementById("textnote").innerHTML = `<p class="textnote">${note}</p>`;
-    const isHead = p => p.length < 90 && p.replace(/[^A-Za-z]/g, "").length > 4 && p.replace(/[^A-Z]/g, "").length / p.replace(/[^A-Za-z]/g, "").length > .8;
-    const paras = s.paragraphs.map((p, i) => isHead(p) ? `<h3 class="subhead">${SP.esc(p.charAt(0) + p.slice(1).toLowerCase())}</h3>` : `<p${i === 0 && p.length < 140 && /[:,]$/.test(p) ? ' class="salute"' : ""}>${SP.esc(p)}</p>`);
-    box.innerHTML = paras.join("");
-    document.getElementById("findbar").hidden = false;
-    const orig = box.innerHTML;
-    const find = document.getElementById("find");
-    function hilite(term) {
-      if (!term || term.length < 2) { box.innerHTML = orig; document.getElementById("findhits").textContent = ""; return; }
-      const re = new RegExp(`(${SP.escRe(SP.esc(term))})`, "gi");
-      let n = 0;
-      box.innerHTML = orig.replace(/>([^<]+)</g, (m, t) => ">" + t.replace(re, x => { n++; return `<mark>${x}</mark>`; }) + "<");
-      document.getElementById("findhits").textContent = `${n} found`;
-      const first = box.querySelector("mark"); if (first) first.scrollIntoView({ behavior: "smooth", block: "center" });
+    views.unshift({ key: "printed", label: "Printed edition", html: toHtml(s.paragraphs), note: note + dateNote + extra });
+  }
+  let orig = "";
+  function show(k) {
+    const v = views.find(x => x.key === k) || views[0];
+    box.innerHTML = orig = v.html;
+    document.getElementById("textnote").innerHTML = `<p class="textnote">${v.note}</p>`;
+    document.querySelectorAll("#vtabs button").forEach(b => b.setAttribute("aria-pressed", b.dataset.k === v.key));
+    if (find.value.trim()) hilite(find.value.trim());
+  }
+  const find = document.getElementById("find");
+  function hilite(term) {
+    if (!term || term.length < 2) { box.innerHTML = orig; document.getElementById("findhits").textContent = ""; return; }
+    const re = new RegExp(`(${SP.escRe(SP.esc(term))})`, "gi");
+    let n = 0;
+    box.innerHTML = orig.replace(/>([^<]+)</g, (m, t) => ">" + t.replace(re, x => { n++; return `<mark>${x}</mark>`; }) + "<");
+    document.getElementById("findhits").textContent = `${n} found`;
+    const first = box.querySelector("mark"); if (first) first.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+  if (views.length) {
+    if (views.length > 1) {
+      document.getElementById("textnote").insertAdjacentHTML("beforebegin", `<div class="vtabs" id="vtabs" role="group" aria-label="Version">${views.map(v => `<button class="chip light" data-k="${v.key}">${v.label}</button>`).join("")}</div>`);
+      document.getElementById("vtabs").addEventListener("click", e => { const b = e.target.closest("button[data-k]"); if (b) show(b.dataset.k); });
     }
+    document.getElementById("findbar").hidden = false;
     let t; find.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => hilite(find.value.trim()), 250); });
-    if (SP.param("find")) { find.value = SP.param("find"); hilite(find.value); }
+    if (SP.param("find")) find.value = SP.param("find");
+    show(SP.param("v") || views[0].key);
   } else {
     box.innerHTML = `<div class="nostext"><p>The text of this speech is not yet transcribed here. The original typescript or printed copy is at the archive: ${s.trc[0] ? `<a href="${SP.esc(s.trc[0].url)}" target="_blank" rel="noopener">read it at the Theodore Roosevelt Center</a>` : "see the sources"}.</p><p class="small">Many of these are short remarks from his speaking tours, kept as typed copies among his papers.</p></div>`;
   }

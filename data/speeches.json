@@ -1746,8 +1746,8 @@
 "commonwealths",
 "century",
 "commonplace",
-"manliness",
 "industrial",
+"manliness",
 "prosperity"
 ],
 "stats": {
@@ -4355,10 +4355,10 @@
 },
 "distinctive": [
 "mills",
+"colonel",
 "shipp",
 "pointer",
 "parade-ground",
-"colonel",
 "west",
 "regiment",
 "institution",
@@ -10259,11 +10259,11 @@
 "policies",
 "issues",
 "complaint",
-"gospel",
 "liberty",
+"gospel",
 "failed",
-"prosperity",
-"president"
+"president",
+"prosperity"
 ],
 "stats": {
 "words": 2542,
@@ -11979,8 +11979,8 @@
 "injunction",
 "salt",
 "anti-trust",
-"shippers",
 "law",
+"shippers",
 "legislation",
 "corporations",
 "monopoly",
@@ -13949,6 +13949,26 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, Subseries 5B, Vol. 6, reel 425, frame 274",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0274",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "pending",
+"reading": [
+"My Friends and Neighbors:",
+"I am very glad to see you all. I made up my mind that come what would I would have to have a chance to stop at Medora. I first came to Medora twenty years ago, so I am a middling old settler. I meet boys, great big strapping men, and mothers of families who were children about three feet high when I knew them here. It is a very pleasant thing for me to see you. I shall not try to make you but a very short talk, because I want to have the chance to shake hands with you. Most all of you are old friends. I have stopped at your houses and shared your hospitality. With some of the men I have ridden guard around the cattle at night, worked with them in the round up, and hunted with them, so that I know them pretty well. It is the greatest possible pleasure to me to come back and see how you are getting along, to see the progress made by the state to see the progress made up at this end in the place that I know so well, and it just does me good to come here and see you; and there is not a human being who is more proud of what you have done, and more pleased with your welfare and progress than I am. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 98 (frame 425:0274)</span><span class=\"margin\">In the margin: handwritten mark, upper left <span class=\"illeg\">[illegible]</span></span>",
+"My Friends and Neighbors:",
+"I am very glad to see you all. I made up my mind that come what would I would have to have a chance to stop at Medora. I first came to Medora twenty years ago, so I am a middling old settler. I meet boys, great big strapping men, and mothers of families who were <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">children</ins> <del title=\"struck through\">A</del><ins title=\"added by hand\">a</ins>bout three feet high<del title=\"struck through\">.</del> <del title=\"struck through\">W</del><ins title=\"added by hand\">w</ins>hen I knew them here . It is a very pleasant thing for me to see you. I shall not try to make you but a very short talk, because I want to have the chance to shake hands with you. Most all of you are old friends . I have stopped at your houses and shared your hospitality . With some of the men I have ridden <span class=\"sic\" title=\"reads: guard around\">guardaround</span> the cattle at night, worked with them in the round up, and hunted with them, so that I know them pretty well. It is the greatest possible pleasure to me to come back and see how you are getting along,, to see the progress made by the state to see the progress made up at this end in the place that I know so well, and it just does me good to come here and see you; and there is not a human being who is more proud of what you have done, and more pleased with your welfare and progress than I am. (Cheers and applause)",
+"<span class=\"tnote\">Typed words after &quot;who were&quot; are struck out and &quot;children&quot; is written above them by hand; the period after &quot;high&quot; is struck and the next two capitals are changed by hand to make one sentence. A period after &quot;see you&quot; is circled, and there is a check mark over &quot;with&quot; in &quot;worked with them&quot;; these look like proofreading marks and do not change the words.</span>"
+],
+"notes": [
+"Typed words after \"who were\" are struck out and \"children\" is written above them by hand; the period after \"high\" is struck and the next two capitals are changed by hand to make one sentence. A period after \"see you\" is circled, and there is a check mark over \"with\" in \"worked with them\"; these look like proofreading marks and do not change the words."
+],
+"file": "transcriptions/1903-04-07-medora.txt"
+},
 "themes": [
 "home-family"
 ],
@@ -14077,10 +14097,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 340,
+"paragraphs": [
+"My friends and neighbors:",
+"I am more pleased than I can say to come back and have a chance to see you. The farther west I have gotten to-day, the more I have felt as if I was coming home. (Applause) It is just seventeen years ago that I came over here as orator of the day at the Fourth of July celebration. I remember it just as well as can be.",
+"Now I want to say one word, especially, Captain to you and the members of the guard who have come down to greet me. Naturally, I have a peculiar feeling toward you. We have been comrades in effect together, (Applause)",
+"There are a great many of you here whom I knew in the old days when I used to bring my cattle in to ship them from here. And in those days I do not think there was a puncher in the country that had not worked for me.",
+"I do not know if you recollect once when I was a deputy sheriff and I brought in three men (A voice \"I do\")-- somebody says that he was one of them, but I am sure that is not so--and naturally I come back here and I feel that I am among my old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
+"Knowing North Dakota so well, I have watched all that she has done in the growth of the state with peculiar interest. I am proud of your success. I am proud of the way you have earned it. The changes since I first came to Dickinson, which was twenty years ago, have been great. When I first came to Bismarck, the railroad did not come this far. Twenty years ago I first struck Medora; and one of your citizens repaired my rifle, with which I killed my first buffalo. I wish I could stay here permanently"
+],
 "editions": [],
 "trc": [
 {
@@ -14102,13 +14129,58 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, Subseries 5B, Vol. 6, reel 425, frame 274",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0274",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "pending",
+"reading": [
+"My friends and neighbors:",
+"I am more pleased than I can say to come back and have a chance to see you. The farther west I have gotten to-day, the more I have felt as if I was coming home. (Applause) It is just seventeen years ago that I came over here as orator of the day at the Fourth of July celebration. I remember it just as well as can be.",
+"Now I want to say one word, especially, Captain to you and the members of the guard who have come down to greet me. Naturally, I have a peculiar feeling toward you. We have been comrades in effect together, (Applause)",
+"There are a great many of you here whom I knew in the old days when I used to bring my cattle in to ship them from here. And in those days I do not think there was a puncher in the country that had not worked for me.",
+"I do not know if you recollect once when I was a deputy sheriff and I brought in three men (A voice \"I do\")-- somebody says that he was one of them, but I am sure that is not so--and naturally I come back here and I feel that I am among my old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
+"Knowing North Dakota so well, I have watched all that she has done in the growth of the state with peculiar interest. I am proud of your success. I am proud of the way you have earned it. The changes since I first came to Dickinson, which was twenty years ago, have been great. When I first came to Bismarck, the railroad did not come this far. Twenty years ago I first struck Medora; and one of your citizens repaired my rifle, with which I killed my first buffalo. I wish I could stay here permanently"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 97 (frame 425:0274)</span><span class=\"margin\">In the margin: handwritten mark, upper left <span class=\"illeg\">[illegible]</span></span>",
+"My friends and neighbors:",
+"I am more pleased than I can say to come back and have a chance to see you. The farther west I have gotten to-day, the more I have felt as if I was coming home. <span class=\"sic\" title=\"reads: (Applause)\">(ZApplause)</span> It is just seventeen years ago that I came over here as orator of the day at the Fourth of July celebration. I remember it just as well as can be.",
+"Now I want to say one word, especially, Captain to you and the members of the guard who have come down to greet me. Naturally, I have a peculiar feeling toward you. We have been comrades in effect together, (Applause)",
+"There are a great many of you here whom I knew in the old days when I <span class=\"sic\" title=\"reads: used to\">usedto</span> bring my cattle in to ship them from here. <span class=\"sic\" title=\"reads: And in\">Andin</span> those days I do not think there was a puncher in the country that had not worked for me.",
+"I do not know if you recollect once when I was a deputy sheriff and I brought in three <span class=\"sic\" title=\"reads: men\">mn</span> ( A voice &quot;I do&quot;)-- somebody says that he was one of <span class=\"sic\" title=\"reads: them, but\">thembut</span> I am sure that is not so--and naturally I come back <span class=\"sic\" title=\"reads: here and\">hereand</span> I feel that I am among my <del title=\"struck through\">xxx</del> old friends, the people whom I knew so well. All I regret is that I cannot spend a couple of hours shaking hands and talking over the past with you.",
+"Knowing North Dakota so well ,I have watched all that she has done in the growth of the state with peculiar interest. I am proud of your success. I am proud of the way you have earned it. The changes since I first came to Dickinson <del title=\"struck through\">xxx xxxxyxgxxxx</del>, which was twenty years ago, have been great. When I first came to Bismarck, the railroad did not come this far. Twenty years ago I first struck Medora; and one of your citizens repaired my rifle, with which I killed my first buffalo. I wish I could stay here permanently<del title=\"struck through\">, but <span class=\"illeg\">[illegible]</span> it will <span class=\"illeg\">[illegible]</span> step <span class=\"illeg\">[illegible]</span></del>",
+"<span class=\"tnote\">The last two typed lines are heavily struck through by hand and cannot be read beyond a few words. The typed &quot;thembut&quot; has a hand mark separating the two words.</span>"
+],
+"notes": [
+"The last two typed lines are heavily struck through by hand and cannot be read beyond a few words. The typed \"thembut\" has a hand mark separating the two words."
+],
+"file": "transcriptions/1903-04-07-dickinson.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 2
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"ago"
+],
+"stats": {
+"words": 341,
+"unique_words": 163,
+"sentences": 16,
+"avg_sentence": 21.3,
+"minutes": 3,
+"i_count": 32,
+"we_count": 1
+}
 },
 {
 "id": "1903-04-07-mandan",
@@ -31247,7 +31319,7 @@
 "public",
 "duties",
 "state",
-"proud"
+"fellow-citizens"
 ],
 "stats": {
 "words": 1169,
@@ -34388,8 +34460,8 @@
 "punishment",
 "judge",
 "rose",
-"bar",
-"law"
+"law",
+"bar"
 ],
 "stats": {
 "words": 1406,
@@ -38085,8 +38157,8 @@
 "engineer",
 "grand",
 "ages",
-"realize",
 "work",
+"realize",
 "army",
 "enough",
 "task",
@@ -40317,7 +40389,7 @@
 "served",
 "honesty",
 "war",
-"killed"
+"lot"
 ],
 "stats": {
 "words": 2822,
@@ -41379,8 +41451,8 @@
 "honest",
 "president",
 "dishonest",
-"wrongdoing",
 "wealth",
+"wrongdoing",
 "wheeler",
 "poverty",
 "envy"
@@ -43313,8 +43385,8 @@
 "navigable",
 "plans",
 "rainy",
-"dams",
-"act"
+"act",
+"dams"
 ],
 "stats": {
 "words": 1432,
@@ -46179,16 +46251,16 @@
 ]
 },
 "distinctive": [
+"lincoln",
 "extremists",
 "differed",
-"lincoln",
 "vision",
 "practical",
 "possessed",
 "brother",
 "lived",
 "devotion",
-"struggle"
+"common"
 ],
 "stats": {
 "words": 1535,
@@ -47464,8 +47536,8 @@
 "roman",
 "centuries",
 "conquests",
-"civilizations",
 "peoples",
+"civilizations",
 "science",
 "europe",
 "modern"
@@ -48591,9 +48663,9 @@
 "distinctive": [
 "tariff",
 "brand",
-"dakota",
 "advising",
 "steal",
+"dakota",
 "commission",
 "maverick",
 "square",
