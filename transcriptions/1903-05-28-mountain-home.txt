@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Mountain Home, Idaho, May 28, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0500
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0500
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 148 425:0500]
@@ -15,11 +15,11 @@ My Friends and Fellow Citizens:
 
 It has been a great pleasure to have been traveling in Idaho to-day;  and now after having traversed a good deal of sage brush to come here to see what can be done by a proper mixture of intelligence, industry, and water, in substituting for the sage brush fruit and green crops. I doubt if there is any state which will profit more by the increase in the application of irrigation to our[-s-] needs than is the case with the state of Idaho. Most of our people, especially our people in the east, have no fair idea how much can be done in the development of these states here under that irrigation system. I do not believe that Congress has for many years passed any law relating to our internal development so wise as the irrigation law of a year ago.
 
-To-day passing by I noted far to the [-xxxx-] north the spot where one of the first experiments under that act is to be tried. I wish to say that our object in our whole irrigation policy should be to build up home makers, to build up the people who take each the land that he himself can attend to and till and who intend to rear their children on the soil[+.+] [-our-][+Our+] object should be sedulously to provide against letting great tracts of land go into the hands of any one man or of any one corporation. On the contrary we should endeavor to save the land for its actual occupiers, for the men who will actually build up homes upon it, homes in which I shall hope to see plenty of healthy children. (Applause) I congratulate you upon the output from the mines, lumber, the ranches, but most of all upon the children. (Cheers and applause) I am glad that they seem to be all right in quality and all right in [-quality-][+quantity.+]
+To-day passing by I noted far to the [-xxxx-] north the spot where one of the first experiments under that act is to be tried. I wish to say that our object in our whole irrigation policy should be to build up home makers, to build up the people who take each the land that he himself can attend to and till and who intend to rear their children on the soil[-[?,?]-][+.+] [-our-][+Our+] object should be sedulously to provide against letting great tracts of land go into the hands of any one man or of any one corporation. On the contrary we should endeavor to save the land for its actual occupiers, for the men who will actually build up homes upon it, homes in which I shall hope to see plenty of healthy children. (Applause) I congratulate you upon the output from the mines, lumber, the ranches, but most of all upon the children. (Cheers and applause) I am glad that they seem to be all right in quality and all right in [-quality-][+quantity.+]
 
 It has particularly pleased me in coming through this state to see the excellent schools you have built, and the care with which you are training the next generation. I believe in you, and I want to see the future people like you.
 
 (cheers and applause)
 
-[note: After "soil" a full stop is inserted by hand in a circle and the o of "our" is triple-underlined for a capital. The s of "ours" is struck by hand. "quantity." is written by hand after the struck "quality".]
+[note: After "soil" the typed mark, probably a comma, is circled by hand to make a full stop and the o of "our" is underlined twice for a capital. The s of "ours" is struck by hand. "quantity." is written by hand after the struck "quality".]
 [note: Below the last line is a faint mirror-image offset of typed text from a facing page; not transcribed. Letters struck over on the typewriter ("Fellow", "under", "tracts") are given in their final or intended reading.]

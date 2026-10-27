@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Glenns Ferry, Idaho, May 28, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0499, 0500
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0499
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 146 425:0499]
@@ -19,10 +19,11 @@ One thing that has particularly pleased me in making this trip from the Atlantic
 
 I have been struck coming through this state  -- a state with its mines and timber in the north, and here the grazing country -- with the wonderful results achieved wherever water has been put upon the soil. I do not believe that there is any state [-that [illegible] state-] in this country which will benefit more through the workings of the irrigation act than this state of Idaho;  and nothing has pleased [+me+] more than to have had my part in getting the national government to aid in the work. Much can be done by the aid of the government, by the aid of the state;  but after all, the fundamental thing in bringing success to any community is the quality of the average man, the average woman, in that community. I believe in your future;  I believe in the future of the [-xxxxxx-] nation of which you and I are a part, because I believe that we have just that average quality of {citisenship|citizenship} in our men and women.
 
-No law that the wit of man has ever devised ever can make or ever will make a fool wise, or a coward brave, or a weakling strong. All that the law can do is to try to secure a fair deal, to try to give each man a chance to show the stuff that is in him;;  and if the stuff is not in him you cannot get it out of him, because it is not there. (Applause)
+No law that the wit of man has ever devised ever can make or ever will make a fool wise, or a coward brave, or a weakling strong. All that the law can do is to try to secure a fair deal, to try to give each man a chance to show the stuff that is in him;;  [?and?] if the stuff is not in him you cannot get it out of him, because it is not there. (Applause)
 
 It is a good thing to have a sound body. It is a better thing to have a sound mind. Best of all it is to have what counts for more than body and more than mind -- character;  character, into which a good man[?y?] different elements [pb 147 425:0500] enter, but three especially;  in the first place the element of honesty, of decency, using it in its widest [-xxxxxxx-][+bearing+], the element that makes a man a good husband, a good father, a good neighbor, a good man to work along side of or to deal with;  and then in addition to that we need courage, hardihood, the qualities that every railroad man  -- every man on the engine or firing -- has got to show, the qualities that make me very glad to be [-xxxxxxx-]  an honorary member of the brotherhood, the qualities that we speak of when we say of a man that he is not only a good man, but a man;  and finally, in addition to courage and honesty we need the saving grace of common sense, for without that a man will make but scant headway in the world. I am very glad to have had the chance of seeing you. (Cheers and applause)
 
 [note: The typed page number -2- at the head of folio 147 is omitted.]
 [note: Folio 146: the words struck by hand after "any state" begin "that" and end "state"; the middle is illegible. "me" after "pleased" is added by hand with a caret. In "man[?y?] different" the y is struck over by another letter and a hand stroke separates the two words.]
 [note: Folio 147: "bearing" is typed between the lines above the x-ed out word; "three" has its r struck over another letter. Other letters struck over on the typewriter (e.g. "has got", "but scant", and "me" in "particularly pleased me" on folio 146) are given in their final reading.]
+[note: Third look: "citisenship" is typed with s; the first letters of "[?and?]" after "him;;" are struck over on the typewriter, so its capital cannot be read.]

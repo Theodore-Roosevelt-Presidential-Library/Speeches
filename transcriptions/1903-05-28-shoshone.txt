@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Shoshone, Idaho, May 28, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0499
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0499
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 145 425:0499]
@@ -22,3 +22,4 @@ And you, the men of the great war, the men whom I have met wherever I have stopp
 [note: "principles" and "American principles" in the first paragraph are x-ed out on the typewriter; the words after the last "principles" are struck by hand (only "of" can be read) with a hand deletion mark beside them. "class against class" after "section against section," and "share" before "say" are x-ed out on the typewriter.]
 [note: The dashes after "Maker," and "what" are added by hand with carets. Several letters are struck over on the typewriter (e.g. "Americans", "deeds", "how", "brotherhood", "mankind"); the final reading is given.]
 [note: "Letter" is written and underlined by hand beside the folio number; "File" in the upper left margin.]
+[note: Third look: no typed comma after "what"; only the hand dash with a caret.]
