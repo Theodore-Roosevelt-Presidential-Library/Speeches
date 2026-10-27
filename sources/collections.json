@@ -372,7 +372,7 @@
    "file": "sources/ia/california_addresses_1903.txt",
    "title": "California Addresses by President Roosevelt (California Promotion Committee, San Francisco, 1903)",
    "published": "1903",
-   "ia": "https://archive.org/details/californiaaddres00unitrich",
+   "ia": "californiaaddres00unitrich",
    "ocr": true,
    "mode": "dated_blocks",
    "entries": [
