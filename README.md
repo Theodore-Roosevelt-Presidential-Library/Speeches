@@ -6,9 +6,9 @@ Site: https://speeches.labs.trlibrary.com (once GitHub Pages is turned on for th
 
 ## What is in it
 
-- **Full texts** of about 340 addresses, lectures and messages to Congress, from editions printed in his lifetime (public domain):
+- **Full texts** of about 520 addresses, lectures and messages to Congress, from editions printed in his lifetime (public domain):
   - *Presidential Addresses and State Papers* (Review of Reviews Co., 1910), parts 1 to 8. Parts 1 to 4 use the proofread Project Gutenberg texts; parts 5 to 8 are machine-read (OCR) from Internet Archive scans.
-  - *The Strenuous Life*, *African and European Addresses*, *The New Nationalism*, *Realizable Ideals*, *History as Literature*, and single addresses printed as pamphlets (1905 to 1912), including the 1912 "Confession of Faith" and the Milwaukee speech.
+  - *The Strenuous Life*, *African and European Addresses*, *The New Nationalism*, *Realizable Ideals*, *History as Literature*, *California Addresses* (California Promotion Committee, 1903; 52 talks of the May 1903 California tour, machine-read from an Internet Archive scan), and single addresses printed as pamphlets (1905 to 1912), including the 1912 "Confession of Faith" and the Milwaukee speech.
 - **Archive records** for about 470 more speeches from the Theodore Roosevelt Center's digital library (resource type "Speech"), each linked to its scan. Most are short tour remarks from 1902 and 1903 whose texts are not yet transcribed here.
 - **Source links on every speech**, in this order: Theodore Roosevelt Center record, Library of Congress (Theodore Roosevelt Papers, Series 5, reel and frame, derived from the TRC scan path), then the printed edition (page scan and Gutenberg text), then the Day by Day page for that date.
 - **Computed layers**: places geocoded with GeoNames; topics from keyword lexicons (`sources/themes.json`); people and places named in each speech; distinctive words (tf-idf); phrase counts; word statistics.

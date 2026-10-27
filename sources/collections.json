@@ -1,502 +1,930 @@
 {
-  "_about": "Hand-checked manifest of the published collections and pamphlets split by scripts/parse_collections.py. Each entry names the chapter heading as printed, and the date, place and occasion. date_source says where the date comes from: 'text' = printed with the address in the source; 'dbd' = the Library's Day by Day calendar (Theodore Roosevelt Association Chronological Record), to be checked against a primary source.",
-  "books": [
+ "_about": "Hand-checked manifest of the published collections and pamphlets split by scripts/parse_collections.py. Each entry names the chapter heading as printed, and the date, place and occasion. date_source says where the date comes from: 'text' = printed with the address in the source; 'dbd' = the Library's Day by Day calendar (Theodore Roosevelt Association Chronological Record), to be checked against a primary source.",
+ "books": [
+  {
+   "id": "strenuous-life",
+   "file": "sources/gutenberg/pg58821.txt",
+   "gutenberg": 58821,
+   "title": "The Strenuous Life: Essays and Addresses",
+   "published": "1900 (Works, Memorial-era reprint)",
+   "ia": null,
+   "entries": [
     {
-      "id": "strenuous-life",
-      "file": "sources/gutenberg/pg58821.txt",
-      "gutenberg": 58821,
-      "title": "The Strenuous Life: Essays and Addresses",
-      "published": "1900 (Works, Memorial-era reprint)",
-      "ia": null,
-      "entries": [
-        {
-          "heading": "THE STRENUOUS LIFE",
-          "title": "The Strenuous Life",
-          "date": "1899-04-10",
-          "place": "Chicago, Illinois",
-          "occasion": "Hamilton Club",
-          "date_source": "text"
-        },
-        {
-          "heading": "GRANT",
-          "title": "Grant",
-          "date": "1900-04-27",
-          "place": "Galena, Illinois",
-          "occasion": "Ulysses S. Grant birthday celebration",
-          "date_source": "text"
-        },
-        {
-          "heading": "THE LABOR QUESTION",
-          "title": "The Labor Question",
-          "date": "1900-09-03",
-          "place": "Chicago, Illinois",
-          "occasion": "Chicago Labor Day picnic",
-          "date_source": "text"
-        },
-        {
-          "heading": "CHRISTIAN CITIZENSHIP",
-          "title": "Christian Citizenship",
-          "date": "1900-12-30",
-          "place": "New York, New York",
-          "occasion": "Young Men's Christian Association, Carnegie Hall",
-          "date_source": "text"
-        },
-        {
-          "heading": "THE TWO AMERICAS",
-          "title": "The Two Americas",
-          "date": "1901-05-20",
-          "place": "Buffalo, New York",
-          "occasion": "Formal opening of the Pan-American Exposition",
-          "date_source": "text"
-        },
-        {
-          "heading": "MANHOOD AND STATEHOOD",
-          "title": "Manhood and Statehood",
-          "date": "1901-08-02",
-          "place": "Colorado Springs, Colorado",
-          "occasion": "Quarter-centennial of Colorado statehood",
-          "date_source": "text"
-        },
-        {
-          "heading": "NATIONAL DUTIES",
-          "title": "National Duties",
-          "date": "1901-09-02",
-          "place": "Minnesota State Fairgrounds, Minnesota",
-          "occasion": "Minnesota State Fair",
-          "date_source": "text",
-          "note": "The fairgrounds lie between St. Paul and Minneapolis. This is the address that quotes the \"old proverb\" about speaking softly and carrying a big stick."
-        },
-        {
-          "heading": "BROTHERHOOD AND THE HEROIC VIRTUES",
-          "title": "Brotherhood and the Heroic Virtues",
-          "date": "1901-09-05",
-          "place": "Burlington, Vermont",
-          "occasion": "Veterans' reunion",
-          "date_source": "text"
-        }
-      ],
-      "stop": [
-        "EXPANSION AND PEACE",
-        "LATITUDE AND LONGITUDE AMONG REFORMERS",
-        "FELLOW-FEELING AS A POLITICAL FACTOR",
-        "CIVIC HELPFULNESS",
-        "CHARACTER AND SUCCESS",
-        "THE EIGHTH AND NINTH COMMANDMENTS IN POLITICS",
-        "THE BEST AND THE GOOD",
-        "PROMISE AND PERFORMANCE",
-        "THE AMERICAN BOY",
-        "MILITARY PREPAREDNESS AND UNPREPAREDNESS",
-        "ADMIRAL DEWEY"
-      ]
+     "heading": "THE STRENUOUS LIFE",
+     "title": "The Strenuous Life",
+     "date": "1899-04-10",
+     "place": "Chicago, Illinois",
+     "occasion": "Hamilton Club",
+     "date_source": "text"
     },
     {
-      "id": "african-european",
-      "file": "sources/gutenberg/pg13930.txt",
-      "gutenberg": 13930,
-      "title": "African and European Addresses",
-      "published": "1910",
-      "ia": "africaneuropeana00roos",
-      "entries": [
-        {
-          "heading": "PEACE AND JUSTICE IN THE SUDAN",
-          "title": "Peace and Justice in the Sudan",
-          "date": "1910-03-16",
-          "place": "Khartoum, Sudan",
-          "occasion": "American Mission",
-          "date_source": "text"
-        },
-        {
-          "heading": "LAW AND ORDER IN EGYPT",
-          "title": "Law and Order in Egypt",
-          "date": "1910-03-28",
-          "place": "Cairo, Egypt",
-          "occasion": "National University",
-          "date_source": "text"
-        },
-        {
-          "heading": "CITIZENSHIP IN A REPUBLIC",
-          "title": "Citizenship in a Republic",
-          "date": "1910-04-23",
-          "place": "Paris, France",
-          "occasion": "The Sorbonne",
-          "date_source": "text"
-        },
-        {
-          "heading": "INTERNATIONAL PEACE",
-          "title": "International Peace",
-          "date": "1910-05-05",
-          "place": "Christiania (Oslo), Norway",
-          "occasion": "Nobel Prize Committee",
-          "date_source": "text"
-        },
-        {
-          "heading": "THE COLONIAL POLICY OF THE UNITED STATES",
-          "title": "The Colonial Policy of the United States",
-          "date": "1910-05-05",
-          "place": "Christiania (Oslo), Norway",
-          "occasion": "Evening dinner",
-          "date_source": "text"
-        },
-        {
-          "heading": "THE WORLD MOVEMENT",
-          "title": "The World Movement",
-          "date": "1910-05-12",
-          "place": "Berlin, Germany",
-          "occasion": "University of Berlin",
-          "date_source": "text"
-        },
-        {
-          "heading": "THE CONDITIONS OF SUCCESS",
-          "title": "The Conditions of Success",
-          "date": "1910-05-26",
-          "place": "Cambridge, England",
-          "occasion": "Cambridge Union",
-          "date_source": "text"
-        },
-        {
-          "heading": "BRITISH RULE IN AFRICA",
-          "title": "British Rule in Africa",
-          "date": "1910-05-31",
-          "place": "London, England",
-          "occasion": "Guildhall",
-          "date_source": "text"
-        },
-        {
-          "heading": "BIOLOGICAL ANALOGIES IN HISTORY",
-          "title": "Biological Analogies in History",
-          "date": "1910-06-07",
-          "place": "Oxford, England",
-          "occasion": "Romanes Lecture, University of Oxford",
-          "date_source": "text"
-        }
-      ],
-      "stop": [
-        "APPENDIX",
-        "INDEX",
-        "FOOTNOTES"
-      ]
+     "heading": "GRANT",
+     "title": "Grant",
+     "date": "1900-04-27",
+     "place": "Galena, Illinois",
+     "occasion": "Ulysses S. Grant birthday celebration",
+     "date_source": "text"
     },
     {
-      "id": "new-nationalism",
-      "file": "sources/editions/ia__newnationalism01roos.txt",
-      "ia": "newnationalism01roos",
-      "title": "The New Nationalism",
-      "published": "1910",
-      "ocr": true,
-      "entries": [
-        {
-          "heading": "THE NEW NATIONALISM",
-          "title": "The New Nationalism",
-          "date": "1910-08-31",
-          "place": "Osawatomie, Kansas",
-          "occasion": "Dedication of the John Brown Memorial Park",
-          "date_source": "dbd",
-          "skip_first": 2
-        },
-        {
-          "heading": "THE NATION AND THE STATES",
-          "title": "The Nation and the States",
-          "date": "1910-08-29",
-          "place": "Denver, Colorado",
-          "occasion": "Colorado Legislature",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "CONSERVATION",
-          "title": "Conservation",
-          "date": "1910-08-29",
-          "place": "Denver, Colorado",
-          "occasion": "Colorado Live Stock Association",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "NATURAL RESOURCES",
-          "title": "Natural Resources",
-          "date": "1910-09-06",
-          "place": "St. Paul, Minnesota",
-          "occasion": "National Conservation Congress",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "THE COMMISSION PRINCIPLE",
-          "title": "The Commission Principle",
-          "date": "1910-09-03",
-          "place": "Sioux Falls, South Dakota",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "LABOR AND CAPITAL",
-          "title": "Labor and Capital",
-          "date": "1910-09-05",
-          "place": "Fargo, North Dakota",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "WORLD FEATS",
-          "title": "World Feats",
-          "date": "1910-09-02",
-          "place": "Omaha, Nebraska",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "THE CROOK",
-          "title": "The Crook",
-          "date": "1910-09-01",
-          "place": "Kansas City, Missouri",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "THE PUBLIC PRESS",
-          "title": "The Public Press",
-          "date": "1910-09-07",
-          "place": "Milwaukee, Wisconsin",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "THE GOOD CITIZEN",
-          "title": "The Good Citizen",
-          "date": "1910-08-30",
-          "place": "Pueblo, Colorado",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "CORRUPTION",
-          "title": "Corruption",
-          "date": "1910-09-08",
-          "place": "Chicago, Illinois",
-          "occasion": "Hamilton Club",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "LAW, ORDER, AND JUSTICE",
-          "title": "Law, Order, and Justice",
-          "date": "1910-09-09",
-          "place": "Columbus, Ohio",
-          "date_source": "dbd"
-        },
-        {
-          "heading": "THE NEW NATIONALISM AND THE OLD MORALITIES",
-          "title": "The New Nationalism and the Old Moralities",
-          "date": "1910-09-17",
-          "place": "Syracuse, New York",
-          "occasion": "New York State Fair",
-          "date_source": "dbd"
-        }
-      ],
-      "stop": [
-        "CRITICISM OF THE COURTS",
-        "HISTORICAL SUMMARY",
-        "INDEX"
-      ]
+     "heading": "THE LABOR QUESTION",
+     "title": "The Labor Question",
+     "date": "1900-09-03",
+     "place": "Chicago, Illinois",
+     "occasion": "Chicago Labor Day picnic",
+     "date_source": "text"
     },
     {
-      "id": "realizable-ideals",
-      "file": "sources/gutenberg/pg79515.txt",
-      "gutenberg": 79515,
-      "title": "Realizable Ideals (the Earl Lectures)",
-      "published": "1912",
-      "ia": "realizableideals00roos",
-      "entries": [
-        {
-          "heading": "REALIZABLE IDEALS",
-          "title": "Realizable Ideals",
-          "date": "1911-03-24",
-          "place": "Berkeley, California",
-          "occasion": "Earl Lectures, Pacific Theological Seminary",
-          "date_source": "dbd",
-          "kind": "lecture"
-        },
-        {
-          "heading": "THE HOME AND THE CHILD",
-          "title": "The Home and the Child",
-          "date": "1911-03-25",
-          "place": "Berkeley, California",
-          "occasion": "Earl Lectures, Pacific Theological Seminary",
-          "date_source": "dbd",
-          "kind": "lecture"
-        },
-        {
-          "heading": "THE BIBLE AND THE LIFE OF THE PEOPLE",
-          "title": "The Bible and the Life of the People",
-          "date": "1911-03-26",
-          "place": "Berkeley, California",
-          "occasion": "Earl Lectures, Pacific Theological Seminary",
-          "date_source": "dbd",
-          "kind": "lecture"
-        },
-        {
-          "heading": "THE PUBLIC SERVANT AND THE EIGHTH COMMANDMENT",
-          "title": "The Public Servant and the Eighth Commandment",
-          "date": "1911-03-27",
-          "place": "Berkeley, California",
-          "occasion": "Earl Lectures, Pacific Theological Seminary",
-          "date_source": "dbd",
-          "kind": "lecture"
-        },
-        {
-          "heading": "THE SHAPING OF PUBLIC OPINION AND THE NINTH COMMANDMENT",
-          "title": "The Shaping of Public Opinion and the Ninth Commandment",
-          "date": "1911-03-28",
-          "place": "Berkeley, California",
-          "occasion": "Earl Lectures, Pacific Theological Seminary",
-          "date_source": "dbd",
-          "kind": "lecture"
-        }
-      ],
-      "stop": []
+     "heading": "CHRISTIAN CITIZENSHIP",
+     "title": "Christian Citizenship",
+     "date": "1900-12-30",
+     "place": "New York, New York",
+     "occasion": "Young Men's Christian Association, Carnegie Hall",
+     "date_source": "text"
     },
     {
-      "id": "history-as-literature",
-      "file": "sources/gutenberg/pg75294.txt",
-      "gutenberg": 75294,
-      "title": "History as Literature, and Other Essays",
-      "published": "1913",
-      "ia": "historyasliterat00roos",
-      "entries": [
-        {
-          "heading": "HISTORY AS LITERATURE[1]",
-          "title": "History as Literature",
-          "date": "1912-12-27",
-          "place": "Boston, Massachusetts",
-          "occasion": "Annual address of the president of the American Historical Association",
-          "date_source": "text",
-          "kind": "lecture"
-        }
-      ],
-      "stop": [
-        "BIOLOGICAL ANALOGIES IN HISTORY"
-      ]
+     "heading": "THE TWO AMERICAS",
+     "title": "The Two Americas",
+     "date": "1901-05-20",
+     "place": "Buffalo, New York",
+     "occasion": "Formal opening of the Pan-American Exposition",
+     "date_source": "text"
+    },
+    {
+     "heading": "MANHOOD AND STATEHOOD",
+     "title": "Manhood and Statehood",
+     "date": "1901-08-02",
+     "place": "Colorado Springs, Colorado",
+     "occasion": "Quarter-centennial of Colorado statehood",
+     "date_source": "text"
+    },
+    {
+     "heading": "NATIONAL DUTIES",
+     "title": "National Duties",
+     "date": "1901-09-02",
+     "place": "Minnesota State Fairgrounds, Minnesota",
+     "occasion": "Minnesota State Fair",
+     "date_source": "text",
+     "note": "The fairgrounds lie between St. Paul and Minneapolis. This is the address that quotes the \"old proverb\" about speaking softly and carrying a big stick."
+    },
+    {
+     "heading": "BROTHERHOOD AND THE HEROIC VIRTUES",
+     "title": "Brotherhood and the Heroic Virtues",
+     "date": "1901-09-05",
+     "place": "Burlington, Vermont",
+     "occasion": "Veterans' reunion",
+     "date_source": "text"
     }
-  ],
-  "pamphlets": [
+   ],
+   "stop": [
+    "EXPANSION AND PEACE",
+    "LATITUDE AND LONGITUDE AMONG REFORMERS",
+    "FELLOW-FEELING AS A POLITICAL FACTOR",
+    "CIVIC HELPFULNESS",
+    "CHARACTER AND SUCCESS",
+    "THE EIGHTH AND NINTH COMMANDMENTS IN POLITICS",
+    "THE BEST AND THE GOOD",
+    "PROMISE AND PERFORMANCE",
+    "THE AMERICAN BOY",
+    "MILITARY PREPAREDNESS AND UNPREPAREDNESS",
+    "ADMIRAL DEWEY"
+   ]
+  },
+  {
+   "id": "african-european",
+   "file": "sources/gutenberg/pg13930.txt",
+   "gutenberg": 13930,
+   "title": "African and European Addresses",
+   "published": "1910",
+   "ia": "africaneuropeana00roos",
+   "entries": [
     {
-      "file": "sources/gutenberg/pg68309.txt",
-      "gutenberg": 68309,
-      "title": "At Chautauqua",
-      "date": "1905-08-11",
-      "place": "Chautauqua, New York",
-      "date_source": "text"
+     "heading": "PEACE AND JUSTICE IN THE SUDAN",
+     "title": "Peace and Justice in the Sudan",
+     "date": "1910-03-16",
+     "place": "Khartoum, Sudan",
+     "occasion": "American Mission",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68449.txt",
-      "gutenberg": 68449,
-      "title": "Laying the Corner Stone of the House Office Building",
-      "date": "1906-04-14",
-      "place": "Washington, D.C.",
-      "occasion": "Laying of the corner stone of the office building of the House of Representatives (the \"Man with the Muck-rake\" speech)",
-      "date_source": "text"
+     "heading": "LAW AND ORDER IN EGYPT",
+     "title": "Law and Order in Egypt",
+     "date": "1910-03-28",
+     "place": "Cairo, Egypt",
+     "occasion": "National University",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68052.txt",
-      "gutenberg": 68052,
-      "title": "Corner Stone of the Pilgrim Memorial Monument",
-      "date": "1907-08-20",
-      "place": "Provincetown, Massachusetts",
-      "date_source": "text"
+     "heading": "CITIZENSHIP IN A REPUBLIC",
+     "title": "Citizenship in a Republic",
+     "date": "1910-04-23",
+     "place": "Paris, France",
+     "occasion": "The Sorbonne",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68070.txt",
-      "gutenberg": 68070,
-      "title": "At Canton, Ohio",
-      "date": "1907-09-30",
-      "place": "Canton, Ohio",
-      "date_source": "text"
+     "heading": "INTERNATIONAL PEACE",
+     "title": "International Peace",
+     "date": "1910-05-05",
+     "place": "Christiania (Oslo), Norway",
+     "occasion": "Nobel Prize Committee",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68119.txt",
-      "gutenberg": 68119,
-      "title": "At Keokuk, Iowa",
-      "date": "1907-10-01",
-      "place": "Keokuk, Iowa",
-      "date_source": "text"
+     "heading": "THE COLONIAL POLICY OF THE UNITED STATES",
+     "title": "The Colonial Policy of the United States",
+     "date": "1910-05-05",
+     "place": "Christiania (Oslo), Norway",
+     "occasion": "Evening dinner",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68181.txt",
-      "gutenberg": 68181,
-      "title": "At St. Louis",
-      "date": "1907-10-02",
-      "place": "St. Louis, Missouri",
-      "date_source": "text"
+     "heading": "THE WORLD MOVEMENT",
+     "title": "The World Movement",
+     "date": "1910-05-12",
+     "place": "Berlin, Germany",
+     "occasion": "University of Berlin",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68136.txt",
-      "gutenberg": 68136,
-      "title": "At Cairo, Illinois",
-      "date": "1907-10-03",
-      "place": "Cairo, Illinois",
-      "date_source": "text"
+     "heading": "THE CONDITIONS OF SUCCESS",
+     "title": "The Conditions of Success",
+     "date": "1910-05-26",
+     "place": "Cambridge, England",
+     "occasion": "Cambridge Union",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68422.txt",
-      "gutenberg": 68422,
-      "title": "Unveiling the Monument to General Sheridan",
-      "date": "1908-11-25",
-      "place": "Washington, D.C.",
-      "date_source": "text"
+     "heading": "BRITISH RULE IN AFRICA",
+     "title": "British Rule in Africa",
+     "date": "1910-05-31",
+     "place": "London, England",
+     "occasion": "Guildhall",
+     "date_source": "text"
     },
     {
-      "file": "sources/gutenberg/pg68266.txt",
-      "gutenberg": 68266,
-      "title": "Lincoln Dinner of the Republican Club of New York",
-      "date": "1905-02-13",
-      "place": "New York, New York",
-      "occasion": "Lincoln Dinner, Republican Club of the City of New York, Waldorf-Astoria",
-      "date_source": "text"
-    },
-    {
-      "file": "sources/gutenberg/pg68350.txt",
-      "gutenberg": 68350,
-      "title": "Hundredth Anniversary of Lincoln's Birth",
-      "date": "1909-02-12",
-      "place": "Hodgenville, Kentucky",
-      "date_source": "text"
-    },
-    {
-      "file": "sources/gutenberg/pg68081.txt",
-      "gutenberg": 68081,
-      "title": "At Boston",
-      "date": "1912-04-27",
-      "place": "Boston, Massachusetts",
-      "date_source": "text"
-    },
-    {
-      "file": "sources/editions/ia__addressofhontheo00roos.txt",
-      "ia": "addressofhontheo00roos",
-      "title": "A Charter of Democracy",
-      "date": "1912-02-21",
-      "place": "Columbus, Ohio",
-      "occasion": "Ohio Constitutional Convention",
-      "date_source": "dbd",
-      "ocr": true
-    },
-    {
-      "file": "sources/editions/ia__wsb24f20_images.txt",
-      "ia": "wsb24f20_images",
-      "title": "A Confession of Faith",
-      "date": "1912-08-06",
-      "place": "Chicago, Illinois",
-      "occasion": "National Progressive Party convention",
-      "date_source": "dbd",
-      "ocr": true,
-      "slice": [
-        "To you, men and women",
-        null
-      ]
-    },
-    {
-      "file": "sources/gutenberg/pg21261.txt",
-      "gutenberg": 21261,
-      "title": "At Milwaukee, After Being Shot",
-      "date": "1912-10-14",
-      "place": "Milwaukee, Wisconsin",
-      "occasion": "Milwaukee Auditorium, after he was shot",
-      "date_source": "text",
-      "slice": [
-        "\"Friends, I shall ask you",
-        null
-      ],
-      "note": "Stenographic report from the Milwaukee Sentinel, as printed in 1912; it keeps the reporter's notes of cheers and applause.",
-      "cut_at_caps": true
+     "heading": "BIOLOGICAL ANALOGIES IN HISTORY",
+     "title": "Biological Analogies in History",
+     "date": "1910-06-07",
+     "place": "Oxford, England",
+     "occasion": "Romanes Lecture, University of Oxford",
+     "date_source": "text"
     }
-  ]
+   ],
+   "stop": [
+    "APPENDIX",
+    "INDEX",
+    "FOOTNOTES"
+   ]
+  },
+  {
+   "id": "new-nationalism",
+   "file": "sources/editions/ia__newnationalism01roos.txt",
+   "ia": "newnationalism01roos",
+   "title": "The New Nationalism",
+   "published": "1910",
+   "ocr": true,
+   "entries": [
+    {
+     "heading": "THE NEW NATIONALISM",
+     "title": "The New Nationalism",
+     "date": "1910-08-31",
+     "place": "Osawatomie, Kansas",
+     "occasion": "Dedication of the John Brown Memorial Park",
+     "date_source": "dbd",
+     "skip_first": 2
+    },
+    {
+     "heading": "THE NATION AND THE STATES",
+     "title": "The Nation and the States",
+     "date": "1910-08-29",
+     "place": "Denver, Colorado",
+     "occasion": "Colorado Legislature",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "CONSERVATION",
+     "title": "Conservation",
+     "date": "1910-08-29",
+     "place": "Denver, Colorado",
+     "occasion": "Colorado Live Stock Association",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "NATURAL RESOURCES",
+     "title": "Natural Resources",
+     "date": "1910-09-06",
+     "place": "St. Paul, Minnesota",
+     "occasion": "National Conservation Congress",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "THE COMMISSION PRINCIPLE",
+     "title": "The Commission Principle",
+     "date": "1910-09-03",
+     "place": "Sioux Falls, South Dakota",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "LABOR AND CAPITAL",
+     "title": "Labor and Capital",
+     "date": "1910-09-05",
+     "place": "Fargo, North Dakota",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "WORLD FEATS",
+     "title": "World Feats",
+     "date": "1910-09-02",
+     "place": "Omaha, Nebraska",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "THE CROOK",
+     "title": "The Crook",
+     "date": "1910-09-01",
+     "place": "Kansas City, Missouri",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "THE PUBLIC PRESS",
+     "title": "The Public Press",
+     "date": "1910-09-07",
+     "place": "Milwaukee, Wisconsin",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "THE GOOD CITIZEN",
+     "title": "The Good Citizen",
+     "date": "1910-08-30",
+     "place": "Pueblo, Colorado",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "CORRUPTION",
+     "title": "Corruption",
+     "date": "1910-09-08",
+     "place": "Chicago, Illinois",
+     "occasion": "Hamilton Club",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "LAW, ORDER, AND JUSTICE",
+     "title": "Law, Order, and Justice",
+     "date": "1910-09-09",
+     "place": "Columbus, Ohio",
+     "date_source": "dbd"
+    },
+    {
+     "heading": "THE NEW NATIONALISM AND THE OLD MORALITIES",
+     "title": "The New Nationalism and the Old Moralities",
+     "date": "1910-09-17",
+     "place": "Syracuse, New York",
+     "occasion": "New York State Fair",
+     "date_source": "dbd"
+    }
+   ],
+   "stop": [
+    "CRITICISM OF THE COURTS",
+    "HISTORICAL SUMMARY",
+    "INDEX"
+   ]
+  },
+  {
+   "id": "realizable-ideals",
+   "file": "sources/gutenberg/pg79515.txt",
+   "gutenberg": 79515,
+   "title": "Realizable Ideals (the Earl Lectures)",
+   "published": "1912",
+   "ia": "realizableideals00roos",
+   "entries": [
+    {
+     "heading": "REALIZABLE IDEALS",
+     "title": "Realizable Ideals",
+     "date": "1911-03-24",
+     "place": "Berkeley, California",
+     "occasion": "Earl Lectures, Pacific Theological Seminary",
+     "date_source": "dbd",
+     "kind": "lecture"
+    },
+    {
+     "heading": "THE HOME AND THE CHILD",
+     "title": "The Home and the Child",
+     "date": "1911-03-25",
+     "place": "Berkeley, California",
+     "occasion": "Earl Lectures, Pacific Theological Seminary",
+     "date_source": "dbd",
+     "kind": "lecture"
+    },
+    {
+     "heading": "THE BIBLE AND THE LIFE OF THE PEOPLE",
+     "title": "The Bible and the Life of the People",
+     "date": "1911-03-26",
+     "place": "Berkeley, California",
+     "occasion": "Earl Lectures, Pacific Theological Seminary",
+     "date_source": "dbd",
+     "kind": "lecture"
+    },
+    {
+     "heading": "THE PUBLIC SERVANT AND THE EIGHTH COMMANDMENT",
+     "title": "The Public Servant and the Eighth Commandment",
+     "date": "1911-03-27",
+     "place": "Berkeley, California",
+     "occasion": "Earl Lectures, Pacific Theological Seminary",
+     "date_source": "dbd",
+     "kind": "lecture"
+    },
+    {
+     "heading": "THE SHAPING OF PUBLIC OPINION AND THE NINTH COMMANDMENT",
+     "title": "The Shaping of Public Opinion and the Ninth Commandment",
+     "date": "1911-03-28",
+     "place": "Berkeley, California",
+     "occasion": "Earl Lectures, Pacific Theological Seminary",
+     "date_source": "dbd",
+     "kind": "lecture"
+    }
+   ],
+   "stop": []
+  },
+  {
+   "id": "history-as-literature",
+   "file": "sources/gutenberg/pg75294.txt",
+   "gutenberg": 75294,
+   "title": "History as Literature, and Other Essays",
+   "published": "1913",
+   "ia": "historyasliterat00roos",
+   "entries": [
+    {
+     "heading": "HISTORY AS LITERATURE[1]",
+     "title": "History as Literature",
+     "date": "1912-12-27",
+     "place": "Boston, Massachusetts",
+     "occasion": "Annual address of the president of the American Historical Association",
+     "date_source": "text",
+     "kind": "lecture"
+    }
+   ],
+   "stop": [
+    "BIOLOGICAL ANALOGIES IN HISTORY"
+   ]
+  },
+  {
+   "id": "california-addresses",
+   "file": "sources/ia/california_addresses_1903.txt",
+   "title": "California Addresses by President Roosevelt (California Promotion Committee, San Francisco, 1903)",
+   "published": "1903",
+   "ia": "https://archive.org/details/californiaaddres00unitrich",
+   "ocr": true,
+   "mode": "dated_blocks",
+   "entries": [
+    {
+     "heading": "REMARKS AT BARSTOW",
+     "title": "Remarks at Barstow",
+     "date": "1903-05-07",
+     "place": "Barstow, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT VICTORVILLE",
+     "title": "Remarks at Victorville",
+     "date": "1903-05-07",
+     "place": "Victorville, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT REDLANDS",
+     "title": "Address at Redlands",
+     "date": "1903-05-07",
+     "place": "Redlands, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS TO THE SCHOOL CHILDREN, SAN BERNARDINO",
+     "title": "Remarks to the School Children, San Bernardino",
+     "date": "1903-05-07",
+     "place": "San Bernardino, California",
+     "occasion": "To the school children",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT SAN BERNARDINO",
+     "title": "Address at San Bernardino",
+     "date": "1903-05-07",
+     "place": "San Bernardino, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT RIVERSIDE",
+     "title": "Address at Riverside",
+     "date": "1903-05-07",
+     "place": "Riverside, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT CLAREMONT (POMONA COLLEGE)",
+     "title": "Address at Claremont (Pomona College)",
+     "date": "1903-05-08",
+     "place": "Claremont, California",
+     "occasion": "Pomona College",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT PASADENA",
+     "title": "Address at Pasadena",
+     "date": "1903-05-08",
+     "place": "Pasadena, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT LOS ANGELES",
+     "title": "Remarks at Los Angeles",
+     "date": "1903-05-08",
+     "place": "Los Angeles, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT OXNARD",
+     "title": "Remarks at Oxnard",
+     "date": "1903-05-09",
+     "place": "Oxnard, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT VENTURA",
+     "title": "Address at Ventura",
+     "date": "1903-05-09",
+     "place": "Ventura, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT SANTA BARBARA",
+     "title": "Address at Santa Barbara",
+     "date": "1903-05-09",
+     "place": "Santa Barbara, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS TO THE FOREST RANGERS AT SANTA BARBARA",
+     "title": "Remarks to the Forest Rangers at Santa Barbara",
+     "date": "1903-05-09",
+     "place": "Santa Barbara, California",
+     "occasion": "To the forest rangers",
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT SURF",
+     "title": "Remarks at Surf",
+     "date": "1903-05-09",
+     "place": "Surf, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT SAN LUIS OBISPO",
+     "title": "Address at San Luis Obispo",
+     "date": "1903-05-09",
+     "place": "San Luis Obispo, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT PASO ROBLES",
+     "title": "Remarks at Paso Robles",
+     "date": "1903-05-09",
+     "place": "Paso Robles, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT PAJARO",
+     "title": "Remarks at Pajaro",
+     "date": "1903-05-11",
+     "place": "Pajaro, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT WATSONVILLE",
+     "title": "Remarks at Watsonville",
+     "date": "1903-05-11",
+     "place": "Watsonville, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT SANTA CRUZ",
+     "title": "Address at Santa Cruz",
+     "date": "1903-05-11",
+     "place": "Santa Cruz, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT THE BIG TREE GROVE, SANTA CRUZ",
+     "title": "Remarks at the Big Tree Grove, Santa Cruz",
+     "date": "1903-05-11",
+     "place": "Santa Cruz, California",
+     "occasion": "At the Big Tree Grove",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT SAN JOSE",
+     "title": "Address at San Jose",
+     "date": "1903-05-11",
+     "place": "San Jose, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT CAMPBELL",
+     "title": "Remarks at Campbell",
+     "date": "1903-05-11",
+     "place": "Campbell, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT LELAND STANFORD JR. UNIVERSITY, PALO ALTO",
+     "title": "Address at Leland Stanford Jr. University, Palo Alto",
+     "date": "1903-05-12",
+     "place": "Palo Alto, California",
+     "occasion": "Leland Stanford Jr. University",
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT BURLINGAME",
+     "title": "Remarks at Burlingame",
+     "date": "1903-05-12",
+     "place": "Burlingame, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT THE DEDICATION OF THE BUILDING OF THE YOUNG MEN'S CHRISTIAN ASSOCIATION, SAN FRANCISCO",
+     "title": "Address at the Dedication of the Building of the Young Men's Christian Association, San Francisco",
+     "date": "1903-05-12",
+     "place": "San Francisco, California",
+     "occasion": "Dedication of the Y.M.C.A. building",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT BANQUET TENDERED BY THE CITIZENS OF SAN FRANCISCO, AT PALACE HOTEL",
+     "title": "Address at Banquet Tendered by the Citizens of San Francisco, at Palace Hotel",
+     "date": "1903-05-12",
+     "place": "San Francisco, California",
+     "occasion": "Banquet tendered by the citizens of San Francisco, Palace Hotel",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT THE HALL OF THE NATIVE SONS OF THE GOLDEN WEST, SAN FRANCISCO",
+     "title": "Address at the Hall of the Native Sons of the Golden West, San Francisco",
+     "date": "1903-05-13",
+     "place": "San Francisco, California",
+     "occasion": "In response to greetings from the Association of Pioneers, Mexican War Veterans, Native Sons and Native Daughters of the Golden West",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT THE BREAKING OF SOD FOR THE MCKINLEY MONUMENT, SAN FRANCISCO",
+     "title": "Address at the Breaking of Sod for the McKinley Monument, San Francisco",
+     "date": "1903-05-13",
+     "place": "San Francisco, California",
+     "occasion": "Breaking of sod for the monument to President McKinley",
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS ON BEING PRESENTED WITH A CANTEEN BY THE SPANISH WAR VETERANS, SAN FRANCISCO",
+     "title": "Remarks on Being Presented with a Canteen by the Spanish War Veterans, San Francisco",
+     "date": "1903-05-13",
+     "place": "San Francisco, California",
+     "occasion": "Presentation of a canteen by organizations of Spanish War veterans",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT MECHANICS' PAVILION, SAN FRANCISCO",
+     "title": "Address at Mechanics' Pavilion, San Francisco",
+     "date": "1903-05-13",
+     "place": "San Francisco, California",
+     "occasion": "Mechanics' Pavilion",
+     "date_source": "text",
+     "note": "The text printed in Presidential Addresses and State Papers (1910) for this evening is shorter and opens differently; it is listed separately."
+    },
+    {
+     "heading": "ADDRESS AT THE DEDICATION OF THE NAVY MEMORIAL MONUMENT, SAN FRANCISCO",
+     "title": "Address at the Dedication of the Navy Memorial Monument, San Francisco",
+     "date": "1903-05-14",
+     "place": "San Francisco, California",
+     "occasion": "Dedication of the Navy memorial monument",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT THE UNIVERSITY OF CALIFORNIA, BERKELEY",
+     "title": "Address at the University of California, Berkeley",
+     "date": "1903-05-14",
+     "place": "Berkeley, California",
+     "occasion": "University of California",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT OAKLAND",
+     "title": "Address at Oakland",
+     "date": "1903-05-14",
+     "place": "Oakland, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS TO THE SERVICE MEN OF THE SPANISH WAR WHO ACTED AS HIS ESCORT, OAKLAND",
+     "title": "Remarks to the Service Men of the Spanish War Who Acted as His Escort, Oakland",
+     "date": "1903-05-14",
+     "place": "Oakland, California",
+     "occasion": "To the Spanish War veterans of his escort",
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS TO THE VETERANS WHO ESCORTED HIM TO THE DOCK, OAKLAND",
+     "title": "Remarks to the Veterans Who Escorted Him to the Dock, Oakland",
+     "date": "1903-05-14",
+     "place": "Oakland, California",
+     "occasion": "To the veterans who escorted him to the dock",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT THE LAYING OF THE CORNER-STONE OF THE Y.M.C.A. AUXILIARY CLUBHOUSE, VALLEJO",
+     "title": "Address at the Laying of the Corner-stone of the Y.M.C.A. Auxiliary Clubhouse, Vallejo",
+     "date": "1903-05-14",
+     "place": "Vallejo, California",
+     "occasion": "Corner-stone of the Y.M.C.A. auxiliary clubhouse",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT THE BANQUET OF THE UNION LEAGUE CLUB OF SAN FRANCISCO",
+     "title": "Address at the Banquet of the Union League Club of San Francisco",
+     "date": "1903-05-14",
+     "place": "San Francisco, California",
+     "occasion": "Union League Club banquet",
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT RAYMOND",
+     "title": "Remarks at Raymond",
+     "date": "1903-05-15",
+     "place": "Raymond, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT BERENDA",
+     "title": "Remarks at Berenda",
+     "date": "1903-05-18",
+     "place": "Berenda, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT MERCED",
+     "title": "Remarks at Merced",
+     "date": "1903-05-18",
+     "place": "Merced, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT MODESTO",
+     "title": "Remarks at Modesto",
+     "date": "1903-05-18",
+     "place": "Modesto, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT TRUCKEE",
+     "title": "Address at Truckee",
+     "date": "1903-05-19",
+     "place": "Truckee, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT COLFAX",
+     "title": "Remarks at Colfax",
+     "date": "1903-05-19",
+     "place": "Colfax, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT AUBURN",
+     "title": "Remarks at Auburn",
+     "date": "1903-05-19",
+     "place": "Auburn, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT THE PARK, SACRAMENTO",
+     "title": "Remarks at the Park, Sacramento",
+     "date": "1903-05-19",
+     "place": "Sacramento, California",
+     "occasion": "At the park",
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS TO THE SACRAMENTO SOCIETY OF CALIFORNIA PIONEERS",
+     "title": "Remarks to the Sacramento Society of California Pioneers",
+     "date": "1903-05-19",
+     "place": "Sacramento, California",
+     "occasion": "Sacramento Society of California Pioneers",
+     "date_source": "text"
+    },
+    {
+     "heading": "ADDRESS AT THE CAPITOL BUILDING, SACRAMENTO",
+     "title": "Address at the Capitol Building, Sacramento",
+     "date": "1903-05-19",
+     "place": "Sacramento, California",
+     "occasion": "At the capitol building",
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT REDDING",
+     "title": "Remarks at Redding",
+     "date": "1903-05-20",
+     "place": "Redding, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT DUNSMUIR",
+     "title": "Remarks at Dunsmuir",
+     "date": "1903-05-20",
+     "place": "Dunsmuir, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT SISSON",
+     "title": "Remarks at Sisson",
+     "date": "1903-05-20",
+     "place": "Sisson, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT MONTAGUE",
+     "title": "Remarks at Montague",
+     "date": "1903-05-20",
+     "place": "Montague, California",
+     "occasion": null,
+     "date_source": "text"
+    },
+    {
+     "heading": "REMARKS AT HORNBROOK",
+     "title": "Remarks at Hornbrook",
+     "date": "1903-05-20",
+     "place": "Hornbrook, California",
+     "occasion": null,
+     "date_source": "text"
+    }
+   ]
+  }
+ ],
+ "pamphlets": [
+  {
+   "file": "sources/gutenberg/pg68309.txt",
+   "gutenberg": 68309,
+   "title": "At Chautauqua",
+   "date": "1905-08-11",
+   "place": "Chautauqua, New York",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68449.txt",
+   "gutenberg": 68449,
+   "title": "Laying the Corner Stone of the House Office Building",
+   "date": "1906-04-14",
+   "place": "Washington, D.C.",
+   "occasion": "Laying of the corner stone of the office building of the House of Representatives (the \"Man with the Muck-rake\" speech)",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68052.txt",
+   "gutenberg": 68052,
+   "title": "Corner Stone of the Pilgrim Memorial Monument",
+   "date": "1907-08-20",
+   "place": "Provincetown, Massachusetts",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68070.txt",
+   "gutenberg": 68070,
+   "title": "At Canton, Ohio",
+   "date": "1907-09-30",
+   "place": "Canton, Ohio",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68119.txt",
+   "gutenberg": 68119,
+   "title": "At Keokuk, Iowa",
+   "date": "1907-10-01",
+   "place": "Keokuk, Iowa",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68181.txt",
+   "gutenberg": 68181,
+   "title": "At St. Louis",
+   "date": "1907-10-02",
+   "place": "St. Louis, Missouri",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68136.txt",
+   "gutenberg": 68136,
+   "title": "At Cairo, Illinois",
+   "date": "1907-10-03",
+   "place": "Cairo, Illinois",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68422.txt",
+   "gutenberg": 68422,
+   "title": "Unveiling the Monument to General Sheridan",
+   "date": "1908-11-25",
+   "place": "Washington, D.C.",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68266.txt",
+   "gutenberg": 68266,
+   "title": "Lincoln Dinner of the Republican Club of New York",
+   "date": "1905-02-13",
+   "place": "New York, New York",
+   "occasion": "Lincoln Dinner, Republican Club of the City of New York, Waldorf-Astoria",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68350.txt",
+   "gutenberg": 68350,
+   "title": "Hundredth Anniversary of Lincoln's Birth",
+   "date": "1909-02-12",
+   "place": "Hodgenville, Kentucky",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/gutenberg/pg68081.txt",
+   "gutenberg": 68081,
+   "title": "At Boston",
+   "date": "1912-04-27",
+   "place": "Boston, Massachusetts",
+   "date_source": "text"
+  },
+  {
+   "file": "sources/editions/ia__addressofhontheo00roos.txt",
+   "ia": "addressofhontheo00roos",
+   "title": "A Charter of Democracy",
+   "date": "1912-02-21",
+   "place": "Columbus, Ohio",
+   "occasion": "Ohio Constitutional Convention",
+   "date_source": "dbd",
+   "ocr": true
+  },
+  {
+   "file": "sources/editions/ia__wsb24f20_images.txt",
+   "ia": "wsb24f20_images",
+   "title": "A Confession of Faith",
+   "date": "1912-08-06",
+   "place": "Chicago, Illinois",
+   "occasion": "National Progressive Party convention",
+   "date_source": "dbd",
+   "ocr": true,
+   "slice": [
+    "To you, men and women",
+    null
+   ]
+  },
+  {
+   "file": "sources/gutenberg/pg21261.txt",
+   "gutenberg": 21261,
+   "title": "At Milwaukee, After Being Shot",
+   "date": "1912-10-14",
+   "place": "Milwaukee, Wisconsin",
+   "occasion": "Milwaukee Auditorium, after he was shot",
+   "date_source": "text",
+   "slice": [
+    "\"Friends, I shall ask you",
+    null
+   ],
+   "note": "Stenographic report from the Milwaukee Sentinel, as printed in 1912; it keeps the reporter's notes of cheers and applause.",
+   "cut_at_caps": true
+  }
+ ]
 }

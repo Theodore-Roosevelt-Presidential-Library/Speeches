@@ -381,7 +381,7 @@ def main():
     trc_to_id = {v: k for k, v in tmap.items()}
     reserved = set(tmap)
     for s in speeches:
-        if not s.get("_id") and not s["editions"]:
+        if not s.get("_id"):
             hit = [trc_to_id[r["id"]] for r in s["trc"] if r["id"] in trc_to_id]
             if hit:
                 s["_id"] = hit[0]

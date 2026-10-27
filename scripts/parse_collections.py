@@ -73,6 +73,9 @@ def main():
     for book in man["books"]:
         raw = body_of(open(os.path.join(ROOT, book["file"]), encoding="utf-8", errors="replace").read())
         lines = raw.split("\n")
+        if book.get("mode") == "dated_blocks":
+            items += dated_blocks(book, lines, vocab)
+            continue
         ocr = book.get("ocr", False)
         titles = [e["heading"] for e in book["entries"]] + book.get("stop", [])
         # find the last table-of-contents line so we search the body only
@@ -181,6 +184,45 @@ def cut_tail(paras):
         if i > 2 and _caps(p) and CUT.match(p.strip("“”\"' ")):
             return paras[:i]
     return paras
+
+
+DATE_LINE = re.compile(r"^M[a-z]{2}\s+\S{1,3}\s+1?9\S*")
+RUNNING = re.compile(r"^(CALIFORNIA\s+ADDRESSES|BY\s+PRESIDENT\s+ROOSEVELT)$")
+
+
+def dated_blocks(book, lines, vocab):
+    """Books where every speech is a capitals heading followed by a date line ("May 7, 1903"), in the order
+    of the manifest entries (California Addresses, 1903). The speech runs from the date line to the start of
+    the next heading."""
+    body0 = next(i for i, l in enumerate(lines) if re.match(r"^\s*(REMARKS|ADDRESS)\b", l) and i > 200)
+    dates = [i for i in range(body0, len(lines)) if DATE_LINE.match(lines[i].strip())]
+    if len(dates) != len(book["entries"]):
+        print("  !! dated_blocks:", book["id"], len(dates), "date lines for", len(book["entries"]), "entries")
+        return []
+
+    def heading_start(d):
+        k = d - 1
+        while k > body0:
+            t = lines[k].strip()
+            if t and (RUNNING.match(t) or len(re.findall(r"[a-z]", t)) >= 15 or t.startswith("[")):
+                break
+            k -= 1
+        return k + 1
+
+    out = []
+    for n, (e, d) in enumerate(zip(book["entries"], dates)):
+        head = " ".join(l.strip() for l in lines[heading_start(d):d] if l.strip())
+        place_word = norm(e["place"].split(",")[0])
+        if place_word[:5] not in norm(head).replace("RANCISCO", "RANCISCO"):
+            print("  ?? heading does not name the place:", e["title"], "|", head[:80])
+        end = heading_start(dates[n + 1]) if n + 1 < len(dates) else len(lines)
+        seg = [("" if RUNNING.match(l.strip()) or re.fullmatch(r"\[\S{1,5}\]?|\S{0,2}\[\S{0,4}", l.strip()) else l) for l in lines[d + 1:end]]
+        seg = strip_running(seg, [])
+        seg = dehyphenate_lines(seg, vocab)
+        paras = paragraphs_from_lines(seg, gutenberg=False)
+        paras = [p for p in paras if not junk(p, vocab)]
+        out.append(make_item(e, book, paras))
+    return out
 
 
 def make_item(e, book, paras):
