@@ -1,0 +1,20 @@
+---
+speech: 1903-06-02-webster-city
+title: Remarks of President Roosevelt at Webster City,Iowa,June 2,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 529
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0529
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 12 425:0529]
+
+Mr. Congressman, and you, my fellow-{Americaps|Americans}:
+
+It is a very great pleasure to have even this glimpse of you. I thank especially the men of the Grand Army, to whom we owe it that there is now a President {or|of} a common country. I thank my own comrades, the men of the national guard; and glad though I am to see the men and women of Iowa, I think I am almost more glad to see the children, and as I like [-xxxxxxxxxxxx-] the people of Iowa I am glad to see that there seems no immediate danger of race suicide here.
+
+It is a great pleasure to travel through your wonderful and beautiful state and to see its material prosperity; for mind you,I do not think I have to tell you that occasionally disasters[+,+] such as that under which you are suffering, must come. It is a sad day when they do come, but when as [-xx-] is {the c ase|the case} here the people have the right stuff in them success will come in spite of any temporary disaster. The important thing is to have the right type of man and woman to represent the average citizenship of the [-xxxxxxx-][+community.+] I believe in this [-xxxxxx-][+community,+] I believe in this nation, because we have that right type of average citizenship. (Cheers and applause.)
+
+[note: "community." and "community," are typed above the line over x-ed out words. The two characters x-ed out after "when as" look like an overstruck "it".]
+[note: In the salutation the last letters of "Americans" are overtyped; the n appears struck with p. A comma after "disasters" is added by hand.]
+[margin: File]

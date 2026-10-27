@@ -1,0 +1,27 @@
+---
+speech: 1903-06-03-rockford
+title: Remarks of President Roosevelt at the dedicatory exercises of Memorial Hall, Rockford, Ill.,June 3,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 538, 539
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0538
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 30 425:0538]
+
+Congressman Hitt, and you, my fellow-Americans, and particularly you, the men who in every gathering of the citizens of this republic are forevermore entitled to the right of the line:(Applause.)
+
+I count myself fortunate in being able to come to-day to this city to dedicate this {beautifulm|beautiful} memorial hall, a hall in the erection of which the citizens of this city have done themselves honor in honoring you.(Applause.) I greet you, the men who fought on land, and glad I am {th t|that} here we should have the flags of the Monitor Winnebago to remind us, if we need such reminder,[+(+]and I hardly think we do[+)+] [-[?to remind us?]-] that the United States Navy is a matter of personal concern to every citizen of the Union.(Applause.)
+
+No more fitting monument, no more fitting memorial could be erected than a hall such as this,[-xxxxx-] a hall beautiful in itself, and beautiful because of the uses to which it is consecrated. The hall, the monument, is not only for you, just as you are not only for yourselves; your lives, your deeds have now become part of the very fiber of the nation. You warred for four years that your children and children's children should within their borders have peace forever. You warred to establish the fact that this government was one not of license, but of liberty under, by and through the law; that this government was in very fact united and free. You and those [?like?] you saw what Abraham Lincoln saw[+,+] that anarchy was the hand-maiden of tyranny; you saw that injustice by one man to that man's fellow inevitably must [+be+] revenged by the mere logic of facts; and that the only way to secure safety for the republic in the future was to do away with such injustice. You fought to establish the principle that this government should be for all time a government of self-respecting freemen; no man being permitted to wrong his neighbor and each man being in return shielded from wrong[-[illegible]-] himself.
+
+The problems that we now have to face at the outset of the new century are different from the problems that you had to face. New [pb 31 425:0539] methods for their solution must be devised, but the spirit in which we must face them must be the same spirit that you showed when Abraham {Lincolncalled|Lincoln called} and you answered.(Applause.) This is a government of law, of liberty, of order. It is not and it never shall be[-xx-] a government by a plutocracy. It is not and it never shall be a government by a mob.( Applause.)
+
+No baser {wreature|creature} exists than he who looks with arrogant disregard upon his fellow because that fellow is less well off. There can be no baser man than that, but there can be a man as base, and that is the man who regards with envy, rancor and hatred his fellow because that fellow is better off.(Applause.) The two spirits , the two attitudes are equally base and equally unworthy of every man bred up in the principles of American citizenship, or to the traditions of the men who under Washington founded this republic, {wh o|who} under Lincoln preserved it.(Applause.)
+
+I thank you; I thank [-xxxxxxx-] you in the name of my own comrades of the Spanish American war;(Applause) and of the men of the national guard, ever ready to come forward and do their part as you did yours. Our job was a little one but we did it.(Applause.) We hope that you feel that in {thehour|the hour} of lesser trial we showed ourselves not wholly unworthy of the men whose spirit had wrung [-x-] true in the hour of the great trial. I do not know that I have been able to you much good, but you have done me a great deal. (Cheers and applause.)
+
+[note: Typed heading: "President" has its middle letters overtyped ("PresH ent") and "the" is overtyped; read as "President" and "the".]
+[note: p1: "(" and ")" around "and I hardly think we do" are added by hand, and the following words (apparently "to remind us") are struck through by hand. A comma after "saw" is added by hand. "be" is typed above the line with a hand caret before "revenged". After "just as you" there is a hand stroke like a caret with nothing written above it. The words struck by hand after "wrong" are not readable. In "[?like?]" the last letters are overtyped.]
+[note: p2: hand slashes or strokes separate "Lincoln/called" and "the/hour" (proofreading marks). Typed page number "-2-" omitted. Several letters are overtyped and read as their final letter (than, city, outset, return, republic, Spanish).]
+[margin: File]

@@ -1,0 +1,22 @@
+---
+speech: 1903-06-01-lexington
+title: Remarks of President Roosevelt at Lexington, Nebraska, June 1, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0522
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0522
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 191 425:0522]
+
+[margin: These two speeches should appear after speech at North [?Platte?]]
+
+My Friends and Fellow Citizens:
+
+It is a great pleasure to see you this evening and to be greeted by you. I have been across the continent from the Atlantic to the Pacific, and am about half way on my return. The one thing that has struck me more than anything else on the whole trip has been the essential unity of our people. Wherever I have been, to whatever audiences I have spoken, I have found them responsive to the same appeal for the same ideals, and the reason is that a good American is a good American no matter what part of the country he is in. (Applause) I have enjoyed to the full this trip. I think I started out a middling good American, but I am coming back a better American than I started. How any man can fail to believe in this country and this country's future I do not see, if he knows anything about the country. The more I have been over it and the more I have seen of our people the surer I am that whatever our temporary {troubleshere|troubles here} and there at different times may be, we are going to work out of them [-a-] all right simply because the average citizen has got in him the qualities of decency, courage and common sense, and when you have got those three attributes in a man or in a nation you are going to come very near getting out all right in the end.
+
+(Cheers and applause)
+
+[note: The listed page (left half of frame 0522) was off: frame 0522 is a single page, folio 191, holding this speech at the top and the Kearney speech at the bottom (on a separate pasted slip).]
+[note: The handwritten note in the upper right margin refers to this speech and the Kearney speech below it; its last word runs off the edge.]
+[note: In "than I started" the n of "than" is overtyped, followed by a stray typed mark; final reading "than". The "a" after "them" is cancelled with a typed slash. The c of "country's" in "this country's future" is faint.]

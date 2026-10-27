@@ -1902,8 +1902,8 @@
 "westward",
 "commonwealths",
 "colorado",
-"alleghanies",
 "union",
+"alleghanies",
 "spread",
 "continent",
 "unity",
@@ -2182,8 +2182,8 @@
 "lessons",
 "brotherhood",
 "struggles",
-"fought",
-"occupations"
+"occupations",
+"ended"
 ],
 "stats": {
 "words": 3084,
@@ -2577,8 +2577,8 @@
 "commercial",
 "congress",
 "water",
-"arid",
 "government",
+"arid",
 "anarchist",
 "forest"
 ],
@@ -2771,12 +2771,12 @@
 "tasks",
 "lesson",
 "afford",
-"lincoln",
 "leave",
+"lincoln",
 "love",
 "taught",
-"ideal",
 "duty",
+"ideal",
 "mighty"
 ],
 "stats": {
@@ -4204,8 +4204,8 @@
 "island",
 "shortcomings",
 "cuba",
-"wanted",
 "work",
+"wanted",
 "hundred"
 ],
 "stats": {
@@ -5143,8 +5143,8 @@
 "evils",
 "control",
 "laws",
-"talent",
 "conditions",
+"talent",
 "power",
 "cure",
 "wealth",
@@ -6400,7 +6400,7 @@
 "remedies",
 "ignorance",
 "rancor",
-"change"
+"spirit"
 ],
 "stats": {
 "words": 2080,
@@ -6671,8 +6671,8 @@
 "richmond",
 "laughter",
 "patent",
-"applause",
 "defeat",
+"applause",
 "victory",
 "simple",
 "war",
@@ -6951,8 +6951,8 @@
 "courage",
 "school",
 "preaching",
-"applause",
 "decency",
+"applause",
 "lincoln"
 ],
 "stats": {
@@ -7957,10 +7957,10 @@
 "courage",
 "honesty",
 "weapons",
-"victory",
 "won",
-"citizenship",
+"victory",
 "wore",
+"citizenship",
 "win"
 ],
 "stats": {
@@ -10382,8 +10382,8 @@
 "north",
 "building",
 "section",
-"advantage",
 "prosperity",
+"advantage",
 "chance",
 "wise"
 ],
@@ -11599,8 +11599,8 @@
 "distinctive": [
 "honesty",
 "courage",
-"citizenship",
 "weapon",
+"citizenship",
 "law",
 "revolutionary",
 "arms",
@@ -14124,7 +14124,7 @@
 "christian",
 "century",
 "young",
-"associations"
+"evil"
 ],
 "stats": {
 "words": 1510,
@@ -14381,8 +14381,8 @@
 "nomination",
 "result",
 "islands",
-"leader",
-"candidate"
+"history",
+"leader"
 ],
 "stats": {
 "words": 2784,
@@ -14550,8 +14550,8 @@
 "play",
 "theory",
 "peace",
-"applause",
 "building",
+"applause",
 "purpose"
 ],
 "stats": {
@@ -16327,8 +16327,8 @@
 "stock",
 "flag",
 "glad",
-"world",
 "american",
+"world",
 "applause"
 ],
 "stats": {
@@ -16515,8 +16515,8 @@
 "freedom",
 "genius",
 "ages",
-"nations",
 "body",
+"nations",
 "self-government"
 ],
 "stats": {
@@ -16631,8 +16631,8 @@
 "turn",
 "play",
 "hard",
-"worth",
 "work",
+"worth",
 "women"
 ],
 "stats": {
@@ -16950,8 +16950,8 @@
 "uniform",
 "freedom",
 "brave",
-"difference",
 "foolish",
+"difference",
 "man's",
 "form",
 "qualities",
@@ -17505,8 +17505,8 @@
 },
 "distinctive": [
 "football",
-"boys",
 "play",
+"boys",
 "girls",
 "count",
 "word",
@@ -17687,8 +17687,8 @@
 },
 "distinctive": [
 "greet",
-"future",
 "glad",
+"future",
 "state"
 ],
 "stats": {
@@ -18807,8 +18807,8 @@
 "comrades",
 "weapons",
 "law",
-"wanted",
 "fighting",
+"wanted",
 "stuff",
 "cattle"
 ],
@@ -20027,11 +20027,11 @@
 "distinctive": [
 "montana",
 "cattle",
-"applause",
 "missouri",
+"applause",
 "regions",
-"water",
 "pioneers",
+"water",
 "agricultural",
 "state",
 "legislation"
@@ -20571,13 +20571,13 @@
 "wyoming",
 "laws",
 "congressman",
-"irrigation",
 "qualities",
+"irrigation",
 "decent",
 "brave",
 "fool",
 "weakling",
-"applause"
+"law"
 ],
 "stats": {
 "words": 1903,
@@ -21183,8 +21183,8 @@
 "law",
 "envy",
 "lives",
-"train",
 "teach",
+"train",
 "father",
 "citizenship",
 "qualities"
@@ -21708,8 +21708,8 @@
 "trees",
 "beyond",
 "saw",
-"school",
 "trying",
+"school",
 "prosperity",
 "children"
 ],
@@ -22286,8 +22286,8 @@
 "civil",
 "counts",
 "qualities",
-"quality",
-"decency"
+"decency",
+"quality"
 ],
 "stats": {
 "words": 997,
@@ -22558,8 +22558,8 @@
 "climate",
 "children",
 "congratulate",
-"applause",
 "ease",
+"applause",
 "memory"
 ],
 "stats": {
@@ -26212,8 +26212,8 @@
 "law",
 "farms",
 "benefit",
-"irrigation",
 "lands",
+"irrigation",
 "policy",
 "government"
 ],
@@ -27387,10 +27387,10 @@
 "spot",
 "garden",
 "decency",
-"fought",
 "forestry",
-"one's",
-"law"
+"fought",
+"law",
+"one's"
 ],
 "stats": {
 "words": 2439,
@@ -28146,8 +28146,8 @@
 "law",
 "applause",
 "win",
-"helped",
 "remember",
+"helped",
 "brotherhood",
 "injustice",
 "brother",
@@ -28375,8 +28375,8 @@
 "soil",
 "products",
 "agricultural",
-"applause",
 "aim",
+"applause",
 "california",
 "children"
 ],
@@ -30189,8 +30189,8 @@
 "proud",
 "alive",
 "deeds",
-"applause",
 "today",
+"applause",
 "colonel",
 "native",
 "heroic",
@@ -30752,8 +30752,8 @@
 "moody",
 "hospital",
 "building",
-"victory",
 "credit",
+"victory",
 "secretary"
 ],
 "stats": {
@@ -31766,8 +31766,8 @@
 "lesson",
 "brotherhood",
 "square",
-"ease",
 "safety",
+"ease",
 "qualities",
 "love",
 "preach"
@@ -31874,7 +31874,7 @@
 "honesty",
 "preservation",
 "loyalty",
-"water"
+"preserved"
 ],
 "stats": {
 "words": 1919,
@@ -32433,8 +32433,8 @@
 "type",
 "war",
 "citizenship",
-"applause",
-"world"
+"world",
+"life"
 ],
 "stats": {
 "words": 1214,
@@ -33361,8 +33361,8 @@
 },
 "distinctive": [
 "play",
-"woman",
 "schools",
+"woman",
 "education",
 "children",
 "duty",
@@ -33495,8 +33495,8 @@
 },
 "distinctive": [
 "spirit",
-"applause",
 "decency",
+"applause",
 "problems",
 "child",
 "appeal",
@@ -33650,7 +33650,7 @@
 "guns",
 "adequate",
 "fight",
-"handle"
+"build"
 ],
 "stats": {
 "words": 1733,
@@ -33850,8 +33850,8 @@
 "civil",
 "play",
 "work",
-"washington",
-"comes"
+"comes",
+"washington"
 ],
 "stats": {
 "words": 1191,
@@ -34127,8 +34127,8 @@
 "forestry",
 "lumbering",
 "industry",
-"forests",
 "question",
+"forests",
 "forest",
 "washington",
 "business",
@@ -34494,10 +34494,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 254,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to have the chance of greeting you and saying a word or [?] two to you this morning. This is the third day I have spent in your state among your people with their diversified interests -- lumbering, commerce, agriculture and now mining, and I cannot tell you how I have enjoyed being here and seeing you. I believe in the resources of your state, but most of all I believe in the men and women who develop those resources; (Cheers and applause) because it makes no difference what you have that nature has given you, it is useless if the man who develops it has not got the right stuff in him. This state has already been made so great and its greatness in the future will infinitely surpass what it has now reached primarily because in addition to its natural resources you have had the quality to take advantage of them. Just exactly as in battle what counts most is the man behind the gun, so now in civil life it is the man behind the resources, the man behind the law, who counts most, who makes decisive his influence. For that reason it has particularly pleased me wherever I have been in Washington to see the children brought out. The future of the state of co urse depends upon its citizenship, and I wish to see in our country as a whole the type that I think you produce here. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -34519,13 +34522,47 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0470",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0470",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to have the chance of greeting you and saying a word or [?] two to you this morning. This is the third day I have spent in your state among your people with their diversified interests -- lumbering, commerce, agriculture and now mining, and I cannot tell you how I have enjoyed being here and seeing you. I believe in the resources of your state, but most of all I believe in the men and women who develop those resources; (Cheers and applause) because it makes no difference what you have that nature has given you, it is useless if the man who develops it has not got the right stuff in him. This state has already been made so great and its greatness in the future will infinitely surpass what it has now reached primarily because in addition to its natural resources you have had the quality to take advantage of them. Just exactly as in battle what counts most is the man behind the gun, so now in civil life it is the man behind the resources, the man behind the law, who counts most, who makes decisive his influence. For that reason it has particularly pleased me wherever I have been in Washington to see the children brought out. The future of the state of co urse depends upon its citizenship, and I wish to see in our country as a whole the type that I think you produce here. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 89 (frame 425:0470)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to have the chance of greeting you and saying a word <span class=\"unc\" title=\"uncertain reading\">or</span> two to you this morning. This is the third day I have spent in your state among your people with their diversified interests -- lumbering , commerce, agriculture and now mining, and I cannot tell you how I have enjoyed being here and seeing you. I believe in the resources of your state, but most of all I believe in the men and women who develop those resources; (Cheers and applause) because it makes no difference what you have that nature has given you, it is useless if the man who develops it has not got the right stuff in him. This state has already been made so great and its greatness <del title=\"struck through\">xx</del> <ins title=\"added by hand\">in</ins> the future will infinitely surpass what it has now reached primarily because in addition to its <del title=\"struck through\">xxxxxxxx</del> natural resources you have had the quality to take advantage of them. Just exactly as in battle what counts most is the man behind the gun, so now in civil life it is the man behind the resources, the man behind the law, who counts most, who makes decisive his influence. For that reason it has particularly pleased me wherever I have been in <span class=\"sic\" title=\"reads: Washington\">Wahhington</span> to see the children brought out. The future of the state of co urse depends upon its citizenship, and I wish to see in our country as a whole the type that I think you produce here. (Cheers and applause)",
+"<span class=\"tnote\">Folio 89 is the left half of frame 0470. &quot;File&quot; is written in the top left margin with a pen stroke beside it. In &quot;or two&quot; the second letter is typed over another letter and is not certain. &quot;in&quot; is typed above x-ed letters with no caret. An ink blot touches the &quot;d&quot; of &quot;third&quot;. Hand strokes stand before &quot;what&quot; (start of a line) and between &quot;civil&quot; and &quot;life&quot;, apparently proofreading marks. &quot;May&quot;, &quot;lumbering&quot; and &quot;whole&quot; show letters typed over others.</span>"
+],
+"notes": [
+"Folio 89 is the left half of frame 0470. \"File\" is written in the top left margin with a pen stroke beside it. In \"or two\" the second letter is typed over another letter and is not certain. \"in\" is typed above x-ed letters with no caret. An ink blot touches the \"d\" of \"third\". Hand strokes stand before \"what\" (start of a line) and between \"civil\" and \"life\", apparently proofreading marks. \"May\", \"lumbering\" and \"whole\" show letters typed over others."
+],
+"file": "transcriptions/1903-05-25-cle-elum.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"resources",
+"behind",
+"state"
+],
+"stats": {
+"words": 254,
+"unique_words": 133,
+"sentences": 7,
+"avg_sentence": 36.3,
+"minutes": 2,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-25-north-yakima",
@@ -34629,10 +34666,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 348,
+"paragraphs": [
+"Senator Ankeny; and you, My Friends and Fellow Citizens:",
+"It is a great pleasure to meet you and to be coming through this wonderful valley into your city, and to see what you are doing with sheep, cattle, wheat, alfalfa, sugar, fruit. It is perfectly astounding; and I cannot sufficiently congratulate you and all our people upon the way in which you have been able literally to make the wilderness blossom like the rose. Fifty years ago, Senator, when you first came here with cattle it would not have seemed possible that a community like this would have grown up; it would not have seemed possible to develop gre at wheat fields and now to develop sugar, which is going to be a tremendous industry. It would not have seemed possible to develop what you have been able to by the use of water on this soil. You have had the physical advantages; you have had the water and the soil; but above all you have had the man to take advantage of them. That is what counts in the long run-- to have the man with common sense and with tenacity of purpose to make him able to use what there is ready to hand. The best gifts that nature can give are wasted if the man has not the quality that makes him take advantage of them. That is what is needed most.",
+"I want to say one other thing, and that is what a pleasure it has given me to see here in these communities where I am greeted always by the men of the Grand Army, by the men of the great past, how you are taking thought for the future in the way you are providing for your children, providing for the next generation. The future of this country of course depends fundamentally upon the type of citizenship you get out of the next generation. If the boys and girls of to-day turn out the right kind of men and women of to-morrow we are going to go up as a nation. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -34654,13 +34695,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0474",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0474",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Senator Ankeny; and you, My Friends and Fellow Citizens:",
+"It is a great pleasure to meet you and to be coming through this wonderful valley into your city, and to see what you are doing with sheep, cattle, wheat, alfalfa, sugar, fruit. It is perfectly astounding; and I cannot sufficiently congratulate you and all our people upon the way in which you have been able literally to make the wilderness blossom like the rose. Fifty years ago, Senator, when you first came here with cattle it would not have seemed possible that a community like this would have grown up; it would not have seemed possible to develop gre at wheat fields and now to develop sugar, which is going to be a tremendous industry. It would not have seemed possible to develop what you have been able to by the use of water on this soil. You have had the physical advantages; you have had the water and the soil; but above all you have had the man to take advantage of them. That is what counts in the long run-- to have the man with common sense and with tenacity of purpose to make him able to use what there is ready to hand. The best gifts that nature can give are wasted if the man has not the quality that makes him take advantage of them. That is what is needed most.",
+"I want to say one other thing, and that is what a pleasure it has given me to see here in these communities where I am greeted always by the men of the Grand Army, by the men of the great past, how you are taking thought for the future in the way you are providing for your children, providing for the next generation. The future of this country of course depends fundamentally upon the type of citizenship you get out of the next generation. If the boys and girls of to-day turn out the right kind of men and women of to-morrow we are going to go up as a nation. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 97 (frame 425:0474)</span>",
+"<span class=\"margin\">In the margin: File</span> <span class=\"margin\">In the margin: <span class=\"illeg\">[illegible]</span></span>",
+"Senator Ankeny; and you, My Friends and Fellow Citizens:",
+"It is a great pleasure to meet you and to be coming through this wonderful valley into your city, <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> and to see what you are doing with sheep, cattle, wheat, alfalfa, sugar, fruit. It is perfectly astounding; and I cannot sufficiently congratulate you and all our people upon the way in which you have been able literally to make the wilderness blossom like the rose. Fifty years ago, Senator, when you first came here with cattle it would not have seemed possible that a community like this would have grown up; it would not have seemed possible to develop gre at wheat fields and now to develop sugar, <del title=\"struck through\">that</del><ins title=\"added by hand\">which</ins> is going to be a tremendous industry. It would not have seemed possible to develop what you have been able to by the use of water on this soil. You have had the physical advantages; you have had the water and the soil; but above <ins title=\"added by hand\">all</ins> you have had the man to take advantage of them. That is what counts in the long run-- to have the man with common sense and with tenacity of purpose to make him able to use what there is ready to hand. The best gifts that<del title=\"struck through\">xxxxx</del> nature can give are wasted if the man has not the quality that makes him take advantage of them. That is what is needed most.",
+"I <span class=\"sic\" title=\"reads: want to\">wantto</span> say one other thing, <span class=\"sic\" title=\"reads: and\">nand</span> that is what a pleasure it has given me to see here in these communities where I am greeted always by the men of the Grand Army, by the men of the great past, how you are taking thought for the future in the way you are providing for your children, <del title=\"struck through\">that you are</del> providing for the next generation. The future of this country of course depends fundamentally upon the type of citizenship you get out of the next generation. If the boys and girls of to-day turn out the right kind of men and women of to-morrow we are going to go up as a nation. (Applause)",
+"<span class=\"tnote\">Folio 97 is the left half of frame 0474. &quot;File&quot; and a second short illegible pencil mark are written in the top left margin, with a pen stroke beside them. The words struck by hand after &quot;city,&quot; are fully blotted out. &quot;which&quot; and &quot;all&quot; are written by hand, &quot;which&quot; over struck &quot;that&quot;, &quot;all&quot; with a caret. Hand slashes after &quot;Senator&quot;, between &quot;s&quot; and &quot;ugar&quot; and between &quot;long&quot; and &quot;run&quot; appear to be proofreading marks. A faint line crosses the upper part of the page. &quot;Friends&quot;, &quot;future&quot; and &quot;going&quot; show overtyped letters.</span>"
+],
+"notes": [
+"Folio 97 is the left half of frame 0474. \"File\" and a second short illegible pencil mark are written in the top left margin, with a pen stroke beside them. The words struck by hand after \"city,\" are fully blotted out. \"which\" and \"all\" are written by hand, \"which\" over struck \"that\", \"all\" with a caret. Hand slashes after \"Senator\", between \"s\" and \"ugar\" and between \"long\" and \"run\" appear to be proofreading marks. A faint line crosses the upper part of the page. \"Friends\", \"future\" and \"going\" show overtyped letters."
+],
+"file": "transcriptions/1903-05-25-prosser.txt"
+},
+"text_source": "typescript",
+"themes": [
+"farming",
+"home-family",
+"conservation"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"seemed",
+"develop",
+"possible"
+],
+"stats": {
+"words": 348,
+"unique_words": 166,
+"sentences": 11,
+"avg_sentence": 31.6,
+"minutes": 3,
+"i_count": 3,
+"we_count": 1
+}
 },
 {
 "id": "1903-05-25-wallula",
@@ -34674,10 +34755,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 246,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you. I greet you here in this town with its historic associations. It makes us realize how far we have gone of recent years when one thinks of the old fur traders' post that used to be situated here on the Columbia, when the entire yield of what are now Washington and Oregon was a few boat loads of furs, and these had to be sent to market over the mountains and down the Saskatchewan. This co untry has been developed in the most extraordinary fashion, and it will be developed still more as we apply with greater knowledge the principles of irrigation; so that the water of the Columbia and the waters of the Snake can be used to make your plains blossom as I have seen them blossom wherever irrigated in passing through them to-day.",
+"I thank you all for coming to greet me, and I thank especially the children. I have been particularly pleased all through Washington at seeing the attention that is being paid to the development of your school system, and to taking care of the next generation. For after all, much though I believe in irrigation, much though I believe in your products, in your forests and fields, in your manufactures, and your transportation companies, it is the citizenship that counts; it is the average man or woman who goes to make up the state. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -34699,13 +34784,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0475",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0475",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you. I greet you here in this town with its historic associations. It makes us realize how far we have gone of recent years when one thinks of the old fur traders' post that used to be situated here on the Columbia, when the entire yield of what are now Washington and Oregon was a few boat loads of furs, and these had to be sent to market over the mountains and down the Saskatchewan. This co untry has been developed in the most extraordinary fashion, and it will be developed still more as we apply with greater knowledge the principles of irrigation; so that the water of the Columbia and the waters of the Snake can be used to make your plains blossom as I have seen them blossom wherever irrigated in passing through them to-day.",
+"I thank you all for coming to greet me, and I thank especially the children. I have been particularly pleased all through Washington at seeing the attention that is being paid to the development of your school system, and to taking care of the next generation. For after all, much though I believe in irrigation, much though I believe in your products, in your forests and fields, in your manufactures, and your transportation companies, it is the citizenship that counts; it is the average man or woman who goes to make up the state. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 99 (frame 425:0475)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to see you. I greet you here in this town with its historic associations. It makes us realize how far we have gone of recent years when one thinks of the old fur traders&#x27; post that used to be situated here on the Columbia, <span class=\"sic\" title=\"reads: when the\">whent he</span> entire yield of what are now Washington and Oregon was a few boat loads of furs, and these had to be sent to market over the mountains and down the Saskatchewan. This co untry has been developed in the most extraordinary fashion , and it will be developed still more as we apply with greater knowledge the principles of irrigation; so that the water of the Columbia and the waters of the Snake can be used to make your plains blossom as I have seen them blossom wherever irrigated in passing through them to-day.",
+"I thank you all for coming to greet me, and I thank especially the children. I have been particularly pleased all through Washington at seeing the attention that is being paid to the development of your school system, and to taking care of the next generation. For after all, much though I believe in irrigation, much though I believe in <del title=\"struck through\">xxxx</del> your products, in your forests and fields, in your manufactures, and your transportation companies, it is the citizenship that counts; it is the average man <del title=\"struck through\">xxx</del> <ins title=\"added by hand\">or</ins> woman who goes to make up the state. (Cheers and applause)",
+"<span class=\"tnote\">Folio 99 is the left half of frame 0475. &quot;File&quot; with a pen stroke is written in the top left margin. &quot;xxxx&quot; is typed between the lines above &quot;your&quot;; &quot;or&quot; is typed above x-ed letters. &quot;Remarks&quot;, &quot;at&quot;, &quot;Columbia&quot;, &quot;irrigated&quot;, &quot;especially&quot;, &quot;manufactures&quot; and &quot;average&quot; show overtyped letters.</span>"
+],
+"notes": [
+"Folio 99 is the left half of frame 0475. \"File\" with a pen stroke is written in the top left margin. \"xxxx\" is typed between the lines above \"your\"; \"or\" is typed above x-ed letters. \"Remarks\", \"at\", \"Columbia\", \"irrigated\", \"especially\", \"manufactures\" and \"average\" show overtyped letters."
+],
+"file": "transcriptions/1903-05-25-wallula.txt"
+},
+"text_source": "typescript",
+"themes": [
+"conservation"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "george-washington",
+"name": "George Washington",
+"count": 1
+}
+],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 246,
+"unique_words": 144,
+"sentences": 7,
+"avg_sentence": 35.1,
+"minutes": 2,
+"i_count": 7,
+"we_count": 2
+}
 },
 {
 "id": "1903-05-26-wallace",
@@ -34843,8 +34968,8 @@
 "distinctive": [
 "law",
 "steamship",
-"cutting",
 "line",
+"cutting",
 "railroads",
 "crime",
 "foolish",
@@ -34964,10 +35089,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1294,
+"paragraphs": [
+"Mr. Chairman; and you, My Fellow Citizens:",
+"I thank you all for greeting me to-day. It is a pleasure to speak in a county commemorating by its name one of those pioneers to whose energy and foresight we owe the existence of this country, just as we owe the fact that we have a country at all and its preservation to the men who fought in the great civil war. Throughout Washington I have been greeted wherever I have gone by men wearing the button which shows that they fought for the country when Abraham Lincoln called to arms; and the qualities which enabled them to render to the nation a service literally inestimable were fund amentally the qualiti es shown by the men who came hither and carved a commonwealth out of the wilderness. The men of the civil war had to show self-abnegation, the willingness to sacrifice all for a lofty ideal, and furthermore the qualiti es of soul and of body that could make that willingness effective; for not only did they have to have the spirit, but they had to have the other qualities which would make the spirit good. The bravest man, the most devoted man, if, for his misfortune, weak, unable to march, unable to fight, could not have rendered the service that you of the civi l war rendered, and so in the times of the pioneers the service had to be rendered by men not only strong of mind, but strong of body and strong of soul. The pioneer days are gone, but the need for the pioneer virtues is just as great as ever. A great nation must inevitably pay the penalty of its greatness by the need for effort just as the man who plays a strong part must inevitably pay the penalty of constant exertion in order that his part may be played well. The life of ease, the life of absence of effort, the life where nothing ever threatens or disturbs the man, is the life that is not worth living. (Applause) The life that counts is the life of the man who is willing to take risks when there is a sufficient object to gain, and who is always willing to pay in effort, in labor, in toil, in daring, for an adequate result.. Just exactly as in the times of the civil war the victory could only come to those who were willing if necessary to pay the price and who went in with their eyes open knowing there would be a price to pay, so in civic life the prizes must come to those who are willing to pay in toil and in effort for them. Just so it is with the nation. A small and stationary nation can afford not to take risks, can afford not to try to do great deeds, and can hope to escape the necessity for solving problems of weighty moment. But we are not a small or stationary nation. We belong to a nation which we hold now to be the greatest upon earth and we are bound to make its greatness grow steadily as the years pass, and we would not be contented for one moment to purchase immunity from every risk within and without at the cost of stopping to go forward, of stopping to count in the world. We have got a big part to play; we cannot help playing it; all we can decide is whether we will play it well or play it badly. I know you too well my fellow count rymen to have any doubts as to what your decision will be. (Applause)",
+"The complex industrial growth which has brought in its train so much that is good has of necessity brought in its train some dangers, some evils. We do not because of them regret the progress, we face resolutely the evils, bent upon cutting them out if possible; if that is not possible then upon minimizing them, then upon obviating all that can be obviated of their results. We do not regret the progress. The state of Washington would not exist if it were not for that progress, if our people had not gone forward, if we had not within us the desire to conquer the contin ent and then so to handle it as to make it the seat of a tremendous industrial power. We have got those problems; we have got to face them. The way to do is not to shirk them, not to regret them; they are here; to accept them as part of the penalty of our growth and greatness, to be ashamed to whine about them, and to do our level best in a spirit of courage and sanity and of broad generous brotherhood to try to solve them.",
+"As the new problems arise we need new methods of solution; but there is no change in the spirit in which we are to approach them. In '61 it was one set of problems; in 1903, in 1913, in 1923 there will be others, not quite as heavy, but others, and we can solve them only by approaching them in the spirit in which the generation that acknowledged Ab raham Lincoln as a chief approached their problems. (Applause) Sever al elements are necessary for them; in the first place to approach them in a spirit of loyal effort to do good to our fellow men, of a genuine disinterestedness, the effort that recognizes that each of us is his brother's keeper and must try to help that brother out; but while I want to see us approach them in a spirit as far rem oved as possible from hardness of heart, I al so want to see us approach these problems in a spirit as far removed as possible from softness of head. You can help a man when he slips. Every one of us slips at times; every one of us needs such help; it is a shame to any of us if he does not stretch out his hand to help his brother who slips; if the man lies down you cannot carry him. He has got to walk himself; and if he is willing to let you carry him you can make up your mind that that fact alone shows that he is not worth carrying.",
+"I ask that we take up our life work here at home as individuals bound to see justice, to see that the laws give the fairest opportunity for each man that laws can give, and that they do absolute justice among all men without regard to their wealth, their social station, or their occupation; and furthermore that we approach these new problems with the old problems with the old, rugged American spirit of self-help, self-reliance, of desire each to show that he can carve out his own life without damage to his fellows and yet with success for himself.",
+"Our foreign policy can be summed up very briefly. We must not wrong the weak and we must not flinch from the strong; (Cheers and applause) we must avoid that sure sign of the weak man or the weak nation -- bluster. D o not threaten; do not talk. In the old days when I was in the cow business myself we had a saying: \"Never draw unless you mean to shoot.\" That is a good policy for the nation too. Do not say anything in the way of threat or abuse of other nations; always speak courteously of them. If it becom es absolutely necessary to say anything make it good afterwards. In other words make the nation just exactly the type of manly quality which we prize among our fellow men. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -34989,13 +35121,71 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0480, 0481",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0480",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Chairman; and you, My Fellow Citizens:",
+"I thank you all for greeting me to-day. It is a pleasure to speak in a county commemorating by its name one of those pioneers to whose energy and foresight we owe the existence of this country, just as we owe the fact that we have a country at all and its preservation to the men who fought in the great civil war. Throughout Washington I have been greeted wherever I have gone by men wearing the button which shows that they fought for the country when Abraham Lincoln called to arms; and the qualities which enabled them to render to the nation a service literally inestimable were fund amentally the qualiti es shown by the men who came hither and carved a commonwealth out of the wilderness. The men of the civil war had to show self-abnegation, the willingness to sacrifice all for a lofty ideal, and furthermore the qualiti es of soul and of body that could make that willingness effective; for not only did they have to have the spirit, but they had to have the other qualities which would make the spirit good. The bravest man, the most devoted man, if, for his misfortune, weak, unable to march, unable to fight, could not have rendered the service that you of the civi l war rendered, and so in the times of the pioneers the service had to be rendered by men not only strong of mind, but strong of body and strong of soul. The pioneer days are gone, but the need for the pioneer virtues is just as great as ever. A great nation must inevitably pay the penalty of its greatness by the need for effort just as the man who plays a strong part must inevitably pay the penalty of constant exertion in order that his part may be played well. The life of ease, the life of absence of effort, the life where nothing ever threatens or disturbs the man, is the life that is not worth living. (Applause) The life that counts is the life of the man who is willing to take risks when there is a sufficient object to gain, and who is always willing to pay in effort, in labor, in toil, in daring, for an adequate result.. Just exactly as in the times of the civil war the victory could only come to those who were willing if necessary to pay the price and who went in with their eyes open knowing there would be a price to pay, so in civic life the prizes must come to those who are willing to pay in toil and in effort for them. Just so it is with the nation. A small and stationary nation can afford not to take risks, can afford not to try to do great deeds, and can hope to escape the necessity for solving problems of weighty moment. But we are not a small or stationary nation. We belong to a nation which we hold now to be the greatest upon earth and we are bound to make its greatness grow steadily as the years pass, and we would not be contented for one moment to purchase immunity from every risk within and without at the cost of stopping to go forward, of stopping to count in the world. We have got a big part to play; we cannot help playing it; all we can decide is whether we will play it well or play it badly. I know you too well my fellow count rymen to have any doubts as to what your decision will be. (Applause)",
+"The complex industrial growth which has brought in its train so much that is good has of necessity brought in its train some dangers, some evils. We do not because of them regret the progress, we face resolutely the evils, bent upon cutting them out if possible; if that is not possible then upon minimizing them, then upon obviating all that can be obviated of their results. We do not regret the progress. The state of Washington would not exist if it were not for that progress, if our people had not gone forward, if we had not within us the desire to conquer the contin ent and then so to handle it as to make it the seat of a tremendous industrial power. We have got those problems; we have got to face them. The way to do is not to shirk them, not to regret them; they are here; to accept them as part of the penalty of our growth and greatness, to be ashamed to whine about them, and to do our level best in a spirit of courage and sanity and of broad generous brotherhood to try to solve them.",
+"As the new problems arise we need new methods of solution; but there is no change in the spirit in which we are to approach them. In '61 it was one set of problems; in 1903, in 1913, in 1923 there will be others, not quite as heavy, but others, and we can solve them only by approaching them in the spirit in which the generation that acknowledged Ab raham Lincoln as a chief approached their problems. (Applause) Sever al elements are necessary for them; in the first place to approach them in a spirit of loyal effort to do good to our fellow men, of a genuine disinterestedness, the effort that recognizes that each of us is his brother's keeper and must try to help that brother out; but while I want to see us approach them in a spirit as far rem oved as possible from hardness of heart, I al so want to see us approach these problems in a spirit as far removed as possible from softness of head. You can help a man when he slips. Every one of us slips at times; every one of us needs such help; it is a shame to any of us if he does not stretch out his hand to help his brother who slips; if the man lies down you cannot carry him. He has got to walk himself; and if he is willing to let you carry him you can make up your mind that that fact alone shows that he is not worth carrying.",
+"I ask that we take up our life work here at home as individuals bound to see justice, to see that the laws give the fairest opportunity for each man that laws can give, and that they do absolute justice among all men without regard to their wealth, their social station, or their occupation; and furthermore that we approach these new problems with the old problems with the old, rugged American spirit of self-help, self-reliance, of desire each to show that he can carve out his own life without damage to his fellows and yet with success for himself.",
+"Our foreign policy can be summed up very briefly. We must not wrong the weak and we must not flinch from the strong; (Cheers and applause) we must avoid that sure sign of the weak man or the weak nation -- bluster. D o not threaten; do not talk. In the old days when I was in the cow business myself we had a saying: \"Never draw unless you mean to shoot.\" That is a good policy for the nation too. Do not say anything in the way of threat or abuse of other nations; always speak courteously of them. If it becom es absolutely necessary to say anything make it good afterwards. In other words make the nation just exactly the type of manly quality which we prize among our fellow men. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 110 (frame 425:0480)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Chairman; and you, My Fellow Citizens:",
+"I thank you all for greeting me to-day. It is a pleasure to speak in a county commemorating by its name one of those pioneers to whose energy and foresight we owe the existence of this country, just as we owe the fact that we have a country at all and its preservation to the men who fought in the great civil war. Throughout Washington I have been greeted wherever I have gone by men wearing the button which shows that they fought for the country when Abraham Lincoln called to arms; and the qualities which enabled them to render to the nation a service literally inestimable were fund amentally the qualiti es shown by the men who came hither and carved a commonwealth out of the wilderness. The men of the civil war had to show self-abnegation, the willingness to sacrifice all for a lofty ideal, and furthermore the qualiti es of soul and of body that could make that willingness effective; for not only did they have to have the spirit, but they had to have the other qualities which would make the spirit good. The bravest man, the most devoted man, if, for his misfortune, weak, unable to march, unable to fight, could not have rendered the service that you of the civi l war rendered, and so in the times of the pioneers the service had to be rendered by men not only strong of mind, but strong of body and strong of soul. The pioneer days are gone, but the need for the pioneer virtues is just as great as ever. A great nation must inevitably pay the penalty of its greatness by the need for effort just as the man who plays a strong part must inevitably pay the penalty of constant exertion in order that his part may be played well. The <span class=\"sic\" title=\"reads: life\">llife</span> of ease, the life of absence of effort, the life where nothing ever threatens or disturbs the man, is the life that is not worth living. (Applause) The life that counts is the life of the man who is willing to take risks when there is a sufficient object to gain, and who is always willing to pay in effort, in labor, in toil, in daring, for an adequate result.. Just exactly as in the times of the civil war the victory could only come to those who were willing if necessary <span class=\"sic\" title=\"reads: to\">tp</span> pay the price and who went in with their eyes open knowing there would be a price to pay, so in civic life the prizes must come to those who are willing to pay in toil and in effort for them. Just so it is with the nation. A small and stationary nation can afford not to take risks, can afford not to try to do great deeds, and can hope to escape the necessity for solving problems of weighty moment. But we are not a small or stationary nation. We belong to a nation which we hold now to\n<span class=\"pb\">Page 111 (frame 425:0481)</span> be the greatest upon earth and we are bound to make its greatness grow steadily as the years pass, and we would not be contented for one moment to purchase immunity from every risk within and without at the cost of stopping to go forward, of stopping to count in the world. We have got a big part to play; we cannot help playing it; all we can decide is whether we will play it well or play it badly. I know you too well my fellow count rymen <del title=\"struck through\">xx</del> to have any doubts as to what your decision will be. (Applause)",
+"The <del title=\"struck through\">tremendous</del><ins title=\"added by hand\">complex</ins> industrial growth which has brought in its train so much that is good has of necessity brought in its train some dangers, some evils. We do not because of them regret the progress, <del title=\"struck through\">xx</del> we face resolutely the evils, bent upon cutting them out if possible; if that is not possible then upon minimizing them, then upon obviating all that can be obviated of their results. We do not regret the progress. The state of Washington would not exist if it were not for that progress, if our people had not gone forward, if we had not <del title=\"struck through\">xx</del> within us the desire to conquer the contin ent and then so to handle it as to make it the seat of a tremendous industrial power. We have got those <span class=\"sic\" title=\"reads: problems\">probelms</span>; we have got to face them. The way to do is not to shirk them, not to regret them; they are here; to accept them as part of the penalty of our growth and greatness, to be ashamed to whine about them, and to do our level best in a spirit of courage and sanity and of broad generous brotherhood to try to solve them.",
+"As the new problems arise we need new methods of solution; but there is <span class=\"sic\" title=\"reads: no\">ro</span> change in the spirit in which we are to approach them. In &#x27;61 it was one set of problems; in 1903, in 1913, in <del title=\"struck through\">xxx</del> 1923 there will be others<ins title=\"added by hand\">,</ins> not quite as heavy<ins title=\"added by hand\">,</ins> but others<ins title=\"added by hand\">,</ins> and we can solve them only by approaching them in the spirit in which the generation that acknowledged Ab raham Lincoln as a chief approached their problems. (Applause) Sever al elements are necessary for <del title=\"struck through\">xxxx</del> them; in the first place to approach them in a spirit of loyal effort to do good to our fellow men, of a genuine disinterestedness , the effort that recognizes that each of us is his brother&#x27;s keeper and must try to help that brother out; but while I want to see us approach them in a spirit as far rem oved as possible from hardness of heart, I al so want to see us approach these problems in a spirit as far removed as possible from softness of head. You can help a man when he slips. Every one of us slips at times; every one of us needs such help; it is a shame to any of us if he does not stretch out his hand to help his brother who slips;\n<span class=\"pb\">Page 112 (frame 425:0481)</span> if the man lies down you cannot carry him. He has got to walk himself; and if he is willing to let you carry him you <span class=\"sic\" title=\"reads: can\">ca n</span> make up your mind that that fact alone shows that he is not worth carrying.",
+"I ask that we take up our life work here at home as individuals bound to see justice, to see that the laws give the fairest opportunity for each man that laws can give, and that they do absolute justice among all men without regard to their wealth, their social station, or their occupation; and furthermore that we approach these new problems with the old problems with the old, rugged <del title=\"struck through\">xx</del> American spirit of self-help, self-reliance, of desire each to <span class=\"sic\" title=\"reads: show\">shpw</span> that he can carve out his own life without damage to his fellows and yet with success for himself.",
+"Our foreign policy can be summed up very briefly. We must not wrong the weak and we must not flinch from the strong; (Cheers and applause) we must avoid that sure sign of the weak man or the weak nation -- bluster. D o not threaten; do not talk. In the old days when I was in the cow business myself we had a saying : &quot;Never draw unless you mean to shoot.&quot; That is a good policy for the nation too. Do not say anything in the way of threat or abuse of other nations; always speak courteously of them. If it becom es absolutely necessary to say anything make it good afterwards. In other words make the nation just exactly the type of manly quality which we prize among ou<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">r</ins> fellow men. (Cheers and applause)",
+"<span class=\"tnote\">Folios 110-112 are frame 0480 right half and frame 0481 both halves, as listed. &quot;File&quot; with a pen stroke is written in the top left margin of folio 110. The heading reads &quot;Reamrks&quot;. Typed page numbers &quot;-2-&quot; and &quot;-3-&quot; are omitted. Folio 110: &quot;me&quot;, &quot;had&quot;, &quot;inevitably&quot;, &quot;must&quot;, &quot;could&quot; and &quot;Applause&quot; show overtyped letters. Folio 111: &quot;complex&quot; is typed above the line, with &quot;tremendous&quot; struck by a hand line looped to a caret; a hand mark stands under the &quot;m&quot; of &quot;them&quot; (before &quot;regret&quot;) and above the comma after &quot;progress&quot;; commas after &quot;others&quot; (twice) and &quot;heavy&quot; are added by hand; hand slashes in &quot;Applause&quot;, after &quot;keeper&quot; and after &quot;them&quot; appear to be proofreading marks; &quot;if&quot;, &quot;1913&quot;, &quot;disinterestedness&quot; and &quot;Every&quot; show overtyped letters. Folio 112: &quot;r&quot; is written by hand over a letter at the end of &quot;our&quot;; &quot;himself&quot;, &quot;avoid&quot; and &quot;bluster&quot; show overtyped letters.</span>"
+],
+"notes": [
+"Folios 110-112 are frame 0480 right half and frame 0481 both halves, as listed. \"File\" with a pen stroke is written in the top left margin of folio 110. The heading reads \"Reamrks\". Typed page numbers \"-2-\" and \"-3-\" are omitted. Folio 110: \"me\", \"had\", \"inevitably\", \"must\", \"could\" and \"Applause\" show overtyped letters. Folio 111: \"complex\" is typed above the line, with \"tremendous\" struck by a hand line looped to a caret; a hand mark stands under the \"m\" of \"them\" (before \"regret\") and above the comma after \"progress\"; commas after \"others\" (twice) and \"heavy\" are added by hand; hand slashes in \"Applause\", after \"keeper\" and after \"them\" appear to be proofreading marks; \"if\", \"1913\", \"disinterestedness\" and \"Every\" show overtyped letters. Folio 112: \"r\" is written by hand over a letter at the end of \"our\"; \"himself\", \"avoid\" and \"bluster\" show overtyped letters."
+],
+"file": "transcriptions/1903-05-26-tekoa.txt"
+},
+"text_source": "typescript",
+"themes": [
+"strenuous",
+"the-west"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 2
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"slips",
+"approach",
+"problems",
+"willing",
+"pay",
+"regret",
+"weak",
+"penalty",
+"spirit",
+"strong"
+],
+"stats": {
+"words": 1294,
+"unique_words": 423,
+"sentences": 33,
+"avg_sentence": 39.2,
+"minutes": 10,
+"i_count": 8,
+"we_count": 28
+}
 },
 {
 "id": "1903-05-26-spokane-2",
@@ -35009,10 +35199,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 41,
+"paragraphs": [
+"Father:",
+"I thank you and through you the faculty and students of Gonzaga College. I appreciate the gift you have given. I appreciate still more the words you have uttered and the sincerity of your devotion and attachment to the country."
+],
 "editions": [],
 "trc": [
 {
@@ -35034,13 +35227,43 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0482",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0482",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Father:",
+"I thank you and through you the faculty and students of Gonzaga College. I appreciate the gift you have given. I appreciate still more the words you have uttered and the sincerity of your devotion and attachment to the country."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 113 (frame 425:0482)</span>",
+"<span class=\"margin\">In the margin: File — not given out</span>",
+"Father:",
+"I thank you and through you the faculty and students of Gonzaga College. I appreciate the gift you have given. I appreciate still more the words you have uttered and the sincerity of your devotion and attachment to the country.",
+"<span class=\"tnote\">Folio 113 is the left half of frame 0482. &quot;File — not given out&quot; is written in the top left margin. In the heading a typed word before &quot;flowers&quot; is x-ed out, and the character between &quot;26&quot; and &quot;903&quot; is overtyped (read as a comma and &quot;1&quot;). The &quot;e&quot; of &quot;the&quot; (before &quot;gift&quot;) and the &quot;d&quot; of &quot;words&quot; are faintly typed. The remarks end without &quot;(Applause)&quot;; the rest of the page is blank.</span>"
+],
+"notes": [
+"Folio 113 is the left half of frame 0482. \"File — not given out\" is written in the top left margin. In the heading a typed word before \"flowers\" is x-ed out, and the character between \"26\" and \"903\" is overtyped (read as a comma and \"1\"). The \"e\" of \"the\" (before \"gift\") and the \"d\" of \"words\" are faintly typed. The remarks end without \"(Applause)\"; the rest of the page is blank."
+],
+"file": "transcriptions/1903-05-26-spokane-2.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 41,
+"unique_words": 26,
+"sentences": 3,
+"avg_sentence": 13.7,
+"minutes": 1,
+"i_count": 3,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-27-helena",
@@ -35162,8 +35385,8 @@
 "irrigated",
 "waters",
 "rocky",
-"quality",
 "wore",
+"quality",
 "population"
 ],
 "stats": {
@@ -35331,10 +35554,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 250,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"It has been a great pleasure to me to come again to Montana. I came to it first when a good many of you were not here, twenty years ago, and I know your state well. I have watched its growth. I know your resources, your mines, your ranches, and above all what can be done by the use of your water in upbuilding manufactures, and what can be done with irrigation; but the main thing that I like about Montana is the quality of its men and women. (Cheers and applause) And of all your products I admire most the children. They seem to be all right in quality and in quantity; and as I like your stock I am glad it is being kept up.",
+"Of course it is a mere truism to say that the fate of any commonwealth depends primarily not upon its natural resources, not even upon the kind of laws enforced therein, but upon the quality of its average citizenship. If the average man and the average woman are what they should be we are going to get the right results out of the state; and if they are not you cannot expect to get what we ought to have. It is just as it was in the civil war. I do not care what you had else, if you did not have the right man in the army you could not win. So it is in citizenship. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35356,13 +35583,49 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0488",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0488",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"It has been a great pleasure to me to come again to Montana. I came to it first when a good many of you were not here, twenty years ago, and I know your state well. I have watched its growth. I know your resources, your mines, your ranches, and above all what can be done by the use of your water in upbuilding manufactures, and what can be done with irrigation; but the main thing that I like about Montana is the quality of its men and women. (Cheers and applause) And of all your products I admire most the children. They seem to be all right in quality and in quantity; and as I like your stock I am glad it is being kept up.",
+"Of course it is a mere truism to say that the fate of any commonwealth depends primarily not upon its natural resources, not even upon the kind of laws enforced therein, but upon the quality of its average citizenship. If the average man and the average woman are what they should be we are going to get the right results out of the state; and if they are not you cannot expect to get what we ought to have. It is just as it was in the civil war. I do not care what you had else, if you did not have the right man in the army you could not win. So it is in citizenship. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 125 (frame 425:0488)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Ladies and Gentlemen:",
+"It has been a great pleasure to me to come again to Montana. I came to it first when a good many of you were not here, twenty years ago, and I know your state well. I have watched its growth. I know your resources, your mines, your <span class=\"sic\" title=\"reads: ranches\">randh es</span>, and above all what can be done by the use of your water in upbuilding manufactures,and what can be done with irrigation; but the main thing that I like about <del title=\"struck through\">Monatan</del><ins title=\"added by hand\">Montana</ins> is the quality of its men and women. (<span class=\"sic\" title=\"reads: Cheers\">Cheess</span> and applause) And of all your products I <span class=\"sic\" title=\"reads: admire\">admite</span> most the children. They seem to be all right in quality and in quantity; and as I like your stock I am glad it is being kept up.",
+"Of course it is a mere truism to say that the fate of any commonwealth depends primarily not upon its natural resources, not even upon the kind of laws enforced therein, but upon the quality of its average citizenship. If the average man and the average woman are what they should be we are going to get the right results out of the state; and if they are not you cannot expect to get what <del title=\"struck through\">xxx</del> we ought to have. It is just as it was in the civil war. I<del title=\"struck through\">d</del> do not care what you had else, if you did not have the right man in the army you could not win. So it is in citizenship. (Cheers and applause)",
+"<span class=\"tnote\">Folio 125 is the left half of frame 0488. &quot;File&quot; with a pen stroke is written in the top left margin. &quot;Montana&quot; is written by hand over struck typed &quot;Monatan&quot;. A hand stroke strikes the letter after &quot;I&quot; (before &quot;do not care&quot;). &quot;when&quot;, &quot;women&quot; and &quot;If&quot; show overtyped letters.</span>"
+],
+"notes": [
+"Folio 125 is the left half of frame 0488. \"File\" with a pen stroke is written in the top left margin. \"Montana\" is written by hand over struck typed \"Monatan\". A hand stroke strikes the letter after \"I\" (before \"do not care\"). \"when\", \"women\" and \"If\" show overtyped letters."
+],
+"file": "transcriptions/1903-05-27-boulder.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"quality",
+"average",
+"right"
+],
+"stats": {
+"words": 250,
+"unique_words": 125,
+"sentences": 10,
+"avg_sentence": 25.0,
+"minutes": 2,
+"i_count": 9,
+"we_count": 2
+}
 },
 {
 "id": "1903-05-27-butte-2",
@@ -36394,8 +36657,8 @@
 "irrigation",
 "over-grazing",
 "agriculture",
-"forests",
-"range"
+"range",
+"forests"
 ],
 "stats": {
 "words": 2338,
@@ -38684,8 +38947,8 @@
 "young",
 "preaching",
 "admire",
-"boys",
-"expect"
+"expect",
+"boys"
 ],
 "stats": {
 "words": 1336,
@@ -40368,7 +40631,7 @@
 "therefore",
 "government",
 "responsibility",
-"unless"
+"together"
 ],
 "stats": {
 "words": 929,
@@ -40567,8 +40830,8 @@
 "ideal",
 "eleven",
 "school",
-"physical",
 "athletics",
+"physical",
 "prowess"
 ],
 "stats": {
@@ -43197,8 +43460,8 @@
 "children",
 "family",
 "self-indulgence",
-"self-sacrifice",
 "mother",
+"self-sacrifice",
 "wife",
 "woman's",
 "mothers",
@@ -43306,8 +43569,8 @@
 "hampshire",
 "immigrants",
 "eighteenth",
-"philadelphia",
-"sons"
+"sons",
+"philadelphia"
 ],
 "stats": {
 "words": 2055,
@@ -43415,8 +43678,8 @@
 "study",
 "uvres",
 "dewey",
-"defence",
 "built",
+"defence",
 "hit",
 "revolution"
 ],
@@ -44631,7 +44894,7 @@
 "sake",
 "value",
 "comes",
-"life"
+"public"
 ],
 "stats": {
 "words": 1474,
@@ -45329,8 +45592,8 @@
 "face",
 "age",
 "south",
-"fought",
 "sons",
+"fought",
 "scrupulous",
 "faced",
 "extraordinary"
@@ -47725,7 +47988,7 @@
 "opposition",
 "evils",
 "organization",
-"twisted"
+"duty"
 ],
 "stats": {
 "words": 6288,
@@ -49687,8 +49950,8 @@
 "graduate",
 "success",
 "practical",
-"woman",
-"material"
+"material",
+"woman"
 ],
 "stats": {
 "words": 1485,
@@ -50554,8 +50817,8 @@
 },
 "distinctive": [
 "isthmus",
-"engineer",
 "work",
+"engineer",
 "realize",
 "ages",
 "task",
@@ -51558,8 +51821,8 @@
 ]
 },
 "distinctive": [
-"colon",
 "laborers",
+"colon",
 "isthmus",
 "employees",
 "colored",
@@ -52222,7 +52485,7 @@
 "ships",
 "aboard",
 "australia",
-"arrangement"
+"pacific"
 ],
 "stats": {
 "words": 3873,
@@ -52577,8 +52840,8 @@
 "fraud",
 "mineral",
 "leases",
-"leasing",
 "control",
+"leasing",
 "entries",
 "playgrounds"
 ],
@@ -53046,8 +53309,8 @@
 "ease",
 "glory",
 "disagreeable",
-"statue",
 "duty",
+"statue",
 "woman"
 ],
 "stats": {
@@ -53470,8 +53733,8 @@
 "workmen",
 "negligence",
 "workman",
-"children",
 "compensation",
+"children",
 "legislation"
 ],
 "stats": {
@@ -53635,8 +53898,8 @@
 "wolves",
 "writers",
 "tax",
-"wilderness",
 "animals",
+"wilderness",
 "fiction",
 "animal"
 ],
@@ -54184,8 +54447,8 @@
 "corporations",
 "democracy",
 "regards",
-"insult",
 "conditions",
+"insult",
 "affairs",
 "control"
 ],
@@ -55647,8 +55910,8 @@
 "international",
 "effective",
 "naval",
-"adequate",
-"society"
+"society",
+"adequate"
 ],
 "stats": {
 "words": 520,
@@ -56315,7 +56578,7 @@
 "condemn",
 "capitalists",
 "praise",
-"foolish"
+"government"
 ],
 "stats": {
 "words": 1346,
@@ -56495,8 +56758,8 @@
 },
 "distinctive": [
 "act",
-"sovereign",
 "grant",
+"sovereign",
 "corporation",
 "reward",
 "ample",
@@ -58658,8 +58921,8 @@
 "practical",
 "possessed",
 "brother",
-"devotion",
 "mankind",
+"devotion",
 "struggle"
 ],
 "stats": {
@@ -60331,8 +60594,8 @@
 "species",
 "rome",
 "science",
-"ancestral",
 "blood",
+"ancestral",
 "empire",
 "fauna",
 "culture",
@@ -60463,8 +60726,8 @@
 "resources",
 "forests",
 "water",
-"sites",
 "east",
+"sites",
 "national"
 ],
 "stats": {
@@ -60776,8 +61039,8 @@
 "political",
 "corporations",
 "earned",
-"interests",
-"public"
+"public",
+"interests"
 ],
 "stats": {
 "words": 6605,
@@ -61070,7 +61333,7 @@
 "maverick",
 "exceptional",
 "protection",
-"dishonestly"
+"rich"
 ],
 "stats": {
 "words": 4194,
@@ -61395,7 +61658,7 @@
 "skilled",
 "girls",
 "editor",
-"wields"
+"politician"
 ],
 "stats": {
 "words": 4465,
@@ -61587,8 +61850,8 @@
 "violence",
 "law",
 "corporation",
-"justice",
 "union",
+"justice",
 "wage",
 "policeman",
 "workers",
@@ -62300,10 +62563,10 @@
 "herald",
 "public",
 "magazine",
-"sugar",
 "magazines",
 "newspaper",
 "loyalty",
+"sugar",
 "comrade",
 "servant",
 "york"
@@ -63078,8 +63341,8 @@
 "distinctive": [
 "massachusetts",
 "lorimer",
-"applause",
 "laughter",
+"applause",
 "court",
 "illinois",
 "taft",

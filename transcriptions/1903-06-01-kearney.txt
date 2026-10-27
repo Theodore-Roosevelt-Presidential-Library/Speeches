@@ -1,0 +1,18 @@
+---
+speech: 1903-06-01-kearney
+title: Remarks of President Roosevelt at Kearney, Nebraska, June 1, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0522
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0522
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 191 425:0522]
+
+My Friends and Fellow Citizens:
+
+It is a great pleasure to see you here this evening and to be greeted by you. I thank you for coming out. I have enjoyed to the full my trip across [-this country, across-] this continent from one ocean to the other. The thing that has impressed me more than anything else on that journey has been the essential unity of our people, the fact that wherever[-xx-] [+we+] go a good American is at home among his fellow[-s-] Americans. (Cheers and applause) I cannot say how I have enjoyed it. I think I was a pretty good American when I started, and I am going home a better American. I shall not try to say more than just good evening, and to say that I believe in you with all my heart and I believe in the future of the country, because it has men and women like you in it. (Applause)
+
+[note: The listed page (right half of frame 0522) was off: frame 0522 is a single page, folio 191; this speech is on a slip pasted at the bottom of it, below the Lexington speech. The folio number is written only at the top of the page.]
+[note: "this country, across" is struck through by hand. "we" is typed above the line over x-ed letters. The "s" of "fellows" is cancelled with a slash. The c of "fact" is overtyped.]
+[note: A small handwritten mark above the end of "cannot" is unclear and is not recorded as text. A handwritten "9"-like mark in the upper right of the slip is not transcribed.]
