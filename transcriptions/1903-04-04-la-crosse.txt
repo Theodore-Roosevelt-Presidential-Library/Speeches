@@ -4,7 +4,7 @@ title: Address of President Roosevelt at La Crosse, Wisconsin, April 4, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0105, 0106, 0107
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0105
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 13 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 38 425:0105]
@@ -35,3 +35,4 @@ In closing[+,+] [?just?] let me say one word of thanks to all of you for coming 
 [note: Folio 40: the anecdote from "Let me tell you a short story." to "if the chance comes." is cancelled with a large hand X and lines through its first and last lines. Inside it, "made a fire" and "were unbranded" are typed above the line with carets, a typed "n" stands above "brandedxwith", and "[?indicate?]" and "[?struck?]" are blotted or smudged.]
 [note: Folio 41: hand marks after "proverb" and "peace" (read as a colon and a period), a comma after "closing" and after "thanking"; the word before "is not that sound common sense?" is blotted out and cannot be read; the blot after "peace" may cover a typed mark. Check marks in the left margin of folios 39-41 are not transcribed.]
 [note: Folio 42: "bouquet of" (typed "buqquet") is typed above the line with a caret; "conveyed" and "through their representative, Mr. ..." are handwritten, the surname read doubtfully as "Russell"; "sent me," "for" and "I appreciate peculiarly" are struck through by hand.]
+[note: Third look: the word after "In closing," has "J" and "j" typed over each other, so its capital cannot be settled. The blot after "peace" may be a hand period over a typed mark; "W" of "We" is rewritten by hand. The typed "an nation", "disagreeab e" and "th t" are as typed; "buqquet of" goes at the caret before "flowers", and "conveyed" stands above the struck "sent me,".]

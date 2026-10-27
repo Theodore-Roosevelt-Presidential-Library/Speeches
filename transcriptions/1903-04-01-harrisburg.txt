@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Harrisburg, Pa., April 1,1903
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0005
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0005
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 1 425:0005]
@@ -35,3 +35,4 @@ Fundamentally our interests are the same. Fundamentally you hurt or help some of
 [note: Folio 1: two typed lines after "contented," are struck through by hand and mostly illegible; "and hope that the" is written above them and "will continue" after "land". The word before "land" is overtyped or blotted.]
 [note: Folio 2: about ten typed lines after "interests," are struck through by hand with heavy wavy lines; only scattered words show through. The small handwritten addition above "interests," reads doubtfully as "and that". "will take to heart" and "all of us." are partly smudged. The "E" of "Every" is overwritten by hand with a small "e".]
 [note: "workingfor" is typed as one word with a hand mark separating it; "oursolidarity" likewise has a hand mark between "our" and "solidarity". Many letters are overtyped (e.g. "surely", "teach", "admirable", "inevitably", "learned"); final readings given.]
+[note: Third look: "[?on?]": the vowel of the word before "the Anthracite" is an "o" and an "i" typed over each other, so "on" and "in" cannot be told apart. After "your [?honor,?]" one stray typed character under the smudge is not legible.]
