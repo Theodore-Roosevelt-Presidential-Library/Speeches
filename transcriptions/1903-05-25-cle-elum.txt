@@ -1,0 +1,18 @@
+---
+speech: 1903-05-25-cle-elum
+title: Remarks of President Roosevelt at Cle Elum, Washington, May 25, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0470
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0470
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 89 425:0470]
+
+[margin: File]
+
+My Friends and Fellow Citizens:
+
+It is a great pleasure to have the chance of greeting you and saying a word [?or?] two to you this morning. This is the third day I have spent in your state among your people with their diversified interests -- lumbering , commerce, agriculture and now mining, and I cannot tell you how I have enjoyed being here and seeing you. I believe in the resources of your state, but most of all I believe in the men and women who develop those resources; (Cheers and applause) because it makes no difference what you have that nature has given you, it is useless if the man who develops it has not got the right stuff in him. This state has already been made so great and its greatness [-xx-] [+in+] the future will infinitely surpass what it has now reached primarily because in addition to its [-xxxxxxxx-] natural resources you have had the quality to take advantage of them. Just exactly as in battle what counts most is the man behind the gun, so now in civil life it is the man behind the resources, the man behind the law, who counts most, who makes decisive his influence. For that reason it has particularly pleased me wherever I have been in {Wahhington|Washington} to see the children brought out. The future of the state of co urse depends upon its citizenship, and I wish to see in our country as a whole the type that I think you produce here. (Cheers and applause)
+
+[note: Folio 89 is the left half of frame 0470. "File" is written in the top left margin with a pen stroke beside it. In "or two" the second letter is typed over another letter and is not certain. "in" is typed above x-ed letters with no caret. An ink blot touches the "d" of "third". Hand strokes stand before "what" (start of a line) and between "civil" and "life", apparently proofreading marks. "May", "lumbering" and "whole" show letters typed over others.]

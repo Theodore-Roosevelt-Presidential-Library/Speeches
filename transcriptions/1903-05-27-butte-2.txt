@@ -1,0 +1,17 @@
+---
+speech: 1903-05-27-butte-2
+title: Remarks of President Roosevelt in accepting a souvenir presented by the Silver Bow Labor and Trades Assembly, Butte, Montana, May 27, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0495
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0495
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 139 425:0495]
+
+Mr. Gillis;  and you, Gentlemen and Ladies:
+
+I thank you heartily for this unexpected gift. I am deeply pleased at receiving it; and I accept it as one who tries to be an American President, acting upon the principle of giving a square deal to each and every man. (Cheers and applause)
+
+[note: In the typed heading, "accepting" reads "accppting" and "presented" has a p struck over its second e on the typewriter; "Roosevelt" is typed with a gap ("Roo sevelt"). The title line gives the intended words.]
+[note: The second listed page (right half of frame 0495) is not typescript: it holds a handwritten note explaining that at the conclusion of the President's address at Columbia Gardens, Butte, a souvenir was presented on behalf of the Silver Bow Trades and Labor Assembly by Malcolm Gillis, with a pasted newspaper clipping of Gillis's presentation and the reply. Not transcribed here.]
