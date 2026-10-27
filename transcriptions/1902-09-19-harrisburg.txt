@@ -1,0 +1,19 @@
+---
+speech: 1902-09-19-harrisburg
+title: Remarks of President Roosevelt at Harrisburg,Pa., Sept.19,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0714
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0714
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 1 424:0714]
+
+[margin: not given out.]
+
+Ladies and gentlemen:
+
+I {went|want} to thank you very much for letting me say what a pleasure it is to get even a glimpse of you. I only wish I were to stop off here and have a {chan ce|chance} of making more of an address to you. I thank you ladies and gentlemen for having come out to see me. (Applause)
+
+[note: Upper of two typed slips mounted on the left half (a) of frame 0714 (folio 1); the Altoona remarks are on the lower slip. In the heading, letters after "Pa.," (apparently "P" followed by x's) are x-ed out on the typewriter and are omitted from the title above.]
+[note: "not given out." is written by hand diagonally beside the heading, with an underline stroke.]

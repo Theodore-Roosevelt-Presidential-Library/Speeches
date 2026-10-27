@@ -1,0 +1,19 @@
+---
+speech: 1902-09-19-altoona
+title: Remarks of President Roosevelt at Al toona,Pa., Sept., 19th, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0714
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0714
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 1 424:0714]
+
+[margin: File]
+
+Ladies and gentlemen:
+
+I am glad to have the chance of {greting|greeting} you. I shall not try to make any speech at this time of the evening, and with the trains running in rivalry. I shall only say that {is is|it is} always a great pleasure to go through or stop in your state of Pennsylvania; that I am pleased to be greeted by you; that I wish you well and thank you for having come to see me. I only wish I could stay and talk to you. Good evening. (Cheers and applause)
+
+[note: The listed page (0714, right half) holds the Cincinnati Music Hall speech of September 20, not this one. The Altoona remarks are on the lower of two typed slips mounted on the left half (a) of frame 0714 (folio 1), below the Harrisburg remarks; that is the page transcribed here.]
+[note: "File" is written by hand diagonally beside the heading. "you" in "I wish you well" has an overstruck letter.]
