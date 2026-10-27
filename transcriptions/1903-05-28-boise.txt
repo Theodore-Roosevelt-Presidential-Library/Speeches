@@ -1,0 +1,17 @@
+---
+speech: 1903-05-28-boise
+title: Remarks of President Roosevelt to the members of the Grand Army and the veterans of the Spanish-American w ar, Boise, Idaho, May 28, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0504
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0504
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 156 425:0504]
+
+[margin: File]
+
+I have already spoken about that flag which was the only flag carried in the fight for a fortnight [-there-] in the Philippines, and have already said how pleased I was to see the building[-s-] of the G. A. R. In congratulating this community I congratulated [+it+] especially upon having such examples of what American [-x x-] citizenship should be, as you of the Grand Army, the men who in every walk of life are entitled to the right of the line, have given us the example for all time to try to emulate what you have done. And you, my comrades, I speak for you when I say that you and I [-have-][+had the+] desire[-d-] to show in our lesser war that we were not wholly unworthy of the men of the great war;  to show that the lessons of the victors at Shiloh, Gettysburg and Appomattox had not been wasted upon us of the younger generation. Another thing, in speaking to the Grand Army I [-xxx-] [-xxxxxxxxxx-] find that the place of all others where I can best pay tribute to the valor of the men who wore the gray is in addressing a group of the men who wore the blue. We of the younger generation are proud of the memories of the great war, of the memories of valor shown by all Americans who took part on either side;  and we shall try to uphold the honor of the flag as you upheld it in the great days. (Cheers and applause)
+
+[note: "for a fortnight" is circled by hand with a line running up to a hand stroke after "which", marking it to be moved there (to read "that flag which for a fortnight was the only flag carried in the fight"). "there" is struck by hand; the s of "buildings" and the d of "desired" are struck by hand; "had the" is written by hand over the struck "have". "it" is typed between the lines with a hand caret.]
+[note: Several letters are struck over on the typewriter (e.g. "of the" in the heading, "Philippines", "should", "Grand", "having"); the final reading is given. The heading reads "w ar" with a gap, kept as typed.]
