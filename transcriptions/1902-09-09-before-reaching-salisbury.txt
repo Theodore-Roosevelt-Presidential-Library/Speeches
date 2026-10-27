@@ -1,0 +1,19 @@
+---
+speech: 1902-09-09-before-reaching-salisbury
+title: Remarks of President Roosevelt before reaching station at Salisbury,N.C.,Sept.9,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0709
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0709
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 55 424:0709]
+
+[margin: File]
+
+Gentlemen:
+
+I want to say what a pleasure it is to be greeted by you. I have greatly enjoyed passing through North Carolina. It is a genuine pleasure to come down and see the industrial development that is taking place here[-x-]- The industrial development that is going to make the south one of the most prosperous parts of the Union . (Cheers and {ap plause|applause}.[+)+]
+
+[note: Right half (b) of frame 0709, folio 55. "File" is written by hand above the heading with a diagonal line through the corner.]
+[note: "development" after "industrial" is typed above the line, with a caret marked by hand. The closing parenthesis after "applause." is written by hand.]

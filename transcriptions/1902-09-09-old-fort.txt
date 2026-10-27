@@ -1,0 +1,23 @@
+---
+speech: 1902-09-09-old-fort
+title: Remarks of President Roosevelt at Old Fort, N.C.,Sept.9,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0707
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0707
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 51 424:0707]
+
+Gentlemen and Ladies:
+
+I have time only to say a word of thanks and of greeting to you. It has been a great pleasure to come through North Carolina today and to meet your people. I count myself lucky in having gotten here. A good American is a good American anywhere you find him. You do not [-[illegible]-] find any better than in North Carolina.[-[?(Applause)?]x-] (Applause)
+
+It seems to me a very good thing for the President to go into different parts of the country, just as it is good for any of us, and to realize how fundamentally we are all alike. The differences among us are slight and superficial; the resemblances are fundamental. The man who is a decent citizen, a good husband, a good father, [-xxxxx-] behaves well with his neighbor, does his duty for the state - he is a decent citizen, north or south or east or west; and if he does not behave [-xxxx-] himself then he is a poor citizen north or south or east or west.
+
+There is no royal road to good citizenship. The qualities that make a man a good citizen {q|} a hundred years ago will make him a good [-x-] citizen a hundred years hence. There is no patent device to [-[illegible]-][+get+] good citizenship. A man has got to be a square man; he has got to be honest; he has got to have pluck, and he has got to have common sense, and if he lacks any one of the three he will come [-[illegible]-][+far+] short of doing his duty to his neighbor and to the state.(Applause)
+
+[note: Right half (b) of frame 0707, folio 51.]
+[note: A short word at the end of the line after "You do not" is struck through by hand. A first "(Applause)" after "North Carolina." is overstruck with x's on the typewriter and "(Applause)" typed again.]
+[note: The x-ed words before "behaves" and before "himself" cannot be read. A stray "q" is typed after "citizen" in "a good citizen a hundred years ago".]
+[note: The word struck by hand before "get" is inked out; the words struck before "far" (with a caret below) cannot be read with confidence.]

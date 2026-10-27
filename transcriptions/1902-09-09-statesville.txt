@@ -1,0 +1,22 @@
+---
+speech: 1902-09-09-statesville
+title: Remarks of President Roosevelt at Statesville,N.C.,Sept.9,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0709
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0709
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 54 424:0709]
+
+[margin: File]
+[margin: not given [?out?]]
+
+My fellow citizens; My fellow Americans:
+
+It has been a real pleasure to pass through North Carolina to-day; to see on every hand the symptoms of your awakening industrial development, and above all to meet the people of [-the-][+a+] state whose sons have always been manly, whose daughters have always been womanly. (Applause) I remember an answer reputed to have been made in the war of 1812. There was some one who said to a certain person in a certain county:"Well, in your county they all seem to be {suppprting|supporting} the war". The man {an swered|answered}:"Where I come from all those who are not women are men." (Laughter and applause) I am glad to meet you here {becuase|because} I believe in men and I believe in women. I have very little use {fur|for} those who are neither.
+
+It is a good thing for a man, and above all, for the man {qwho|who} happens to be President, to travel through the country and meet his fellow {Americams|Americans} of every section, because thereby it is brought home to him more strongly than ever that a good American is a good {Americam|American} in whatever part of the United States he lives. The differences among us are trivial; the resemblances are fundamental and vital. If a man is a decent man, a square man, right, and treats his neighbors well; if he is a good husband, a good father, a good neighbor, good in the ordinary re[+l+]ations of life; if he does his duty as a square man[+, is+] just in his relations to the state, then he is a good citizen and we can stick with him. (Cheers and applause)
+
+[note: Left half (a) of frame 0709, folio 54. The heading is crossed by two diagonal pencil lines, with "File" and "not given [?out?]" written between them; the last digits of the year in the heading are overstruck but read 1902.]
+[note: A hand stroke stands before "to meet the people". "trivial" has an overstruck letter. In "ordinary relations" the "l" is written by hand above a caret; after "square man" a caret with "is" written above (and what may be a comma) is added by hand.]

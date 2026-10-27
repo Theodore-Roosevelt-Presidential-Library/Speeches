@@ -1,0 +1,23 @@
+---
+speech: 1902-09-09-hickory
+title: Remarks of President Roosevelt at Hickory,N.C.,Sept.9 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0708
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0708
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 53 424:0708]
+
+My [-[illegible]-][+friends+]:
+
+I am glad to have the opportunity of greeting you and being greeted by you. Travelling to-day through North Carolina,yesterday through Tennessee, I have been particularly struck by the evidences of industrial growth of which this town is itself an example. The [-xxxxxxxxxxx-] industrial awakening of the South, of which there have been so many evidences during the past few years is a feature fraught with great benefits to the south and with great benefits to the entire country; (Applause) because, remember, my fellow citizens, we are going to go up or go down together(cries of "That is right!"[+)+] In good times we are all going to feel them; some will {fed|feel} them more than others will; some less; but all will feel the {god|good} times somewhat; and when bad times come we will all be unhappy together.(Laughter) Bad times do not stop at state lines; they do not stop by sections; we go up or we go down together. And the industrial awakening of the south which is going on and which I believe will go on with ever increasing rapidity, means good fortune not merely for the south, but for all the American people. It always happens that a good year for crops is a good year for weeds. When you have prosperity some people for whom you don't much care prosper somewhat too. It is a great deal better that some people should {prosppr|prosper} too much while [-xxxx-] most of us prosper somewhat, than that we should none [-xx-] of us prosper enough-a good deal better to have too much prosperity, even if {accordingmto|according to} the ideas of some of us it is not quite as equally distributed as it should be, than not to have enough {propperity|prosperity} for any one at any time.
+
+The gospel of intelligent hard work is the gospel that pays, and of all gospels the one that pays least is the gospel of envy and rancor, a gospel preached to inflame class against class or section against section.
+
+And so my fellow citizens I hail your industrial growth, I [-hale-][+hail+] the manifestations I see here in this state, as I saw [-xxx-] yesterday in Tennessee, the manifestations of the rapid approach of the period of tremendous industrial development in the south. I [?hail?] it for the sake of the south and I [-hale-][+hail+] it for the sake of the nation.(Cheers and applause)
+
+[note: Right half (b) of frame 0708, folio 53. The word struck after "My" is inked over by hand and cannot be read; "friends" is written above it.]
+[note: The x-ed word after "The" (before "industrial awakening") appears to be "awakening" overstruck, but it is not certain. The closing parenthesis after "That is right!" is written by hand; the "!" is typed over another mark.]
+[note: "god times" has a hand mark (a curved stroke) between "god" and "times". "approach" has overstruck letters.]
+[note: In "I hail it for the sake of the south" the typed word is underlined and overwritten by hand and is hard to read; it is read as "hail" in line with the hand corrections of "hale" to "hail" before and after it.]

@@ -1,0 +1,20 @@
+---
+speech: 1902-09-09-marshall
+title: Remarks of President Roosevelt at Marshall,N.C., Sept.9,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0704
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0704
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 44 424:0704]
+
+My Fellow Citizens:
+
+It is a great pleasure to me to have the chance of greeting you this morning. Late last evening I received a telegram from {Se naotr|Senator} Pritchard, saying I must [-xxxxx-] surely {st op|stop}, if only for a moment,at Marshall. I have been admiring greatly your beautiful scenery coming through this morning. I am glad to see the mountains and the rivers, {b but|but} I am gladder still to see you.(Applause) I have just been down to a {mebting|meeting} at Chattanooga of the Brotherhood of Locomotive Firemen. I have {alway|always} greatly respected the railroad men, because they have certain qualities that I regard as essential to good citizenship.
+
+It always has seemed [-x-] to me a good thing for the President to visit the different parts of the {couhtry|country}, if only to find out that a good American is a good {Apmrican|American} wherever {h e|he} is; and it is of very little consequence whether it is north or south or east or {westnif|west, if} he is a square man and a decent citizen.(Applause)
+
+[note: Left half (a) of frame 0704, folio 44.]
+[note: The word after "must" is overstruck with x's on the typewriter and cannot be read.]
+[note: "and" in "square man and" is partly blotted; read as "and".]

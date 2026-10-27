@@ -1,0 +1,16 @@
+---
+speech: 1902-11-01-manassas
+title: Remarks of President Roosevelt at Manassas,Va., Nov.1,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 761
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0761
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb ? 424:0761]
+
+Ladies and Gentlemen:
+
+I wish to thank you very much for the way you have come to greet me. I have thoroughly enjoyed my day here. I regret to state that the turkeys [-didn't-][+did not+] materialize. (Laughter and applause) In the first place I had a good walk[+.+] [-and-] it is the first I have had for six weeks, and I appreciated it . I was delighted to have a chance to {vicit|visit} the great battlefields here; and it is a very pleasant thing to any man who has the least desire to be a good American to come through your historic town and to see the two avenues named in memory of Grant and of Lee. (Applause) I feel that all of us in any part of this country now have an equal right to glory in the valor and the devotion to duty as each saw his duty alike of those who wore the blue and those who wore the gray. (Applause) I thank you for having greeted me. (APPLAUSE.)
+
+[note: Typed slip pasted at the top of a scrapbook page that also holds the Brandy (Nov. 3) and Remington (Nov. 3) remarks; no folio number visible. In the heading, a word between "Va.," and "Nov.1,1902." is x-ed out on the typewriter. "did not" is written by hand over struck-through "didn't". After "walk" a hand-circled period is added, "and" is struck through by hand, and "it" is underlined by hand (apparently marking a capital "It"). A hand stroke through the space before "first" does not change words.]

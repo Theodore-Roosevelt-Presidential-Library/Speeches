@@ -1,0 +1,14 @@
+---
+speech: 1902-11-18-smedes
+title: Remarks of President Roosevelt at Smedes Miss.,November 18 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 823
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0823
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb ? 424:0823]
+
+I am not going to make any speech. I am not here on a speech-making trip. I want to thank you and say how glad I have been to see you, and how much I have enjoyed being out with Holt Collier, Pope Swint and all the others who were out with me. ([-Cheersxandxapplausexxxxxxx-] Good night. Good luck. (Cheers and applause)
+
+[note: The listed page (frame 823, right half) was off: the Smedes remarks are the typed slip pasted at the bottom of the left half of frame 823, below the Louisville remarks of Nov. 12. No folio number visible. "Cheers and applause" after the first opening parenthesis is x-ed out on the typewriter; the parenthesis itself is left standing.]

@@ -1,0 +1,14 @@
+---
+speech: 1902-11-03-brandy
+title: Remarks of President Roosevelt at Brandy,Va., November 3,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 761
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0761
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb ? 424:0761]
+
+I want to thank you for coming here, and to say how much I have enjoyed being down here in your beautiful country and being greeted so hospitably by all of you, and especially by the children.
+
+[note: The listed page (frame 761, right half) was off: the right half holds the Grand Lodge of Pennsylvania (Philadelphia, November 5, 1902) address. The Brandy remarks are the middle typed slip on the left half of frame 761, between the Manassas and Remington slips. No folio number visible.]
