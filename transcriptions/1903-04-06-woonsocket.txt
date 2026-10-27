@@ -1,0 +1,22 @@
+---
+speech: 1903-04-06-woonsocket
+title: Remarks of President Roosevelt at Woonsocket, S.D.,April 6,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0227
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0227
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 70 425:0227]
+
+[margin: [illegible]]
+
+My fellow-citizens:
+
+It is a great pleasure to come here and greet you this afternoon. I have enjoyed being in your beautiful [-xxxxx-] and prosperous state. No state in the union has enjoyed a greater share , and on the whole a better distributed share[+,+] of the general material well-being of the last few years[+,+] than South Dakota. You have advantages of soil and climate, but they would not be worth anything by themselves. You have got the men to make full use of those advantages. That is what really counts. This is a state of farmers and in portions of [-xxx-] of miners. You raise crops; You have a great output of metal wealth; but what chiefly counts is the men and women. That is one reason, gentlemen and ladies, why I am glad to see as many children around. I like the stock, and I am glad to see it kept up. (Applause)
+
+Something can be done by law to help us maintain our prosperity, but the prime factor in keeping it must be the individual citizenship of the average citizen. {OOn|On} the man's honesty, thrift, energy, horse sense and courage will depend the well-being of the state of the future. Nothing can supply the lack of those qualities; and if we have those qualities we can succeed in the future as we have succeeded in the past. (Cheers and applause.)
+
+[note: The letters under the two x-ed out words ("beautiful [-xxxxx-]", "portions of [-xxx-]") cannot be read; they are overtyped on the typewriter.]
+[note: The commas after "share" and "years" are added by hand. "You" in "You have a great output" is a capital Y typed over another letter; "and" in "horse sense and" and "future" have overtyped letters but read as given. The last digit of the year in the heading is overtyped and reads 3.]
+[note: Faint ghost type impressions above "ship of the average" are not text added to the page.]
