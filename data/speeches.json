@@ -553,8 +553,8 @@
 "assessment",
 "estate",
 "taxing",
-"taxation",
 "value",
+"taxation",
 "taxes"
 ],
 "stats": {
@@ -1075,8 +1075,8 @@
 "labor",
 "groups",
 "expediency",
-"factory",
 "community",
+"factory",
 "statistics",
 "separate",
 "work"
@@ -1644,8 +1644,8 @@
 "charity",
 "brotherhood",
 "young",
-"men's",
-"sentimentality"
+"sentimentality",
+"men's"
 ],
 "stats": {
 "words": 2699,
@@ -1746,8 +1746,8 @@
 "century",
 "commonwealths",
 "industrial",
-"manliness",
 "commonplace",
+"manliness",
 "tendencies"
 ],
 "stats": {
@@ -1875,9 +1875,9 @@
 "colorado",
 "commonwealths",
 "unity",
-"continent",
-"union",
 "alleghanies",
+"union",
+"continent",
 "spread",
 "older"
 ],
@@ -2028,8 +2028,8 @@
 },
 "distinctive": [
 "pioneers",
-"barbarism",
 "law",
+"barbarism",
 "blunders",
 "wilfully",
 "civilization",
@@ -2152,8 +2152,8 @@
 "taught",
 "brotherhood",
 "ranks",
-"lessons",
 "struggles",
+"lessons",
 "fought",
 "occupations"
 ],
@@ -2744,8 +2744,8 @@
 "lesson",
 "lincoln",
 "afford",
-"leave",
 "love",
+"leave",
 "taught",
 "ideal",
 "duty",
@@ -3947,10 +3947,10 @@
 "mount",
 "loyalty",
 "dead",
-"comrades",
 "presence",
+"comrades",
 "enlisted",
-"counts"
+"left"
 ],
 "stats": {
 "words": 1146,
@@ -4249,8 +4249,8 @@
 "forces",
 "went",
 "material",
-"spiritual",
 "church",
+"spiritual",
 "expect",
 "realize",
 "vital"
@@ -4328,8 +4328,8 @@
 "battle",
 "war",
 "citizenship",
-"nation",
-"duty"
+"duty",
+"nation"
 ],
 "stats": {
 "words": 830,
@@ -4947,8 +4947,8 @@
 "philippines",
 "cuba",
 "philippine",
-"civil",
-"choosing"
+"choosing",
+"civil"
 ],
 "stats": {
 "words": 3566,
@@ -5117,8 +5117,8 @@
 "laws",
 "talent",
 "cure",
-"power",
 "conditions",
+"power",
 "wealth",
 "harm",
 "community"
@@ -5235,8 +5235,8 @@
 "corporation",
 "evils",
 "deal",
-"laws",
 "publicity",
+"laws",
 "cure"
 ],
 "stats": {
@@ -5307,7 +5307,7 @@
 "nations",
 "true",
 "power",
-"work"
+"nation"
 ],
 "stats": {
 "words": 698,
@@ -5414,8 +5414,8 @@
 "preparedness",
 "enlisted",
 "preparation",
-"war",
 "officers",
+"war",
 "sea",
 "efficiency",
 "advance"
@@ -6183,8 +6183,8 @@
 "honesty",
 "labor",
 "citizen",
-"courage",
-"citizenship"
+"citizenship",
+"courage"
 ],
 "stats": {
 "words": 912,
@@ -6371,8 +6371,8 @@
 "rancor",
 "remedies",
 "problems",
-"win",
-"ignorance"
+"ignorance",
+"win"
 ],
 "stats": {
 "words": 2080,
@@ -7096,7 +7096,7 @@
 "citizenship",
 "guard",
 "material",
-"foundation"
+"soldier"
 ],
 "stats": {
 "words": 1295,
@@ -7629,10 +7629,10 @@
 "wheeling",
 "levees",
 "period",
-"change",
 "dam",
-"industrial",
+"change",
 "advocating",
+"industrial",
 "mississippi",
 "corporation"
 ],
@@ -7894,9 +7894,9 @@
 "honesty",
 "weapons",
 "citizenship",
-"win",
 "victory",
 "won",
+"win",
 "wore"
 ],
 "stats": {
@@ -8493,8 +8493,8 @@
 "period",
 "dam",
 "trusts",
-"industrial",
-"advocating"
+"advocating",
+"industrial"
 ],
 "stats": {
 "words": 3613,
@@ -8732,8 +8732,8 @@
 "places": []
 },
 "distinctive": [
-"applause",
-"regiment"
+"regiment",
+"applause"
 ],
 "stats": {
 "words": 302,
@@ -10317,8 +10317,8 @@
 "develop",
 "building",
 "north",
-"prosperity",
 "section",
+"prosperity",
 "advantage",
 "fellow",
 "chance"
@@ -10450,8 +10450,8 @@
 "patent",
 "weapon",
 "confederate",
-"decency",
 "forefathers",
+"decency",
 "valiant",
 "honesty"
 ],
@@ -11303,10 +11303,10 @@
 "comrades",
 "win",
 "cheers",
-"applause",
 "physical",
-"continent",
+"applause",
 "difficulties",
+"continent",
 "believe"
 ],
 "stats": {
@@ -11418,8 +11418,8 @@
 "delivery",
 "indiana",
 "resources",
-"change",
 "closer",
+"change",
 "destroy",
 "industrial",
 "consequence",
@@ -11534,15 +11534,15 @@
 },
 "distinctive": [
 "honesty",
-"courage",
 "citizenship",
+"courage",
 "weapon",
 "law",
 "revolutionary",
 "arms",
 "laws",
 "constitution",
-"fundamental"
+"citizen"
 ],
 "stats": {
 "words": 1164,
@@ -12324,8 +12324,8 @@
 "york",
 "commerce",
 "success",
-"peace",
 "refusal",
+"peace",
 "industrial",
 "new",
 "attitude",
@@ -13616,8 +13616,8 @@
 "cable",
 "tariff",
 "congress",
-"navy",
 "corporations",
+"navy",
 "consideration",
 "islands",
 "system",
@@ -14289,7 +14289,7 @@
 "islands",
 "candidate",
 "leader",
-"history"
+"result"
 ],
 "stats": {
 "words": 2784,
@@ -14459,7 +14459,7 @@
 "theory",
 "peace",
 "building",
-"mere"
+"highest"
 ],
 "stats": {
 "words": 996,
@@ -14815,8 +14815,8 @@
 "fundamentally",
 "president",
 "senate",
-"applause",
 "lesson",
+"applause",
 "house",
 "interests",
 "help"
@@ -16748,8 +16748,8 @@
 "qualities",
 "fool",
 "pioneer",
-"applause",
 "decency",
+"applause",
 "virtues",
 "honesty",
 "courage"
@@ -16870,8 +16870,8 @@
 "distinctive": [
 "assemblage",
 "change",
-"applause",
 "law",
+"applause",
 "improvement",
 "cheers",
 "help",
@@ -17009,8 +17009,8 @@
 "prosperity",
 "scheme",
 "needed",
-"applause",
 "stuff",
+"applause",
 "grow",
 "greeting"
 ],
@@ -18197,10 +18197,10 @@
 "went",
 "hard",
 "care",
-"civil",
 "wrong",
-"qualities",
-"worth"
+"civil",
+"worth",
+"qualities"
 ],
 "stats": {
 "words": 787,
@@ -19628,8 +19628,8 @@
 "cheers",
 "missouri",
 "pioneers",
-"state",
 "regions",
+"state",
 "water",
 "agricultural"
 ],
@@ -21339,10 +21339,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 558,
+"paragraphs": [
+"My fellow citizens:",
+"It is indeed a pleasure to meet you this morning and to come through your great and beautiful state. I do not wonder that Iowa has taken the position it has in the counsels of the nation, that it has assumed the leadership which it has done, when I see not merely your soil, your farms, your products; but those best of all products-- the men and women. You have in the territory the raw material out of which to make the state, but it has been made because those on it have had in them the stuff with which to make it.",
+"At every place that I have stopped I have seen men carrying the button which recalls to mind the fact that in the times that tried men's souls Iowa sent her sons to the front to pour out their blood like water for the cause of the union. The qualities that those men showed in military life are after all the same qualities which we need in order to bring success in civil affairs. Unless there is a fundamental spirit of decency, of honesty, of regard for right living, no success will come to the state any more than to the individual. Of all qualities to be abhorred in a republic like ours the quality of what is sometimes called mere smartness, ability unaccompanied by scruple, is the worst. That is the quality which makes a bad neighbor and an evil public servant. The abler, the more fearless, a man is, if he has not got the root of decent living in him the more dangerous he is to the state. We must have as the basis of citizenship a high ideal, a decent observance of the law and of the relationships of human society. But such alone will not avail. In addition to virtue, if you are to make it count, you have to have strength and courage back of it. But little can be done with a man who is afraid. (Applause) The timid man is not of use, I do not care how good he is. (Applause) And scant need be our patience with the virtue which sits at home in its own house and says how bad the world is. (Applause) You want morality, decency, high thinking, and in addition you must have the qualities which we speak of when we say of anyone that he is not merely a good man but a man; the qualities of manliness, of hardihood, of courage; the qualities that make a man fit to do his work in the actual hurlyburly of real life; the qualities which, if we are wise, each of us will strive to instil into the minds of his sons, of his daughters, so as to teach the boy and girl that the thing to do in life is not to find some way of dodging difficulties, but to meet them and overcome them. In the great war in addition to being patriotic it was necessary to have the quality of staying put. (Applause) You needed in the army the men who loved their country, and you also needed the man [?] who did not run; or if he ran, that he ran in the right direction. You had to have a combination of the two qualities. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -21364,13 +21368,54 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0301, 0302",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0301",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow citizens:",
+"It is indeed a pleasure to meet you this morning and to come through your great and beautiful state. I do not wonder that Iowa has taken the position it has in the counsels of the nation, that it has assumed the leadership which it has done, when I see not merely your soil, your farms, your products; but those best of all products-- the men and women. You have in the territory the raw material out of which to make the state, but it has been made because those on it have had in them the stuff with which to make it.",
+"At every place that I have stopped I have seen men carrying the button which recalls to mind the fact that in the times that tried men's souls Iowa sent her sons to the front to pour out their blood like water for the cause of the union. The qualities that those men showed in military life are after all the same qualities which we need in order to bring success in civil affairs. Unless there is a fundamental spirit of decency, of honesty, of regard for right living, no success will come to the state any more than to the individual. Of all qualities to be abhorred in a republic like ours the quality of what is sometimes called mere smartness, ability unaccompanied by scruple, is the worst. That is the quality which makes a bad neighbor and an evil public servant. The abler, the more fearless, a man is, if he has not got the root of decent living in him the more dangerous he is to the state. We must have as the basis of citizenship a high ideal, a decent observance of the law and of the relationships of human society. But such alone will not avail. In addition to virtue, if you are to make it count, you have to have strength and courage back of it. But little can be done with a man who is afraid. (Applause) The timid man is not of use, I do not care how good he is. (Applause) And scant need be our patience with the virtue which sits at home in its own house and says how bad the world is. (Applause) You want morality, decency, high thinking, and in addition you must have the qualities which we speak of when we say of anyone that he is not merely a good man but a man; the qualities of manliness, of hardihood, of courage; the qualities that make a man fit to do his work in the actual hurlyburly of real life; the qualities which, if we are wise, each of us will strive to instil into the minds of his sons, of his daughters, so as to teach the boy and girl that the thing to do in life is not to find some way of dodging difficulties, but to meet them and overcome them. In the great war in addition to being patriotic it was necessary to have the quality of staying put. (Applause) You needed in the army the men who loved their country, and you also needed the man [?] who did not run; or if he ran, that he ran in the right direction. You had to have a combination of the two qualities. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 152 (frame 425:0301)</span>",
+"My fellow citizens:",
+"It is indeed a pleasure to meet you this morning and to come through your great and beautiful state. I do not wonder that Iowa has taken the position it has in the counsels of <span class=\"sic\" title=\"reads: the nation\">thenation</span>, that it has assumed the leadership which it has done, when I see not merely your soil, your farms, your products; but those best of all products-- the men and women. You have in the <ins title=\"added by hand\">territory the</ins> raw material out of which to make the state, but it has been made because those on it have had in <span class=\"sic\" title=\"reads: them the\">themthe</span> stuff with which to make it.",
+"At every place that I have stopped I have seen men carrying the button which recalls to mind the fact that in the times that tried men&#x27;s souls Iowa sent her sons to the front to pour out their blood like water for the cause of the union. The qualities that those men showed in military life are after all the same qualities which we need in order to bring success in civil affairs. Unless there is a fundamental spirit of decency, of honesty, of regard for right living, no success will come to the state any more than to <del title=\"struck through\">xx</del> <del title=\"struck through\">xx</del> the individual. Of all qualities to be abhorred in a republic like ours <del title=\"struck through\">xx</del> the quality of what is sometimes called mere smartness, ability unaccompanied by scruple,is the worst. That is the quality which makes a <span class=\"sic\" title=\"reads: bad neighbor\">badneighbor</span> and an evil public servant. The abler, the more fearless, a man is, if he has not got the root of decent living in him the more dangerous he is to the state. We must have as the basis of citizenship a high ideal, a decent observance of the law and of the relationships of human society. But such alone will not avail. In addition to virtue, if you are to make it count, you have to have strength and courage back of it. But little can be done with a man who is afraid. (Applause) The timid man is not of use, I do not care how good he is . (Applause) And scant need be our patience with the virtue which sits at home in its own house and says how bad the world is. (Applause) You want morality, decency, high thinking, and in addition you must have the qualities which we speak of when we say of anyone that he is not merely a good man but a man; the qualities of manliness, of hardihood, of courage; the qualities that make a man fit to do his work in the actual hurlyburly of real life; the qualities which, if <span class=\"pb\">Page 153 (frame 425:0302)</span> we are wise, each of us will strive to instil into the minds of his sons, of his daughters, so as to teach the boy and girl that the thing to do in life is not to find some way of dodging difficulties, but to meet them and overcome them. In the great war in addition to being patriotic it was necessary to have the quality of staying put. (Applause) You needed in the army the men who loved their country, and you also needed the <span class=\"unc\" title=\"uncertain reading\">man</span> who did not run; or if he ran, that he ran in the right direction. You had to have a combination of the two qualities. (Applause)",
+"<span class=\"tnote\">Page 152: &quot;territory the&quot; is typed between the lines above &quot;the raw material&quot;, with a caret added by hand below the line. The x-ed out words after &quot;than to&quot; (two short words) and after &quot;ours&quot; (one short word) are overstruck on the typewriter. &quot;in order&quot; has an overstruck letter after &quot;in&quot;. Handwritten &quot;Xle&quot; (or similar) at the top of p. 152 is a filing mark; folio there is written &quot;152&quot; (read as &quot;15-2&quot;).</span>\n<span class=\"tnote\">Page 153: a pen stroke is drawn after &quot;staying put&quot; before the period, and a pen mark sits over the vowel of &quot;man&quot; (&quot;the man who did not run&quot;), possibly altering &quot;men&quot; or &quot;man&quot;; the final reading is uncertain. &quot;country&quot; in &quot;loved their country&quot; is faintly typed (first letters merged). Page heading &quot;-2-&quot;.</span>"
+],
+"notes": [
+"Page 152: \"territory the\" is typed between the lines above \"the raw material\", with a caret added by hand below the line. The x-ed out words after \"than to\" (two short words) and after \"ours\" (one short word) are overstruck on the typewriter. \"in order\" has an overstruck letter after \"in\". Handwritten \"Xle\" (or similar) at the top of p. 152 is a filing mark; folio there is written \"152\" (read as \"15-2\").",
+"Page 153: a pen stroke is drawn after \"staying put\" before the period, and a pen mark sits over the vowel of \"man\" (\"the man who did not run\"), possibly altering \"men\" or \"man\"; the final reading is uncertain. \"country\" in \"loved their country\" is faintly typed (first letters merged). Page heading \"-2-\"."
+],
+"file": "transcriptions/1903-04-28-van-wert.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"qualities",
+"applause",
+"quality",
+"addition",
+"state",
+"life"
+],
+"stats": {
+"words": 558,
+"unique_words": 243,
+"sentences": 15,
+"avg_sentence": 37.2,
+"minutes": 4,
+"i_count": 5,
+"we_count": 5
+}
 },
 {
 "id": "1903-04-29-keokuk",
@@ -21384,10 +21429,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1789,
+"paragraphs": [
+"Mr. Mayor; and you, My Fellow Citizens, My Fellow Americans:",
+"It is indeed a pleasure to have the chance of saying even a few words to you this morning here in the Gate City of Iowa. (Applause) Yesterday I traveled through your great and beautiful state, and, oh my fellow citizens, how sincerely I congratulate you upon it. I congratulate you upon having a state with such great natural advantages, such a soil, such a climate, so well watered a country, a state that lends itself to diversified industries, so that while agriculture is the staple pursuit, yet, exactly as for instance here in Keokuk, you are developing manufactories in a degree that would have seemed absolutely impossible even a couple of decades ago. It is a great thing to have such a soil, such physical material possibilities, but the greatest of all things is to have, as Iowa has, the men and women who can turn those possibilities to advantage. That is ultimately what counts most. (Applause)",
+"In thanking all of you for your greeting I know that the rest of you will not grudge my saying a special word of thanks and acknowledgment to those to whom the rest of us owe so much -- to the men of the Grand Army of the Republic; (Applause) to you, the soldiers and sailors of the civil war, to whom we owe the fact that there is a President to address you. (Applause) The lesson that they teach us who have come after them is not merely a lesson for war, it is a lesson for peace; for great though your deeds were, friends and comrades, great though they were in the four years of the war, during which we settled it that we should have a country of which to be proud, if anything, even greater was the way in which, the war once done, you turned to the pursuits of peace and did your full duty as citizens again. I passed by the statue of General Curtis on the way up here (and took off my hat to it) and I felt that General Curtis in his life typified what you had done in war and in peace. When the appeal to arms came General Curtis, already a veteran of the Mexican war, turned in and rendered service which was literally priceless in campaign and battle; and the war once over, he did not confine himself to fighting it over and over again-- then he took hold of the business of pushing across the continent the first great trans-continental line and did that in the same spirit in which he had marched to battle. The spirit that you showed in the war is the spirit we must show now in peace, if we are to win. One of the great things of the war was that you left us the right of kinship with, and of feeling proud of, your gallant antagonists; and I never speak to a meeting of the Grand Army without the certainty of feeling that they will be more prompt than any others to respond to a statement as to the gallantry of our brethern who wore the gray. (Applause) You left us the right of brotherhood with them, the right of brotherhood with all people in this country, and above all you taught us by your example what the spirit of brotherhood really means. You won because out of the grinding need of war was developed the capacity to treat [?] each man on his worth as a man; giving honor to whom honor is due; putting forward the men who won the right to be put forward, not trying for motives of jealousy to throw him down because he was big, not trying to put him up except because he could do the job, treating him on his worth as a man. You developed Grant, Sherman, Sheridan, Thomas, Farragut, Foote, out of the armyand navy by the simple process of refusing to consider aught but the man's fitness to do the job; (Applause) and so in the work in the ranks, among the officers no less than among the enlisted men, you won because you went upon the basis of treating the man according to his individual worth. Each one of you as you marched, as you went into battle, was concerned much about your comrades. You needed to have them develop certain qualities; you were much interested in certain of their traits, but you were not a bit interested in the unessential ones. You did not care a snap of your finger as to the way in which the man on your right, or the man on your left worshiped his Maker, as to his creed, you did not care as to his social position, as to whether he had means, or all his life long had earned his day's bread by the sweat of his brow for that day; you did not care whether he was a mechanic or a farmer, a banker or a bricklayer; what you wished to know was when the time of trial came he would\"stay put\". That was what you wanted to know. (Applause) That is exactly what you want to know in civil life (Cries of \"That is right!\" Cheers and applause)",
+"We have not a problem now so great and so terrible as the problem which you had to solve with all your strength, with all your courage; which you had to solve at the cost of [?] crippling and the risk of death. But we have great problems. The complexity of our industrial civilization has brought us face to face with them. We can solve them aright only if we approach them as you approached your great duty in the years from '61 to '65. The details of application of the principles change; but the immutable laws of morality, and decency, and common sense do not change. (Applause) We can solve all our problems, industrial, social, economic, political, in the long run if we approach them in the spirit that recognizes certain fundamental truths, of which the most essential is desire to do justice and to see that justice is done to each man, that each man has his rights, that no man wrongs another, and that we take care to avoid two equally bad sets of vices. One is the vice of arrogance, the vice of brutal disregard for the rights of the weak, of arrogant looking down upon those who are less fortunate than we are, of arrogant disregard for those who have not the peculiar advantages of position or of intellect, the advantages of any kind that some have. We want to beware of the vices that from time immemorial have accompanied power whether that power takes the form of wealth or takes any other shape; and on the other hand, just as much do we need to guard ourselves against the equally base, equally mean vices of jealousy, hatred, rancor, towards those who are better off. The two sets of vices are complementary one to the other;in their essence they are the same. The man who looks down and seeks to oppose the man of less means has at the bottom exactly the same soul as the man who hates and strives to pull down another man because he has been successful; and the two are equally mean vices. (Applause) Mean envy and jealousy of those who are well off are just as contemptible and mean as base arrogance towards those who are not well off; and we are false to the principles of our Government, false to the principles of the men who with Washington founded the nation, of the men who under Lincoln and Grant saved the nation, if we do not equally avoid each kind of vice. (Applause)",
+"Another lesson to be learned from you is that you taught the virtue of organization, and yet the virtue of individual initiative. If you had remained a mob, each man dealing with his own interest, you could not have accomplished anything. You had to have the organization, the training, to develop the leadership, to develop the systematic plan of action, but you had each of you to do his part well, or no organization could have helped you. You needed the organization and you needed good weapons, but I do not care how well you had been drilled, or how good the weapons had [?] been, if you had not had the right stuff in you you could not have gotten the right stuff out of you. The American soldier left so imperishable a monument because he had in him the fighting edge, because he was able to hold his own, because he had within his own breast what spurred him on to effort. what spurred him on to triumph. Each of you found that you needed help, that you could help others, but that it was not worth while helping certain men, because they would not take advantage of it when the help came. It is just the same in civil life. There is not one of us who does not at times stumble; there is not one of us who is not guilty of shortcomings. Each of us needs at times to have a helping hand stretched out to him or her and shame to whoever refuses to then stretch out the helping hand. Every man will slip, and it is the duty of any man to help him on, to put him on his feet and help him to walk; but if he lies down you cannot carry him.",
+"We will win in solving the political and social problems of the day by showing the traits that you and your comrades showed in the great war-- the traits of capacity for organization, and yet fullest recognition of the need of individual initiative, the fullest recognition of the fact that the prime factor in determining whether a man is a good citizen is exactly the same as the prime factor in determining whether he is a good soldier -- the man's own individual character. we can win if we apply the lessons of the civil war to our own life now-a-days. And, my fellow countrymen, when I come to Iowa I feel that I can learn rather than teach, because in peace and in war you men and women of Iowa have acted on exactly those principles. I thank you for greeting me to-day. It has been a pleasure and a joy to see you. I wish you well and wish you prosperity in the future as you have so abundantly enjoyed it in the past. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -21409,13 +21461,100 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0309, 0310",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0309",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Mayor; and you, My Fellow Citizens, My Fellow Americans:",
+"It is indeed a pleasure to have the chance of saying even a few words to you this morning here in the Gate City of Iowa. (Applause) Yesterday I traveled through your great and beautiful state, and, oh my fellow citizens, how sincerely I congratulate you upon it. I congratulate you upon having a state with such great natural advantages, such a soil, such a climate, so well watered a country, a state that lends itself to diversified industries, so that while agriculture is the staple pursuit, yet, exactly as for instance here in Keokuk, you are developing manufactories in a degree that would have seemed absolutely impossible even a couple of decades ago. It is a great thing to have such a soil, such physical material possibilities, but the greatest of all things is to have, as Iowa has, the men and women who can turn those possibilities to advantage. That is ultimately what counts most. (Applause)",
+"In thanking all of you for your greeting I know that the rest of you will not grudge my saying a special word of thanks and acknowledgment to those to whom the rest of us owe so much -- to the men of the Grand Army of the Republic; (Applause) to you, the soldiers and sailors of the civil war, to whom we owe the fact that there is a President to address you. (Applause) The lesson that they teach us who have come after them is not merely a lesson for war, it is a lesson for peace; for great though your deeds were, friends and comrades, great though they were in the four years of the war, during which we settled it that we should have a country of which to be proud, if anything, even greater was the way in which, the war once done, you turned to the pursuits of peace and did your full duty as citizens again. I passed by the statue of General Curtis on the way up here (and took off my hat to it) and I felt that General Curtis in his life typified what you had done in war and in peace. When the appeal to arms came General Curtis, already a veteran of the Mexican war, turned in and rendered service which was literally priceless in campaign and battle; and the war once over, he did not confine himself to fighting it over and over again-- then he took hold of the business of pushing across the continent the first great trans-continental line and did that in the same spirit in which he had marched to battle. The spirit that you showed in the war is the spirit we must show now in peace, if we are to win. One of the great things of the war was that you left us the right of kinship with, and of feeling proud of, your gallant antagonists; and I never speak to a meeting of the Grand Army without the certainty of feeling that they will be more prompt than any others to respond to a statement as to the gallantry of our brethern who wore the gray. (Applause) You left us the right of brotherhood with them, the right of brotherhood with all people in this country, and above all you taught us by your example what the spirit of brotherhood really means. You won because out of the grinding need of war was developed the capacity to treat [?] each man on his worth as a man; giving honor to whom honor is due; putting forward the men who won the right to be put forward, not trying for motives of jealousy to throw him down because he was big, not trying to put him up except because he could do the job, treating him on his worth as a man. You developed Grant, Sherman, Sheridan, Thomas, Farragut, Foote, out of the armyand navy by the simple process of refusing to consider aught but the man's fitness to do the job; (Applause) and so in the work in the ranks, among the officers no less than among the enlisted men, you won because you went upon the basis of treating the man according to his individual worth. Each one of you as you marched, as you went into battle, was concerned much about your comrades. You needed to have them develop certain qualities; you were much interested in certain of their traits, but you were not a bit interested in the unessential ones. You did not care a snap of your finger as to the way in which the man on your right, or the man on your left worshiped his Maker, as to his creed, you did not care as to his social position, as to whether he had means, or all his life long had earned his day's bread by the sweat of his brow for that day; you did not care whether he was a mechanic or a farmer, a banker or a bricklayer; what you wished to know was when the time of trial came he would\"stay put\". That was what you wanted to know. (Applause) That is exactly what you want to know in civil life (Cries of \"That is right!\" Cheers and applause)",
+"We have not a problem now so great and so terrible as the problem which you had to solve with all your strength, with all your courage; which you had to solve at the cost of [?] crippling and the risk of death. But we have great problems. The complexity of our industrial civilization has brought us face to face with them. We can solve them aright only if we approach them as you approached your great duty in the years from '61 to '65. The details of application of the principles change; but the immutable laws of morality, and decency, and common sense do not change. (Applause) We can solve all our problems, industrial, social, economic, political, in the long run if we approach them in the spirit that recognizes certain fundamental truths, of which the most essential is desire to do justice and to see that justice is done to each man, that each man has his rights, that no man wrongs another, and that we take care to avoid two equally bad sets of vices. One is the vice of arrogance, the vice of brutal disregard for the rights of the weak, of arrogant looking down upon those who are less fortunate than we are, of arrogant disregard for those who have not the peculiar advantages of position or of intellect, the advantages of any kind that some have. We want to beware of the vices that from time immemorial have accompanied power whether that power takes the form of wealth or takes any other shape; and on the other hand, just as much do we need to guard ourselves against the equally base, equally mean vices of jealousy, hatred, rancor, towards those who are better off. The two sets of vices are complementary one to the other;in their essence they are the same. The man who looks down and seeks to oppose the man of less means has at the bottom exactly the same soul as the man who hates and strives to pull down another man because he has been successful; and the two are equally mean vices. (Applause) Mean envy and jealousy of those who are well off are just as contemptible and mean as base arrogance towards those who are not well off; and we are false to the principles of our Government, false to the principles of the men who with Washington founded the nation, of the men who under Lincoln and Grant saved the nation, if we do not equally avoid each kind of vice. (Applause)",
+"Another lesson to be learned from you is that you taught the virtue of organization, and yet the virtue of individual initiative. If you had remained a mob, each man dealing with his own interest, you could not have accomplished anything. You had to have the organization, the training, to develop the leadership, to develop the systematic plan of action, but you had each of you to do his part well, or no organization could have helped you. You needed the organization and you needed good weapons, but I do not care how well you had been drilled, or how good the weapons had [?] been, if you had not had the right stuff in you you could not have gotten the right stuff out of you. The American soldier left so imperishable a monument because he had in him the fighting edge, because he was able to hold his own, because he had within his own breast what spurred him on to effort. what spurred him on to triumph. Each of you found that you needed help, that you could help others, but that it was not worth while helping certain men, because they would not take advantage of it when the help came. It is just the same in civil life. There is not one of us who does not at times stumble; there is not one of us who is not guilty of shortcomings. Each of us needs at times to have a helping hand stretched out to him or her and shame to whoever refuses to then stretch out the helping hand. Every man will slip, and it is the duty of any man to help him on, to put him on his feet and help him to walk; but if he lies down you cannot carry him.",
+"We will win in solving the political and social problems of the day by showing the traits that you and your comrades showed in the great war-- the traits of capacity for organization, and yet fullest recognition of the need of individual initiative, the fullest recognition of the fact that the prime factor in determining whether a man is a good citizen is exactly the same as the prime factor in determining whether he is a good soldier -- the man's own individual character. we can win if we apply the lessons of the civil war to our own life now-a-days. And, my fellow countrymen, when I come to Iowa I feel that I can learn rather than teach, because in peace and in war you men and women of Iowa have acted on exactly those principles. I thank you for greeting me to-day. It has been a pleasure and a joy to see you. I wish you well and wish you prosperity in the future as you have so abundantly enjoyed it in the past. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 167 (frame 425:0309)</span>",
+"Mr. Mayor; and you, My Fellow Citizens, My Fellow Americans:",
+"It is indeed a pleasure to have the chance of saying even a few words to you this morning here in the Gate City of Iowa. (Applause) Yesterday I traveled through your great and beautiful state, and, oh my fellow citizens, how sincerely I congratulate you upon it. I congratulate you <del title=\"struck through\">with</del><ins title=\"added by hand\">upon</ins> having a state with such great natural advantages, such a soil, such a climate, so well watered a country, a state that lends itself to diversified industries, so that while agriculture is the staple pursuit, yet, exactly as for instance here in Keokuk, you are developing <del title=\"struck through\">xxx</del> manufactories in a degree that would have seemed absolutely impossible even a couple of decades ago. It is a great thing to have such a soil, such physical material possibilities, but the greatest of all things is to have, as Iowa has, the men and women who can turn those possibilities to advantage. That is ultimately what counts most. (Applause)",
+"In thanking all of you for your greeting I know that the rest of you will not grudge my saying a special word of thanks and acknowledgment to those to whom the rest of us owe so much -- to the men of the Grand Army of the Republic; (Applause) to you, the soldiers and sailors of the civil war, to whom we owe the fact that there is a President to <span class=\"sic\" title=\"reads: address you\">addressyou</span>. (Applause) The lesson that they teach us who have come after them is not merely a lesson for war, it is a lesson for peace; for great though your deeds were, friends and comrades, great though they were in the four years of the war, during which we settled it that we should have a country of which to be proud, if anything, even greater was the way in which, the war once done, you turned to the pursuits of peace and did your full duty as citizens again. I passed by the statue of General Curtis on the way up here (and took off my hat to it) and I felt that General Curtis in his life typified what you had done in war and in peace. When the appeal to arms came General Curtis , already a veteran of the Mexican war, turned in and rendered service which was literally priceless in campaign and battle; and the war once over, he did not confine himself to fighting it over and over again-- then he took hold of the business of <span class=\"sic\" title=\"reads: pushing\">puching</span> across the continent the first great trans-continental line and did that <span class=\"sic\" title=\"reads: in the\">inthe</span> same spirit in which he had marched to battle. <del title=\"struck through\">Not</del> <del title=\"struck through\">t</del><ins title=\"added by hand\">T</ins>he spirit <span class=\"pb\">Page 168 (frame 425:0309)</span> that you showed in the war is the spirit we must show now in peace, if we are to win . One of the great things of the war was that you left us the right of kinship with, and of feeling proud of, your gallant antagonists; and I never speak to a meeting of <span class=\"sic\" title=\"reads: the\">tehe</span> Grand Army without the certainty of feeling that they will be <del title=\"struck through\">xxx</del> more prompt than any others to respond to a statement as to the gallantry of our brethern who wore the gray. (Applause) You left us the right of brotherhood with them, the right of brotherhood with all people in this country, and above all you taught us by your example what the spirit of brotherhood really means. You won because out of the grinding need of war was developed the capacity to <span class=\"unc\" title=\"uncertain reading\">treat</span> each <del title=\"struck through\">xx</del> man on his worth as a man; giving honor to whom honor is due; putting forward the men who won the right to be put forward, not trying for motives of jealousy to throw him down because he was big, not trying to put him up except <del title=\"struck through\">xxxxxxx</del> because he could do the job, treating him on his worth as a man. You developed Grant, Sherman, Sheridan, Thomas, Farragut, Foote, out of the army<ins title=\"added by hand\">and navy</ins> by the simple <del title=\"struck through\">xxxxxxx</del> process of refusing to consider aught but the man&#x27;s fitness to do the job; (Applause) and so in the work in the ranks, among the officers no less than among the <span class=\"sic\" title=\"reads: enlisted men\">enlistedmen</span>, you won because you went upon the basis of treating the man according to his individual worth. Each one of you as <del title=\"struck through\">xx</del><ins title=\"added by hand\">you</ins> marched<ins title=\"added by hand\">,</ins> <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> as you went into battle<ins title=\"added by hand\">,</ins> was <span class=\"sic\" title=\"reads: concerned much\">concernedmuch</span> about your comrades. You needed to have them develop certain qualities; you were much interested in certain of their traits, but you were not a bit <span class=\"sic\" title=\"reads: interested in\">interestedin</span> the unessential ones. You did not care a snap of your finger as to the way in which the man on your right, or the man on your left worshiped his Maker, as to his creed, you did not care as to his social position, as to whether he had means, or all his life long had earned his day&#x27;s bread by the sweat of his brow for that day; you did not care whether he was a mechanic or a farmer, a banker or a bricklayer; what <span class=\"sic\" title=\"reads: you wished\">youwished</span> to know was when the time of trial came he would&quot;stay put&quot;. That was what you wanted to know. (Applause) That is exactly what you want to know in civil life (Cries of &quot;That is right!&quot; Cheers and applause)",
+"We have not a problem now so great and so terrible as the problem which you had to solve with all your strength, with all your courage; which you had to solve at the cost <ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">of</span></ins> crippling and the risk of death. But we have great <span class=\"pb\">Page 169 (frame 425:0310)</span> problems. The complexity of our industrial civilization has brought us face to face with them. We can solve them aright only if we approach them as you approached your great duty in the years from &#x27;61 to &#x27;65. The details of application of the principles change; but the immutable laws of morality, and decency, and common sense do not change. (Applause) We can solve all our problems, industrial, social, economic, political,in the long run if we approach them in the spirit that recognizes certain fundamental truths, of which the most essential is desire to do justice and to see that justice is done to each man, that each man has his rights, that no man wrongs another, and that we take care to avoid two equally bad sets of vices. One is the vice of arrogance, the vice of brutal disregard for the <span class=\"sic\" title=\"reads: rights\">rghts</span> of the weak, of arrogant looking down upon those who are less fortunate than we are, of arrogant disregard for those who have not the peculiar advantages of position or of intellect, the advantages of any kind that some have. We want to beware of the vices that from time immemorial have accompanied power whether that power takes the form of wealth or takes any other shape; and on the other hand, just as much do we need to guard ourselves against the<del title=\"struck through\">xxxx</del> equally base, equally mean vices of jealousy, hatred, rancor, towards those who are better off. The two sets of vices are complementary one to the other;in their essence they are the same. The man who looks down and seeks to oppose the man of less means has at the bottom exactly the same soul as the man who hates and strives to pull down another man because he has been successful; and the two are equally mean vices. (Applause) Mean envy and jealousy of those who are well off are just as contemptible and mean as base arrogance towards those who are not well off; and we are false to the principles of our Government, false to the principles of the men who with Washington founded the nation, of the men who under Lincoln and Grant saved the nation, if we do not equally avoid each kind of vice. (Applause)",
+"Another lesson <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">is</span></del> to be learned from you is that you taught the virtue of organization, and yet the virtue of individual initiative. If you had remained a mob, each man dealing with his own interest, you could not have accomplished anything. You had to have the organization, the training, to develop the leadership, to develop the systematic plan of action, but you had each of you to do his part well, or no organization could have helped you. You needed the organization and you needed good weapons, but I do not care how well you had been drilled, or how good the weapons ha<span class=\"unc\" title=\"uncertain reading\">d</span> been, if you had not had the right <span class=\"pb\">Page 170 (frame 425:0310)</span> stuff in you you could not have gotten the right stuff out of you. The American soldier left so imperishable a monument because he had in him the fighting edge, because he was able to hold his own, because he had within his own <span class=\"sic\" title=\"reads: breast\">breat</span> what <span class=\"sic\" title=\"reads: spurred him\">spurredhim</span> on to effort. what spurred him on to triumph. Each of you found that you needed help, that you could help others, but that it was not worth while helping certain men, because they would not take advantage of it when the help came. It is just the same in civil life. There is not one of us who does not at times stumble; there is not one of us who is not guilty of shortcomings. Each of us needs at times to have a helping hand stretched out to him or her and shame to whoever refuses to then stretch out the helping hand. Every man will slip, and it is the duty of any man to help him on, to put him on his feet and help him to walk; but if he lies down you cannot carry him.",
+"We will win in solving the political and social problems of the day by showing the traits that you and your comrades showed in the great war-- the traits of capacity for organization, and yet fullest recognition of the need of individual initiative, the fullest recognition of the fact that the prime factor in determining whether a man is a good citizen is exactly the same as the prime factor in determining whether he is a good soldier -- the man&#x27;s own individual character. we can win if we apply the lessons of the civil war to our own life now-a-days. And, my fellow countrymen, when I come to Iowa I feel that I can learn rather than teach, because in peace and in war you <span class=\"sic\" title=\"reads: men and\">menand</span> women of Iowa have acted on exactly those principles. I thank you for greeting me to-day. It has been a pleasure and a joy to see you. I wish you well and <ins title=\"added by hand\">wish you</ins> prosperity in the future as you have so abundantly enjoyed it in the past. (Cheers and applause)",
+"<span class=\"tnote\">Folio 167 is the left page of frame 0309, 168 its right page; 169 and 170 are the left and right pages of frame 0310. Handwritten &quot;File&quot; at the top of p. 167 is a filing mark.</span>\n<span class=\"tnote\">Page 167: &quot;upon&quot; is typed between the lines above the x-ed out &quot;with&quot;. &quot;manufactories&quot; has an overstruck letter. &quot;Not&quot; before &quot;The spirit&quot; is struck through by hand and a capital T written over the typed &quot;t&quot; of &quot;the&quot;. &quot;Republic;&quot; and &quot;General&quot; have typed-over letters.</span>\n<span class=\"tnote\">Page 168: &quot;and navy&quot; is typed between the lines, with a caret added by hand. &quot;you&quot; above &quot;as __ marched&quot; is typed between the lines over an x-ed out word; the commas after &quot;marched&quot; and &quot;battle&quot; are added by hand and the word between them is blotted out by hand. &quot;treat&quot; is typed with letters overstruck and cannot be read with certainty. The x-ed out runs after &quot;be&quot;, &quot;each&quot;, &quot;except&quot; and &quot;simple&quot; are typewriter strikeouts. &quot;long&quot; in &quot;all his life long&quot; has an overstruck vowel, and the apostrophe in &quot;day&#x27;s&quot; looks like a pen mark. A pen slash stands after &quot;individual worth&quot; before the period, and after &quot;death&quot; before the period. &quot;of&quot; before &quot;crippling&quot; is a hand insertion with a caret, partly obscured. &quot;wished&quot; follows an overstruck letter. A faint stray &quot;T&quot; is typed before &quot;That was what you wanted to know.&quot; &quot;right!&quot; is typed with an overstruck mark.</span>\n<span class=\"tnote\">Page 169: an apostrophe is added by hand before &quot;65&quot; in &quot;&#x27;61 to &#x27;65&quot;. Pen marks (proofreading) stand under &quot;change&quot;, in &quot;jeal-ousy&quot;, over the &quot;h&quot; of &quot;Washington&quot;, and before &quot;hates&quot; (a slash through a stray letter). The word after &quot;Another lesson&quot; is blotted out by hand. &quot;had&quot; (&quot;how well you had been drilled&quot;) ends in a hand-written &quot;d&quot; over the typed letter, and &quot;had&quot; in &quot;the weapons had been&quot; is typed over x&#x27;s.</span>\n<span class=\"tnote\">Page 170: &quot;wish you&quot; is written by hand above the line with a caret between &quot;and&quot; and &quot;prosperity&quot;. A pen &quot;g&quot; is written over the start of &quot;guilty&quot; and a pen slash follows &quot;shortcomings&quot; before the period. Page headings &quot;-2-&quot;, &quot;-3-&quot;, &quot;-4-&quot;.</span>"
+],
+"notes": [
+"Folio 167 is the left page of frame 0309, 168 its right page; 169 and 170 are the left and right pages of frame 0310. Handwritten \"File\" at the top of p. 167 is a filing mark.",
+"Page 167: \"upon\" is typed between the lines above the x-ed out \"with\". \"manufactories\" has an overstruck letter. \"Not\" before \"The spirit\" is struck through by hand and a capital T written over the typed \"t\" of \"the\". \"Republic;\" and \"General\" have typed-over letters.",
+"Page 168: \"and navy\" is typed between the lines, with a caret added by hand. \"you\" above \"as __ marched\" is typed between the lines over an x-ed out word; the commas after \"marched\" and \"battle\" are added by hand and the word between them is blotted out by hand. \"treat\" is typed with letters overstruck and cannot be read with certainty. The x-ed out runs after \"be\", \"each\", \"except\" and \"simple\" are typewriter strikeouts. \"long\" in \"all his life long\" has an overstruck vowel, and the apostrophe in \"day's\" looks like a pen mark. A pen slash stands after \"individual worth\" before the period, and after \"death\" before the period. \"of\" before \"crippling\" is a hand insertion with a caret, partly obscured. \"wished\" follows an overstruck letter. A faint stray \"T\" is typed before \"That was what you wanted to know.\" \"right!\" is typed with an overstruck mark.",
+"Page 169: an apostrophe is added by hand before \"65\" in \"'61 to '65\". Pen marks (proofreading) stand under \"change\", in \"jeal-ousy\", over the \"h\" of \"Washington\", and before \"hates\" (a slash through a stray letter). The word after \"Another lesson\" is blotted out by hand. \"had\" (\"how well you had been drilled\") ends in a hand-written \"d\" over the typed letter, and \"had\" in \"the weapons had been\" is typed over x's.",
+"Page 170: \"wish you\" is written by hand above the line with a caret between \"and\" and \"prosperity\". A pen \"g\" is written over the start of \"guilty\" and a pen slash follows \"shortcomings\" before the period. Page headings \"-2-\", \"-3-\", \"-4-\"."
+],
+"file": "transcriptions/1903-04-29-keokuk.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"civil-war",
+"military"
+],
+"mentions": {
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 2
+},
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+},
+{
+"id": "david-farragut",
+"name": "David Farragut",
+"count": 1
+}
+],
+"places": [
+{
+"id": "mexico",
+"name": "Mexico",
+"count": 1
+}
+]
+},
+"distinctive": [
+"vices",
+"applause",
+"iowa",
+"jealousy",
+"vice",
+"solve",
+"organization",
+"equally",
+"traits",
+"war"
+],
+"stats": {
+"words": 1789,
+"unique_words": 526,
+"sentences": 36,
+"avg_sentence": 49.7,
+"minutes": 14,
+"i_count": 13,
+"we_count": 20
+}
 },
 {
 "id": "1903-04-29-st-louis",
@@ -21738,10 +21877,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 500,
+"paragraphs": [
+"My fellow-countrymen:",
+"It is indeed a great pleasure to have the chance of seeing you this afternoon. I am on my way to St.Louis, to take part in commemorating the transfer a century ago of the great country on the west of the Mississippi to the United States. When the Continental Congress first declared us to be a nation the nation consisted of a string of small straggling countries stretched along the seaboard of the Atlantic; and the aggregate population of the nation was not as great as that of the state of Missouri to-day.",
+"Our people then took up what was to be for a century, with the exception of saving the nation's life, the nation's greatest work- that was the conquest of the continent, the thrusting the frontier ever westward until there was no frontier left, until our people spread in a solid mass from the Atlantic to the Pacific. Great has been our material prosperity during the century and a quarter since we declared ourselves to be of right a free and independent nation. The world has never seen such industrial progress, such industrial change, as has been accomplished during that time. The settlement of this continent has gone on literally by leaps and by bounds, so that the change from thescattered log cabins in the heavy forests to our present condition, with our great cities and fertile well-tilled fields, has taken place in a hundredth part of the time which such changes have occupied in the history of the old world.",
+"With the changes for good have come of necessity changes that were not good. As our life has grown more complex inevitably fresh problems have arisen and old problems have gathered new intensity. We should pay but a poor tribute to the men who founded this republic if our homage is one of the lips only. The homage that counts is the homage of deeds, the homage of action. To gather on the Fourth of July and say how great our fathers were and how great we are is not enough. It is a good thing to keep in memory the greatness of the nation's past; but it is only a good thing if it spurs us on to make greater the nation's present. The problems that face us are new. The methods by which we have to meet them are new in a sense also; but the basic principles upon which we must proceed if we are to solve them aright are as old as the decalogue and the golden rule. We can win out in our present national life, we can make the nation's future even greater than the nation's past, only if we set ourselves in good faith to solving those problems in accordance with the immutable laws of righteousness. Each of us is in a sense his brother's keeper; each must do what he can for him, and as a man strive to do his own work. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -21763,13 +21907,67 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0314, 0315",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0314",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow-countrymen:",
+"It is indeed a great pleasure to have the chance of seeing you this afternoon. I am on my way to St.Louis, to take part in commemorating the transfer a century ago of the great country on the west of the Mississippi to the United States. When the Continental Congress first declared us to be a nation the nation consisted of a string of small straggling countries stretched along the seaboard of the Atlantic; and the aggregate population of the nation was not as great as that of the state of Missouri to-day.",
+"Our people then took up what was to be for a century, with the exception of saving the nation's life, the nation's greatest work- that was the conquest of the continent, the thrusting the frontier ever westward until there was no frontier left, until our people spread in a solid mass from the Atlantic to the Pacific. Great has been our material prosperity during the century and a quarter since we declared ourselves to be of right a free and independent nation. The world has never seen such industrial progress, such industrial change, as has been accomplished during that time. The settlement of this continent has gone on literally by leaps and by bounds, so that the change from thescattered log cabins in the heavy forests to our present condition, with our great cities and fertile well-tilled fields, has taken place in a hundredth part of the time which such changes have occupied in the history of the old world.",
+"With the changes for good have come of necessity changes that were not good. As our life has grown more complex inevitably fresh problems have arisen and old problems have gathered new intensity. We should pay but a poor tribute to the men who founded this republic if our homage is one of the lips only. The homage that counts is the homage of deeds, the homage of action. To gather on the Fourth of July and say how great our fathers were and how great we are is not enough. It is a good thing to keep in memory the greatness of the nation's past; but it is only a good thing if it spurs us on to make greater the nation's present. The problems that face us are new. The methods by which we have to meet them are new in a sense also; but the basic principles upon which we must proceed if we are to solve them aright are as old as the decalogue and the golden rule. We can win out in our present national life, we can make the nation's future even greater than the nation's past, only if we set ourselves in good faith to solving those problems in accordance with the immutable laws of righteousness. Each of us is in a sense his brother's keeper; each must do what he can for him, and as a man strive to do his own work. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 178 (frame 425:0314)</span>",
+"<span class=\"margin\">In the margin: not corrected</span>",
+"My fellow-countrymen:",
+"It is indeed a great pleasure to have the chance of seeing you this afternoon. I am on my way to St.Louis, to take part in commemorating the transfer a century ago of the great country on the west of the Mississippi to the United States. When the Continental Congress first declared us to be a nation the nation consisted of a string of small straggling countries stretched along the seaboard of the Atlantic; and the aggregate population of the nation was not as great as that of the state of Missouri to-day.",
+"Our people then took up what was to be for a century, with the exception of saving the nation&#x27;s life, the nation&#x27;s greatest work- that was the conquest of the continent, the thrusting the frontier ever westward until there was no frontier left,until our people spread in a solid mass from the Atlantic to the Pacific. Great has been our material prosperity during the century and a quarter since we declared ourselves to be of right a free and independent nation. The world has never seen such industrial progress, such industrial change, as has been accomplished during that time. The settlement of this continent has gone on literally by leaps and by bounds, so that the change from the<ins title=\"added by hand\">scattered</ins> log cabins in the heavy forests to our present condition, with our great cities and fertile well-tilled fields, has taken place in a hundredth part of the time which such changes have occupied in the history of the old world.",
+"With the changes for good have come of necessity changes that were not good. As our life has grown more complex inevitably fresh problems have arisen and old problems have gathered new intensity. We should pay but a poor tribute to the men who founded this republic if our homage is one of the lips only. The homage that counts is the homage of deeds, the homage of action. To gather on the Fourth of July and say how great our fathers were and how great we are is not enough. It is a good thing to keep in <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> memory the greatness of the nation&#x27;s past; but it is only a good thing if it spurs us on to make greater the nation&#x27;s present. <span class=\"pb\">Page 179 (frame 425:0315)</span> The problems that face us are new. The methods by which we have to meet them are new in a sense also; but the basic principles upon which we must proceed if we are to solve them aright are as old as the decalogue and the golden <span class=\"sic\" title=\"reads: rule\">rulw</span>. We can win out in our present national life, we can make the nation&#x27;s future even greater than the nation&#x27;s past, only if we set ourselves in good faith to solving those problems in accordance with the immutable laws of righteousness. Each of us is in a sense his brother&#x27;s keeper; each must do what he can for him, and as a man strive to do his own work. (Cheers and applause.)",
+"<span class=\"tnote\">Folio 178 is the right page of frame 0314 (Louisiana is on the left page); folio 179 is the left page of frame 0315. &quot;not corrected&quot; is written by hand diagonally in the top left margin of p. 178.</span>\n<span class=\"tnote\">&quot;scattered&quot; is typed between the lines above &quot;the log cabins&quot;, with a caret added by hand. A pen slash divides &quot;lit/erally&quot; (no word change). The x-ed out run after &quot;keep in&quot; is a typewriter strikeout of about ten characters; the letters beneath cannot be read with confidence. &quot;it is&quot; is typed &quot;i t is&quot;, closed up. &quot;of&quot; in &quot;laws of righteousness&quot; and &quot;strive&quot; are typed over other letters. It is not clear whether p. 179 begins a new paragraph; it is run on here. Page heading &quot;-2-&quot;.</span>"
+],
+"notes": [
+"Folio 178 is the right page of frame 0314 (Louisiana is on the left page); folio 179 is the left page of frame 0315. \"not corrected\" is written by hand diagonally in the top left margin of p. 178.",
+"\"scattered\" is typed between the lines above \"the log cabins\", with a caret added by hand. A pen slash divides \"lit/erally\" (no word change). The x-ed out run after \"keep in\" is a typewriter strikeout of about ten characters; the letters beneath cannot be read with confidence. \"it is\" is typed \"i t is\", closed up. \"of\" in \"laws of righteousness\" and \"strive\" are typed over other letters. It is not clear whether p. 179 begins a new paragraph; it is run on here. Page heading \"-2-\"."
+],
+"file": "transcriptions/1903-04-29-clarksville.txt"
+},
+"text_source": "typescript",
+"themes": [
+"the-west"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "mississippi-river",
+"name": "The Mississippi",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"nation's",
+"homage",
+"changes",
+"problems",
+"century",
+"old",
+"new",
+"present",
+"nation",
+"life"
+],
+"stats": {
+"words": 500,
+"unique_words": 228,
+"sentences": 17,
+"avg_sentence": 29.4,
+"minutes": 4,
+"i_count": 1,
+"we_count": 9
+}
 },
 {
 "id": "1903-04-29-hannibal",
@@ -21828,10 +22026,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 484,
+"paragraphs": [
+"Mr. Congressman; Mr. Mayor, and you, My Fellow Citizens:",
+"It is indeed a great pleasure to be in historic Pike County. I have heard a great deal of pike county. I know its fertility; I know its good roads; I know the extraordinary nursery you have got right here, a nursery of a double kind by the way; I passed the new dynamite factory. I congratulate you on all your products but I want to say that what counts finally as the best type of product is the men and women, and therefore, as I like your stock, I want to congratulate you on the children. And one word to them, and it applies just as much to those of an older growth, I believe in play and I believe in work. When you play, play hard, and when you work do not play at all. I have enjoyed greatly coming here into your great and beautiful state. I congratulate you upon the prosperity which we are all enjoying. There will come ups and downs in that prosperity, but on the whole as sure as there is a sun in Heaven, the tendency will be upward when you have a race like ours standing on a continent as a base. We are sometimes criticised for a vein of boastfulness in talking of the future of our country. Men and women, we cannot overestimate what that future will be if we are only true to ourselves. We must have, as a base of that future as a foundation, material prosperity, material well-being, but that is only the base, only the foundation. Upon it must be built as a superstructure the quality for the lack of which no material well-being can atone, the qualities of devotion to an ideal, of lofty adherence to the right for the right's sake, of rugged power to achieve that ideal in practical methods. It is a fine thing to have a strong body, it is a better thing to have a strong mind, and best of a, ll is it to have that which counts for more than body, for more than mind -- character. In character I include not only the passive virtues, not only the abstention from wrong, but the power to war effectively for the right. I include the qualities which made our people alike those that wore the blue and those who wore the gray leave an imperishable heritage of renown for their children and their children's children in the times that tried men's souls. (Applause.)",
+"I am on my way to St. Louis to commemorate the time a century ago when this great country became a part of the United States. I thank you for coming here, I appreciate it to the full, and I wish you for the future an even greater share of the well-being which you now so abundantly enjoy. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -21853,13 +22055,58 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0314",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0314",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Congressman; Mr. Mayor, and you, My Fellow Citizens:",
+"It is indeed a great pleasure to be in historic Pike County. I have heard a great deal of pike county. I know its fertility; I know its good roads; I know the extraordinary nursery you have got right here, a nursery of a double kind by the way; I passed the new dynamite factory. I congratulate you on all your products but I want to say that what counts finally as the best type of product is the men and women, and therefore, as I like your stock, I want to congratulate you on the children. And one word to them, and it applies just as much to those of an older growth, I believe in play and I believe in work. When you play, play hard, and when you work do not play at all. I have enjoyed greatly coming here into your great and beautiful state. I congratulate you upon the prosperity which we are all enjoying. There will come ups and downs in that prosperity, but on the whole as sure as there is a sun in Heaven, the tendency will be upward when you have a race like ours standing on a continent as a base. We are sometimes criticised for a vein of boastfulness in talking of the future of our country. Men and women, we cannot overestimate what that future will be if we are only true to ourselves. We must have, as a base of that future as a foundation, material prosperity, material well-being, but that is only the base, only the foundation. Upon it must be built as a superstructure the quality for the lack of which no material well-being can atone, the qualities of devotion to an ideal, of lofty adherence to the right for the right's sake, of rugged power to achieve that ideal in practical methods. It is a fine thing to have a strong body, it is a better thing to have a strong mind, and best of a, ll is it to have that which counts for more than body, for more than mind -- character. In character I include not only the passive virtues, not only the abstention from wrong, but the power to war effectively for the right. I include the qualities which made our people alike those that wore the blue and those who wore the gray leave an imperishable heritage of renown for their children and their children's children in the times that tried men's souls. (Applause.)",
+"I am on my way to St. Louis to commemorate the time a century ago when this great country became a part of the United States. I thank you for coming here, I appreciate it to the full, and I wish you for the future an even greater share of the well-being which you now so abundantly enjoy. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 177 (frame 425:0314)</span>",
+"<span class=\"margin\">In the margin: Not corrected</span>",
+"Mr. Congressman; Mr. Mayor, and you, My Fellow Citizens:",
+"It is indeed a great pleasure to be in historic Pike County. I have heard a great deal of pike county. I know its fertility; I know its good roads; I know the extraordinary nursery you have got right here, a nursery of a double kind by the way; I passed the new dynamite factory . I congratulate you on all your products but I want to say that what counts finally as the best type of product is the men and women, and therefore, as I like your stock, I want to congratulate you on the children. And one word to them, and it applies just as much to those of an older growth , I believe in play and I believe in work. When you play, play hard, and when you work do not play at all. I have enjoyed greatly coming here into your great and beautiful state. I congratulate you upon the prosperity which we are all enjoying. There will come ups and downs in that prosperity, but on the <span class=\"sic\" title=\"reads: whole as\">wholeas</span> sure as there is a sun in Heaven, the tendency will be upward when you have a race like ours standing on a continent as a base. We are sometimes criticised for a vein of boastfulness in talking of the future of our country. <span class=\"sic\" title=\"reads: Men and\">Menand</span> women, we cannot overestimate what that future will be if we <span class=\"sic\" title=\"reads: are only\">areonly</span> true to ourselves . We must have, as a base of that future as a foundation, material prosperity , material well-being, but that is only the base, only the foundation. Upon it must be <span class=\"sic\" title=\"reads: built as\">builtas</span> a superstructure the quality for the lack of which no material well-being can atone , the qualities of <del title=\"struck through\">xxxxxxx</del> <del title=\"struck through\">xxxxxxx,</del> <ins title=\"added by hand\">devotion to</ins> an ideal, of lofty adherence to the right for the right&#x27;s sake, of rugged power to achieve that ideal in practical methods. It is a fine thing to have a strong body, it is a better thing to have a strong mind, and best of a,ll is it to have that which counts for more than body, for more than mind -- character. In character I include not only the passive virtues, not only the abstention from wrong, but the power to war effectively <span class=\"sic\" title=\"reads: for\">fror</span> the right. I include the qualities which made our people alike those that wore the blue and those who wore the gray <span class=\"sic\" title=\"reads: leave\">leawe</span> an imperishable heritage of renown for their children and their children&#x27;s children in the times that tried men&#x27;s souls. (Applause.)",
+"I am on my way to St. Louis to commemorate the time <span class=\"sic\" title=\"reads: a century\">acentury</span> ago when this great country became a part of the United States. I thank you for coming here, I appreciate it to the full, and I wish you for the future an even greater <span class=\"sic\" title=\"reads: share\">sshare</span> of the well-being which you now so abundantly enjoy. (Cheers and applause)",
+"<span class=\"tnote\">&quot;Not corrected&quot; is written by hand diagonally in the top left margin. Folio 177 is the left page of frame 0314; Clarksville begins on the right page.</span>\n<span class=\"tnote\">&quot;devotion to&quot; is typed between the lines above two x-ed out words after &quot;qualities of&quot;; a caret below the line and a slash after &quot;of&quot; are added by hand. The last paragraph of the speech (from &quot;character. In character&quot;) is typed single-spaced. Pen marks, apparently proofreading only, stand over &quot;for&quot; in &quot;fror the right&quot;, over &quot;that&quot; in &quot;those that wore&quot;, inside &quot;commemorate&quot;, and after &quot;(Applause.)&quot;, where a pen mark that looks like a paragraph sign stands before the new paragraph. Gaps closed up: &quot;an d you&quot; (salutation), &quot;e njoying&quot;, &quot;t he time&quot;. &quot;do&quot; in &quot;when you work do not&quot; is faintly typed. The letter &quot;o&quot; in &quot;lack of&quot; is struck over.</span>"
+],
+"notes": [
+"\"Not corrected\" is written by hand diagonally in the top left margin. Folio 177 is the left page of frame 0314; Clarksville begins on the right page.",
+"\"devotion to\" is typed between the lines above two x-ed out words after \"qualities of\"; a caret below the line and a slash after \"of\" are added by hand. The last paragraph of the speech (from \"character. In character\") is typed single-spaced. Pen marks, apparently proofreading only, stand over \"for\" in \"fror the right\", over \"that\" in \"those that wore\", inside \"commemorate\", and after \"(Applause.)\", where a pen mark that looks like a paragraph sign stands before the new paragraph. Gaps closed up: \"an d you\" (salutation), \"e njoying\", \"t he time\". \"do\" in \"when you work do not\" is faintly typed. The letter \"o\" in \"lack of\" is struck over."
+],
+"file": "transcriptions/1903-04-29-louisiana.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"congratulate",
+"play",
+"base",
+"well-being",
+"prosperity",
+"future",
+"material",
+"children",
+"right"
+],
+"stats": {
+"words": 484,
+"unique_words": 210,
+"sentences": 18,
+"avg_sentence": 26.9,
+"minutes": 4,
+"i_count": 19,
+"we_count": 5
+}
 },
 {
 "id": "1903-04-30-st-louis",
@@ -21991,8 +22238,8 @@
 "process",
 "territory",
 "purchase",
-"westward",
 "original",
+"westward",
 "empires",
 "local"
 ],
@@ -22018,10 +22265,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 174,
+"paragraphs": [
+"Governor Francis;; Ladies and Gentlemen:",
+"All I shall say is to congratulate you with all my heart upon the service you are rendering to theentire country by the work you have undertaken and by the spirit which has already inaugurated that work with such conspicuous success. I feel, Governor Francis, as though you and your colleagues who have so zealously and with such disinterestedness striven to bring to a successful conclusion this great undertaking, have a right to-night to feel fully satisfied with what you have done, for I do not think it possible that anything that has begun so well can fail to end well also. (Applause) Not merely all the people of the country comprised within the.limits of the Louisiana purchase, but all those within the limits of the United States are under a debt of gratitude, Governor, and to the city of St. Louis, for the work you have done, for the spirit with which you have undertaken it, and for the efficiency with which you are doing it. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -22043,13 +22293,45 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0320",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0320",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Governor Francis;; Ladies and Gentlemen:",
+"All I shall say is to congratulate you with all my heart upon the service you are rendering to theentire country by the work you have undertaken and by the spirit which has already inaugurated that work with such conspicuous success. I feel, Governor Francis, as though you and your colleagues who have so zealously and with such disinterestedness striven to bring to a successful conclusion this great undertaking, have a right to-night to feel fully satisfied with what you have done, for I do not think it possible that anything that has begun so well can fail to end well also. (Applause) Not merely all the people of the country comprised within the.limits of the Louisiana purchase, but all those within the limits of the United States are under a debt of gratitude, Governor, and to the city of St. Louis, for the work you have done, for the spirit with which you have undertaken it, and for the efficiency with which you are doing it. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 189 (frame 425:0320)</span>",
+"Governor Francis;; Ladies and Gentlemen:",
+"All I shall say is to congratulate you with all my heart upon the service you are rendering to the<ins title=\"added by hand\">entire</ins> country by the work you have undertaken and by the spirit which has already inaugurated that work with such conspicuous success. I feel, Governor Francis, as though you and your colleagues who have so <span class=\"sic\" title=\"reads: zealously\">sealously</span> and with such disinterestedness striven to bring to a successful conclusion this great undertaking, have a right to-night to feel fully satisfied with what you have done, for I do not think it possible that anything that has begun so well can fail to end well also. (Applause) Not merely all the people of the country comprised within the.limits of the Louisiana <del title=\"struck through\">xxxxxx</del> purchase, but all those within the limits of the United States are under a debt of gratitude, Governor, and to the city of St. Louis, for the work you have done, for the spirit with which you have undertaken it, and for the efficiency with which you are doing it. (Applause)",
+"<span class=\"tnote\">&quot;entire&quot; is typed between the lines above &quot;the country&quot;, with a caret added by hand. In the heading, &quot;Administration&quot; has an overstruck letter (&quot;Administra_ion&quot;). Overstruck or gapped letters closed up: &quot;congratulate&quot;, &quot;undertaken&quot; (first), &quot;conclusion&quot;, &quot;to-night&quot;, &quot;for&quot;, &quot;do&quot; (typed &quot;d o&quot;), &quot;anything&quot;, &quot;debt&quot;. The x-ed out word before &quot;purchase&quot; is a typewriter strikeout.</span>"
+],
+"notes": [
+"\"entire\" is typed between the lines above \"the country\", with a caret added by hand. In the heading, \"Administration\" has an overstruck letter (\"Administra_ion\"). Overstruck or gapped letters closed up: \"congratulate\", \"undertaken\" (first), \"conclusion\", \"to-night\", \"for\", \"do\" (typed \"d o\"), \"anything\", \"debt\". The x-ed out word before \"purchase\" is a typewriter strikeout."
+],
+"file": "transcriptions/1903-04-30-st-louis-2.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"governor",
+"work"
+],
+"stats": {
+"words": 174,
+"unique_words": 93,
+"sentences": 3,
+"avg_sentence": 58.0,
+"minutes": 1,
+"i_count": 3,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-01-topeka",
@@ -22063,10 +22345,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 733,
+"paragraphs": [
+"My Fellow Citizens:",
+"I shall not attempt to speak at length to you this afternoon, as I am to make an address this evening. I shall merely say how glad I am to take part in a ceremony of this kind at this place. It is a pleasure here in the very heart of the United States among those of our people who to a peculiar and preeminent degree have developed those characteristics which we are proud to think of as essentially American. It is a pleasure here to see the foundation laid of one of these buildings which tend to show that we are caring for the spiritual and moral as well as the physical development of our people. It is a great thing to have turned the bottoms and the trail into fertile farmland; it is a great thing to have driven the railroads across the continent from sea to sea; it is a great thing to be building up the manufacturing industries of our country; it is a great thing to have taken a part, big or little, in all of this tremendous industrial development; but all of that is simply a foundation. It is necessary, absolutely as necessary for the state as the foundation is for a house; but it is not the state any more than the foundation is the house. We need it, but woe to us if we treat it as aught but a base upon which to build the higher life. And I believe in you and your future, in us and our future, because I believe that we shall go on steadily building up the higher life upon the base of our material prosperity.",
+"It is a great thing to be able to produce what this state produces; to be able to produce her crops; to be able to make thrive her railroads; to be building up as she is building up manufacturing industries; but the greatest product of the state of course is the product of the men and women of the state. That is what counts. (Applause) If we permitted our prosperity to go unaccompanied by the care for the spirit, for the soul, for the mind, it would be but a curse and not a blessing, and this nation would not leave a record to be covered by a pin point in the history of mankind.",
+"In the civil war in which so many of the citizens of Kansas of to-day bore a distinguished part -- in that war the country won because the country had it in its soul to care for an ideal more than for anything material. The genius of the nation found expression because in Abraham Lincoln it found a man who would lay down life itself on the altar of that high ideal. (Applause) And if we are to be true to his memory, true to the memory of the men who in '76 founded the union, true to the memory of those who in the years between '61 and '65 preserved it, we must now see to it that without abating a jot of our interest in caring for the material well-being of the nation we add to that interest even a keener interest in the things that tell for the soul. Therefore it gives me pleasure to come here to-day on this occasion to greet you, to greet the men and women of Kansas, to greet all the guests within your gates, of our own country and of other lands, and to bid them welcome, holding out the hand of fellowship to them for they come to a nation which I think I may say is endeavoring so to carry itself that it may fear no wrong from the strong and may spurn the thought of inflicting wrong upon the weak; (Applause) a nation whose object it is to live in peace and cordial good- fellowship with all the nations of mankind; a nation that asks peace not as a craven or a weakling, but as a just man armed who asks not in fear but for the sake of righteousness. So in your name, people of Kansas, I welcome those from without the state's borders to this beautiful state and I ask that they accept you as fair samples of our country, for I am proud to believe that that is exactly what you are. (Great applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -22088,13 +22375,67 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0330, 0331",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0330",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Fellow Citizens:",
+"I shall not attempt to speak at length to you this afternoon, as I am to make an address this evening. I shall merely say how glad I am to take part in a ceremony of this kind at this place. It is a pleasure here in the very heart of the United States among those of our people who to a peculiar and preeminent degree have developed those characteristics which we are proud to think of as essentially American. It is a pleasure here to see the foundation laid of one of these buildings which tend to show that we are caring for the spiritual and moral as well as the physical development of our people. It is a great thing to have turned the bottoms and the trail into fertile farmland; it is a great thing to have driven the railroads across the continent from sea to sea; it is a great thing to be building up the manufacturing industries of our country; it is a great thing to have taken a part, big or little, in all of this tremendous industrial development; but all of that is simply a foundation. It is necessary, absolutely as necessary for the state as the foundation is for a house; but it is not the state any more than the foundation is the house. We need it, but woe to us if we treat it as aught but a base upon which to build the higher life. And I believe in you and your future, in us and our future, because I believe that we shall go on steadily building up the higher life upon the base of our material prosperity.",
+"It is a great thing to be able to produce what this state produces; to be able to produce her crops; to be able to make thrive her railroads; to be building up as she is building up manufacturing industries; but the greatest product of the state of course is the product of the men and women of the state. That is what counts. (Applause) If we permitted our prosperity to go unaccompanied by the care for the spirit, for the soul, for the mind, it would be but a curse and not a blessing, and this nation would not leave a record to be covered by a pin point in the history of mankind.",
+"In the civil war in which so many of the citizens of Kansas of to-day bore a distinguished part -- in that war the country won because the country had it in its soul to care for an ideal more than for anything material. The genius of the nation found expression because in Abraham Lincoln it found a man who would lay down life itself on the altar of that high ideal. (Applause) And if we are to be true to his memory, true to the memory of the men who in '76 founded the union, true to the memory of those who in the years between '61 and '65 preserved it, we must now see to it that without abating a jot of our interest in caring for the material well-being of the nation we add to that interest even a keener interest in the things that tell for the soul. Therefore it gives me pleasure to come here to-day on this occasion to greet you, to greet the men and women of Kansas, to greet all the guests within your gates, of our own country and of other lands, and to bid them welcome, holding out the hand of fellowship to them for they come to a nation which I think I may say is endeavoring so to carry itself that it may fear no wrong from the strong and may spurn the thought of inflicting wrong upon the weak; (Applause) a nation whose object it is to live in peace and cordial good- fellowship with all the nations of mankind; a nation that asks peace not as a craven or a weakling, but as a just man armed who asks not in fear but for the sake of righteousness. So in your name, people of Kansas, I welcome those from without the state's borders to this beautiful state and I ask that they accept you as fair samples of our country, for I am proud to believe that that is exactly what you are. (Great applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 13 (frame 425:0330)</span>",
+"<span class=\"margin\">In the margin: Not corrected</span>",
+"My Fellow Citizens:",
+"I shall not attempt to speak at length to you this afternoon, as I am to make an address this evening. I shall merely say how glad I am to take part in a ceremony of this kind at this place. It is a pleasure here in the very heart of the United States among those of our people who to a peculiar <del title=\"struck through\">xxxxxx</del> and preeminent degree have developed those characteristics which we are proud to think of as essentially American. It is a pleasure here to see the foundation laid of one of these buildings which tend to show that we are caring for the spiritual and moral as well as the physical development of our people. It is a great thing to have turned the bottoms and the trail into fertile farmland; it is a great thing to have driven the railroads across the continent from sea to sea; it is a great thing to be building up the manufacturing industries of our country; it is a great thing to have taken a part, big or little, in all of this tremendous industrial development; but all of that is simply a foundation. It is necessary, absolutely as necessary for the state as the foundation is for a house; but it is not the state any more than the foundation is the house. We need it, but woe to us if we treat it as aught but a base upon which to build the higher life. And I <span class=\"sic\" title=\"reads: believe\">beliebe</span> in you and your future, in us and our future, because I believe that we shall go on steadily building up the higher life upon the base of our material prosperity.",
+"It is a great thing to be able to produce what this state produces; to be able to produce her crops; to be able to make thrive her railroads; to be building up as she is building up manufacturing industries; but the greatest product of the state of course is the product of the men and women <del title=\"struck through\">xx</del> of the state. That is what counts. (Applause) If we permitted our prosperity to go unaccompanied by the care for the spirit, for the soul, for the mind, it would be but a curse and not a blessing, and this nation would not leave a record to be covered by a pin point in the history of mankind.",
+"<span class=\"pb\">Page 14 (frame 425:0331)</span>",
+"In the civil war in which so many of the citizens of Kansas of to-day bore a distinguished part -- in that war the country won because the country had it in its soul to care for an ideal more than for anything material. The genius of the nation found expression because in Abraham Lincoln it found a man who would lay down life itself on the altar of that high ideal. (Applause ) And if we are to be true to his memory, true to the memory of the men who in &#x27;76 founded the union, true to the memory of those who in the years between &#x27;61 and &#x27;65 preserved it, we must now see to it that without <del title=\"struck through\">xxxxxxxx</del> abating a jot of our interest in caring for the material well-being of the nation we add to that interest even a keener interest in the things that tell <span class=\"sic\" title=\"reads: for the\">forthe</span> soul. Therefore it gives me pleasure to come here to-day on this occasion to greet you, to greet the men and women of Kansas, to greet all the guests within your gates, of our own country and of other lands, and to bid them welcome, holding out the hand of fellowship to them for they come to a nation which I think I may say is endeavoring so to carry itself that it may fear no wrong from the strong and may spurn the thought of inflicting wrong upon the weak; (Applause) a nation whose object it is to live in <del title=\"struck through\">xxxx</del> peace and cordial good-<del title=\"struck through\">xxxx</del> fellowship with all the nations of mankind; a nation that asks peace not as a craven or a weakling, but as a just man armed who asks not in fear but for the sake of righteousness. So in your name, people of Kansas, I welcome those from without the state&#x27;s borders to this beautiful state and I ask that they accept you as fair samples of our country, for I am proud to believe that that is exactly what you<del title=\"struck through\">r</del> are. (Great applause)",
+"<span class=\"tnote\">Folio 13 is the right page of frame 0330 and folio 14 the left page of frame 0331. &quot;Not corrected&quot; is written by hand diagonally in the top left margin of p. 13. In the heading, &quot;laying&quot; has a letter written over by hand (apparently &quot;y&quot;).</span>\n<span class=\"tnote\">Page 13: the x-ed out word after &quot;peculiar&quot; (apparently &quot;degree&quot; begun) and the short x-ed out run after &quot;women&quot; are typewriter strikeouts. &quot;the care&quot; is typed with its first letter struck over.</span>\n<span class=\"tnote\">Page 14: the x-ed out word before &quot;abating&quot; (apparently &quot;abatting&quot;) and the runs before &quot;peace&quot; and after &quot;good-&quot; are typewriter strikeouts. &quot;greet&quot; (first) and &quot;come&quot; have overstruck letters. A pen slash follows &quot;borders&quot; (no word change), and a pen slash strikes the &quot;r&quot; of &quot;your&quot; before &quot;are&quot;. Page heading &quot;-2-&quot;.</span>"
+],
+"notes": [
+"Folio 13 is the right page of frame 0330 and folio 14 the left page of frame 0331. \"Not corrected\" is written by hand diagonally in the top left margin of p. 13. In the heading, \"laying\" has a letter written over by hand (apparently \"y\").",
+"Page 13: the x-ed out word after \"peculiar\" (apparently \"degree\" begun) and the short x-ed out run after \"women\" are typewriter strikeouts. \"the care\" is typed with its first letter struck over.",
+"Page 14: the x-ed out word before \"abating\" (apparently \"abatting\") and the runs before \"peace\" and after \"good-\" are typewriter strikeouts. \"greet\" (first) and \"come\" have overstruck letters. A pen slash follows \"borders\" (no word change), and a pen slash strikes the \"r\" of \"your\" before \"are\". Page heading \"-2-\"."
+],
+"file": "transcriptions/1903-05-01-topeka.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"kansas",
+"foundation",
+"building",
+"memory",
+"applause",
+"soul",
+"greet",
+"material",
+"pleasure",
+"true"
+],
+"stats": {
+"words": 733,
+"unique_words": 264,
+"sentences": 14,
+"avg_sentence": 52.4,
+"minutes": 6,
+"i_count": 11,
+"we_count": 9
+}
 },
 {
 "id": "1903-05-01-topeka-2",
@@ -25349,9 +25690,9 @@
 "scholarship",
 "land",
 "preservation",
-"forests",
 "forest",
 "university",
+"forests",
 "trees",
 "home-maker"
 ],
@@ -25656,8 +25997,8 @@
 "pacific",
 "mediterranean",
 "seated",
-"sea",
 "roman",
+"sea",
 "strove",
 "antiquity",
 "centuries",
@@ -31801,11 +32142,11 @@
 "fitter",
 "clean",
 "younger",
-"society",
 "example",
+"society",
 "preaching",
-"admire",
 "boys",
+"admire",
 "young",
 "expect"
 ],
@@ -32071,8 +32412,8 @@
 "fatal",
 "cleavage",
 "poor",
-"seeks",
 "healthy",
+"seeks",
 "property"
 ],
 "stats": {
@@ -32329,8 +32670,8 @@
 "sherman",
 "statue",
 "patriotism",
-"memory",
 "loyalty",
+"memory",
 "average",
 "deeds",
 "memories",
@@ -32574,7 +32915,7 @@
 "generation",
 "corruption",
 "justice",
-"address"
+"officer"
 ],
 "stats": {
 "words": 1179,
@@ -32987,10 +33328,10 @@
 "isthmus",
 "panama",
 "colombian",
-"congress",
 "canal",
-"united",
+"congress",
 "revolution",
+"united",
 "granada"
 ],
 "stats": {
@@ -33691,7 +34032,7 @@
 "eleven",
 "physical",
 "athletics",
-"scorn"
+"ideals"
 ],
 "stats": {
 "words": 3529,
@@ -33858,8 +34199,8 @@
 "rare",
 "battle",
 "war",
-"civil",
-"armies"
+"armies",
+"civil"
 ],
 "stats": {
 "words": 2372,
@@ -34061,8 +34402,8 @@
 "effort",
 "commemorate",
 "crises",
-"history",
 "crisis",
+"history",
 "washington"
 ],
 "stats": {
@@ -35304,7 +35645,7 @@
 "reward",
 "necessarily",
 "america",
-"work"
+"administration"
 ],
 "stats": {
 "words": 886,
@@ -35533,8 +35874,8 @@
 "arbitration",
 "courage",
 "step",
-"position",
 "ships",
+"position",
 "training"
 ],
 "stats": {
@@ -36225,8 +36566,8 @@
 ]
 },
 "distinctive": [
-"society",
 "immigrant",
+"society",
 "dangers",
 "societies",
 "farragut",
@@ -36606,11 +36947,11 @@
 "distinctive": [
 "doctor",
 "medical",
-"navy",
 "profession",
+"navy",
 "preparation",
-"army",
 "relation",
+"army",
 "advance",
 "professional",
 "responsibility"
@@ -37016,10 +37357,10 @@
 "texas",
 "children",
 "wore",
-"day's",
 "commander",
-"wanted",
-"weapon"
+"day's",
+"weapon",
+"wanted"
 ],
 "stats": {
 "words": 3426,
@@ -37444,10 +37785,10 @@
 "violence",
 "situation",
 "federal",
-"mayor",
 "employers",
-"mob",
+"mayor",
 "obey",
+"mob",
 "statement",
 "president"
 ],
@@ -37529,7 +37870,7 @@
 "ships",
 "enlisted",
 "missouri",
-"battle"
+"first-class"
 ],
 "stats": {
 "words": 1446,
@@ -37752,8 +38093,8 @@
 "common-sense",
 "sake",
 "value",
-"president",
-"comes"
+"comes",
+"president"
 ],
 "stats": {
 "words": 1474,
@@ -38208,7 +38549,7 @@
 "welfare",
 "increase",
 "classes",
-"society"
+"wife"
 ],
 "stats": {
 "words": 1479,
@@ -38768,8 +39109,8 @@
 "article",
 "forth",
 "special",
-"training",
-"typical"
+"typical",
+"training"
 ],
 "stats": {
 "words": 840,
@@ -39343,7 +39684,7 @@
 "accomplished",
 "benefit",
 "faith",
-"cause"
+"south"
 ],
 "stats": {
 "words": 1264,
@@ -39412,9 +39753,9 @@
 "teachers",
 "clean",
 "education",
+"white",
 "race",
 "interested",
-"white",
 "true",
 "fellow-citizens"
 ],
@@ -40845,8 +41186,8 @@
 "action",
 "wrong",
 "opposition",
-"organization",
 "evils",
+"organization",
 "twisted"
 ],
 "stats": {
@@ -41312,9 +41653,9 @@
 "consulting",
 "engineers",
 "board",
+"commission",
 "suez",
 "soo",
-"commission",
 "traffic"
 ],
 "stats": {
@@ -42669,8 +43010,8 @@
 "navy",
 "military",
 "befallen",
-"army",
 "afloat",
+"army",
 "ashore",
 "civil",
 "everyday",
@@ -42801,8 +43142,8 @@
 },
 "distinctive": [
 "happiest",
-"foundation",
 "burton",
+"foundation",
 "college",
 "graduating",
 "graduate",
@@ -43031,10 +43372,10 @@
 "disregards",
 "college",
 "intellect",
+"learning",
 "boy",
 "prowess",
 "condemn",
-"learning",
 "students",
 "count"
 ],
@@ -44259,8 +44600,8 @@
 "distinctive": [
 "rivers",
 "plan",
-"water",
 "transportation",
+"water",
 "connection",
 "country"
 ],
@@ -46162,14 +46503,14 @@
 "distinctive": [
 "mcclellan",
 "potomac",
-"peace",
 "equality",
+"peace",
 "ease",
 "glory",
 "woman",
 "disagreeable",
-"statue",
-"fought"
+"fought",
+"statue"
 ],
 "stats": {
 "words": 2780,
@@ -46232,7 +46573,7 @@
 "enjoy",
 "selfish",
 "showing",
-"stuff"
+"father"
 ],
 "stats": {
 "words": 1168,
@@ -46456,7 +46797,7 @@
 "social",
 "labor",
 "economic",
-"farmer"
+"school"
 ],
 "stats": {
 "words": 5767,
@@ -47514,8 +47855,8 @@
 "policy",
 "river",
 "reactionary",
-"demagogues",
 "fought",
+"demagogues",
 "clamor"
 ],
 "stats": {
@@ -47590,8 +47931,8 @@
 "well-being",
 "policies",
 "wealth",
-"property",
 "business",
+"property",
 "tennessee",
 "crimes",
 "dishonesty"
@@ -47667,7 +48008,7 @@
 "change",
 "blue",
 "gray",
-"spirit"
+"changed"
 ],
 "stats": {
 "words": 1310,
@@ -48478,8 +48819,8 @@
 "rivers",
 "traffic",
 "report",
-"plan",
 "river",
+"plan",
 "waterway",
 "navigation"
 ],
@@ -48541,8 +48882,8 @@
 "distinctive": [
 "teach",
 "girl",
-"boy",
 "idleness",
+"boy",
 "training",
 "labor",
 "relation",
@@ -48613,8 +48954,8 @@
 "tenderness",
 "children",
 "partner",
-"sentiment",
 "duty",
+"sentiment",
 "thoughtless",
 "fears",
 "reward"
@@ -48902,8 +49243,8 @@
 "grants",
 "dam",
 "charge",
-"navigable",
 "act",
+"navigable",
 "plans",
 "breach",
 "rainy",
@@ -49688,8 +50029,8 @@
 "mother",
 "grown",
 "true",
-"material",
-"national"
+"national",
+"material"
 ],
 "stats": {
 "words": 1387,
@@ -50029,8 +50370,8 @@
 "building",
 "philanthropic",
 "missionary",
-"women",
-"district"
+"district",
+"women"
 ],
 "stats": {
 "words": 1175,
@@ -50130,8 +50471,8 @@
 },
 "distinctive": [
 "career",
-"sheridan",
 "cavalry",
+"sheridan",
 "ideal",
 "general",
 "nation's",
@@ -51090,8 +51431,8 @@
 },
 "distinctive": [
 "bill",
-"water",
 "power",
+"water",
 "electric",
 "charge",
 "bills",
@@ -51261,7 +51602,7 @@
 "european",
 "church",
 "missionaries",
-"continent"
+"methodist"
 ],
 "stats": {
 "words": 4648,
@@ -51445,8 +51786,8 @@
 },
 "distinctive": [
 "child",
-"goal",
 "home",
+"goal",
 "mother",
 "governmental",
 "provide",
@@ -51689,8 +52030,8 @@
 "commission",
 "farming",
 "agriculture",
-"farmer",
 "agricultural",
+"farmer",
 "life",
 "towns",
 "plan"
@@ -51781,7 +52122,7 @@
 "brother",
 "devotion",
 "lived",
-"mankind"
+"struggle"
 ],
 "stats": {
 "words": 1535,
@@ -51958,8 +52299,8 @@
 "mexico",
 "international",
 "profit",
-"rule",
 "advance",
+"rule",
 "along",
 "wisdom"
 ],
@@ -52490,7 +52831,7 @@
 "stopped",
 "educational",
 "missionary",
-"creed"
+"government"
 ],
 "stats": {
 "words": 1735,
@@ -53586,7 +53927,7 @@
 "water",
 "east",
 "sites",
-"west"
+"government"
 ],
 "stats": {
 "words": 5962,
@@ -53730,8 +54071,8 @@
 "conservation",
 "christian",
 "wonderful",
-"men's",
 "insist",
+"men's",
 "ahead",
 "honesty"
 ],
@@ -53892,8 +54233,8 @@
 "nationalism",
 "property",
 "special",
-"kansas",
 "struggle",
+"kansas",
 "welfare",
 "earned",
 "corporations",
@@ -54422,8 +54763,8 @@
 "development",
 "water",
 "control",
-"kansas",
-"natural"
+"natural",
+"kansas"
 ],
 "stats": {
 "words": 5943,
@@ -54514,9 +54855,9 @@
 "girls",
 "skilled",
 "profession",
+"public",
 "politician",
-"editor",
-"public"
+"editor"
 ],
 "stats": {
 "words": 4465,
@@ -54631,9 +54972,9 @@
 "party",
 "york",
 "dinner",
-"sake",
 "illinois",
-"face"
+"sake",
+"advised"
 ],
 "stats": {
 "words": 2682,

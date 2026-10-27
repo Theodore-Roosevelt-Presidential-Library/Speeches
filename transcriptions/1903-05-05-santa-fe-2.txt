@@ -1,0 +1,27 @@
+---
+speech: 1903-05-05-santa-fe-2
+title: Remarks of President Roosevelt to the School Children at Santa Fe, New Mexico, May 5, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 362
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0362
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 72 425:0362]
+
+[margin: [?For Mr. Latta?] -]
+
+[margin: File]
+
+It is the greatest pleasure to me to see all the children here to-day. I want to greet all the schools[-x-] including the United States Government Indian School, and to say that nothing has pleased me more at Santa Fe than to see the care being taken for the education of the next generation; to train them in mind and body, and above all in moral character; to make them fit to do the best work as men and women. The future of New Mexico, its position and importance in the Union, depend upon the way in which the next generation handles itself; upon the attitude of the men and women of the future, the boys and girls of to-day toward the family,the home, toward their life-work[+,+] socially; their attitude in reference to the state.
+
+I cannot pretend to make any elaborate address upon education. To the teachers, I can only say Godspeed . You are doing a work which is literally of vital consequence to the state, the nation, and upon the training you give these children will largely depend the future of the commonwealth. If you can bring them up, boys and girls alike, so that as men and women they shall tell the truth, be fearless,be able to hold their own, and yet scorn to wrong a neighbor; if they shall be fearless each in asserting his or her own rights against [-xx-] oppression, and yet scrupulously each above all things [-[illegible]-] do his or her duty and [-[illegible]-] try to bear to some extent the [-xxxxxxxxxxxxxxx-] brother's or sister's burden, if you can do that you will have done something, you will have rendered a service such as no other people in the country can have rendered. To the boys and girls, all I can say is,I believe in work and I believe in play. Play hard while you play, and while you work do not play at all.(Applause.)
+
+I congratulate the people of New Mexico upon what after all is the very best product you can have-the children. As I like your stock I want to see it kept up, and I want to see it kept up worthily and faithfully. Let each father , each mother remember that they cannot put off education wholly upon the school and the church; that education must c
+
+[pb 73 425:0362]
+
+come in the family also, and that no father, no mother, is a good citizen unless he or she does all that is possible to make the boys and girls good in the family, to give them sound bodies, sound minds, and what counts for more than mind or body-character, the character that will make them in the future good husbands, good wives, good {aons|sons}, good daughters, good fathers and mothers, good friends and neighbors, good citizens of the {sate|state}. (Cheers and applause.)
+
+[note: The speech is on both halves of frame 362 (folios 72 and 73; folio 73 also has the typed page number -2-). There is no salutation. The top-margin note in pencil reads apparently "For Mr. Latta", with the folio number 72 written over it. Several letters are typed over others (e.g. "taken", "Godspeed", "To", "up", "mind or"); final readings given. Folio 72 ends with a stray "c" ("must c") and folio 73 begins "come".]
+[note: Typewriter x-outs after "schools", after "against", and after "to some extent the" (a long x-ed run). Two short words after "above all things" and after "her duty and" are blotted out in ink. The comma after "life-work" and a heavy vertical stroke after "depend" are by hand.]
