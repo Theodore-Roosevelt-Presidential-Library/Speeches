@@ -723,8 +723,8 @@
 "corporations",
 "abuses",
 "remedies",
-"publicity",
 "public",
+"publicity",
 "remedy"
 ],
 "stats": {
@@ -1673,7 +1673,7 @@
 "brotherhood",
 "young",
 "sentimentality",
-"self-respect"
+"philanthropic"
 ],
 "stats": {
 "words": 2699,
@@ -1774,8 +1774,8 @@
 "century",
 "commonwealths",
 "industrial",
-"commonplace",
 "tendencies",
+"commonplace",
 "manliness"
 ],
 "stats": {
@@ -1902,11 +1902,11 @@
 "westward",
 "commonwealths",
 "colorado",
-"union",
 "alleghanies",
+"union",
 "spread",
-"unity",
 "continent",
+"unity",
 "race"
 ],
 "stats": {
@@ -2179,8 +2179,8 @@
 "passions",
 "taught",
 "ranks",
-"brotherhood",
 "lessons",
+"brotherhood",
 "struggles",
 "fought",
 "occupations"
@@ -2575,8 +2575,8 @@
 "navy",
 "china",
 "commercial",
-"water",
 "congress",
+"water",
 "arid",
 "government",
 "anarchist",
@@ -4487,8 +4487,8 @@
 "lynchings",
 "troops",
 "islands",
-"acts",
 "holidays",
+"acts",
 "committed"
 ],
 "stats": {
@@ -4975,8 +4975,8 @@
 "cuba",
 "philippines",
 "philippine",
-"choosing",
-"orient"
+"orient",
+"civil"
 ],
 "stats": {
 "words": 3566,
@@ -6210,8 +6210,8 @@
 "works",
 "labor",
 "honesty",
-"citizen",
 "work",
+"citizen",
 "law"
 ],
 "stats": {
@@ -7697,8 +7697,8 @@
 "dam",
 "industrial",
 "advocating",
-"mississippi",
-"corporation"
+"corporation",
+"mississippi"
 ],
 "stats": {
 "words": 2569,
@@ -10384,8 +10384,8 @@
 "section",
 "advantage",
 "prosperity",
-"wise",
-"chance"
+"chance",
+"wise"
 ],
 "stats": {
 "words": 647,
@@ -12941,7 +12941,7 @@
 "sons",
 "governor",
 "philippine",
-"soldiers"
+"self-government"
 ],
 "stats": {
 "words": 1677,
@@ -14695,8 +14695,8 @@
 "pioneer",
 "methodist",
 "rough",
-"pioneers",
 "frontier",
+"pioneers",
 "forces"
 ],
 "stats": {
@@ -14910,8 +14910,8 @@
 "fundamentally",
 "lesson",
 "house",
-"applause",
 "interests",
+"applause",
 "help"
 ],
 "stats": {
@@ -16177,8 +16177,8 @@
 "courteously",
 "applause",
 "trouble",
-"big",
 "test",
+"big",
 "play",
 "politics",
 "comrades"
@@ -16327,8 +16327,8 @@
 "stock",
 "flag",
 "glad",
-"american",
 "world",
+"american",
 "applause"
 ],
 "stats": {
@@ -16515,8 +16515,8 @@
 "freedom",
 "genius",
 "ages",
-"body",
 "nations",
+"body",
 "self-government"
 ],
 "stats": {
@@ -17088,8 +17088,8 @@
 "pioneer",
 "virtues",
 "decency",
-"honesty",
 "strength",
+"honesty",
 "courage"
 ],
 "stats": {
@@ -17505,8 +17505,8 @@
 },
 "distinctive": [
 "football",
-"play",
 "boys",
+"play",
 "girls",
 "count",
 "word",
@@ -18802,13 +18802,13 @@
 },
 "distinctive": [
 "proud",
-"applause",
 "dakota",
+"applause",
 "comrades",
 "weapons",
 "law",
-"fighting",
 "wanted",
+"fighting",
 "stuff",
 "cattle"
 ],
@@ -20224,9 +20224,9 @@
 "preservation",
 "beauties",
 "wilderness",
-"idaho",
 "wyoming",
 "enjoyment",
+"idaho",
 "preserved"
 ],
 "stats": {
@@ -20457,8 +20457,8 @@
 "nebraska",
 "help",
 "law",
-"hardihood",
 "qualities",
+"hardihood",
 "courage",
 "fundamentally"
 ],
@@ -20576,8 +20576,8 @@
 "decent",
 "brave",
 "fool",
-"applause",
-"weakling"
+"weakling",
+"applause"
 ],
 "stats": {
 "words": 1903,
@@ -21321,7 +21321,7 @@
 "combination",
 "law",
 "honesty",
-"average"
+"spirit"
 ],
 "stats": {
 "words": 1904,
@@ -21422,8 +21422,8 @@
 "signed",
 "look",
 "report",
-"law",
 "tendency",
+"law",
 "pay"
 ],
 "stats": {
@@ -22038,8 +22038,8 @@
 "sake",
 "children",
 "lesson",
-"applause",
 "feeling",
+"applause",
 "father"
 ],
 "stats": {
@@ -24184,8 +24184,8 @@
 "distinctive": [
 "love",
 "charity",
-"quality",
 "miserable",
+"quality",
 "tendencies",
 "preacher",
 "embody",
@@ -25535,8 +25535,8 @@
 "patriotic",
 "senator",
 "neighbors",
-"quality",
 "strength",
+"quality",
 "virtue",
 "possess"
 ],
@@ -25745,8 +25745,8 @@
 "army",
 "war",
 "applause",
-"believe",
 "united",
+"believe",
 "states",
 "nation",
 "state",
@@ -26008,8 +26008,8 @@
 "loyalty",
 "love",
 "virtue",
-"applause",
 "spirit",
+"applause",
 "decency",
 "victory",
 "civil",
@@ -26123,8 +26123,8 @@
 },
 "distinctive": [
 "lesson",
-"treating",
 "campaign",
+"treating",
 "unworthy",
 "lesser",
 "brother",
@@ -26210,8 +26210,8 @@
 "colorado",
 "water",
 "law",
-"benefit",
 "farms",
+"benefit",
 "irrigation",
 "lands",
 "policy",
@@ -27383,14 +27383,14 @@
 "distinctive": [
 "applause",
 "california",
-"spot",
 "tactics",
+"spot",
 "garden",
 "decency",
 "fought",
 "forestry",
-"law",
-"one's"
+"one's",
+"law"
 ],
 "stats": {
 "words": 2439,
@@ -28016,8 +28016,8 @@
 "scholarship",
 "virtue",
 "body",
-"applause",
-"bear"
+"bear",
+"applause"
 ],
 "stats": {
 "words": 1694,
@@ -28146,9 +28146,9 @@
 "law",
 "applause",
 "win",
-"brotherhood",
 "helped",
 "remember",
+"brotherhood",
 "injustice",
 "brother",
 "new"
@@ -28231,8 +28231,8 @@
 "distinctive": [
 "navy",
 "waters",
-"applause",
 "california",
+"applause",
 "forests",
 "position",
 "believe",
@@ -28374,8 +28374,8 @@
 "prizes",
 "soil",
 "products",
-"applause",
 "agricultural",
+"applause",
 "aim",
 "california",
 "children"
@@ -28498,11 +28498,11 @@
 "civilization",
 "avoid",
 "solve",
-"brotherhood",
 "world's",
+"brotherhood",
 "soil",
 "fail",
-"applause"
+"problems"
 ],
 "stats": {
 "words": 2465,
@@ -29592,11 +29592,11 @@
 "distinctive": [
 "applause",
 "california",
-"system",
 "currency",
+"system",
 "cheers",
-"law",
 "legislation",
+"law",
 "business",
 "laws",
 "virtues"
@@ -30059,8 +30059,8 @@
 ]
 },
 "distinctive": [
-"applause",
 "pacific",
+"applause",
 "incarnate",
 "mediterranean",
 "sea",
@@ -30187,9 +30187,9 @@
 "distinctive": [
 "landmarks",
 "proud",
-"applause",
 "alive",
 "deeds",
+"applause",
 "today",
 "colonel",
 "native",
@@ -30565,8 +30565,8 @@
 ]
 },
 "distinctive": [
-"comrades",
 "first-class",
+"comrades",
 "spanish",
 "old",
 "war"
@@ -30997,8 +30997,8 @@
 "francisco",
 "providing",
 "fleet",
-"congress",
-"san"
+"san",
+"congress"
 ],
 "stats": {
 "words": 922,
@@ -31766,8 +31766,8 @@
 "lesson",
 "brotherhood",
 "square",
-"safety",
 "ease",
+"safety",
 "qualities",
 "love",
 "preach"
@@ -31873,8 +31873,8 @@
 "needed",
 "honesty",
 "preservation",
-"water",
-"loyalty"
+"loyalty",
+"water"
 ],
 "stats": {
 "words": 1919,
@@ -33842,8 +33842,8 @@
 ]
 },
 "distinctive": [
-"applause",
 "pity",
+"applause",
 "life",
 "worth",
 "succeed",
@@ -34376,10 +34376,10 @@
 "territory",
 "metal",
 "pacific",
-"greatness",
 "river",
-"mines",
+"greatness",
 "settlers",
+"mines",
 "secure"
 ],
 "stats": {
@@ -35054,10 +35054,18 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 2180,
+"paragraphs": [
+"Mr. Governor; Mr. Mayor; My Fellow Citizens:",
+"It is a great pleasure to have the chance of saying a few words of greeting to you this morning. You are not strangers to me. It is twenty years ago that I first came into Montana; and the eastern part of your state, the cow country, I knew well. (Cheers and applause) There is one town in the easternmost part of Montana where I came pretty near being the oldest living inhabitant. From the very beginning I have believed implicitly in you and your state; and no man outside of its limits has rejoiced more sincerely as that belief has been made good by the events. (Applause)",
+"In thanking all of you for your greeting to-day, I know that the rest will not object to my saying a special word of thanks to the men of the great civil war, to the men of the Grand Army, who occupy for all time the right of the line in the march of civic affairs. (Applause) It pleased me so to-day to see together with the men who wore the blue, representatives of the men who wore the gray. Our war, terrible and awful though it was, has been in its outcome the most beneficent war which history has ever known; for that war left us not only a reunited country, guaranteed to us at the cost of four years of bloodshed, for ever and aye within our own borders, guaranteed to us an ever growing greatness as one people among the nations of mankind; not only did it do that, but it left us the right of brotherhood with the gallant vanquished, it left every American the right to feel a keen thrill of pride in every deed of valor, every deed of self-devotion, done in that war alike by those who so gallantly wore the blue and by those who so gallantly wore the gray. (Applause) All Americans are the better to-day because of the self-devotion, the courage, the steadfastness, the endurance, the iron resolution, shown by the men of the civil war, by the men who followed Grant, and by those with whom you of the Grand Army by your victory gave us the right of countrymen-- by those who followed Lee.",
+"I wish furthermore to say a word of special greeting to my own comrades, the men of the Spanish-American war; and to the men of the big war (for ours was a little one) I do not have to say that there is no tie that binds a man quite as close to any other man as the tie of having served in the same war. Of course we had a difficulty from which you of '61 to '65 were entirely free-- in our case there was not enough war to go around. (Laughter and applause) You did not have any trouble of that kind. It was characteristic of Montana, and to be expected, that her sons should leap eagerly forward in '98 when the flag again called for service. You could not help it; There were too many old soldiers in this state; and the pioneers, the men who made this state, fundamentally showed exactly the same qualities that the men of the great civil war showed, the same qualities of hardihood, of resolution, of daring, of willingness to take risks for a sufficient object-- with a state founded by, and made up, of such people, naturally your sons leaped forward when the chance came for them in their turn to show themselves the equals of their sires.",
+"It is a great pleasure to come through this state, and to see legibly written for the most unobservant to read the assured promise of the future greatness. I sometimes think that you, yourselves, do not altogether realize how great that future will be. Your mines count for much; your ranches count for much; but most of all is going to be done by the water; (Applause) and in two ways. In the first place, thanks to the rapid fall of the rivers from the mountains, there is a well-nigh inexhaustible source of power in your streams, which will certainly be used for the building up of great manufactories [?]. We are going to see great manufacturing centers here in Montana taking advantage of the power of your waters. In the next place these waters will be used under wise schemes of irrigation until you make this whole state blossom like a rose. You need, first of all, to distribute the water in space through the irrigating ditches, and then to preserve it in time by storage reservoirs; so as to keep the floods that run to waste at one season for use at the season when they are most needed. The Congress, the national legislature, has not of recent years put upon the statute book any law as wise and as beneficent as the national irrigation act of a year ago. (Applause) It marks the beginning of the scheme of using aright the waters which have been allowed to go to waste; and as all of you know, when irrigation becomes an accomplished fact and the waters are used in accordance with the right principles of irrigation we always find that rainfall is a very poor substitute for it. We are past in irrigation the stage of preliminary experiments. There is no question of what can be done by it; the question merely is as to the methods, as to the means, of making it most effective. In my judgment [?] the greatest development within our borders, the greatest development not on the seacoast of the United States, during the next half century will be the development of what have been called the arid and semi-arid lands, under the application of the principles of irrigation. I want to say one thing with emphasis. In endeavoring to secure the adoption of the irrigation law I was met with protest from people dwelling in the humid regions, who believed that the building up of agriculture in an exttensive form on the arid regions through irrigation would be detrimental to them. It cannot too often be said that it is never detrimental to any section of this country to have another section built up. In the long run we are going to up or go down together. In the long run what benefits one part is going to benefit more or less all parts. The old thirteen colonies, especially in the north east, a century ago looked with great anxiety and nervousness upon the settlement and growth of the Ohio valley and Great Lakes region. They thought that it would mean damage to them to have new and great agricultural states grow up between the Alleghenies and the Mississippi and the Great Lakes. It did not mean damage to them. They have grown too. Both sections have grown; and the country of course profited immensely. So in the same way it will be an advantage to all of the states in the Mississippi valley and eastward of the Alleghenies when these states of the Rocky Mountains and the great plains grow in wealth, in resources, and in population. With every growth of irrigated agriculture in this country there will come a corresponding growth of manufacturing at once, a growth in commerce, a growth in population, which population will itself largely absorb the products of that irrigated agriculture, and which will demand further products from the eastern centers of manufacture and population. The growth of the Rocky Mountain states in greatness means further growth to the communities east and west of them. It does not mean detriment to the other states of the Union; it means advantage to them; it means a help to them; just exactly as prosperity in the eastern states means prosperity in the Rocky Mountains. Prosperity does not stop at state lines; it goes right along over them. I am sorry to say adversity does the same thing. Our people need to have it made part of their fiber, need to have it put into their inmost thought and habits of feeling, that any development in any section of the country is a good thing for all the country; so I not only congratulate you upon the growth to greatness of your state, but I congratulate the entire Union upon that growth. (Applause)",
+"In the irrigation work a beginning has been made. We will have to feel our way along, because it is important not to make mistakes. The nation can do a good deal; the state governments themselves can do a good deal; most of all of course must be done by the individual citizens themselves, either individually or in associations; but one policy we must have clearly settled in our own minds as the one to follow -- the whole aim of what we do in irrigation must be to put actual home makers on the land. We must not permit the scheme of irrigation to be diverted from its proper purpose; to be diverted into allowing large tracts of land to be held by single individuals or by companies for speculative objects. That is not the proper purpose. (Cheers and applause) Our object, which we must pursue unswervingly, must be to divide the irrigated lands into tracts of suitable size each for the actual home maker who dwells on it and cultivates it, who intends to live in the country and to bring up his children to be citizens of it. That is the type of man for whose welfare we must work; because he is the man who makes ultimately the best type of citizen for the state itself.",
+"Something, and I think a good deal, can be done both by the nation and the state in irrigation. It was essential that both should act; but after all the only thing that the government can do is to give the chance to the average man to work out his own salvation under reasonably favorable circumstances. No act, no law, no scheme of law, can ever supply the place of the man's own individual qualities. It is just as it was in war, as the veterans know; you could give a man a nice gun, a nice uniform, even train him, and if he did not have the right stuff in him you could not get it out of him. (Applause) Weapons are very necessary. I think all of us who have had the experience do not want black powder muskets when the other side has smokeless powder muskets. If two men are pretty evenly matched the man with the best weapon will win. But if a man has not got the fighting edge in him you can give him any weapon and he will be beaten by a good man with a club. Now that is true on the other side. It is just the same in citizenship. Exactly as in battle it is the man behind the gun who counts most (the gun counts too, don't think that I fail to understand that) so in any community it is the man behind the law, the man who acts under and through the law who really counts in the long run in building up a nation. There are other nations with constitutions modeled exactly on ours, with laws like ours, where nevertheless the net out come of national growth has been as different from ours as one pole is from the other; because the type of citizenship was different. We have progressed as a nation partly because of the natural advantages, partly because of our constitution, our laws, our system of government, but chiefly because of the average quality of the average man and woman who went to make up our people; (Applause) and so long as we can keep up the average standard of our citizenship, just so long we can count upon going steadily forward in our allotted work. To do that we need more than one quality. We need stout bodies; and we need even more strong minds; and finally we need what counts for more than body and more than mind -- character; character, which is the all-essential element in the growth of a nation and in the growth of an individual; character, into which many elements enter, but three above all; the quality of honesty, for without that, ability physical or mental merely makes a man a curse to his neighbors and to the state; the quality of honesty first, and in addition the quality of courage, of hardihood, the quality to which we allude when we speak of a man as not merely a good man, but emphatically a man; and in addition thereto, in addition to honesty, in addition to courage, the saving grace of common sense. I believe in your future; I believe in the future of this nation; because I believe that the average American citizen has in him just those qualities of honesty, of courage, and of common sense. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35079,13 +35087,94 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0485, 0486, 0487",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0485",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Governor; Mr. Mayor; My Fellow Citizens:",
+"It is a great pleasure to have the chance of saying a few words of greeting to you this morning. You are not strangers to me. It is twenty years ago that I first came into Montana; and the eastern part of your state, the cow country, I knew well. (Cheers and applause) There is one town in the easternmost part of Montana where I came pretty near being the oldest living inhabitant. From the very beginning I have believed implicitly in you and your state; and no man outside of its limits has rejoiced more sincerely as that belief has been made good by the events. (Applause)",
+"In thanking all of you for your greeting to-day, I know that the rest will not object to my saying a special word of thanks to the men of the great civil war, to the men of the Grand Army, who occupy for all time the right of the line in the march of civic affairs. (Applause) It pleased me so to-day to see together with the men who wore the blue, representatives of the men who wore the gray. Our war, terrible and awful though it was, has been in its outcome the most beneficent war which history has ever known; for that war left us not only a reunited country, guaranteed to us at the cost of four years of bloodshed, for ever and aye within our own borders, guaranteed to us an ever growing greatness as one people among the nations of mankind; not only did it do that, but it left us the right of brotherhood with the gallant vanquished, it left every American the right to feel a keen thrill of pride in every deed of valor, every deed of self-devotion, done in that war alike by those who so gallantly wore the blue and by those who so gallantly wore the gray. (Applause) All Americans are the better to-day because of the self-devotion, the courage, the steadfastness, the endurance, the iron resolution, shown by the men of the civil war, by the men who followed Grant, and by those with whom you of the Grand Army by your victory gave us the right of countrymen-- by those who followed Lee.",
+"I wish furthermore to say a word of special greeting to my own comrades, the men of the Spanish-American war; and to the men of the big war (for ours was a little one) I do not have to say that there is no tie that binds a man quite as close to any other man as the tie of having served in the same war. Of course we had a difficulty from which you of '61 to '65 were entirely free-- in our case there was not enough war to go around. (Laughter and applause) You did not have any trouble of that kind. It was characteristic of Montana, and to be expected, that her sons should leap eagerly forward in '98 when the flag again called for service. You could not help it; There were too many old soldiers in this state; and the pioneers, the men who made this state, fundamentally showed exactly the same qualities that the men of the great civil war showed, the same qualities of hardihood, of resolution, of daring, of willingness to take risks for a sufficient object-- with a state founded by, and made up, of such people, naturally your sons leaped forward when the chance came for them in their turn to show themselves the equals of their sires.",
+"It is a great pleasure to come through this state, and to see legibly written for the most unobservant to read the assured promise of the future greatness. I sometimes think that you, yourselves, do not altogether realize how great that future will be. Your mines count for much; your ranches count for much; but most of all is going to be done by the water; (Applause) and in two ways. In the first place, thanks to the rapid fall of the rivers from the mountains, there is a well-nigh inexhaustible source of power in your streams, which will certainly be used for the building up of great manufactories [?]. We are going to see great manufacturing centers here in Montana taking advantage of the power of your waters. In the next place these waters will be used under wise schemes of irrigation until you make this whole state blossom like a rose. You need, first of all, to distribute the water in space through the irrigating ditches, and then to preserve it in time by storage reservoirs; so as to keep the floods that run to waste at one season for use at the season when they are most needed. The Congress, the national legislature, has not of recent years put upon the statute book any law as wise and as beneficent as the national irrigation act of a year ago. (Applause) It marks the beginning of the scheme of using aright the waters which have been allowed to go to waste; and as all of you know, when irrigation becomes an accomplished fact and the waters are used in accordance with the right principles of irrigation we always find that rainfall is a very poor substitute for it. We are past in irrigation the stage of preliminary experiments. There is no question of what can be done by it; the question merely is as to the methods, as to the means, of making it most effective. In my judgment [?] the greatest development within our borders, the greatest development not on the seacoast of the United States, during the next half century will be the development of what have been called the arid and semi-arid lands, under the application of the principles of irrigation. I want to say one thing with emphasis. In endeavoring to secure the adoption of the irrigation law I was met with protest from people dwelling in the humid regions, who believed that the building up of agriculture in an exttensive form on the arid regions through irrigation would be detrimental to them. It cannot too often be said that it is never detrimental to any section of this country to have another section built up. In the long run we are going to up or go down together. In the long run what benefits one part is going to benefit more or less all parts. The old thirteen colonies, especially in the north east, a century ago looked with great anxiety and nervousness upon the settlement and growth of the Ohio valley and Great Lakes region. They thought that it would mean damage to them to have new and great agricultural states grow up between the Alleghenies and the Mississippi and the Great Lakes. It did not mean damage to them. They have grown too. Both sections have grown; and the country of course profited immensely. So in the same way it will be an advantage to all of the states in the Mississippi valley and eastward of the Alleghenies when these states of the Rocky Mountains and the great plains grow in wealth, in resources, and in population. With every growth of irrigated agriculture in this country there will come a corresponding growth of manufacturing at once, a growth in commerce, a growth in population, which population will itself largely absorb the products of that irrigated agriculture, and which will demand further products from the eastern centers of manufacture and population. The growth of the Rocky Mountain states in greatness means further growth to the communities east and west of them. It does not mean detriment to the other states of the Union; it means advantage to them; it means a help to them; just exactly as prosperity in the eastern states means prosperity in the Rocky Mountains. Prosperity does not stop at state lines; it goes right along over them. I am sorry to say adversity does the same thing. Our people need to have it made part of their fiber, need to have it put into their inmost thought and habits of feeling, that any development in any section of the country is a good thing for all the country; so I not only congratulate you upon the growth to greatness of your state, but I congratulate the entire Union upon that growth. (Applause)",
+"In the irrigation work a beginning has been made. We will have to feel our way along, because it is important not to make mistakes. The nation can do a good deal; the state governments themselves can do a good deal; most of all of course must be done by the individual citizens themselves, either individually or in associations; but one policy we must have clearly settled in our own minds as the one to follow -- the whole aim of what we do in irrigation must be to put actual home makers on the land. We must not permit the scheme of irrigation to be diverted from its proper purpose; to be diverted into allowing large tracts of land to be held by single individuals or by companies for speculative objects. That is not the proper purpose. (Cheers and applause) Our object, which we must pursue unswervingly, must be to divide the irrigated lands into tracts of suitable size each for the actual home maker who dwells on it and cultivates it, who intends to live in the country and to bring up his children to be citizens of it. That is the type of man for whose welfare we must work; because he is the man who makes ultimately the best type of citizen for the state itself.",
+"Something, and I think a good deal, can be done both by the nation and the state in irrigation. It was essential that both should act; but after all the only thing that the government can do is to give the chance to the average man to work out his own salvation under reasonably favorable circumstances. No act, no law, no scheme of law, can ever supply the place of the man's own individual qualities. It is just as it was in war, as the veterans know; you could give a man a nice gun, a nice uniform, even train him, and if he did not have the right stuff in him you could not get it out of him. (Applause) Weapons are very necessary. I think all of us who have had the experience do not want black powder muskets when the other side has smokeless powder muskets. If two men are pretty evenly matched the man with the best weapon will win. But if a man has not got the fighting edge in him you can give him any weapon and he will be beaten by a good man with a club. Now that is true on the other side. It is just the same in citizenship. Exactly as in battle it is the man behind the gun who counts most (the gun counts too, don't think that I fail to understand that) so in any community it is the man behind the law, the man who acts under and through the law who really counts in the long run in building up a nation. There are other nations with constitutions modeled exactly on ours, with laws like ours, where nevertheless the net out come of national growth has been as different from ours as one pole is from the other; because the type of citizenship was different. We have progressed as a nation partly because of the natural advantages, partly because of our constitution, our laws, our system of government, but chiefly because of the average quality of the average man and woman who went to make up our people; (Applause) and so long as we can keep up the average standard of our citizenship, just so long we can count upon going steadily forward in our allotted work. To do that we need more than one quality. We need stout bodies; and we need even more strong minds; and finally we need what counts for more than body and more than mind -- character; character, which is the all-essential element in the growth of a nation and in the growth of an individual; character, into which many elements enter, but three above all; the quality of honesty, for without that, ability physical or mental merely makes a man a curse to his neighbors and to the state; the quality of honesty first, and in addition the quality of courage, of hardihood, the quality to which we allude when we speak of a man as not merely a good man, but emphatically a man; and in addition thereto, in addition to honesty, in addition to courage, the saving grace of common sense. I believe in your future; I believe in the future of this nation; because I believe that the average American citizen has in him just those qualities of honesty, of courage, and of common sense. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 120 (frame 425:0485)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Governor;  Mr. Mayor;  My Fellow Citizens:",
+"It is a great pleasure to have the chance of saying a few words of greeting to you this morning. You are not strangers to me. It is twenty years ago that I first came into Montana;  and the eastern part of your state, the cow country, I knew well. (Cheers and applause) There is one town in the easternmost part of Montana where I came pretty near being the oldest living inhabitant. From the very beginning I have believed implicitly in you and your state;  and no man outside of <del title=\"struck through\">the</del><ins title=\"added by hand\">its</ins> limits <del title=\"struck through\">of your state</del> has rejoiced more sincerely as that belief has been made good by the events. (Applause)",
+"In thanking all of you for your greeting to-day, I know that the rest will not object to my saying a special word of thanks to the men of the great civil war, to the men of the Grand Army, who occupy for all time the right of the line in the march of civic affairs. (Applause) It pleased me so to-day to see together with the men who wore the blue, representatives of the men who wore the gray. <del title=\"struck through\">fxx</del> Our war, terrible and awful though it was, has been in its outcome the most beneficent war which history has ever known;  for that war left us not only a reunited country,guaranteed to us at the cost of four years of bloodshed, for ever and aye within our own borders, guaranteed to us an ever growing greatness as one people among the nations of mankind;  not only did it do that, but it left us the right of brotherhood with the gallant vanquished, it left every American the right to feel a keen thrill of pride in every deed of valor, every deed of self-devotion, done in that war alike by those who so gallantly wore the blue and by those who so gallantly wore the gray. (Applause) All Americans are the better to-day because of the self-devotion, the courage, the steadfastness, the endurance, the iron resolution, shown by the men of the civil war, by the men who followed Grant, and by those with whom you of the Grand Army by your victory gave us the right of countrymen-- by those who followed Lee.",
+"I wish furthermore to say a word of special greeting to my own comrades, the men of the Spanish-American war;  and to the men of the big war (for ours was a little one) I do not have to say that there is no tie <ins title=\"added by hand\">that binds a</ins> man quite as close to any other man as the tie of having served in the same war. Of course <del title=\"struck through\">ix</del> <del title=\"struck through\">xxxx</del> we had a difficulty from which you of <ins title=\"added by hand\">&#x27;</ins><span class=\"sic\" title=\"reads: 61\">_61</span> to &#x27;65 were entirely free-- in our case there <span class=\"pb\">Page 121 (frame 425:0486)</span> was not enough war to go around. (Laughter and applause) You did not have any trouble of that kind. It was characteristic of Montana, and to be expected, that her sons should leap eagerly forward in &#x27;98 when the flag again called for service. You could not help it;  There were too many old soldiers in this state ;  and the pioneers, the men who made this state, fundamentally showed exactly the same qualities that the men of the great civil war showed, the same qualities of hardihood, of resolution, of daring, of willingness to take risks for a sufficient object-- with a state founded by, and made up, of such people, naturally your sons leaped forward when the chance came for them in their turn to show themselves the equals of their sires.",
+"It is a great pleasure to come through this state, and to see legibly written for the most unobservant to read the assured promise of the future greatness. I sometimes think that you, yourselves, do not altogether realize how great that future will be. Your mines count for much;  your ranches count for much;  but most of all is going to be done by the water; (Applause) and in two ways. In the first place, thanks to the rapid fall of the rivers from the mountains, there is a well-nigh inexhaustible source of power in your streams, which will certainly be used for the building up of great <span class=\"unc\" title=\"uncertain reading\">manufactories</span>. We are going to see great <span class=\"sic\" title=\"reads: manufacturing\">manuafcturing</span> centers here in Montana taking advantage of the power of your waters. In the next place these waters will be used under wise schemes of irrigation until you make this whole state blossom like a rose. You need, first of all, to distribute the water in space through the irrigating ditches, and then to preserve it in time by storage reservoirs; so as to keep the floods that run to waste at one season for use at the season when they are most needed. The Congress, the national legislature, has not of recent years put upon the statute book any law as wise and as beneficent as the national irrigation act of a year ago. (Applause) It marks the beginning of the scheme of using aright the waters which have been allowed to go to waste;  and as all of you know, when irrigation becomes an accomplished fact and the waters are used in accordance with the right principles of irrigation we always find that rainfall is a very poor substitute for it. We are past in irrigation the stage of preliminary experiments. There is no question <del title=\"struck through\">xx</del> of what can be done by it;  the question merely is as to the methods, as to the means, of making it most effective. In my <span class=\"unc\" title=\"uncertain reading\">judgment</span> the greatest development <span class=\"pb\">Page 122 (frame 425:0486)</span> within our borders, the greatest development not on the seacoast of the United States, during the next half century will be the development of what have been called the arid and semi-arid lands, under the application of the principles of irrigation. I want to say one thing with emphasis. In endeavoring to secure the adoption of the irrigation law I was met with protest from people dwelling in the humid regions, who believed that the building up of agriculture in an <del title=\"struck through\">in</del><ins title=\"added by hand\">ext</ins>tensive form on the arid regions through irrigation would be detrimental to them. It cannot too often be said that it is never detrimental to <del title=\"struck through\">xxxxx</del>any section of this country to have another section built up. In the long run we are going to up or go down together. In the long run what benefits one part <del title=\"struck through\">xf</del> is going to benefit more or less all parts. The old thirteen colonies, especially in the north east, a century ago looked with great anxiety and nervousness upon the settlement and growth of the Ohio valley and Great Lakes region. They thought that it would <del title=\"struck through\">be damaging</del><ins title=\"added by hand\">mean damage</ins> to them to have new and great <del title=\"struck through\">xxxxxx</del> agricultural states grow up between the Alleghenies and the Mississippi and the Great Lakes. It did not mean damage to them. They have grown too. Both sections have grown;  and the country of course profited immensely . So in the same way it will be an advantage to all of the states in the Mississippi valley and eastward of the Alleghenies when these states of the Rocky Mountains and the great plains grow in wealth, in resources, and in population. With every growth of irrigated agriculture in this country there will come a corresponding growth of manufacturing at once, a growth in commerce, a growth in population, which population will itself largely absorb the products of that irrigated agriculture, and which will demand further products from the eastern centers of manufacture and population. The growth of the Rocky Mountain states <del title=\"struck through\">xxxxx</del> in greatness means further growth to the communities east and west of them. It does not mean detriment to the other states of the Union;  it means advantage to them;  it means a help <span class=\"sic\" title=\"reads: to them\">tothe m</span>;  just exactly as prosperity in the eastern states means prosperity in the <span class=\"sic\" title=\"reads: Rocky\">Rowky</span> Mountains. Prosperity does not stop at state lines;  it goes right along over them. I am sorry to say adversity does the same thing. Our people need to have it made part of their fiber, need to have it put into their inmost thought and habits of feeling, that <del title=\"struck through\">xx</del><ins title=\"added by hand\">any</ins> development in any section of the country is a good thing for all the country;  so I <del title=\"struck through\">xxxxxxxxxxx</del> not only congratulate you upon the growth to <span class=\"pb\">Page 123 (frame 425:0487)</span> greatness of your state, but I congratulate the entire Union upon that growth. (Applause)",
+"In the irrigation work a beginning has been made. We will have to feel our way along, because it is important not to make mistakes. The nation can do a good deal;  the state governments themselves can do a good deal;  most of all of course must be done by the individual citizens themselves, either individually or in associations;  but one policy we must have clearly settled in our own minds as the one to follow -- the whole aim of what we do in irrigation must be to put actual home makers on the land. We must not permit the scheme of irrigation to be diverted from its proper purpose;  to be diverted into allowing large tracts of land to be held by single individuals or by companies for speculative objects. That is not the proper purpose. (Cheers and applause) Our object, which we must pursue unswervingly, must be to divide the irrigated lands into tracts of suitable size each for the actual home maker who dwells on it and cultivates it, who intends to live in the country and to bring up his children to be citizens of it. That is the type of man for whose welfare we must work;  because he is the man who makes ultimately the best type of citizen for the state itself.",
+"Something, and I think a good deal, can be done both by the nation and the state in irrigation. It was essential that both should act;  but after all the only thing that the government can do is to give the chance to the average man to work out his own salvation under reasonably favorable circumstances. No act, no law, no scheme of law, can ever supply the place of the man&#x27;s own individual qualities. It is just as it was in war, as the veterans know;  you could give a man a nice gun, a nice uniform, even train him, and if he did not have the right stuff in him you could not get it out of him. (Applause) Weapons are very necessary. I think all of us who have had the experience do not want black powder muskets when the other side has smokeless powder <span class=\"sic\" title=\"reads: muskets\">nuskets</span>. If two men are pretty evenly matched the man with the best weapon will win. But if a man has not got the fighting edge in him you can give him any weapon <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">alike</span></del> and he will be beaten by a good man with a club. Now that is true on the other side. It is just the same in citizenship. Exactly as in battle it is the man behind the gun who counts most (the gun counts too, don&#x27;t think that I fail to understand that) so in any community it is the man behind the law, the man who acts under and through the law who really counts in the long run in building up a nation. There are <span class=\"pb\">Page 124 (frame 425:0487)</span> other nations with constitutions modeled exactly on ours , with laws like ours, where nevertheless the net out<del title=\"struck through\">xxx</del> come of national growth has been as different <del title=\"struck through\">xx</del> from ours as one pole is from the other;  because the type of citizenship was different. We have progressed as a nation partly because of the natural advantages, partly because of our <span class=\"sic\" title=\"reads: constitution\">consititution</span>, our laws, our system of government, but chiefly because of the average quality of the average man and woman who went to make up our people;  (Applause) and so long as we can keep up the <del title=\"struck through\">xxxxxxxx</del> average standard of our citizenship, just so long we can count upon going steadily forward in our allotted work. To do that we need more than one quality. We need stout bodies;  and we need even more strong minds;  and finally we need what counts for more than body and more than mind -- character;  character,which is the all-essential element in the growth of a nation <span class=\"sic\" title=\"reads: and in\">andin</span> the growth of an individual;  character, into which many elements enter, but three above all;  the quality of honesty, for without that, ability physical or mental <del title=\"struck through\">xxxxx</del> merely makes a man a curse to his neighbors and to the state;  the quality of honesty first , and in addition the quality of courage, of hardihood, the quality to which we allude when we speak of a man as not merely a good man, but emphatically a man;  and in addition thereto, in addition to honesty, in addition to courage, the saving grace of common sense. I believe in your future;  I believe in the future of this nation;  because I believe that the average American citizen has in him just those qualities of honesty, of courage, and of common sense. (Cheers and applause)",
+"<span class=\"tnote\">Typed page numbers -2- to -5- at the heads of pages 121-124 are omitted.</span>\n<span class=\"tnote\">Many letters are struck over on the typewriter; the final reading is given (e.g. &quot;difficulty&quot; with i over a, &quot;risks&quot;, &quot;statute&quot;, &quot;ultimately&quot;, &quot;of&quot; over p in &quot;citizens of it&quot;, &quot;of&quot; over &quot;to&quot; in &quot;eastward of the Alleghenies&quot;, &quot;Alleghenies&quot; with letters struck over and a blot, &quot;all of&quot; with h under o, &quot;your future&quot;, &quot;There&quot; over &quot;there&quot; on p. 121). Some words are typed in heavier overstrikes (&quot;there&quot; at the foot of p. 120, &quot;of what&quot;, &quot;the means&quot;, &quot;There are&quot;, &quot;all the&quot;).</span>\n<span class=\"tnote\">p. 120: a hand slash after &quot;gray&quot; and a hand-written apostrophe before &quot;61&quot; (typed as &quot;_61&quot;). p. 123: a hand stroke after &quot;run&quot; in &quot;the long run in building&quot;, possibly cancelling a comma. These are given as noted, not as text changes, except the apostrophe.</span>\n<span class=\"tnote\">p. 121: &quot;<span class=\"unc\" title=\"uncertain reading\">manufactories</span>&quot; has o and u struck over each other; &quot;<span class=\"unc\" title=\"uncertain reading\">judgment</span>&quot; is partly covered by an ink blot. p. 122: &quot;mean damage&quot; is typed between the lines above the x-ed out &quot;be damaging&quot;; &quot;ext&quot; is written by hand over a struck &quot;in&quot; to make &quot;extensive&quot;. p. 123: the word struck by hand after &quot;weapon&quot; is smudged; it may be &quot;alike&quot;. p. 124: &quot;any&quot; is typed between the lines above an x-ed out word.</span>\n<span class=\"tnote\">Third look: &quot;_61&quot; is typed with an underscore and the apostrophe is added by hand above it; the o/u overstrike in &quot;<span class=\"unc\" title=\"uncertain reading\">manufactories</span>&quot; cannot be resolved; after &quot;question&quot; two typed letters are x-ed out, not a word.</span>"
+],
+"notes": [
+"Typed page numbers -2- to -5- at the heads of pages 121-124 are omitted.",
+"Many letters are struck over on the typewriter; the final reading is given (e.g. \"difficulty\" with i over a, \"risks\", \"statute\", \"ultimately\", \"of\" over p in \"citizens of it\", \"of\" over \"to\" in \"eastward of the Alleghenies\", \"Alleghenies\" with letters struck over and a blot, \"all of\" with h under o, \"your future\", \"There\" over \"there\" on p. 121). Some words are typed in heavier overstrikes (\"there\" at the foot of p. 120, \"of what\", \"the means\", \"There are\", \"all the\").",
+"p. 120: a hand slash after \"gray\" and a hand-written apostrophe before \"61\" (typed as \"_61\"). p. 123: a hand stroke after \"run\" in \"the long run in building\", possibly cancelling a comma. These are given as noted, not as text changes, except the apostrophe.",
+"p. 121: \"manufactories [?]\" has o and u struck over each other; \"judgment [?]\" is partly covered by an ink blot. p. 122: \"mean damage\" is typed between the lines above the x-ed out \"be damaging\"; \"ext\" is written by hand over a struck \"in\" to make \"extensive\". p. 123: the word struck by hand after \"weapon\" is smudged; it may be \"alike\". p. 124: \"any\" is typed between the lines above an x-ed out word.",
+"Third look: \"_61\" is typed with an underscore and the apostrophe is added by hand above it; the o/u overstrike in \"manufactories [?]\" cannot be resolved; after \"question\" two typed letters are x-ed out, not a word."
+],
+"file": "transcriptions/1903-05-27-helena.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"conservation",
+"citizenship",
+"civil-war"
+],
+"mentions": {
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+}
+],
+"places": [
+{
+"id": "the-west",
+"name": "The West",
+"count": 2
+},
+{
+"id": "mississippi-river",
+"name": "The Mississippi",
+"count": 2
+},
+{
+"id": "spain",
+"name": "Spain",
+"count": 1
+}
+]
+},
+"distinctive": [
+"irrigation",
+"growth",
+"montana",
+"applause",
+"irrigated",
+"waters",
+"rocky",
+"quality",
+"wore",
+"population"
+],
+"stats": {
+"words": 2180,
+"unique_words": 635,
+"sentences": 57,
+"avg_sentence": 38.2,
+"minutes": 17,
+"i_count": 19,
+"we_count": 20
+}
 },
 {
 "id": "1903-05-27-butte",
@@ -35455,10 +35544,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 610,
+"paragraphs": [
+"My Fellow Citizens:",
+"Let me thank you most cordially for your greeting. I am glad to see all of you, but I do not know but what I am most pleased to see the children. It has been a great pleasure to come here into Idaho. I know your state of old although I have never been out to Boise, but in the old days I was out in the mountains in the eastern part of your state.",
+"One thing that has particularly pleased me in making this trip from the Atlantic to the Pacific, right across the continent, has been the fact of the fundamental unity of our people. A good American is a good American in whatever part of this country you find him. That is the important lesson to learn. I have been here in the west for six weeks and I think I was a pretty good American when I came, but I am going away a better American. (Applause)",
+"I have been struck coming through this state -- a state with its mines and timber in the north, and here the grazing country -- with the wonderful results achieved wherever water has been put upon the soil. I do not believe that there is any state in this country which will benefit more through the workings of the irrigation act than this state of Idaho; and nothing has pleased me more than to have had my part in getting the national government to aid in the work. Much can be done by the aid of the government, by the aid of the state; but after all, the fundamental thing in bringing success to any community is the quality of the average man, the average woman, in that community. I believe in your future; I believe in the future of the nation of which you and I are a part, because I believe that we have just that average quality of citizenship in our men and women.",
+"No law that the wit of man has ever devised ever can make or ever will make a fool wise, or a coward brave, or a weakling strong. All that the law can do is to try to secure a fair deal, to try to give each man a chance to show the stuff that is in him;; and [?] if the stuff is not in him you cannot get it out of him, because it is not there. (Applause)",
+"It is a good thing to have a sound body. It is a better thing to have a sound mind. Best of all it is to have what counts for more than body and more than mind -- character; character, into which a good many [?] different elements enter, but three especially; in the first place the element of honesty, of decency, using it in its widest bearing, the element that makes a man a good husband, a good father, a good neighbor, a good man to work along side of or to deal with; and then in addition to that we need courage, hardihood, the qualities that every railroad man -- every man on the engine or firing -- has got to show, the qualities that make me very glad to be an honorary member of the brotherhood, the qualities that we speak of when we say of a man that he is not only a good man, but a man; and finally, in addition to courage and honesty we need the saving grace of common sense, for without that a man will make but scant headway in the world. I am very glad to have had the chance of seeing you. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35480,13 +35576,68 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0499, 0500",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0499",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow Citizens:",
+"Let me thank you most cordially for your greeting. I am glad to see all of you, but I do not know but what I am most pleased to see the children. It has been a great pleasure to come here into Idaho. I know your state of old although I have never been out to Boise, but in the old days I was out in the mountains in the eastern part of your state.",
+"One thing that has particularly pleased me in making this trip from the Atlantic to the Pacific, right across the continent, has been the fact of the fundamental unity of our people. A good American is a good American in whatever part of this country you find him. That is the important lesson to learn. I have been here in the west for six weeks and I think I was a pretty good American when I came, but I am going away a better American. (Applause)",
+"I have been struck coming through this state -- a state with its mines and timber in the north, and here the grazing country -- with the wonderful results achieved wherever water has been put upon the soil. I do not believe that there is any state in this country which will benefit more through the workings of the irrigation act than this state of Idaho; and nothing has pleased me more than to have had my part in getting the national government to aid in the work. Much can be done by the aid of the government, by the aid of the state; but after all, the fundamental thing in bringing success to any community is the quality of the average man, the average woman, in that community. I believe in your future; I believe in the future of the nation of which you and I are a part, because I believe that we have just that average quality of citizenship in our men and women.",
+"No law that the wit of man has ever devised ever can make or ever will make a fool wise, or a coward brave, or a weakling strong. All that the law can do is to try to secure a fair deal, to try to give each man a chance to show the stuff that is in him;; and [?] if the stuff is not in him you cannot get it out of him, because it is not there. (Applause)",
+"It is a good thing to have a sound body. It is a better thing to have a sound mind. Best of all it is to have what counts for more than body and more than mind -- character; character, into which a good many [?] different elements enter, but three especially; in the first place the element of honesty, of decency, using it in its widest bearing, the element that makes a man a good husband, a good father, a good neighbor, a good man to work along side of or to deal with; and then in addition to that we need courage, hardihood, the qualities that every railroad man -- every man on the engine or firing -- has got to show, the qualities that make me very glad to be an honorary member of the brotherhood, the qualities that we speak of when we say of a man that he is not only a good man, but a man; and finally, in addition to courage and honesty we need the saving grace of common sense, for without that a man will make but scant headway in the world. I am very glad to have had the chance of seeing you. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 146 (frame 425:0499)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Fellow Citizens:",
+"Let me thank you most cordially for your greeting. I am glad to see all of you, but I do not know but what I am most pleased to see the children. It has been a great pleasure to come here into Idaho. I know your state of old although I have never been <del title=\"struck through\">xxxxxxx</del> out to Boise, but in the old days I was out in the mountains in the eastern part of your state.",
+"One thing that has particularly pleased me in making this trip from the Atlantic to the Pacific, right across the continent, has been the fact of the fundamental unity of our people. A good American is a good American in whatever part of this country you find him. That is the important lesson to learn. I have been here in the west for six weeks and I think I was a pretty good American when I came, but I am going away a better American. (Applause)",
+"I have been struck coming through this state  -- a state with its mines and timber in the north, and here the grazing country -- with the wonderful results achieved wherever water has been put upon the soil. I do not believe that there is any state <del title=\"struck through\">that <span class=\"illeg\">[illegible]</span> state</del> in this country which will benefit more through the workings of the irrigation act than this state of Idaho;  and nothing has pleased <ins title=\"added by hand\">me</ins> more than to have had my part in getting the national government to aid in the work. Much can be done by the aid of the government, by the aid of the state;  but after all, the fundamental thing in bringing success to any community is the quality of the average man, the average woman, in that community. I believe in your future;  I believe in the future of the <del title=\"struck through\">xxxxxx</del> nation of which you and I are a part, because I believe that we have just that average quality of <span class=\"sic\" title=\"reads: citizenship\">citisenship</span> in our men and women.",
+"No law that the wit of man has ever devised ever can make or ever will make a fool wise, or a coward brave, or a weakling strong. All that the law can do is to try to secure a fair deal, to try to give each man a chance to show the stuff that is in him;;  <span class=\"unc\" title=\"uncertain reading\">and</span> if the stuff is not in him you cannot get it out of him, because it is not there. (Applause)",
+"It is a good thing to have a sound body. It is a better thing to have a sound mind. Best of all it is to have what counts for more than body and more than mind -- character;  character, into which a good man<span class=\"unc\" title=\"uncertain reading\">y</span> different elements <span class=\"pb\">Page 147 (frame 425:0500)</span> enter, but three especially;  in the first place the element of honesty, of decency, using it in its widest <del title=\"struck through\">xxxxxxx</del><ins title=\"added by hand\">bearing</ins>, the element that makes a man a good husband, a good father, a good neighbor, a good man to work along side of or to deal with;  and then in addition to that we need courage, hardihood, the qualities that every railroad man  -- every man on the engine or firing -- has got to show, the qualities that make me very glad to be <del title=\"struck through\">xxxxxxx</del>  an honorary member of the brotherhood, the qualities that we speak of when we say of a man that he is not only a good man, but a man;  and finally, in addition to courage and honesty we need the saving grace of common sense, for without that a man will make but scant headway in the world. I am very glad to have had the chance of seeing you. (Cheers and applause)",
+"<span class=\"tnote\">The typed page number -2- at the head of folio 147 is omitted.</span>\n<span class=\"tnote\">Folio 146: the words struck by hand after &quot;any state&quot; begin &quot;that&quot; and end &quot;state&quot;; the middle is illegible. &quot;me&quot; after &quot;pleased&quot; is added by hand with a caret. In &quot;man<span class=\"unc\" title=\"uncertain reading\">y</span> different&quot; the y is struck over by another letter and a hand stroke separates the two words.</span>\n<span class=\"tnote\">Folio 147: &quot;bearing&quot; is typed between the lines above the x-ed out word; &quot;three&quot; has its r struck over another letter. Other letters struck over on the typewriter (e.g. &quot;has got&quot;, &quot;but scant&quot;, and &quot;me&quot; in &quot;particularly pleased me&quot; on folio 146) are given in their final reading.</span>\n<span class=\"tnote\">Third look: &quot;citisenship&quot; is typed with s; the first letters of &quot;<span class=\"unc\" title=\"uncertain reading\">and</span>&quot; after &quot;him;;&quot; are struck over on the typewriter, so its capital cannot be read.</span>"
+],
+"notes": [
+"The typed page number -2- at the head of folio 147 is omitted.",
+"Folio 146: the words struck by hand after \"any state\" begin \"that\" and end \"state\"; the middle is illegible. \"me\" after \"pleased\" is added by hand with a caret. In \"many [?] different\" the y is struck over by another letter and a hand stroke separates the two words.",
+"Folio 147: \"bearing\" is typed between the lines above the x-ed out word; \"three\" has its r struck over another letter. Other letters struck over on the typewriter (e.g. \"has got\", \"but scant\", and \"me\" in \"particularly pleased me\" on folio 146) are given in their final reading.",
+"Third look: \"citisenship\" is typed with s; the first letters of \"and [?]\" after \"him;;\" are struck over on the typewriter, so its capital cannot be read."
+],
+"file": "transcriptions/1903-05-28-glenns-ferry.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"conservation"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"pleased",
+"aid",
+"average",
+"qualities",
+"applause",
+"state",
+"believe",
+"glad",
+"american",
+"country"
+],
+"stats": {
+"words": 610,
+"unique_words": 230,
+"sentences": 16,
+"avg_sentence": 38.1,
+"minutes": 5,
+"i_count": 18,
+"we_count": 5
+}
 },
 {
 "id": "1903-05-28-kimama",
@@ -35582,10 +35733,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 366,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It has been a great pleasure to have been traveling in Idaho to-day; and now after having traversed a good deal of sage brush to come here to see what can be done by a proper mixture of intelligence, industry, and water, in substituting for the sage brush fruit and green crops. I doubt if there is any state which will profit more by the increase in the application of irrigation to our needs than is the case with the state of Idaho. Most of our people, especially our people in the east, have no fair idea how much can be done in the development of these states here under that irrigation system. I do not believe that Congress has for many years passed any law relating to our internal development so wise as the irrigation law of a year ago.",
+"To-day passing by I noted far to the north the spot where one of the first experiments under that act is to be tried. I wish to say that our object in our whole irrigation policy should be to build up home makers, to build up the people who take each the land that he himself can attend to and till and who intend to rear their children on the soil. Our object should be sedulously to provide against letting great tracts of land go into the hands of any one man or of any one corporation. On the contrary we should endeavor to save the land for its actual occupiers, for the men who will actually build up homes upon it, homes in which I shall hope to see plenty of healthy children. (Applause) I congratulate you upon the output from the mines, lumber, the ranches, but most of all upon the children. (Cheers and applause) I am glad that they seem to be all right in quality and all right in quantity.",
+"It has particularly pleased me in coming through this state to see the excellent schools you have built, and the care with which you are training the next generation. I believe in you, and I want to see the future people like you.",
+"(cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35607,13 +35764,60 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0500",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0500",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It has been a great pleasure to have been traveling in Idaho to-day; and now after having traversed a good deal of sage brush to come here to see what can be done by a proper mixture of intelligence, industry, and water, in substituting for the sage brush fruit and green crops. I doubt if there is any state which will profit more by the increase in the application of irrigation to our needs than is the case with the state of Idaho. Most of our people, especially our people in the east, have no fair idea how much can be done in the development of these states here under that irrigation system. I do not believe that Congress has for many years passed any law relating to our internal development so wise as the irrigation law of a year ago.",
+"To-day passing by I noted far to the north the spot where one of the first experiments under that act is to be tried. I wish to say that our object in our whole irrigation policy should be to build up home makers, to build up the people who take each the land that he himself can attend to and till and who intend to rear their children on the soil. Our object should be sedulously to provide against letting great tracts of land go into the hands of any one man or of any one corporation. On the contrary we should endeavor to save the land for its actual occupiers, for the men who will actually build up homes upon it, homes in which I shall hope to see plenty of healthy children. (Applause) I congratulate you upon the output from the mines, lumber, the ranches, but most of all upon the children. (Cheers and applause) I am glad that they seem to be all right in quality and all right in quantity.",
+"It has particularly pleased me in coming through this state to see the excellent schools you have built, and the care with which you are training the next generation. I believe in you, and I want to see the future people like you.",
+"(cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 148 (frame 425:0500)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Friends and Fellow Citizens:",
+"It has been a great pleasure to have been traveling in Idaho to-day;  and now after having traversed a good deal of sage brush to come here to see what can be done by a proper mixture of intelligence, industry, and water, in substituting for the sage brush fruit and green crops. I doubt if there is any state which will profit more by the increase in the application of irrigation to our<del title=\"struck through\">s</del> needs than is the case with the state of Idaho. Most of our people, especially our people in the east, have no fair idea how much can be done in the development of these states here under that irrigation system. I do not believe that Congress has for many years passed any law relating to our internal development so wise as the irrigation law of a year ago.",
+"To-day passing by I noted far to the <del title=\"struck through\">xxxx</del> north the spot where one of the first experiments under that act is to be tried. I wish to say that our object in our whole irrigation policy should be to build up home makers, to build up the people who take each the land that he himself can attend to and till and who intend to rear their children on the soil<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">,</span></del><ins title=\"added by hand\">.</ins> <del title=\"struck through\">our</del><ins title=\"added by hand\">Our</ins> object should be sedulously to provide against letting great tracts of land go into the hands of any one man or of any one corporation. On the contrary we should endeavor to save the land for its actual occupiers, for the men who will actually build up homes upon it, homes in which I shall hope to see plenty of healthy children. (Applause) I congratulate you upon the output from the mines, lumber, the ranches, but most of all upon the children. (Cheers and applause) I am glad that they seem to be all right in quality and all right in <del title=\"struck through\">quality</del><ins title=\"added by hand\">quantity.</ins>",
+"It has particularly pleased me in coming through this state to see the excellent schools you have built, and the care with which you are training the next generation. I believe in you, and I want to see the future people like you.",
+"(cheers and applause)",
+"<span class=\"tnote\">After &quot;soil&quot; the typed mark, probably a comma, is circled by hand to make a full stop and the o of &quot;our&quot; is underlined twice for a capital. The s of &quot;ours&quot; is struck by hand. &quot;quantity.&quot; is written by hand after the struck &quot;quality&quot;.</span>\n<span class=\"tnote\">Below the last line is a faint mirror-image offset of typed text from a facing page; not transcribed. Letters struck over on the typewriter (&quot;Fellow&quot;, &quot;under&quot;, &quot;tracts&quot;) are given in their final or intended reading.</span>"
+],
+"notes": [
+"After \"soil\" the typed mark, probably a comma, is circled by hand to make a full stop and the o of \"our\" is underlined twice for a capital. The s of \"ours\" is struck by hand. \"quantity.\" is written by hand after the struck \"quality\".",
+"Below the last line is a faint mirror-image offset of typed text from a facing page; not transcribed. Letters struck over on the typewriter (\"Fellow\", \"under\", \"tracts\") are given in their final or intended reading."
+],
+"file": "transcriptions/1903-05-28-mountain-home.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family",
+"conservation"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"irrigation",
+"build",
+"land",
+"applause",
+"children",
+"state"
+],
+"stats": {
+"words": 366,
+"unique_words": 190,
+"sentences": 10,
+"avg_sentence": 36.6,
+"minutes": 3,
+"i_count": 9,
+"we_count": 1
+}
 },
 {
 "id": "1903-05-28-nampa",
@@ -35720,10 +35924,18 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1384,
+"paragraphs": [
+"Mr. Mayor, and you, my fellow-citizens:",
+"It is a great pleasure to be here in this city, in this state, and to greet you this morning. I wish to acknowledge the courtesy of those who escorted me-the veterans of the great war, my own comrades of the Spanish American war, and the men of the national guard,-- and to congratulate Idaho upon what she is doing with her National Guard; and in greeting all of you I want to say a word of special recognition of the children. As you all know, I believe in children and in plenty of them. Much though [?] I congratulate Idaho upon her forests and mines in the northern part of the state, upon all her industrial development, upon her railroads upon what she will be able to make out of irrigated agriculture, upon all her products, the product upon which I congratulate her most is the children. I am glad to see that they seem all right in point of quality and in point of quantity. I have only one word to say to them. I believe in play and I believe in work. Play hard while you play, and when you work don't play at all. (Applause.)That is middling good advice for the elder folks too.",
+"This is a railroad town. [?] I have been and am now on a trip during which on every day and during every hour my safety and well-being depend absolutely upon the vigilance, skill, nerve and fidelity of the railroad men; and I would like to say a special word to and about them this morning. The last time that I saw General Sherman he told me that if there ever were a war and he were limited to choosing men of one occupation he [?] would take all his soldiers from among the railroad men-that is if he were limited to one occupation, for there are good men in every occupation, but he would take them all if he only had to choose from one occupation, because a railroad man has to develop four or five of the qualities most indispensable in a soldier; In the first place, capacity to face risk undaunted. Railroading is one of those professions which like following the deep sea fisheries necessarily imply [?] the acceptance of risk and danger. In the next place the man has not only learned to endure risk but to face hardships.",
+"Very few outside of those who have known intimately what railroading means appreciate what a ride, especially a night ride in the winter time, is on one of our trains, handling the brakes, doing all the work along the train. The men have to face risks and hardship. More than that they have to face irregular hours. Any one who has ever done any soldiering knows that one of the difficulties to be overcome with the average man is to make him understand that he is not to sleep every night, but just when the chance comes. The railroad man knows that already. Finally and most important of all, the railroad man has learned two things. He has learned how to act on his own responsibility in time of emergency, how to himself take the lead if the need arises; and also how to obey orders and obey them quickly [?]. There is not any time for wondering whether or not you will do anything at all; it has to be done and done quick. Those were the reasons which General Sherman enumerated in talking to me for his preference for railroad men for army life. The qualities thus developed are of as good service in the field of citizenship in ordinary civil life as in military life.",
+"In this country we need above all things to show our power each to act on his own individual responsibility; each to care for himself, to be able to handle his own life, and yet all of us to act in cooperation with our fellows, to be able to preserve our independence, our self-respect; and one of the means of preserving it is to show that power of living our lives in orderly liberty under the law which is of the essence of our institutions. I therefore take peculiar pleasure in greeting the people of a town in which the railroad men play so prominent a part. I wish also to say a word of special acknowledgment for the presence of the men on horseback from the Indian reservation. I was glad to see them; and, Major Caldwell, I was glad to learn that many of the Indians under your care are traveling along the white man's road and beginning not only to send their children to school, but to own cattle and to own property. The only outcome of the Indian question in this country is gradually to develop the Indian into a property owning, law abiding, hard working, educated citizen-- In other words, to train him to travel the path that we are all trying to travel; and I congratulate you upon the progress that you have made. (Applause.) When he is traveling that path and when he is doing his duty he is entitled to and he shall receive exactly as square a deal as any one else. (Applause.)",
+"After all that is the fundamental principle of our government. In the last analysis what America stands for more than for aught else is for treating each man on his worth as a man; if he acts well in whatever walk of life, whatever his ancestry, his creed, his color, give him a fair chance; if he acts badly let nothing protect him from the hand of the law; treat him well, give him every chance, and see that he treats others well in return.",
+"I congratulate you, the men and women of Idaho, upon what you have done for your state. Let me congratulate you especially upon the fact that in addition to the business energy, the thrift, the enterprise that you have shown in material development, you have taken such pains in the bringing up of the next generation. I congratulate you upon your schools and upon your education, both elementary and higher-- The most important things in life, and which we are sometimes tempted to regard as the humdrum and commonplace things. The whole fabric of society rests upon the home. The best citizen is the man who is a good husband, a good father, the woman who is a good wife, a good mother. Of course that is so elementary a fact that like other elementary facts we occasionally forget its existence, that the highest type of citizenship is to be found in the home, and nothing can take the place of the education of the home; the fathers and mothers who educate their children not merely by precept but by practice, for in the intimacy of the home it does very little good to preach if that preaching is not backed up by performance. It is of no use telling the children to tell the truth if they see their elders [?] not telling the truth; no use trying to teach the child to be unselfish if the father or mother is selfish. There is no use in trying to teach the small folks not to shirk their duty if the bigger ones shirk theirs. Nothing can excuse shirking in the performance of duty toward the children by the father and mother; but their work has to be supplemented from the outside; and a special and peculiar debt of gratitude is owing to the men and women who are engaged in teaching, who are engaged in educating the body, mind and soul of the younger generation, and to all, Mr. Mayor, who take part in the work of the school committee in seeing that the educational requirements of any locality are fully and actually met. I am glad to have seen you. It has done me good to come here. I believe in the future of your great state because I believe with all my heart and soul in the quality of the average man and the average woman who go to make up this state, and go to make up this entire union. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -35745,13 +35957,86 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0496, 0497",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0496",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 5 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor, and you, my fellow-citizens:",
+"It is a great pleasure to be here in this city, in this state, and to greet you this morning. I wish to acknowledge the courtesy of those who escorted me-the veterans of the great war, my own comrades of the Spanish American war, and the men of the national guard,-- and to congratulate Idaho upon what she is doing with her National Guard; and in greeting all of you I want to say a word of special recognition of the children. As you all know, I believe in children and in plenty of them. Much though [?] I congratulate Idaho upon her forests and mines in the northern part of the state, upon all her industrial development, upon her railroads upon what she will be able to make out of irrigated agriculture, upon all her products, the product upon which I congratulate her most is the children. I am glad to see that they seem all right in point of quality and in point of quantity. I have only one word to say to them. I believe in play and I believe in work. Play hard while you play, and when you work don't play at all. (Applause.)That is middling good advice for the elder folks too.",
+"This is a railroad town. [?] I have been and am now on a trip during which on every day and during every hour my safety and well-being depend absolutely upon the vigilance, skill, nerve and fidelity of the railroad men; and I would like to say a special word to and about them this morning. The last time that I saw General Sherman he told me that if there ever were a war and he were limited to choosing men of one occupation he [?] would take all his soldiers from among the railroad men-that is if he were limited to one occupation, for there are good men in every occupation, but he would take them all if he only had to choose from one occupation, because a railroad man has to develop four or five of the qualities most indispensable in a soldier; In the first place, capacity to face risk undaunted. Railroading is one of those professions which like following the deep sea fisheries necessarily imply [?] the acceptance of risk and danger. In the next place the man has not only learned to endure risk but to face hardships.",
+"Very few outside of those who have known intimately what railroading means appreciate what a ride, especially a night ride in the winter time, is on one of our trains, handling the brakes, doing all the work along the train. The men have to face risks and hardship. More than that they have to face irregular hours. Any one who has ever done any soldiering knows that one of the difficulties to be overcome with the average man is to make him understand that he is not to sleep every night, but just when the chance comes. The railroad man knows that already. Finally and most important of all, the railroad man has learned two things. He has learned how to act on his own responsibility in time of emergency, how to himself take the lead if the need arises; and also how to obey orders and obey them quickly [?]. There is not any time for wondering whether or not you will do anything at all; it has to be done and done quick. Those were the reasons which General Sherman enumerated in talking to me for his preference for railroad men for army life. The qualities thus developed are of as good service in the field of citizenship in ordinary civil life as in military life.",
+"In this country we need above all things to show our power each to act on his own individual responsibility; each to care for himself, to be able to handle his own life, and yet all of us to act in cooperation with our fellows, to be able to preserve our independence, our self-respect; and one of the means of preserving it is to show that power of living our lives in orderly liberty under the law which is of the essence of our institutions. I therefore take peculiar pleasure in greeting the people of a town in which the railroad men play so prominent a part. I wish also to say a word of special acknowledgment for the presence of the men on horseback from the Indian reservation. I was glad to see them; and, Major Caldwell, I was glad to learn that many of the Indians under your care are traveling along the white man's road and beginning not only to send their children to school, but to own cattle and to own property. The only outcome of the Indian question in this country is gradually to develop the Indian into a property owning, law abiding, hard working, educated citizen-- In other words, to train him to travel the path that we are all trying to travel; and I congratulate you upon the progress that you have made. (Applause.) When he is traveling that path and when he is doing his duty he is entitled to and he shall receive exactly as square a deal as any one else. (Applause.)",
+"After all that is the fundamental principle of our government. In the last analysis what America stands for more than for aught else is for treating each man on his worth as a man; if he acts well in whatever walk of life, whatever his ancestry, his creed, his color, give him a fair chance; if he acts badly let nothing protect him from the hand of the law; treat him well, give him every chance, and see that he treats others well in return.",
+"I congratulate you, the men and women of Idaho, upon what you have done for your state. Let me congratulate you especially upon the fact that in addition to the business energy, the thrift, the enterprise that you have shown in material development, you have taken such pains in the bringing up of the next generation. I congratulate you upon your schools and upon your education, both elementary and higher-- The most important things in life, and which we are sometimes tempted to regard as the humdrum and commonplace things. The whole fabric of society rests upon the home. The best citizen is the man who is a good husband, a good father, the woman who is a good wife, a good mother. Of course that is so elementary a fact that like other elementary facts we occasionally forget its existence, that the highest type of citizenship is to be found in the home, and nothing can take the place of the education of the home; the fathers and mothers who educate their children not merely by precept but by practice, for in the intimacy of the home it does very little good to preach if that preaching is not backed up by performance. It is of no use telling the children to tell the truth if they see their elders [?] not telling the truth; no use trying to teach the child to be unselfish if the father or mother is selfish. There is no use in trying to teach the small folks not to shirk their duty if the bigger ones shirk theirs. Nothing can excuse shirking in the performance of duty toward the children by the father and mother; but their work has to be supplemented from the outside; and a special and peculiar debt of gratitude is owing to the men and women who are engaged in teaching, who are engaged in educating the body, mind and soul of the younger generation, and to all, Mr. Mayor, who take part in the work of the school committee in seeing that the educational requirements of any locality are fully and actually met. I am glad to have seen you. It has done me good to come here. I believe in the future of your great state because I believe with all my heart and soul in the quality of the average man and the average woman who go to make up this state, and go to make up this entire union. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 140 (frame 425:0496)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Mayor, and you, my fellow-citizens :",
+"It is a great pleasure to be here in this city, in this state, and to greet you this morning. I wish to acknowledge the courtesy of those who escorted me-the veterans of the great war, my own comrades of the Spanish American war, and the men of the national guard,-- and to congratulate Idaho upon what she is doing with her National Guard; and in greeting all of you I want to say a word of special recognition of the children<del title=\"struck through\">;</del><ins title=\"added by hand\">.</ins> <del title=\"struck through\">as</del><ins title=\"added by hand\">As</ins> you all know<ins title=\"added by hand\">,</ins> I believe in children and in plenty of them. Much thoug<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">h</span></ins> I <span class=\"sic\" title=\"reads: congratulate\">congratuhate</span> Idaho upon her forests and mines in the northern part of the state, upon all her industrial development , upon her railroads<del title=\"struck through\">xx</del> upon what she will be able to <del title=\"struck through\">xx</del> make out of irrigated agriculture, upon all her products, the product upon which I congratulate her most is the children. I am glad to see that they seem all right in point of quality and in point of quantity. I have only <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> one word to say to them. I believe in play and I believe in work. Play hard while you play, and when you work don&#x27;t play at all. (Applause.)That is middling good advice for the elder folks too.",
+"This is a railroad town<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">;</span></del><ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">.</span></ins> I have been and am now on a trip during which on every day and during every hour my safety and well-being depend absolutely upon the vigilance, skill, nerve and fidelity of the railroad men; and I would like to say a special word to and about them<del title=\"struck through\">x</del> this morning. The last time that I saw General Sherman he told me that if there ever were a war and he were limited to choosing men of one occupation <span class=\"unc\" title=\"uncertain reading\">he</span> would take all his soldiers from among the railroad men-that is if he were limited to one occupation, for there are good men in every occupation, but he would take them all if he only had to choose from one occupation, because a railroad man has to develop four or five of the qualities most indispensable in a soldier; In the first place<ins title=\"added by hand\">,</ins> capacity to face risk undaunted. Railroading is one of  those professions which like following the deep sea fisheries necessarily impl<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">ies</span></del><ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">y</span></ins> the acceptance of risk and danger. In the next place the man has not only learned to  endure risk but to face hardships.",
+"<span class=\"pb\">Page 141 (frame 425:0497)</span>",
+"Very few <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> outside of those who have <ins title=\"added by hand\">known</ins> intimately what railroading means appreciate what a ride, especially a night ride in the winter time,is on one of our trains, handling the brakes, doing all the work along the train. The men have to face risks and hardship. More than that they have to face irregular hours. Any one who has ever done any soldiering knows that one of the difficulties to be overcome with the average man is to make him understand that he is not to sleep every night, but just when the chance comes. The railroad man knows that already. Finally and most important of all, the railroad man has learned two things. He has learned how to act <span class=\"sic\" title=\"reads: on\">an</span> his own responsibility in time of emergency, how to himself take the lead if the need arises; and also how to obey orders and obey them quick<span class=\"unc\" title=\"uncertain reading\">ly</span>. There is not any time for wondering whether or not you will do anything at all; it has to be done and done quick. Those were the reasons which General Sherman enumerated in talking to me for his preference for railroad men for army life. The qualities thus developed are of as good service in the field of citizenship in ordinary civil life as in military life.",
+"In this country we need above all things to show our power each to act on his own individual responsibility; each to care for himself, to be able to handle his own life<ins title=\"added by hand\">,</ins> and yet all of us to act in cooperation with our fellows, to be able to preserve our independence, our self-respect; and one of the means of preserving it is to show that power of living our lives <del title=\"struck through\">x</del> in orderly liberty under the law which is of the essence of our institutions. I therefore take peculiar pleasure in greeting the people of a town <del title=\"struck through\">xxxxxx</del> in which the railroad men play so prominent a part. I wish also to say a word of special acknowledgment for the presence of the men on horseback from the Indian reservation. I was glad to see them; and, Major Caldwell, I was glad to learn that many of the Indians under your care are traveling along the white man&#x27;s road and beginning not only to send their <span class=\"sic\" title=\"reads: children\">childrn</span> to school, but to own cattle and to <del title=\"struck through\">x</del> own property. The only outcome <span class=\"pb\">Page 142 (frame 425:0497)</span> of the Indian question in this country is gradually to develop the Indian into a property owning, law abiding, hard working, educated citizen-- In other words<ins title=\"added by hand\">,</ins> to <del title=\"struck through\">xxxxx</del> train him to travel the path that we are all trying to travel; and I congratulate you upon the progress that you have made. (Applause.) When he is traveling that path and when he is doing his duty he is entitled to and he shall <del title=\"struck through\">xxxxx</del> receive exactly  as square a deal as any one else. (Applause.)",
+"After all that is the fundamental principle of our government. In the last analysis what America stands for more than for aught else is for treating each man on his <del title=\"struck through\">x</del> worth as a man; if he acts well in whatever walk of life, whatever his ancestry, his creed, his color, give him a fair chance; if he acts badly let nothing protect him from the hand of the law; treat him well, give him every chance, and see that he treats others well in return.",
+"I congratulate you, the men and women of Idaho<ins title=\"added by hand\">,</ins> upon what you have done for your state. Let me congratulate you especially upon the fact that in addition to the business energy, the thrift, the enterprise that you have shown in material development, <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">that</span></del> you have taken such pains in <ins title=\"added by hand\">the</ins> bringing  up of the next generation. I congratulate you upon your schools and upon your education, both elementary and higher<ins title=\"added by hand\">--</ins> <del title=\"struck through\">t</del><ins title=\"added by hand\">T</ins>he most important things in life, and which we are sometimes tempted to regard as the humdrum and commonplace things. The whole fabric of society rests upon the home. The best citizen is the man who is a good husband, a good father, the woman who is a good wife, a good mother. Of course that is so elementary a fact that like other elementary facts we occasionally forget its existence, that <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> the highest type of citizenship is to be found in the home, and nothing can take the place of the education of the home; the fathers and mothers who educate their children not merely by precept but by practice, for in the intimacy of the home it does very  little good to preach if that preaching is not backed up by performance. It is of no use telling the children to tell the truth if they see their <span class=\"unc\" title=\"uncertain reading\">elders</span> not telling the truth; no use <del title=\"struck through\">xx</del> trying to teach the child to be <span class=\"pb\">Page 143 (frame 425:0498)</span> unselfish if the father or mother is selfish. There is no <span class=\"sic\" title=\"reads: use\">ase</span> in trying to teach the small folks not to shirk their duty if the bigger ones shirk theirs. Nothing can excuse shirking <ins title=\"added by hand\">in</ins> the performance of duty toward the children <ins title=\"added by hand\">by</ins> the father and mother; but their work has to be supplemented from the outside; and a special and peculiar debt of gratitude is owing to the men and women who are engaged in teaching, who are engaged in educating the body, mind and soul of the younger generation, and to all, Mr. Mayor, w<ins title=\"added by hand\">ho</ins> take part in th<ins title=\"added by hand\">e</ins> work of the school committee in seeing that the educational requirements of any locality are fully and actually met. I am glad to have seen you. It has done me good to come here. I believe in the future of your great state because I believe with all my heart and soul in the quality of the average man and the average woman who go to make up this state, and go to make up this entire union. (Cheers and applause.)",
+"<span class=\"tnote\">The listed pages were off: the first page of the speech (folio 140) is the single page on frame 0496 (not listed); the listed pages are folios 141-143 (frames 0497 left and right, 0498 left).</span>\n<span class=\"tnote\">Typed page numbers -2- to -4- at the heads of folios 141-143 are omitted. In the heading &quot;President&quot; has a P struck over another letter.</span>\n<span class=\"tnote\">Folio 140: the semicolon after &quot;children&quot; is circled by hand to make a full stop and &quot;as&quot; is capitalized by hand; a hand comma after &quot;know&quot;; after &quot;thoug&quot; a handwritten letter, probably h; the circled punctuation after &quot;town&quot; cannot be read with certainty; the hand-struck word after &quot;only&quot; is illegible; &quot;<span class=\"unc\" title=\"uncertain reading\">he</span>&quot; in &quot;occupation he would&quot; is a struck-over h; &quot;<span class=\"unc\" title=\"uncertain reading\">implies</span>&quot; is partly covered by handwriting.</span>\n<span class=\"tnote\">Folio 141: the hand-struck word after &quot;Very few&quot; is illegible; &quot;known&quot; is typed between the lines with a hand caret; a hand mark separates &quot;a&quot; and &quot;ride&quot;; &quot;to&quot; and &quot;himself&quot; in &quot;how to himself take&quot; are marked by hand for transposition (to read &quot;how himself to take&quot;); after &quot;quick&quot; a hand mark covers or adds &quot;ly&quot;; a hand mark over the h of &quot;whether&quot;; a hand stroke in the left margin before &quot;pleasure&quot;.</span>\n<span class=\"tnote\">Folio 142: after &quot;citizen--&quot; the I of &quot;In&quot; carries a hand dot; the hand-struck word after &quot;development,&quot; may be &quot;that&quot;; a hand stroke over the t of &quot;the most important things&quot;; &quot;does very&quot; is partly covered by a blot; &quot;<span class=\"unc\" title=\"uncertain reading\">elders</span>&quot; is overtyped.</span>\n<span class=\"tnote\">Folio 143: &quot;in&quot; is typed between the lines with a hand caret; &quot;by&quot;, &quot;ho&quot; (in &quot;who&quot;) and the final e of &quot;the work&quot; are written by hand over the typed text.</span>\n<span class=\"tnote\">Third look: after &quot;guard&quot; a comma is typed under the dash; after &quot;town&quot; the circled typed mark looks like a semicolon; in &quot;impl<span class=\"unc\" title=\"uncertain reading\">y</span>&quot; the end of the typed word is blotted and a handwritten letter, probably y, is written over it; the dash after &quot;higher&quot; is drawn by hand at the baseline and the t of &quot;the&quot; is made a capital by hand. &quot;children<del title=\"struck through\">;</del><ins title=\"added by hand\">.</ins>&quot; stands as read.</span>"
+],
+"notes": [
+"The listed pages were off: the first page of the speech (folio 140) is the single page on frame 0496 (not listed); the listed pages are folios 141-143 (frames 0497 left and right, 0498 left).",
+"Typed page numbers -2- to -4- at the heads of folios 141-143 are omitted. In the heading \"President\" has a P struck over another letter.",
+"Folio 140: the semicolon after \"children\" is circled by hand to make a full stop and \"as\" is capitalized by hand; a hand comma after \"know\"; after \"thoug\" a handwritten letter, probably h; the circled punctuation after \"town\" cannot be read with certainty; the hand-struck word after \"only\" is illegible; \"he [?]\" in \"occupation he would\" is a struck-over h; \"implies [?]\" is partly covered by handwriting.",
+"Folio 141: the hand-struck word after \"Very few\" is illegible; \"known\" is typed between the lines with a hand caret; a hand mark separates \"a\" and \"ride\"; \"to\" and \"himself\" in \"how to himself take\" are marked by hand for transposition (to read \"how himself to take\"); after \"quick\" a hand mark covers or adds \"ly\"; a hand mark over the h of \"whether\"; a hand stroke in the left margin before \"pleasure\".",
+"Folio 142: after \"citizen--\" the I of \"In\" carries a hand dot; the hand-struck word after \"development,\" may be \"that\"; a hand stroke over the t of \"the most important things\"; \"does very\" is partly covered by a blot; \"elders [?]\" is overtyped.",
+"Folio 143: \"in\" is typed between the lines with a hand caret; \"by\", \"ho\" (in \"who\") and the final e of \"the work\" are written by hand over the typed text.",
+"Third look: after \"guard\" a comma is typed under the dash; after \"town\" the circled typed mark looks like a semicolon; in \"imply [?]\" the end of the typed word is blotted and a handwritten letter, probably y, is written over it; the dash after \"higher\" is drawn by hand at the baseline and the t of \"the\" is made a capital by hand. \"children.\" stands as read."
+],
+"file": "transcriptions/1903-05-28-pocatello.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"home-family",
+"corporations"
+],
+"mentions": {
+"people": [
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 2
+}
+],
+"places": [
+{
+"id": "spain",
+"name": "Spain",
+"count": 1
+}
+]
+},
+"distinctive": [
+"railroad",
+"idaho",
+"congratulate",
+"occupation",
+"elementary",
+"indian",
+"play",
+"risk",
+"learned",
+"mother"
+],
+"stats": {
+"words": 1384,
+"unique_words": 465,
+"sentences": 41,
+"avg_sentence": 33.8,
+"minutes": 11,
+"i_count": 22,
+"we_count": 4
+}
 },
 {
 "id": "1903-05-28-shoshone",
@@ -35765,10 +36050,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 366,
+"paragraphs": [
+"My Fellow Citizens; My Fellow Americans:",
+"It is a great pleasure to greet you this morning-- to greet all of you, and especially the children. Traveling through this country as I have traveled, from the Atlantic across to the Pacific, and now on my return, the thing that has struck me most after all is not the diversity, but the essential unity of our people. Wherever I have gone from one end of the country to the other I have dealt with Americans to whom I could appeal in the name of the same principles.",
+"And you, the men of the great war, the men whom I have met wherever I have stopped in the plains, among the mountains, on the Pacific slope, you builded even better than you knew when you saved the country; for not only did you make it possible for an American President to feel at home throughout this continental republic; but you left us by your deeds the memory and the lesson of how we were to handle this government. You fought for real brotherhood, for the real rights of mankind. You fought to establish here the rule of liberty under, by and through the law. You established once for all that the worst enemy of this country is the man who tries to excite section against section, creed against creed, or class against class. This government is not and never shall be a government either of a plutocracy or of a mob. It shall be a government, as it has been and is, in which all citizens rich or poor wherever they live, however they worship their Maker,— mechanics, farmers, miners, ranchmen, bankers, lawyers, it makes no difference what— if they are decent men have their say in the government and are guaranteed protection by it. (Applause) The line that in the elemental matters we must ever draw is the line of conduct. The man who behaves well whatever he does or wherever he lives is a good citizen, entitled to the respect of all other good citizens; and if he does not behave well, at whichever end of the social scale he stands he is a bad citizen. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35790,13 +36079,56 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0499",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0499",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow Citizens; My Fellow Americans:",
+"It is a great pleasure to greet you this morning-- to greet all of you, and especially the children. Traveling through this country as I have traveled, from the Atlantic across to the Pacific, and now on my return, the thing that has struck me most after all is not the diversity, but the essential unity of our people. Wherever I have gone from one end of the country to the other I have dealt with Americans to whom I could appeal in the name of the same principles.",
+"And you, the men of the great war, the men whom I have met wherever I have stopped in the plains, among the mountains, on the Pacific slope, you builded even better than you knew when you saved the country; for not only did you make it possible for an American President to feel at home throughout this continental republic; but you left us by your deeds the memory and the lesson of how we were to handle this government. You fought for real brotherhood, for the real rights of mankind. You fought to establish here the rule of liberty under, by and through the law. You established once for all that the worst enemy of this country is the man who tries to excite section against section, creed against creed, or class against class. This government is not and never shall be a government either of a plutocracy or of a mob. It shall be a government, as it has been and is, in which all citizens rich or poor wherever they live, however they worship their Maker,— mechanics, farmers, miners, ranchmen, bankers, lawyers, it makes no difference what— if they are decent men have their say in the government and are guaranteed protection by it. (Applause) The line that in the elemental matters we must ever draw is the line of conduct. The man who behaves well whatever he does or wherever he lives is a good citizen, entitled to the respect of all other good citizens; and if he does not behave well, at whichever end of the social scale he stands he is a bad citizen. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 145 (frame 425:0499)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"<span class=\"margin\">In the margin: Letter</span>",
+"My Fellow Citizens;  My Fellow Americans:",
+"It is a great pleasure to greet you this morning-- to greet all of you, and especially the children. Traveling through this country as I have traveled, from the Atlantic across to the Pacific, and now on my return, the thing that has struck me most after all is not the diversity, but the essential unity of our people. Wherever I have gone from one end of the country to the other I have dealt with Americans to whom I could appeal in the name of the same <del title=\"struck through\">principles</del> <del title=\"struck through\">American principles</del> principles<del title=\"struck through\">of <span class=\"illeg\">[illegible]</span></del>.",
+"And you, the men of the great war, the men whom I have met wherever I have stopped in the plains, among the mountains, on the Pacific slope, you builded even better than you knew when you saved the country;  for not only did you make it possible for an American President to feel at home throughout this continental republic;  but you left us by your deeds the memory and the lesson of how we were to handle this government. You fought for real brotherhood, for the real rights of mankind. You fought to establish here the rule of liberty under, by and through the law . You established once for all that the worst enemy of this country is the man who tries to excite section against section, <del title=\"struck through\">class against class</del> creed against creed, or class against class. This government is not and never shall be a government either of a plutocracy or of a mob. It shall be a government, as it has been and is, in which all citizens rich or poor wherever they live, however they worship their Maker,<ins title=\"added by hand\">—</ins> mechanics, farmers, miners, ranchmen, bankers, lawyers, it makes no difference what<ins title=\"added by hand\">—</ins> if they are decent men have their <del title=\"struck through\">share</del> say in the government and are guaranteed protection by it. (Applause) The line that in the elemental matters we must ever draw is the line of conduct. The man who behaves well whatever he does or wherever he lives is a good citizen, entitled to the respect of all other good citizens;  and if he does not behave well<ins title=\"added by hand\">,</ins> at whichever end of the social scale he stands he is a bad citizen. (Applause)",
+"<span class=\"tnote\">&quot;principles&quot; and &quot;American principles&quot; in the first paragraph are x-ed out on the typewriter; the words after the last &quot;principles&quot; are struck by hand (only &quot;of&quot; can be read) with a hand deletion mark beside them. &quot;class against class&quot; after &quot;section against section,&quot; and &quot;share&quot; before &quot;say&quot; are x-ed out on the typewriter.</span>\n<span class=\"tnote\">The dashes after &quot;Maker,&quot; and &quot;what&quot; are added by hand with carets. Several letters are struck over on the typewriter (e.g. &quot;Americans&quot;, &quot;deeds&quot;, &quot;how&quot;, &quot;brotherhood&quot;, &quot;mankind&quot;); the final reading is given.</span>\n<span class=\"tnote\">&quot;Letter&quot; is written and underlined by hand beside the folio number; &quot;File&quot; in the upper left margin.</span>\n<span class=\"tnote\">Third look: no typed comma after &quot;what&quot;; only the hand dash with a caret.</span>"
+],
+"notes": [
+"\"principles\" and \"American principles\" in the first paragraph are x-ed out on the typewriter; the words after the last \"principles\" are struck by hand (only \"of\" can be read) with a hand deletion mark beside them. \"class against class\" after \"section against section,\" and \"share\" before \"say\" are x-ed out on the typewriter.",
+"The dashes after \"Maker,\" and \"what\" are added by hand with carets. Several letters are struck over on the typewriter (e.g. \"Americans\", \"deeds\", \"how\", \"brotherhood\", \"mankind\"); the final reading is given.",
+"\"Letter\" is written and underlined by hand beside the folio number; \"File\" in the upper left margin.",
+"Third look: no typed comma after \"what\"; only the hand dash with a caret."
+],
+"file": "transcriptions/1903-05-28-shoshone.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"wherever",
+"government",
+"citizens",
+"country"
+],
+"stats": {
+"words": 366,
+"unique_words": 183,
+"sentences": 10,
+"avg_sentence": 36.6,
+"minutes": 3,
+"i_count": 6,
+"we_count": 2
+}
 },
 {
 "id": "1903-05-28-boise",
@@ -38349,8 +38681,8 @@
 "society",
 "example",
 "younger",
-"preaching",
 "young",
+"preaching",
 "admire",
 "boys",
 "expect"
@@ -38959,10 +39291,10 @@
 "thy",
 "cheerfully",
 "soul",
-"fresh",
 "burden",
-"responsibility",
+"fresh",
 "lord",
+"responsibility",
 "church"
 ],
 "stats": {
@@ -39041,8 +39373,8 @@
 "stations",
 "policy",
 "economic",
-"market",
 "senate",
+"market",
 "naval",
 "legislation"
 ],
@@ -40036,7 +40368,7 @@
 "therefore",
 "government",
 "responsibility",
-"together"
+"unless"
 ],
 "stats": {
 "words": 929,
@@ -41788,7 +42120,7 @@
 "trees",
 "sentiment",
 "industries",
-"policy"
+"preserved"
 ],
 "stats": {
 "words": 3056,
@@ -42001,8 +42333,8 @@
 "shipper",
 "form",
 "government",
-"commerce",
 "supervision",
+"commerce",
 "governmental",
 "control",
 "club",
@@ -42077,8 +42409,8 @@
 "baseless",
 "lacked",
 "arbitration",
-"courage",
 "step",
+"courage",
 "position",
 "ships",
 "prepare"
@@ -42865,8 +43197,8 @@
 "children",
 "family",
 "self-indulgence",
-"mother",
 "self-sacrifice",
+"mother",
 "wife",
 "woman's",
 "mothers",
@@ -42974,8 +43306,8 @@
 "hampshire",
 "immigrants",
 "eighteenth",
-"sons",
-"philadelphia"
+"philadelphia",
+"sons"
 ],
 "stats": {
 "words": 2055,
@@ -43083,8 +43415,8 @@
 "study",
 "uvres",
 "dewey",
-"built",
 "defence",
+"built",
 "hit",
 "revolution"
 ],
@@ -43152,8 +43484,8 @@
 "distinctive": [
 "doctor",
 "medical",
-"profession",
 "navy",
+"profession",
 "preparation",
 "relation",
 "advance",
@@ -43313,8 +43645,8 @@
 "square",
 "injustice",
 "rich",
-"pretty",
 "poor",
+"pretty",
 "trouble"
 ],
 "stats": {
@@ -43462,8 +43794,8 @@
 "attack",
 "rules",
 "legitimate",
-"army",
-"wealth"
+"wealth",
+"army"
 ],
 "stats": {
 "words": 1528,
@@ -43742,8 +44074,8 @@
 "regulatory",
 "rates",
 "morgan",
-"commerce",
 "justice",
+"commerce",
 "highways",
 "railroads"
 ],
@@ -44152,8 +44484,8 @@
 "israel",
 "aggressive",
 "first-class",
-"qualities",
 "warred",
+"qualities",
 "general",
 "devotion",
 "memories"
@@ -44299,7 +44631,7 @@
 "sake",
 "value",
 "comes",
-"president"
+"life"
 ],
 "stats": {
 "words": 1474,
@@ -45889,7 +46221,7 @@
 "accomplished",
 "benefit",
 "faith",
-"effective"
+"cause"
 ],
 "stats": {
 "words": 1264,
@@ -46526,8 +46858,8 @@
 "punishment",
 "eminent",
 "judge",
-"law",
 "public",
+"law",
 "crimes"
 ],
 "stats": {
@@ -46865,8 +47197,8 @@
 "prosper",
 "injustice",
 "exercised",
-"valor",
 "improper",
+"valor",
 "wage-worker",
 "railroads"
 ],
@@ -47170,8 +47502,8 @@
 "congress",
 "government",
 "domingo",
-"law",
 "commission",
+"law",
 "immigrants",
 "immigration"
 ],
@@ -47393,7 +47725,7 @@
 "opposition",
 "evils",
 "organization",
-"law"
+"twisted"
 ],
 "stats": {
 "words": 6288,
@@ -49123,8 +49455,8 @@
 "white",
 "negro",
 "average",
-"color",
 "farm",
+"color",
 "intelligent",
 "smooth"
 ],
@@ -49354,8 +49686,8 @@
 "graduating",
 "graduate",
 "success",
-"woman",
 "practical",
+"woman",
 "material"
 ],
 "stats": {
@@ -49505,8 +49837,8 @@
 "happiness",
 "admiral",
 "ideal",
-"selfish",
 "family",
+"selfish",
 "mother",
 "self-respect",
 "bishop"
@@ -50806,8 +51138,8 @@
 "distinctive": [
 "plan",
 "rivers",
-"water",
 "transportation",
+"water",
 "connection",
 "country"
 ],
@@ -51315,9 +51647,9 @@
 "range",
 "fraud",
 "commutation",
+"reserves",
 "grazing",
-"forests",
-"reserves"
+"forests"
 ],
 "stats": {
 "words": 1741,
@@ -51890,7 +52222,7 @@
 "ships",
 "aboard",
 "australia",
-"pacific"
+"arrangement"
 ],
 "stats": {
 "words": 3873,
@@ -52709,8 +53041,8 @@
 "distinctive": [
 "mcclellan",
 "peace",
-"potomac",
 "equality",
+"potomac",
 "ease",
 "glory",
 "disagreeable",
@@ -53137,8 +53469,8 @@
 "federal",
 "workmen",
 "negligence",
-"children",
 "workman",
+"children",
 "compensation",
 "legislation"
 ],
@@ -53955,8 +54287,8 @@
 "navigation",
 "inland",
 "valley",
-"rivers",
 "mississippi",
+"rivers",
 "river",
 "innocent",
 "resources",
@@ -54135,8 +54467,8 @@
 "movement",
 "honest",
 "well-being",
-"wealth",
 "policies",
+"wealth",
 "property",
 "business",
 "tennessee",
@@ -54212,8 +54544,8 @@
 "tennessee",
 "generation",
 "change",
-"gray",
 "changed",
+"gray",
 "blue"
 ],
 "stats": {
@@ -54327,7 +54659,7 @@
 "graduate",
 "forty",
 "thousand",
-"property"
+"bear"
 ],
 "stats": {
 "words": 1339,
@@ -54648,8 +54980,8 @@
 ]
 },
 "distinctive": [
-"government",
 "interstate",
+"government",
 "law",
 "tax",
 "congress",
@@ -54818,7 +55150,7 @@
 "business",
 "law",
 "securities",
-"company"
+"judge"
 ],
 "stats": {
 "words": 10501,
@@ -55315,8 +55647,8 @@
 "international",
 "effective",
 "naval",
-"society",
-"adequate"
+"adequate",
+"society"
 ],
 "stats": {
 "words": 520,
@@ -55543,8 +55875,8 @@
 "battleships",
 "arbitration",
 "nations",
-"china",
 "peace",
+"china",
 "navy",
 "military",
 "measures",
@@ -55698,11 +56030,11 @@
 "interstate",
 "commerce",
 "corporations",
-"steel",
 "control",
+"steel",
 "legislation",
-"law",
 "boston",
+"law",
 "abuses"
 ],
 "stats": {
@@ -55909,8 +56241,8 @@
 "south",
 "mexico",
 "peoples",
-"trip",
 "republics",
+"trip",
 "western",
 "occasion"
 ],
@@ -55983,7 +56315,7 @@
 "condemn",
 "capitalists",
 "praise",
-"government"
+"foolish"
 ],
 "stats": {
 "words": 1346,
@@ -56097,8 +56429,8 @@
 "resources",
 "natural",
 "forests",
-"conservation",
 "coal",
+"conservation",
 "maine",
 "waterways",
 "court",
@@ -56163,8 +56495,8 @@
 },
 "distinctive": [
 "act",
-"grant",
 "sovereign",
+"grant",
 "corporation",
 "reward",
 "ample",
@@ -57059,9 +57391,9 @@
 "courts",
 "control",
 "corporations",
-"fisheries",
 "deforestation",
 "employees",
+"fisheries",
 "labor"
 ],
 "stats": {
@@ -58326,8 +58658,8 @@
 "practical",
 "possessed",
 "brother",
-"mankind",
 "devotion",
+"mankind",
 "struggle"
 ],
 "stats": {
@@ -58505,8 +58837,8 @@
 "mexico",
 "international",
 "profit",
-"rule",
 "advance",
+"rule",
 "along",
 "wisdom"
 ],
@@ -58878,8 +59210,8 @@
 "naval",
 "division",
 "supplies",
-"military",
 "bureau",
+"military",
 "navy",
 "personnel",
 "reorganization",
@@ -59251,8 +59583,8 @@
 "weakness",
 "inequality",
 "individualism",
-"orator",
 "intellect",
+"orator",
 "force"
 ],
 "stats": {
@@ -60131,8 +60463,8 @@
 "resources",
 "forests",
 "water",
-"east",
 "sites",
+"east",
 "national"
 ],
 "stats": {
@@ -60645,7 +60977,7 @@
 "sam",
 "panama",
 "excavation",
-"around"
+"uncle"
 ],
 "stats": {
 "words": 3088,
@@ -60738,7 +61070,7 @@
 "maverick",
 "exceptional",
 "protection",
-"rich"
+"dishonestly"
 ],
 "stats": {
 "words": 4194,
@@ -60966,8 +61298,8 @@
 "minnesota",
 "resources",
 "forests",
-"development",
 "control",
+"development",
 "water",
 "natural",
 "federal"
@@ -61255,8 +61587,8 @@
 "violence",
 "law",
 "corporation",
-"union",
 "justice",
+"union",
 "wage",
 "policeman",
 "workers",
@@ -61974,7 +62306,7 @@
 "loyalty",
 "comrade",
 "servant",
-"penitentiary"
+"york"
 ],
 "stats": {
 "words": 4548,

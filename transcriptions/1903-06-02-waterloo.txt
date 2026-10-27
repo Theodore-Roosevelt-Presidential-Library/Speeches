@@ -1,0 +1,18 @@
+---
+speech: 1903-06-02-waterloo
+title: Remarks of President Roosevelt at Waterloo, Iowa, June 2, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 531, 532
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0531
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 16 425:0531]
+
+My {Fiends|Friends} and Fellow Citizens:
+
+It is a great pleasure to have the chance of saying a word to you this afternoon, and to address this great gathering of the men and women of this beautiful state . Here as everywhere I see in the audience men who wear the button which shows that in the great war they fought when Abraham Lincoln summoned them to fight; and I have also seen men here who [-[illegible]-] were my own comrades in the lesser war.
+
+Those men by their lives and their deeds teach us what it behooves us each and all to learn, and one lesson above all others -- the lesson of brotherhood; the lesson of the substantial unity of all Americans. They fought to destroy forever the {pirit|spirit} of sectional hatred. Let us learn from them that the arch foe of all that is best in American life is the man who seeks to stir one American against his fellows, the man who appeals in a spirit of hatred to induce one set of Americans to stand opposed to their fellows, whether he makes that appeal in the hope of exciting section against section, creed against creed, or class against class. Of all men, the man most to beware of {isthe|is the} man who will try to persuade any of our people that it is to their interest to act wrongly [-xxxxxx-] toward any others . If any man seeks to persuade any of our people in their fancied self-interest to do {somet ing|something} against the well-being of their fellows, it is a safe thing to keep in mind that the man who will try to get you to follow him in wrong doing on the plea that it will be to your interest to do so, will if the chance comes wrong you in his turn, because it is in his interest. The only safe rule to follow in public life as in private life is to act squarely and fairly by your fellows, and to remember that whoever preaches another line of conduct as he preaches to you to do wrong for your fancied gain will for his {interst|interest} wrong you in his turn if the chance arises.
+
+You, my comrade there, and those like you in the great war fought to establish in this country a government not of license but of liberty under, by, and through the law; liberty which [-will-][+should+] be guaranteed to every man, not because the man {wasrich|was rich}, not because the man was poor, but because
