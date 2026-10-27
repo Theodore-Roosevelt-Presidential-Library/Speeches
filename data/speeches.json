@@ -725,7 +725,7 @@
 "abuses",
 "publicity",
 "taxes",
-"unscrupulous"
+"remedy"
 ],
 "stats": {
 "words": 4492,
@@ -912,11 +912,11 @@
 "grant's",
 "greatness",
 "crises",
-"peace",
 "war",
+"peace",
 "dead",
-"armed",
-"resistance"
+"resistance",
+"freemen"
 ],
 "stats": {
 "words": 4369,
@@ -1872,8 +1872,8 @@
 "distinctive": [
 "statehood",
 "westward",
-"unity",
 "colorado",
+"unity",
 "commonwealths",
 "alleghanies",
 "spread",
@@ -2153,8 +2153,8 @@
 "brotherhood",
 "lessons",
 "struggles",
-"fought",
 "ranks",
+"fought",
 "regiments"
 ],
 "stats": {
@@ -3472,8 +3472,8 @@
 "scholarship",
 "sake",
 "virile",
-"decent",
 "service",
+"decent",
 "counts",
 "reward",
 "fit"
@@ -3945,8 +3945,8 @@
 "fought",
 "vernon",
 "mount",
-"comrades",
 "loyalty",
+"comrades",
 "dead",
 "presence",
 "enlisted",
@@ -4052,8 +4052,8 @@
 "dead",
 "presence",
 "applause",
-"comrades",
 "loyalty",
+"comrades",
 "enlisted"
 ],
 "stats": {
@@ -4947,8 +4947,8 @@
 "philippines",
 "philippine",
 "cuba",
-"choosing",
-"civil"
+"civil",
+"choosing"
 ],
 "stats": {
 "words": 3566,
@@ -5120,8 +5120,8 @@
 "wealth",
 "harm",
 "conditions",
-"community",
-"prosper"
+"prosper",
+"community"
 ],
 "stats": {
 "words": 2587,
@@ -5418,7 +5418,7 @@
 "officers",
 "war",
 "efficiency",
-"training"
+"keeping"
 ],
 "stats": {
 "words": 1139,
@@ -5821,8 +5821,8 @@
 "practical",
 "mere",
 "community",
-"feeling",
-"success"
+"success",
+"feeling"
 ],
 "stats": {
 "words": 840,
@@ -5911,8 +5911,8 @@
 "practical",
 "mere",
 "community",
-"feeling",
-"success"
+"success",
+"feeling"
 ],
 "stats": {
 "words": 836,
@@ -6181,9 +6181,9 @@
 "honest",
 "works",
 "honesty",
+"citizen",
 "labor",
 "citizenship",
-"citizen",
 "courage"
 ],
 "stats": {
@@ -6369,8 +6369,8 @@
 "corporation",
 "destroy",
 "rancor",
-"win",
 "remedies",
+"win",
 "patent",
 "ignorance"
 ],
@@ -9247,8 +9247,8 @@
 "destiny",
 "mighty",
 "future",
-"fought",
 "prosperity",
+"fought",
 "war",
 "peace",
 "country"
@@ -9354,10 +9354,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 749,
+"paragraphs": [
+"My fellow citizens:",
+"I thank you greatly for having come out to greet me today; and I am glad I was able to stop at your beautiful town and to see here one of the many industrial centers which in the aggregate are working out the mighty destiny of this nation. Material prosperity isn't everything; but it is the foundation upon which we must build the larger life. Here in your community you have great natural resources. Here in Indiana you have in the earth and under the earth agencies which can be developed for the good of mankind, but after all we must ever remember that the resource is only the opportunity, and that in order to succeed you need the man to take advantage of the opportunity. The reason you win out here, the reason our people as a whole win out, is because we have the men to take advantage of the natural resources of the country. We are very prosperous, and the prosperity is not ephemeral. Of course it will go up and down somewhat. The waves will break and recede and advance, but the tide will go steadily on. I would preach to you ever the creed of optimism, the creed of hope. Indiana, whenever we have had a war, has sent her sons with lavish freedom to the war. I earnestly hope and believe that never in our time again will we see a war; but you need fundamentally for victory in peace the same qualities that your sons showed on the armed field. No man ever won a fight yet by thinking he was going to lose it. The prophets of evil, the apostles of despair are but poor guides for a country like ours. We shall win, not by looking down, but by looking up; not by distrusting ourselves, but by knowing that we have it in us to wrest victory from hostile forces. You, my friend and comrade, over there, you, who fought in the big war, you and your comrades who were with you, won because you believed in the republic. (Cheers and applause) And we are going to work out our destiny in this land because we believe in the republic; because if we were betting men, we would bet on the continent and not against it. (Cheers and applause) We are a nation with a continent for a footstool; it grasps an ocean in each hand. We have big things to do of course, and we are big enough to do them. (Applause) Difficulties in the way? Yes, there are difficulties in the way. Dangers? Yes. You faced dangers from '61 to '65, but you did not run away; you overcame them, and that is why we are all of us here proud of our birthright, our heritage as Americans. We are here because our forefathers believed greatly in this country, and it behooves us to show that we have the same faith in us. As you believed in time of war, so we believe in time of peace. There will be difficulties, but we shall treat them as something to overcome, not to shirk. There will be dangers, and we will face them as you faced the dangers of the stricken field. We preach the gospel of hope; of hope, that you, the men of the West so signally illustrate in all your lives. No American, and least of all a westerner has any business to be a pessimist. We have got a continent here. We have just begun to develop it, and if we cannot go on and continue to make it prosperous we are made of poor stuff, that is all. I believe in the physical advantages which underlie our prosperity, but I believe more in the qualities which make our people able to take advantage of those qualities. I believe that they have the intellect, the physical strength, and finally that which counts more than intellect, more than physical strength, that they have character—Character, into which many components enter, but these three above all: Character which is made up mainly of courage, of honesty and of the saving grace of common sense.",
+"In thanking all of you, and thanking my comrades, the men of the national guard and my comrades of the regulars, I want to thank especially the veterans of the great war for having come out to greet me, and I know you will none of you grudge them. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -9379,13 +9383,64 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 748, 749",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0748",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow citizens:",
+"I thank you greatly for having come out to greet me today; and I am glad I was able to stop at your beautiful town and to see here one of the many industrial centers which in the aggregate are working out the mighty destiny of this nation. Material prosperity isn't everything; but it is the foundation upon which we must build the larger life. Here in your community you have great natural resources. Here in Indiana you have in the earth and under the earth agencies which can be developed for the good of mankind, but after all we must ever remember that the resource is only the opportunity, and that in order to succeed you need the man to take advantage of the opportunity. The reason you win out here, the reason our people as a whole win out, is because we have the men to take advantage of the natural resources of the country. We are very prosperous, and the prosperity is not ephemeral. Of course it will go up and down somewhat. The waves will break and recede and advance, but the tide will go steadily on. I would preach to you ever the creed of optimism, the creed of hope. Indiana, whenever we have had a war, has sent her sons with lavish freedom to the war. I earnestly hope and believe that never in our time again will we see a war; but you need fundamentally for victory in peace the same qualities that your sons showed on the armed field. No man ever won a fight yet by thinking he was going to lose it. The prophets of evil, the apostles of despair are but poor guides for a country like ours. We shall win, not by looking down, but by looking up; not by distrusting ourselves, but by knowing that we have it in us to wrest victory from hostile forces. You, my friend and comrade, over there, you, who fought in the big war, you and your comrades who were with you, won because you believed in the republic. (Cheers and applause) And we are going to work out our destiny in this land because we believe in the republic; because if we were betting men, we would bet on the continent and not against it. (Cheers and applause) We are a nation with a continent for a footstool; it grasps an ocean in each hand. We have big things to do of course, and we are big enough to do them. (Applause) Difficulties in the way? Yes, there are difficulties in the way. Dangers? Yes. You faced dangers from '61 to '65, but you did not run away; you overcame them, and that is why we are all of us here proud of our birthright, our heritage as Americans. We are here because our forefathers believed greatly in this country, and it behooves us to show that we have the same faith in us. As you believed in time of war, so we believe in time of peace. There will be difficulties, but we shall treat them as something to overcome, not to shirk. There will be dangers, and we will face them as you faced the dangers of the stricken field. We preach the gospel of hope; of hope, that you, the men of the West so signally illustrate in all your lives. No American, and least of all a westerner has any business to be a pessimist. We have got a continent here. We have just begun to develop it, and if we cannot go on and continue to make it prosperous we are made of poor stuff, that is all. I believe in the physical advantages which underlie our prosperity, but I believe more in the qualities which make our people able to take advantage of those qualities. I believe that they have the intellect, the physical strength, and finally that which counts more than intellect, more than physical strength, that they have character—Character, into which many components enter, but these three above all: Character which is made up mainly of courage, of honesty and of the saving grace of common sense.",
+"In thanking all of you, and thanking my comrades, the men of the national guard and my comrades of the regulars, I want to thank especially the veterans of the great war for having come out to greet me, and I know you will none of you grudge them. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 60 (frame 424:0748)</span>",
+"My fellow citizens:",
+"I thank you greatly for having come out to greet me today; and I am glad I was able to stop at your beautiful town and to see here one of the many industrial centers which in the aggregate are working out the mighty destiny of this nation. Material prosperity isn&#x27;t everything; but it is the foundation upon which we must build the larger life. Here in your community you have great natural resources. Here in Indiana you have in the earth and under the earth agencies which can be developed for the good of mankind, but after all we must ever remember that the resource is only the opportunity, and that in order to succeed you need the man to take advantage of the opportunity. The reason you win out here, the reason our people as a whole win out, is because we have the men to take advantage of the natural resources of the country. We are very prosperous, and the prosperity is not ephemeral. Of course it will go up and down somewhat. The waves will break and recede and advance, but the tide will go steadily on. I would preach to you ever the creed of optimism, the creed of hope. Indiana, whenever we have had a war, has sent her sons with lavish freedom to the war. I earnestly hope and believe that never in our time again will we see a war; but you need fundamentally for victory in peace the same qualities that your sons showed on the armed field. No man ever won a fight yet by thinking he was going to lose it. The prophets of evil, the apostles of despair are but poor guides for a country like ours. We shall win, not by looking down, but by looking up; not by distrusting ourselves, but by knowing that we have it in us to wrest victory from hostile forces. You, my friend and comrade, over there, you, who fought in the big war, you and your comrades who were with you, won because you believed in the republic. (Cheers and applause) And we are going to work out our destiny in this land because we believe in the republic; because if we were betting men, we would bet on the continent and not against it. (Cheers and applause) We are a nation with a continent for a <span class=\"pb\">Page 61 (frame 424:0749)</span> footstool; it <span class=\"sic\" title=\"reads: grasps\">grapps</span> an ocean in each hand. We have big things to do of course, and we are big enough to do them. (Applause) Difficulties in the way<ins title=\"added by hand\">?</ins> Yes, there are difficulties in the way. Dangers<ins title=\"added by hand\">?</ins> Yes. You faced dangers from &#x27;61 to &#x27;65, but you did not run away; you overcame them, and that is why we are all of us here proud of our birthright, our heritage as Americans. We are here because our forefathers believed greatly in this country, and it behooves us to show that we have the same faith in us. As you believed in time of war, so we believe in time of peace. There will be difficulties, but we shall treat them as something to overcome, not to shirk. There will be dangers, and we will face them as you faced the dangers of the stricken field. We preach the gospel of hope; of hope, that you, the men of the West so signally illustrate in all your lives. No American, and least of all a westerner has any business to be a pessimist. We have got a continent here. We have just begun to develop it, and if we cannot go on and continue to make it prosperous we are made of poor stuff, that is all. I believe in the physical advantages which underlie our prosperity, but I believe more in the qualities which make our people able to take advantage of <span class=\"sic\" title=\"reads: those qualities\">thosequalities</span>. I believe that they have the intellect, the physical strength, and finally that which counts more than <del title=\"struck through\">phy</del> intellect, more than physical strength, that they have character—Character<ins title=\"added by hand\">,</ins> into which <del title=\"struck through\">th<span class=\"illeg\">[illegible]</span></del> many components enter, but these three above all: Character which is made up mainly of courage, of honesty and of the saving grace of common sense.",
+"In thanking all of you, and thanking my comrades, the men of the national guard and my comrades of the regulars, I want to thank especially the veterans of the great war for having come out to greet me, and I know you will none of you grudge them. (Cheers and applause.)",
+"<span class=\"tnote\">Short hand strokes after &quot;war&quot; (p.60), after &quot;pessimist&quot; and between &quot;make&quot; and &quot;it&quot; (p.61) look like proofreading separation marks; they do not change words. A large hand-drawn bracket/curve sits in the right margin of p.60 beside &quot;you and ... republic ... our&quot;. On p.61 the typed punctuation after &quot;way&quot; and &quot;Dangers&quot; is overwritten by hand question marks. &quot;grapps&quot; may be &quot;grasps&quot; with a letter typed over; the final typed reading looks like &quot;grapps&quot;. &quot;<del title=\"struck through\">th<span class=\"illeg\">[illegible]</span></del>&quot; is &quot;th&quot; followed by letters x-ed out on the typewriter; &quot;phy&quot; is x-ed out on the typewriter. The dash after &quot;character&quot; is typed.</span>"
+],
+"notes": [
+"Short hand strokes after \"war\" (p.60), after \"pessimist\" and between \"make\" and \"it\" (p.61) look like proofreading separation marks; they do not change words. A large hand-drawn bracket/curve sits in the right margin of p.60 beside \"you and... republic... our\". On p.61 the typed punctuation after \"way\" and \"Dangers\" is overwritten by hand question marks. \"grapps\" may be \"grasps\" with a letter typed over; the final typed reading looks like \"grapps\". \"\" is \"th\" followed by letters x-ed out on the typewriter; \"phy\" is x-ed out on the typewriter. The dash after \"character\" is typed."
+],
+"file": "transcriptions/1902-09-23-kokomo.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war",
+"citizenship"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "the-west",
+"name": "The West",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"cheers",
+"dangers",
+"applause",
+"believed",
+"comrades",
+"win",
+"physical",
+"difficulties",
+"continent",
+"big"
+],
+"stats": {
+"words": 749,
+"unique_words": 276,
+"sentences": 29,
+"avg_sentence": 25.8,
+"minutes": 6,
+"i_count": 10,
+"we_count": 26
+}
 },
 {
 "id": "1902-09-23-noblesville",
@@ -9444,10 +9499,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1164,
+"paragraphs": [
+"Mr. Chairman; and you, my fellow Americans:",
+"In no way could I be more pleased than in being introduced as you, Mr. Chairman, have introduced me, for there are things a thousand fold more important than any party division, -The essential and underlying bond of unity among all decent Americans who try to act square and fair as citizens of our common country. And I am particularly glad to have the chance of seeing the school children before me, and as is always the case when I stop here in Indiana, of seeing also in evidence the men who in the dark days from '61 to '65 put into practice under the greatest stress the principles that decent men must preach, and I would appeal to their practice rather than to the preaching of me or of any one else. Now, gentlemen, as I said, we can afford to have party differences. The great point that we cannot afford to be without is good citizenship, decent citizenship. Whatever the man's opinions may be upon the less important questions, on the most vital and fundamental questions we must stand alike. There isn't any patent device for getting good citizenship. There is no particular law or scheme of laws by which it is possible to create in any man those fundamental virtues which we mean when we speak of him as a good citizen. Laws do something, but it is the man behind the law that counts, just exactly as my comrade over there, you of the big war, when you went down, you and your fellows who followed Grant or Sherman or Thomas or Sheridan, you had different arms from the arms carried by the men who followed Washington in the Revolutionary War; you were differently uniformed; you were drilled by different tactics, but the spirit that drove you to victory was the same. Our people triumphed at Appomattox because they had in them the stuff that wrought out the triumph of Yorktown in the Revolutionary War. And now your younger comrades who have been in the Philippines, and who by their deeds there have wrought so mighty a work for our people and for civilization, they were engaged in a war trivial compared to that in which you were. They had different arms; [?] they had the smokeless powder, small caliber, high power rifle; they were drilled in open order tactics, but they had the same spirit in them, and that is why they won honor and renown for our people. We need good weapons. Take a good man with a poor weapon and put him up against a good man with a good weapon, and of course the latter will win; but take the best weapon made and give it to a fool or a coward and a good man will beat him with a club. And it is the same thing with our laws here in this country. We have made this nation what it is partly because of the constitution, because of the fundamental law of the land; because of the legislation that we have had; but not merely because of that. There have been other countries with our system of government, a system of government sometimes copied from ours; a constitution that was a beautiful constitution on paper; laws that were excellent on the statute books; but those countries have almost failed absolutely in the struggle for self government, because they did not have the right type of men behind the law. We need good laws but we need still more to have back of the law the high character of individual citizenship. There is no royal road to being a good citizen; least of all is there any patent device by which through some law you can make a man a good citizen any more than you can make him prosperous by a law. A law can give him the opportunity to do the best that is in him, and if it is a bad law it can mar his chances for accomplishing anything, but it cannot make him succeed. He must have the stuff in him or you cannot get it out of him. You need good citizenship. there is more than one element that enters into good citizenship.—In the first place and fundamentally, honesty, decency. I care not how able a man is, if he does not have in him the sense that makes him respond to the moral law, then the abler he is the more dangerous he is. In the Revolutionary War one of the ablest and most brilliant soldiers we had, the man who fought so gallantly in Canada, the man who with distinguished courage led our forces on the field at Saratoga and was there wounded seriously; that man with all of his gallantry, all of his courage did not have the root of righteousness in him, and so his name-the name of Benedict Arnold is a hissing and a by-word among the nations forevermore. Exactly as it is with the soldier, if he lacks patriotism, loyalty to the flag, it will make him more dangerous to the country, so the abler a citizen is, the worse he is for the community if he has not got in him the sense that makes him cling to the right and forswear the wrong. Then you need for good citizenship, first, honesty, decency; and that is not enough. I do not care how honest a man is, if he is timid he is of very small use. In the civil war you needed men who would be spurred by patriotism; but it made mighty little difference how patriotic a man was if in time of action he ran away. You needed to have him\"stay put\" in the first place. So in citizenship you need honesty as the prerequisite, but it is not enough. With honesty must go courage, hand in hand with it, If out of the two you are going to get anything approaching good citizenship. Even honesty and courage are not enough. No matter how honest a man is, no matter how brave he is, if he has been born foolish you can do but little with him. We need honesty, we need courage, and in addition to that we need the saving grace of common sense. Hardness of heart is a dreadful quality. In the long run I do not know that it does much more damage than softness of head. (Laughter.) You need in order to get really good work out of any community that the average citizen of that community should have beaten into him the qualities which you are now training up your children to have, the qualities of honesty, of fair dealing as between man and man, the qualities of courage, courage physical and courage moral, and finally with honesty, with courage, to be taught the vital need of the old humdrum workaday indispensable quality of common sense. (Applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -9469,13 +9527,83 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 749, 750",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0749",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Chairman; and you, my fellow Americans:",
+"In no way could I be more pleased than in being introduced as you, Mr. Chairman, have introduced me, for there are things a thousand fold more important than any party division, -The essential and underlying bond of unity among all decent Americans who try to act square and fair as citizens of our common country. And I am particularly glad to have the chance of seeing the school children before me, and as is always the case when I stop here in Indiana, of seeing also in evidence the men who in the dark days from '61 to '65 put into practice under the greatest stress the principles that decent men must preach, and I would appeal to their practice rather than to the preaching of me or of any one else. Now, gentlemen, as I said, we can afford to have party differences. The great point that we cannot afford to be without is good citizenship, decent citizenship. Whatever the man's opinions may be upon the less important questions, on the most vital and fundamental questions we must stand alike. There isn't any patent device for getting good citizenship. There is no particular law or scheme of laws by which it is possible to create in any man those fundamental virtues which we mean when we speak of him as a good citizen. Laws do something, but it is the man behind the law that counts, just exactly as my comrade over there, you of the big war, when you went down, you and your fellows who followed Grant or Sherman or Thomas or Sheridan, you had different arms from the arms carried by the men who followed Washington in the Revolutionary War; you were differently uniformed; you were drilled by different tactics, but the spirit that drove you to victory was the same. Our people triumphed at Appomattox because they had in them the stuff that wrought out the triumph of Yorktown in the Revolutionary War. And now your younger comrades who have been in the Philippines, and who by their deeds there have wrought so mighty a work for our people and for civilization, they were engaged in a war trivial compared to that in which you were. They had different arms; [?] they had the smokeless powder, small caliber, high power rifle; they were drilled in open order tactics, but they had the same spirit in them, and that is why they won honor and renown for our people. We need good weapons. Take a good man with a poor weapon and put him up against a good man with a good weapon, and of course the latter will win; but take the best weapon made and give it to a fool or a coward and a good man will beat him with a club. And it is the same thing with our laws here in this country. We have made this nation what it is partly because of the constitution, because of the fundamental law of the land; because of the legislation that we have had; but not merely because of that. There have been other countries with our system of government, a system of government sometimes copied from ours; a constitution that was a beautiful constitution on paper; laws that were excellent on the statute books; but those countries have almost failed absolutely in the struggle for self government, because they did not have the right type of men behind the law. We need good laws but we need still more to have back of the law the high character of individual citizenship. There is no royal road to being a good citizen; least of all is there any patent device by which through some law you can make a man a good citizen any more than you can make him prosperous by a law. A law can give him the opportunity to do the best that is in him, and if it is a bad law it can mar his chances for accomplishing anything, but it cannot make him succeed. He must have the stuff in him or you cannot get it out of him. You need good citizenship. there is more than one element that enters into good citizenship.—In the first place and fundamentally, honesty, decency. I care not how able a man is, if he does not have in him the sense that makes him respond to the moral law, then the abler he is the more dangerous he is. In the Revolutionary War one of the ablest and most brilliant soldiers we had, the man who fought so gallantly in Canada, the man who with distinguished courage led our forces on the field at Saratoga and was there wounded seriously; that man with all of his gallantry, all of his courage did not have the root of righteousness in him, and so his name-the name of Benedict Arnold is a hissing and a by-word among the nations forevermore. Exactly as it is with the soldier, if he lacks patriotism, loyalty to the flag, it will make him more dangerous to the country, so the abler a citizen is, the worse he is for the community if he has not got in him the sense that makes him cling to the right and forswear the wrong. Then you need for good citizenship, first, honesty, decency; and that is not enough. I do not care how honest a man is, if he is timid he is of very small use. In the civil war you needed men who would be spurred by patriotism; but it made mighty little difference how patriotic a man was if in time of action he ran away. You needed to have him\"stay put\" in the first place. So in citizenship you need honesty as the prerequisite, but it is not enough. With honesty must go courage, hand in hand with it, If out of the two you are going to get anything approaching good citizenship. Even honesty and courage are not enough. No matter how honest a man is, no matter how brave he is, if he has been born foolish you can do but little with him. We need honesty, we need courage, and in addition to that we need the saving grace of common sense. Hardness of heart is a dreadful quality. In the long run I do not know that it does much more damage than softness of head. (Laughter.) You need in order to get really good work out of any community that the average citizen of that community should have beaten into him the qualities which you are now training up your children to have, the qualities of honesty, of fair dealing as between man and man, the qualities of courage, courage physical and courage moral, and finally with honesty, with courage, to be taught the vital need of the old humdrum workaday indispensable quality of common sense. (Applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 62 (frame 424:0749)</span>",
+"Mr. Chairman; and you, my fellow Americans:",
+"In no way could I be more pleased than in being introduced as you, Mr. Chairman, have introduced me, for there are things a thousand fold more important than any party division, -The essential and un<ins title=\"added by hand\">d</ins>erlying bond of unity among all decent Americans who try to act square and fair as citizens of our common country. And I am particularly glad to have the chance of seeing the school children before me, and as is always the case when I stop here in Indiana<ins title=\"added by hand\">,</ins> <del title=\"struck through\">at</del><ins title=\"added by hand\">of</ins> seeing also in evidence the men who in the dark days from &#x27;61 to &#x27;65 put into practice under the greatest stress the principles that decent men must preach, and I would appeal to their practice rather than to the preaching of me or of any one else. Now, gentlemen, as I said, we can afford to have party differences. The great point that we cannot afford to be without is good citizenship, decent citizenship. Whatever the man&#x27;s opinions may be upon the less important questions, on the most vital and fundamental questions we must stand alike. There isn&#x27;t any patent device for getting good citizenship. There is no particular law or scheme of laws by which it is possible to create <del title=\"struck through\">xx</del> in any man those fundamental virtues which we mean when we speak of him as a good citizen. Laws do something, but it is the man behind the law that counts, just exactly as my comrade over there, you of the big war, when you went down , you and your fellows who followed Grant or Sherman or Thomas or Sheridan, you had different arms from the arms carried by the men who followed Washington in the Revolutionary War; you were <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">drill</span></del> differently uniformed; you were drilled by different tactics, but the spirit that drove you to victory was the same. Our people triumphed at Appomattox because they had in them the stuff that wrought out<ins title=\"added by hand\"> the</ins> triumph of Yorktown in the Revolutionary War. And now your younger comrades who have been in the Philippines, and who by their deeds there have wrought so mighty a work for our people and for civilization, they were engaged in a war trivial compared to that in which you were. They had different <span class=\"unc\" title=\"uncertain reading\">arms;</span> they had the smokeless powder, small caliber, high power rifle; they <span class=\"pb\">Page 63 (frame 424:0750)</span> were drilled in open order tactics, but they had the same spirit in them, and that is why they won honor and renown for our people. We need good weapons. Take a good man with a poor weapon and put him up against a good man with a good weapon, and of course the latter will win; but take the best weapon made and give it to a fool or a coward and a good man will beat him with a club. <del title=\"struck through\">Laughterxxxxx</del> <del title=\"struck through\">(A voice in crowd, <span class=\"illeg\">[illegible]</span> &quot;<span class=\"unc\" title=\"uncertain reading\">You are all right Teddy</span>&quot;)</del> And it is the same thing with our laws here in this country. We have made this nation what it is partly because of the constitution, because of the fundamental law of the land; because of the legislation that we have had; but not merely because of that. There have been other countries with our system of government, <ins title=\"added by hand\">a</ins> system of government sometimes copied from ours; a constitution that was a beautiful constitution on paper; laws that were excellent on the statute books; but those countries have almost failed absolutely in the struggle for self government, because they did not have the right type of men behind the law. We need good laws but we need still more to have back of the law the high character of individual citizenship. There is no royal road to being a good citizen; least of all is there any patent device by which through some law you can make a man a good citizen any more than you can make him prosperous by a law. A law can give him the opportunity to do the best that is in him, and if it is a bad law it can mar his chances for accomplishing anything, but it cannot make him succeed. He must have the stuff in him or you cannot get it out of him. You need good citizenship. <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> there is more than one element that enters into good citizenship.—In the first place and fundamentally, honesty,<del title=\"struck through\">andx</del> decency. I care not how able a man is<ins title=\"added by hand\">,</ins> if he does not have in him the sense that makes him respond to the moral law,then the abler he is the more dangerous he is. In the Revolutionary War one of the ablest and most brilliant soldiers we had, the man who fought so gallantly in Canada, the man who with distinguished courage led our forces on the <del title=\"struck through\">x</del> field at Saratoga and was there wounded seriously; that man with all of his gallantry, all of his courage did not have the root of righteousness in him, and so his name-the name of Benedict Arnold is a hissing <span class=\"pb\">Page 64 (frame 424:0750)</span> and <ins title=\"added by hand\">a</ins> by-word among the nations forevermore. Exactly as it is with the soldier, if he lacks patriotism <del title=\"struck through\">x</del>, loyalty to the flag, it will make him more dangerous to the country, so the abler a citizen is, the worse he is for the community if he has not got <del title=\"struck through\">xx</del> in him the sense that makes him cling to the right and forswear the wrong. Then you need for good citizenship,first, honesty, decency; and that is not enough. I do not care how honest a man is<ins title=\"added by hand\">,</ins> if he is timid he is of very small use. In the civil war you needed men who would be spurred by patriotism; but it made mighty little difference how patriotic <del title=\"struck through\">xx</del> a man was if in time of action he ran away. You needed to have him&quot;stay put&quot; in the first place. So in citizenship you need honesty as the prerequisite, but it is not enough. With honesty must go courage<ins title=\"added by hand\">,</ins> hand in hand with it, If out of the two you are going to get anything approaching good citizenship. Even honesty and courage are not enough. No matter how honest a man is, no matter how brave he is, if <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> he has been born foolish you can do but little with him. We need honesty, we need courage, and in addition <del title=\"struck through\">xx</del> to that we need the saving grace of common sense. <del title=\"struck through\">Mxxxxxxxxx</del> Hardness of heart is a dreadful quality. In the long run I do not know that it does much more damage than softness of head. (Laughter.) You need in order to get really good work out of any community that the average citizen of that community should have beaten into him the qualities which you are now training up your children to have, the qualities of honesty, of fair dealing as between man and man, the qualities of courage, courage physical and courage moral, and finally with honesty, with courage<ins title=\"added by hand\">,</ins>to be taught the vital need of the old humdrum workaday indispensable quality of common sense. (Applause.)",
+"<span class=\"tnote\">Heading on p.62 reads &quot;Indiana,&quot; (last letters blotted). p.62: &quot;of&quot; is written by hand above struck-through &quot;at&quot;, with a hand comma after &quot;Indiana&quot;; a hand &quot;d&quot; is written above a caret in &quot;underlying&quot;; &quot;the&quot; in &quot;out the triumph&quot; is typed above the line with a hand caret; the first letter of &quot;-The&quot; is typed over. &quot;arms;&quot; at the foot of p.62 is overtyped and hard to read. p.63: hand strokes after &quot;c&quot; in &quot;coward&quot; and through &quot;beat&quot; appear to be proofreading marks; &quot;a&quot; before &quot;good man&quot; is typed over another letter. &quot;Laughter&quot; is x-ed out on the typewriter; the two following typed lines, a crowd interjection, are struck through by hand with an arrow to &quot;And it is the same thing&quot;; only &quot;(A voice in crowd,&quot; is reasonably clear. The word before &quot;there is more than one element&quot; is blotted out by hand and the &quot;t&quot; of &quot;there&quot; is underlined by hand (perhaps marking a capital). The dash before &quot;In the first place&quot; is heavy and may be hand-made. The &quot;a&quot; before &quot;system&quot; is added by hand. p.64: the &quot;a&quot; before &quot;by-word&quot; is added by hand; a hand stroke over the final letter of &quot;honesty&quot;; a hand mark above &quot;If&quot; and on the &quot;t&quot; of &quot;out&quot;; two or three words after &quot;if&quot; in &quot;if ... he has been born foolish&quot; are struck out by hand and are illegible; &quot;Mxxxxxxxxx&quot; is typed letters x-ed out; the closing parenthesis of &quot;(Applause.)&quot; and &quot;(Laughter.)&quot; is drawn by hand. Hand strokes after &quot;under&quot; (p.62) and through &quot;honesty&quot; (p.64) do not change words.</span>"
+],
+"notes": [
+"Heading on p.62 reads \"Indiana,\" (last letters blotted). p.62: \"of\" is written by hand above struck-through \"at\", with a hand comma after \"Indiana\"; a hand \"d\" is written above a caret in \"underlying\"; \"the\" in \"out the triumph\" is typed above the line with a hand caret; the first letter of \"-The\" is typed over. \"arms;\" at the foot of p.62 is overtyped and hard to read. p.63: hand strokes after \"c\" in \"coward\" and through \"beat\" appear to be proofreading marks; \"a\" before \"good man\" is typed over another letter. \"Laughter\" is x-ed out on the typewriter; the two following typed lines, a crowd interjection, are struck through by hand with an arrow to \"And it is the same thing\"; only \"(A voice in crowd,\" is reasonably clear. The word before \"there is more than one element\" is blotted out by hand and the \"t\" of \"there\" is underlined by hand (perhaps marking a capital). The dash before \"In the first place\" is heavy and may be hand-made. The \"a\" before \"system\" is added by hand. p.64: the \"a\" before \"by-word\" is added by hand; a hand stroke over the final letter of \"honesty\"; a hand mark above \"If\" and on the \"t\" of \"out\"; two or three words after \"if\" in \"if... he has been born foolish\" are struck out by hand and are illegible; \"Mxxxxxxxxx\" is typed letters x-ed out; the closing parenthesis of \"(Applause.)\" and \"(Laughter.)\" is drawn by hand. Hand strokes after \"under\" (p.62) and through \"honesty\" (p.64) do not change words."
+],
+"file": "transcriptions/1902-09-23-tipton.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"law-courts"
+],
+"mentions": {
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+}
+],
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 1
+},
+{
+"id": "canada",
+"name": "Canada",
+"count": 1
+}
+]
+},
+"distinctive": [
+"honesty",
+"citizenship",
+"courage",
+"weapon",
+"law",
+"revolutionary",
+"arms",
+"laws",
+"constitution",
+"fundamental"
+],
+"stats": {
+"words": 1164,
+"unique_words": 393,
+"sentences": 36,
+"avg_sentence": 32.3,
+"minutes": 9,
+"i_count": 8,
+"we_count": 14
+}
 },
 {
 "id": "1902-09-23-address-from-balcony-of-columbia-club",
@@ -9774,10 +9902,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 170,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I wish to thank you very much for the way you have come to greet me. I have thoroughly enjoyed my day here. I regret to state that the turkeys did not materialize. (Laughter and applause) In the first place I had a good walk. it is the first I have had for six weeks, and I appreciated it. I was delighted to have a chance to visit the great battlefields here; and it is a very pleasant thing to any man who has the least desire to be a good American to come through your historic town and to see the two avenues named in memory of Grant and of Lee. (Applause) I feel that all of us in any part of this country now have an equal right to glory in the valor and the devotion to duty as each saw his duty alike of those who wore the blue and those who wore the gray. (Applause) I thank you for having greeted me. (APPLAUSE.)"
+],
 "editions": [],
 "trc": [
 {
@@ -9799,13 +9930,50 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 761",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0761",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"I wish to thank you very much for the way you have come to greet me. I have thoroughly enjoyed my day here. I regret to state that the turkeys did not materialize. (Laughter and applause) In the first place I had a good walk. it is the first I have had for six weeks, and I appreciated it. I was delighted to have a chance to visit the great battlefields here; and it is a very pleasant thing to any man who has the least desire to be a good American to come through your historic town and to see the two avenues named in memory of Grant and of Lee. (Applause) I feel that all of us in any part of this country now have an equal right to glory in the valor and the devotion to duty as each saw his duty alike of those who wore the blue and those who wore the gray. (Applause) I thank you for having greeted me. (APPLAUSE.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page ? (frame 424:0761)</span>",
+"Ladies and Gentlemen:",
+"I wish to thank you very much for the way you have come to greet me. I have thoroughly enjoyed my day here. I regret to state that the turkeys <del title=\"struck through\">didn&#x27;t</del><ins title=\"added by hand\">did not</ins> materialize. (Laughter and applause) In the first place I had a good walk<ins title=\"added by hand\">.</ins> <del title=\"struck through\">and</del> it is the first I have had for six weeks, and I appreciated it . I was delighted to have a chance to <span class=\"sic\" title=\"reads: visit\">vicit</span> the great battlefields here; and it is a very pleasant thing to any man who has the least desire to be a good American to come through your historic town and to see the two avenues named in memory of Grant and of Lee. (Applause) I feel that all of us in any part of this country now have an equal right to glory in the valor and the devotion to duty as each saw his duty alike of those who wore the blue and those who wore the gray. (Applause) I thank you for having greeted me. (APPLAUSE.)",
+"<span class=\"tnote\">Typed slip pasted at the top of a scrapbook page that also holds the Brandy (Nov. 3) and Remington (Nov. 3) remarks; no folio number visible. In the heading, a word between &quot;Va.,&quot; and &quot;Nov.1,1902.&quot; is x-ed out on the typewriter. &quot;did not&quot; is written by hand over struck-through &quot;didn&#x27;t&quot;. After &quot;walk&quot; a hand-circled period is added, &quot;and&quot; is struck through by hand, and &quot;it&quot; is underlined by hand (apparently marking a capital &quot;It&quot;). A hand stroke through the space before &quot;first&quot; does not change words.</span>"
+],
+"notes": [
+"Typed slip pasted at the top of a scrapbook page that also holds the Brandy (Nov. 3) and Remington (Nov. 3) remarks; no folio number visible. In the heading, a word between \"Va.,\" and \"Nov.1,1902.\" is x-ed out on the typewriter. \"did not\" is written by hand over struck-through \"didn't\". After \"walk\" a hand-circled period is added, \"and\" is struck through by hand, and \"it\" is underlined by hand (apparently marking a capital \"It\"). A hand stroke through the space before \"first\" does not change words."
+],
+"file": "transcriptions/1902-11-01-manassas.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause"
+],
+"stats": {
+"words": 170,
+"unique_words": 96,
+"sentences": 4,
+"avg_sentence": 42.5,
+"minutes": 1,
+"i_count": 9,
+"we_count": 0
+}
 },
 {
 "id": "1902-11-03-brandy",
@@ -9819,10 +9987,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 37,
+"paragraphs": [
+"I want to thank you for coming here, and to say how much I have enjoyed being down here in your beautiful country and being greeted so hospitably by all of you, and especially by the children."
+],
 "editions": [],
 "trc": [
 {
@@ -9844,13 +10014,40 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 761",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0761",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"I want to thank you for coming here, and to say how much I have enjoyed being down here in your beautiful country and being greeted so hospitably by all of you, and especially by the children."
+],
+"diplomatic": [
+"<span class=\"pb\">Page ? (frame 424:0761)</span>",
+"I want to thank you for coming here, and to say how much I have enjoyed being down here in your beautiful country and being greeted so hospitably by all of you, and especially by the children.",
+"<span class=\"tnote\">The listed page (frame 761, right half) was off: the right half holds the Grand Lodge of Pennsylvania (Philadelphia, November 5, 1902) address. The Brandy remarks are the middle typed slip on the left half of frame 761, between the Manassas and Remington slips. No folio number visible.</span>"
+],
+"notes": [
+"The listed page (frame 761, right half) was off: the right half holds the Grand Lodge of Pennsylvania (Philadelphia, November 5, 1902) address. The Brandy remarks are the middle typed slip on the left half of frame 761, between the Manassas and Remington slips. No folio number visible."
+],
+"file": "transcriptions/1902-11-03-brandy.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 37,
+"unique_words": 29,
+"sentences": 1,
+"avg_sentence": 37.0,
+"minutes": 1,
+"i_count": 2,
+"we_count": 0
+}
 },
 {
 "id": "1902-11-03-remington",
@@ -10166,10 +10363,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 79,
+"paragraphs": [
+"I shall not try to make a speech. I shall simply thank you for coming out to greet me and say how glad I am to be met as I have been to-day in passing through your beautiful state. I never pass through it without realizing what an heritage you and I have, and I earnestly hope that each and all of us will resolve to keep that heritage at the high level at which it should be. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -10191,13 +10390,40 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 822",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0822",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"I shall not try to make a speech. I shall simply thank you for coming out to greet me and say how glad I am to be met as I have been to-day in passing through your beautiful state. I never pass through it without realizing what an heritage you and I have, and I earnestly hope that each and all of us will resolve to keep that heritage at the high level at which it should be. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page ? (frame 424:0822)</span>",
+"I shall not try to make a speech. I shall simply thank you for coming out to greet me and say how glad I am to be met as I have been to-day in passing through your beautiful <span class=\"sic\" title=\"reads: state\">s tate</span>. I never pass through it without realizing what an heritage you and I have, and I earnestly hope that each and all of us will resolve to <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">keep</ins> that heritage at the high level at which <del title=\"struck through\">was</del> it should be. (Applause)",
+"<span class=\"tnote\">Typed slip at the top of the page, above the Worthville, Ky., remarks of the same date. In the heading the &quot;X&quot; of &quot;Xenia&quot; is written by hand over the typed initial letter (possibly &quot;Z&quot;); &quot;6f&quot; for &quot;of&quot; is as typed. &quot;keep&quot; is typed above the line over a struck-out typed word. A faint hand mark at the top right may be a folio number (8?).</span>"
+],
+"notes": [
+"Typed slip at the top of the page, above the Worthville, Ky., remarks of the same date. In the heading the \"X\" of \"Xenia\" is written by hand over the typed initial letter (possibly \"Z\"); \"6f\" for \"of\" is as typed. \"keep\" is typed above the line over a struck-out typed word. A faint hand mark at the top right may be a folio number (8?)."
+],
+"file": "transcriptions/1902-11-12-xenia.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 79,
+"unique_words": 58,
+"sentences": 3,
+"avg_sentence": 26.3,
+"minutes": 1,
+"i_count": 7,
+"we_count": 0
+}
 },
 {
 "id": "1902-11-12-dennison",
@@ -10211,10 +10437,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 192,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"I want to thank you very much for coming here to greet me, and to say that I appreciate it. I only wish that I wasn't always afraid of some accident happening to the small folks. You know the problem of the little apples in the middle of the barrel. The little folks are just like that, always come in the middle.",
+"I shall not try to make a speech to you. I am going south to meet at Memphis a man who has done distinguished service-General Luke Wright-in the Philippines; and I am going to take four or five days holiday first.",
+"It is a great pleasure to come here in your beautiful state; to have passed through Pennsylvania as I just have. I have not merely the hope, but the belief that our people as a whole will so handle themselves that the good times we are enjoying may be continued; that we shall be careful not to mar them by foolish action, and at the same time will have the forethought to cut out any evil that hampers the development of the good. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -10236,13 +10467,52 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 822",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0822",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen and Ladies:",
+"I want to thank you very much for coming here to greet me, and to say that I appreciate it. I only wish that I wasn't always afraid of some accident happening to the small folks. You know the problem of the little apples in the middle of the barrel. The little folks are just like that, always come in the middle.",
+"I shall not try to make a speech to you. I am going south to meet at Memphis a man who has done distinguished service-General Luke Wright-in the Philippines; and I am going to take four or five days holiday first.",
+"It is a great pleasure to come here in your beautiful state; to have passed through Pennsylvania as I just have. I have not merely the hope, but the belief that our people as a whole will so handle themselves that the good times we are enjoying may be continued; that we shall be careful not to mar them by foolish action, and at the same time will have the forethought to cut out any evil that hampers the development of the good. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page ? (frame 424:0822)</span>",
+"Gentlemen and Ladies:",
+"I want to thank you very much for coming here to greet me, and to say that I appreciate it. I only wish that I wasn&#x27;t always <span class=\"sic\" title=\"reads: afraid\">afriad</span> of some accident happening to the small folks. You know the problem of the little apples in the middle of the barrel. The little folks are just like that, always come in the middle.",
+"I shall not try to make a speech to you. I am going south to meet at Memphis <del title=\"struck through\">xx</del> a man who has done distinguished service-<span class=\"sic\" title=\"reads: General\">Gener al</span> Luke Wright-in the Philippines; and I am going to take four or five days holiday first.",
+"It is a great pleasure to come here in your beautiful state; to have passed through Pennsylvania as I just have. I have not merely the hope, but the belief <span class=\"sic\" title=\"reads: that\">t at</span> our people as a whole will so handle themselves that the good times we are enjoying may be continued; that we shall be careful not <del title=\"struck through\">xxxxxxx</del> to mar them by foolish action, and at the same time will have the forethought to cut out any evil that hampers the development of the good. (Cheers and applause. )",
+"<span class=\"tnote\">A heavily inked, somewhat blurred carbon or copy; no folio number visible. The letter between &quot;t&quot; and &quot;at&quot; in &quot;that&quot; did not print. Letters x-ed out on the typewriter after &quot;Memphis&quot; and after &quot;careful not&quot;.</span>"
+],
+"notes": [
+"A heavily inked, somewhat blurred carbon or copy; no folio number visible. The letter between \"t\" and \"at\" in \"that\" did not print. Letters x-ed out on the typewriter after \"Memphis\" and after \"careful not\"."
+],
+"file": "transcriptions/1902-11-12-dennison.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 1
+}
+]
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 192,
+"unique_words": 116,
+"sentences": 8,
+"avg_sentence": 24.0,
+"minutes": 1,
+"i_count": 9,
+"we_count": 2
+}
 },
 {
 "id": "1902-11-12-louisville",
@@ -10861,8 +11131,8 @@
 "liberty",
 "gospel",
 "failed",
-"president",
-"prosperity"
+"prosperity",
+"president"
 ],
 "stats": {
 "words": 2542,
@@ -10947,10 +11217,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 233,
+"paragraphs": [
+"The President received this morning Mr. Alfred Mosely and several representatives of English industrial associations. After greeting them the President said:",
+"\"I am delighted to have the pleasure of meeting you gentlemen and Mr. Marks. I have had communication with Mr. Marks on more than one question leading up to the coal strike. Naturally like any man who has anything to do with public affairs I not only take but am bound to take the very deepest interest in all the manifold social problems which include as one section of them what we group together as the labor problems. More and more as our modern industrial progress goes on there is a tendency to work in federation or combination, both among employers and among employees, in corporations and in unions; and of course, gentlemen, among the reasons why I take a very great interest in these combinations is the very fact that by their power they have such great possibilities for good - which necessarily implies that they have also great possibilities for evil. Whether you wish them or not it is idle in my opinion to protest against the inevitable tendency of the times toward both corporation and union. It is worse than folly to take exceptions to either corporation or union as such. The line should be drawn on conduct.",
+"\"I greet you with all heartiness and am delighted to see you.\""
+],
 "editions": [],
 "trc": [
 {
@@ -10972,13 +11246,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 951",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0951",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"The President received this morning Mr. Alfred Mosely and several representatives of English industrial associations. After greeting them the President said:",
+"\"I am delighted to have the pleasure of meeting you gentlemen and Mr. Marks. I have had communication with Mr. Marks on more than one question leading up to the coal strike. Naturally like any man who has anything to do with public affairs I not only take but am bound to take the very deepest interest in all the manifold social problems which include as one section of them what we group together as the labor problems. More and more as our modern industrial progress goes on there is a tendency to work in federation or combination, both among employers and among employees, in corporations and in unions; and of course, gentlemen, among the reasons why I take a very great interest in these combinations is the very fact that by their power they have such great possibilities for good - which necessarily implies that they have also great possibilities for evil. Whether you wish them or not it is idle in my opinion to protest against the inevitable tendency of the times toward both corporation and union. It is worse than folly to take exceptions to either corporation or union as such. The line should be drawn on conduct.",
+"\"I greet you with all heartiness and am delighted to see you.\""
+],
+"diplomatic": [
+"<span class=\"pb\">Page ? (frame 424:0951)</span>",
+"The President received this morning Mr. Alfred Mosely and several representatives of English industrial associations. After greeting them the President said:",
+"&quot;I am delighted to have the pleasure of meeting you gentlemen and Mr. Marks. I have had communication with Mr. Marks on more than one question leading up to the coal strike. Naturally like any man who has anything to do with public affairs I not only take but am bound to take the very deepest interest in all the manifold social problems which include as one section of them what we group together as the labor problems. More and more as our modern industrial progress goes on there is a tendency to work in federation or combination, both among employers and among employees, in corporations and in unions; and of course, gentlemen, among the reasons why I take a very great interest in these combinations is the very fact that by their power they have such great possibilities for good - which necessarily implies that they have also great possibilities for evil. Whether you wish them or not it is idle in my opinion to protest against the inevitable tendency of the times toward both corporation and union. It is worse than folly to take exceptions to either corporation or union as such. The line should be drawn on conduct.",
+"&quot;I greet you with all heartiness and am delighted to see you.&quot;",
+"<span class=\"tnote\">The page has no typed heading; it opens with a typed third-person introduction (transcribed above) and is dated by hand &quot;11-26-1902&quot; at the top right. A partly cut-off hand number at the top left (35?) may be a folio. Heavily inked, slightly blurred copy; no hand corrections in the text.</span>"
+],
+"notes": [
+"The page has no typed heading; it opens with a typed third-person introduction (transcribed above) and is dated by hand \"11-26-1902\" at the top right. A partly cut-off hand number at the top left (35?) may be a folio. Heavily inked, slightly blurred copy; no hand corrections in the text."
+],
+"file": "transcriptions/1902-11-26-remarks-to-representatives-of-english-in.txt"
+},
+"text_source": "typescript",
+"themes": [
+"labor",
+"corporations"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "england",
+"name": "England and Britain",
+"count": 1
+}
+]
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 233,
+"unique_words": 136,
+"sentences": 11,
+"avg_sentence": 21.2,
+"minutes": 2,
+"i_count": 5,
+"we_count": 1
+}
 },
 {
 "id": "1902-12-02-message-of-the-president-of-the-united-s",
@@ -11175,8 +11489,8 @@
 "tariff",
 "congress",
 "corporations",
-"islands",
 "consideration",
+"islands",
 "navy",
 "system",
 "rural",
@@ -11358,10 +11672,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 614,
+"paragraphs": [
+"Mr. Macfarland, Mr. Carnegie, gentlemen and ladies:",
+"I count myself fortunate in being able to come here to-day, not only for my own private, individual sake, but as in some sort representing the people of all the country, to express my profound appreciation of what is emphatically a gift of wisdom, a gift to do the utmost possible benefit to all of the people of this country, from you, Mr. Carnegie. (Applause) It seems to me that the man has the [?] right to call himself thrice blessed who combines the power and the purpose to use his wealth for the benefit of our people at large in a way that shall do them real benefit; and in no way can more benefit be done than through the gift of libraries such as this -- a free library where each man, each woman, has the chance to get for himself or herself the training that he or she has the character to desire and to acquire.",
+"Of course our common-school system lies at the foundation of our educational system. But it is the foundation only. Of those who are to stand preeminent as the representatives of the culture of the community the enormous majority must educate themselves. (Applause) The work done by this library is helpful because it represents one side of the way in which all healthy work in this community must be done. Mr. Carnegie, neither you nor anyone else can make a man wise or cultivated. All you can do is to give him a chance to add to his own wisdom, or to his own cultivation. (Applause) That is all you can do in any kind of philanthropic work. (Applause) The only philanthropic work that counts in the long run is the work that helps a man to help himself. (Applause) That is true socially, sociologically and in every way. The man who will submit or demand to be carried isn't worth carrying (laughter and applause), and if you make the effort it helps neither him nor you. But every man of us needs help -- needs more and more to be given the chance to show for himself the stuff that is in him; and this kind of free library is doing in the world of cultivation, the world of scholarship, what it should be our aim to do in the great world of political and social development -- that is, it is as far as may be equalizing the opportunities, and then leaving to the men themselves to show how they are able to take advantage of them. (Applause) In other words, this is the kind of gift that steers the happy middle course between the Charybdis of failure to show public spirit on the one hand, and on the other the Scylla of showing that public spirit in a way that will demoralize and pauperize those who take advantage of it(Applause). To quote an expression that I am fond of - this is equally far from the two prime vices of our civilization, hardness of heart and softness of head (Laughter and applause).",
+"I am not here to make a speech. I unfortunately have to leave at once, as the President has several duties to perform (Laughter). I have come because I feel that the movement for securing better facilities for self-training, better facilities for education in its widest and broadest and deepest sense, is one of such prime importance that the President of the United State could nowhere more appropriately come than to this building, Mr. Carnegie, at this time, to thank you for the gift that you have made to the people of the national capital. (Long continued applause)."
+],
 "editions": [],
 "trc": [
 {
@@ -11383,13 +11702,59 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frame 961",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0961",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Macfarland, Mr. Carnegie, gentlemen and ladies:",
+"I count myself fortunate in being able to come here to-day, not only for my own private, individual sake, but as in some sort representing the people of all the country, to express my profound appreciation of what is emphatically a gift of wisdom, a gift to do the utmost possible benefit to all of the people of this country, from you, Mr. Carnegie. (Applause) It seems to me that the man has the [?] right to call himself thrice blessed who combines the power and the purpose to use his wealth for the benefit of our people at large in a way that shall do them real benefit; and in no way can more benefit be done than through the gift of libraries such as this -- a free library where each man, each woman, has the chance to get for himself or herself the training that he or she has the character to desire and to acquire.",
+"Of course our common-school system lies at the foundation of our educational system. But it is the foundation only. Of those who are to stand preeminent as the representatives of the culture of the community the enormous majority must educate themselves. (Applause) The work done by this library is helpful because it represents one side of the way in which all healthy work in this community must be done. Mr. Carnegie, neither you nor anyone else can make a man wise or cultivated. All you can do is to give him a chance to add to his own wisdom, or to his own cultivation. (Applause) That is all you can do in any kind of philanthropic work. (Applause) The only philanthropic work that counts in the long run is the work that helps a man to help himself. (Applause) That is true socially, sociologically and in every way. The man who will submit or demand to be carried isn't worth carrying (laughter and applause), and if you make the effort it helps neither him nor you. But every man of us needs help -- needs more and more to be given the chance to show for himself the stuff that is in him; and this kind of free library is doing in the world of cultivation, the world of scholarship, what it should be our aim to do in the great world of political and social development -- that is, it is as far as may be equalizing the opportunities, and then leaving to the men themselves to show how they are able to take advantage of them. (Applause) In other words, this is the kind of gift that steers the happy middle course between the Charybdis of failure to show public spirit on the one hand, and on the other the Scylla of showing that public spirit in a way that will demoralize and pauperize those who take advantage of it(Applause). To quote an expression that I am fond of - this is equally far from the two prime vices of our civilization, hardness of heart and softness of head (Laughter and applause).",
+"I am not here to make a speech. I unfortunately have to leave at once, as the President has several duties to perform (Laughter). I have come because I feel that the movement for securing better facilities for self-training, better facilities for education in its widest and broadest and deepest sense, is one of such prime importance that the President of the United State could nowhere more appropriately come than to this building, Mr. Carnegie, at this time, to thank you for the gift that you have made to the people of the national capital. (Long continued applause)."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 37 (frame 424:0961)</span>",
+"Mr. Macfarland, Mr. Carnegie, gentlemen and ladies:",
+"I count myself fortunate in being able to come <ins title=\"added by hand\">here</ins> to-day, not only for my own private, individual sake, but as in some sort representing the people of all the country, to express my profound appreciation of what is emphatically a <span class=\"sic\" title=\"reads: gift\">gi ft</span> of wisdom, a gift to do the utmost possible benefit to all of the people of this country, from you, Mr. Carnegie. (Applause) It seems to me that <del title=\"struck through\">a</del><ins title=\"added by hand\">the</ins> man has <del title=\"struck through\">a</del><ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">the</span></ins> right to call himself thrice blessed who combines the power and the purpose to use his wealth for the benefit of our people at large in a way that shall do them real benefit; and in no way can more benefit be done than through the gift of libraries such as this -- a free library where each man, each woman, has the chance to get for himself or herself the training that he or she has the character to desire and to acquire.",
+"Of course our common-school system lies at the foundation of our educational system. But it is the foundation only. Of those who are to stand preeminent as the representatives of the culture of the community the enormous majority must educate themselves. (Applause) The work done by this library is helpful because it represents one side of the way in which all healthy work in this community must be done. Mr. Carnegie, neither you nor anyone else can make a man wise or cultivated. All you can do is to give him a chance to add to his own wisdom, or to his own cultivation. (Applause) That is all you can do in any kind of philanthropic work. (Applause) The only philanthropic work that counts in the long run is the work that helps a man to help himself. (Applause) That is true socially, sociologically and in every way. The man who will submit or demand to be carried isn&#x27;t worth carrying (laughter and applause), and if you make the effort it helps neither him nor you. But every man of us needs help -- needs more and more to be given the chance to show for himself the stuff that is in him; and this kind of free library is doing in the world of cultivation, the world of scholarship, what it should be our aim to do in the great world of political and social development -- that is, it is as far as may be equalizing the opportunities, and then leaving to the men themselves to show how they are able <span class=\"pb\">Page 38 (frame 424:0961)</span> to take advantage of them. (Applause) In other words, this is the kind of gift that steers the happy middle course between the Charybdis of failure to show public spirit on the one hand, and on the other the Scylla of showing that public <ins title=\"added by hand\">spirit in a way that will</ins> demoralize and pauperize those who take advantage of it(Applause). To quote an expression that I am fond of - this is equally far from the two prime vices of our civilization, hardness of heart and softness of head (Laughter and applause).",
+"I am not here to make a speech. I unfortunately have to leave at once, as the President has several duties to perform (Laughter). I have come because I feel that the movement for securing better facilities for self-training, better facilities for education in its widest and broadest and deepest sense, is one of <del title=\"struck through\">xxx</del> such prime importance that the President of the United State could nowhere more appropriately come than to this building, Mr. Carnegie, at this time, to thank you for the gift that you have <del title=\"struck through\">xxx</del> made to the people of the national capital. (Long continued applause).",
+"<span class=\"tnote\">Both pages are the two halves of frame 961 (folios 37, 38). Folio 37: &quot;here&quot; is written by hand above a caret after &quot;come&quot; (&quot;come&quot; is not struck). Typed &quot;a&quot; before &quot;man&quot; is struck and &quot;the&quot; written above by hand; the &quot;a&quot; before &quot;right&quot; is also blotted, with a hand &quot;the&quot; above it that looks smudged or rubbed out. In &quot;(laughter and applause)&quot; the word &quot;applause&quot; carries a hand mark over one letter. Folio 38: &quot;spirit in a way that will&quot; is typed in the left margin area above the line with a hand caret; the end of the line reads &quot;show pub-&quot; with the last letter typed over, then &quot;lic&quot;. Heavy, blurred inking throughout; &quot;Scylla&quot; could be read &quot;Seylla&quot; in this type face.</span>"
+],
+"notes": [
+"Both pages are the two halves of frame 961 (folios 37, 38). Folio 37: \"here\" is written by hand above a caret after \"come\" (\"come\" is not struck). Typed \"a\" before \"man\" is struck and \"the\" written above by hand; the \"a\" before \"right\" is also blotted, with a hand \"the\" above it that looks smudged or rubbed out. In \"(laughter and applause)\" the word \"applause\" carries a hand mark over one letter. Folio 38: \"spirit in a way that will\" is typed in the left margin area above the line with a hand caret; the end of the line reads \"show pub-\" with the last letter typed over, then \"lic\". Heavy, blurred inking throughout; \"Scylla\" could be read \"Seylla\" in this type face."
+],
+"file": "transcriptions/1903-01-07-washington.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"carnegie",
+"gift",
+"library",
+"laughter",
+"benefit",
+"chance",
+"show",
+"world",
+"work"
+],
+"stats": {
+"words": 614,
+"unique_words": 250,
+"sentences": 14,
+"avg_sentence": 43.9,
+"minutes": 5,
+"i_count": 6,
+"we_count": 0
+}
 },
 {
 "id": "1903-01-15-washington",
@@ -15234,8 +15599,8 @@
 "yellowstone",
 "wyoming",
 "idaho",
-"beauties",
 "wilderness",
+"beauties",
 "preservation",
 "enjoyment",
 "scenery"
@@ -23719,8 +24084,8 @@
 },
 "distinctive": [
 "steamship",
-"cutting",
 "law",
+"cutting",
 "line",
 "railroads",
 "crime",
@@ -27146,8 +27511,8 @@
 "wage-worker",
 "rich",
 "classes",
-"cleavage",
 "fatal",
+"cleavage",
 "poor",
 "seeks",
 "healthy",
@@ -27403,8 +27768,8 @@
 ]
 },
 "distinctive": [
-"sherman",
 "armies",
+"sherman",
 "statue",
 "patriotism",
 "loyalty",
@@ -27495,7 +27860,7 @@
 "lord",
 "burden",
 "church",
-"heart"
+"praise"
 ],
 "stats": {
 "words": 1796,
@@ -28764,10 +29129,10 @@
 "college",
 "boys",
 "eleven",
-"school",
 "ideal",
-"athletics",
+"school",
 "life",
+"athletics",
 "physical",
 "prowess"
 ],
@@ -29141,7 +29506,7 @@
 "effort",
 "crisis",
 "history",
-"struggle"
+"washington"
 ],
 "stats": {
 "words": 1680,
@@ -30611,8 +30976,8 @@
 "arbitration",
 "courage",
 "step",
-"training",
 "prepare",
+"training",
 "ships"
 ],
 "stats": {
@@ -31103,8 +31468,8 @@
 "navy",
 "university",
 "govern",
-"principles",
 "justice",
+"principles",
 "lincoln"
 ],
 "stats": {
@@ -31615,8 +31980,8 @@
 "study",
 "uvres",
 "dewey",
-"hit",
 "built",
+"hit",
 "defence",
 "militia"
 ],
@@ -31840,8 +32205,8 @@
 "distinctive": [
 "principles",
 "railroad",
-"square",
 "agree",
+"square",
 "pretty",
 "panama",
 "injustice",
@@ -31993,8 +32358,8 @@
 "corporate",
 "attack",
 "rules",
-"legitimate",
 "army",
+"legitimate",
 "railroads"
 ],
 "stats": {
@@ -32523,8 +32888,8 @@
 "situation",
 "federal",
 "mayor",
-"employers",
 "obey",
+"employers",
 "mob",
 "statement",
 "president"
@@ -32600,8 +32965,8 @@
 "distinctive": [
 "navy",
 "target",
-"turret",
 "gun",
+"turret",
 "ship",
 "shooting",
 "ships",
@@ -32684,8 +33049,8 @@
 "statue",
 "qualities",
 "aggressive",
-"warred",
 "first-class",
+"warred",
 "memories",
 "devotion",
 "reunited"
@@ -32831,7 +33196,7 @@
 "common-sense",
 "value",
 "president",
-"character"
+"comes"
 ],
 "stats": {
 "words": 1474,
@@ -33846,8 +34211,8 @@
 "article",
 "forth",
 "typical",
-"training",
-"special"
+"special",
+"training"
 ],
 "stats": {
 "words": 840,
@@ -34775,8 +35140,8 @@
 "mayor",
 "ordinary",
 "citizen",
-"children",
 "life",
+"children",
 "duty",
 "national",
 "nation"
@@ -35055,8 +35420,8 @@
 "profession",
 "layman",
 "laymen",
-"eminent",
 "punishment",
+"eminent",
 "judge",
 "rose",
 "law",
@@ -35135,8 +35500,8 @@
 "distinctive": [
 "greeted",
 "louisiana",
-"orleans",
 "mayor",
+"orleans",
 "gratitude",
 "governor",
 "summer",
@@ -35705,7 +36070,7 @@
 "immigrants",
 "commission",
 "immigration",
-"conference"
+"government"
 ],
 "stats": {
 "words": 25027,
@@ -36700,8 +37065,8 @@
 "methods",
 "bureaus",
 "red",
-"department",
 "work",
+"department",
 "committees",
 "responsible"
 ],
@@ -36800,7 +37165,7 @@
 "fewer",
 "immigrants",
 "bill",
-"laboring"
+"labor"
 ],
 "stats": {
 "words": 1778,
@@ -37102,8 +37467,8 @@
 "crown",
 "steal",
 "sanity",
-"honesty",
 "attack",
+"honesty",
 "discriminate"
 ],
 "stats": {
@@ -37176,7 +37541,7 @@
 "code",
 "offence",
 "commerce",
-"prosecution"
+"proceed"
 ],
 "stats": {
 "words": 1137,
@@ -38036,8 +38401,8 @@
 "happiness",
 "admiral",
 "ideal",
-"mother",
 "family",
+"mother",
 "selfish",
 "self-respect",
 "bishop"
@@ -38756,11 +39121,11 @@
 "engineer",
 "grand",
 "work",
-"ages",
 "realize",
+"ages",
 "army",
-"enough",
 "task",
+"enough",
 "spirit"
 ],
 "stats": {
@@ -40659,8 +41024,8 @@
 "queen",
 "chariot",
 "chariots",
-"irish",
 "king",
+"irish",
 "bull"
 ],
 "stats": {
@@ -40986,8 +41351,8 @@
 "army",
 "admiration",
 "served",
-"honesty",
 "war",
+"honesty",
 "killed"
 ],
 "stats": {
@@ -41134,8 +41499,8 @@
 "burke",
 "grew",
 "absorbed",
-"tide",
-"stock"
+"stock",
+"tide"
 ],
 "stats": {
 "words": 3908,
@@ -41430,7 +41795,7 @@
 "investors",
 "roads",
 "stocks",
-"transportation"
+"public"
 ],
 "stats": {
 "words": 6998,
@@ -41836,8 +42201,8 @@
 "tax",
 "wilderness",
 "animals",
-"fiction",
-"animal"
+"animal",
+"fiction"
 ],
 "stats": {
 "words": 9802,
@@ -42051,8 +42416,8 @@
 "president",
 "dishonest",
 "wealth",
-"wheeler",
 "wrongdoing",
+"wheeler",
 "poverty",
 "envy"
 ],
@@ -42588,13 +42953,13 @@
 "mississippi",
 "williams",
 "judge",
-"river",
 "justice",
+"river",
 "reactionary",
 "fought",
 "policy",
 "demagogues",
-"triumphed"
+"clamor"
 ],
 "stats": {
 "words": 4150,
@@ -42665,8 +43030,8 @@
 "distinctive": [
 "movement",
 "honest",
-"tennessee",
 "well-being",
+"tennessee",
 "policies",
 "wealth",
 "property",
@@ -42743,8 +43108,8 @@
 "presidents",
 "generation",
 "stuff",
-"blue",
 "change",
+"blue",
 "gray"
 ],
 "stats": {
@@ -42856,8 +43221,8 @@
 "esteem",
 "race",
 "graduate",
-"thousand",
 "forty",
+"thousand",
 "struck"
 ],
 "stats": {
@@ -43343,8 +43708,8 @@
 "oil",
 "corporations",
 "interstate",
-"federal",
 "property",
+"federal",
 "business",
 "law",
 "securities",
@@ -44233,8 +44598,8 @@
 "control",
 "legislation",
 "boston",
-"anti-trust",
-"law"
+"law",
+"anti-trust"
 ],
 "stats": {
 "words": 4303,
@@ -44628,9 +44993,9 @@
 "resources",
 "natural",
 "forests",
-"coal",
 "conservation",
 "maine",
+"coal",
 "waterways",
 "discovery",
 "court",
@@ -44699,8 +45064,8 @@
 "corporation",
 "reward",
 "ample",
-"carried",
 "federal",
+"carried",
 "privilege",
 "state"
 ],
@@ -44763,8 +45128,8 @@
 "spiritual",
 "tends",
 "mother",
-"evil",
 "grown",
+"evil",
 "qualities",
 "material",
 "true"
@@ -44838,8 +45203,8 @@
 "career",
 "privilege",
 "family",
-"ideal",
-"service"
+"service",
+"ideal"
 ],
 "stats": {
 "words": 1265,
@@ -45105,8 +45470,8 @@
 "association",
 "lady",
 "missionary",
-"philanthropic",
 "building",
+"philanthropic",
 "women",
 "district"
 ],
@@ -45589,11 +45954,11 @@
 "courts",
 "interstate",
 "fisheries",
-"deforestation",
 "mountains",
+"deforestation",
 "corporations",
 "savings",
-"employees"
+"control"
 ],
 "stats": {
 "words": 19444,
@@ -45740,8 +46105,8 @@
 "art",
 "modem",
 "coin",
-"beautiful",
 "head",
+"beautiful",
 "conventional"
 ],
 "stats": {
@@ -46529,8 +46894,8 @@
 "governmental",
 "provide",
 "permanent",
-"children",
 "possible",
+"children",
 "government"
 ],
 "stats": {
@@ -46858,8 +47223,8 @@
 "possessed",
 "brother",
 "lived",
-"devotion",
-"common"
+"common",
+"devotion"
 ],
 "stats": {
 "words": 1535,
@@ -47282,8 +47647,8 @@
 "secretary",
 "naval",
 "military",
-"advisory",
 "technical",
+"advisory",
 "rear-admiral",
 "advice",
 "bureaus",
@@ -47671,9 +48036,9 @@
 "literary",
 "education",
 "assassin",
+"europe",
 "pretence",
 "occident",
-"europe",
 "orient",
 "egypt"
 ],
@@ -47867,8 +48232,8 @@
 "agreement",
 "armaments",
 "court",
-"treaties",
 "international",
+"treaties",
 "arbitration",
 "police"
 ],
@@ -48536,7 +48901,7 @@
 "science",
 "culture",
 "europe",
-"scientific"
+"new"
 ],
 "stats": {
 "words": 12886,
@@ -48973,8 +49338,8 @@
 "kansas",
 "struggle",
 "earned",
-"corporations",
 "welfare",
+"corporations",
 "political",
 "interests"
 ],
@@ -49702,14 +50067,14 @@
 ]
 },
 "distinctive": [
-"club",
 "corruption",
+"club",
 "chicago",
 "honesty",
 "party",
 "dinner",
-"sake",
 "york",
+"sake",
 "illinois",
 "advised"
 ],
@@ -49784,15 +50149,15 @@
 },
 "distinctive": [
 "violence",
-"wage",
 "law",
+"wage",
 "union",
 "corporation",
 "policeman",
 "miners",
 "justice",
 "workers",
-"employees"
+"discharge"
 ],
 "stats": {
 "words": 2067,
@@ -50380,8 +50745,8 @@
 "servant",
 "public",
 "corporation",
-"honesty",
 "knave",
+"honesty",
 "candidate",
 "entity",
 "afraid",
@@ -51281,8 +51646,8 @@
 "lorimer",
 "court",
 "illinois",
-"cheers",
 "taft",
+"cheers",
 "friends",
 "york"
 ],
@@ -51914,9 +52279,9 @@
 "bullet",
 "friends",
 "party",
-"laughter",
 "republican",
-"wisconsin"
+"wisconsin",
+"laughter"
 ],
 "stats": {
 "words": 5177,
