@@ -4,12 +4,12 @@ title: Remarks of President Roosevelt at Chehalis, Washington, May 22, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0455, 0456
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0455
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 60 425:0455]
 
-Mr. Chairman; and you, My fellow Americans: Men and Women of Southwestern Washington:
+Mr. Chairman; and you, My Fellow Americans: Men and Women of Southwestern Washington:
 
 It is a great pleasure to greet you and to be greeted by the men of the Grand Army, the men to whom we owe it that there is a country, that there is the chance of a President feeling just exactly as much at home on the Pacific as on the Atlantic. (Applause) No wonder the people of Washington have shown themselves true to the practices and principles of the men who fought in the great war. I have just been introduced to two of your fellow citizens, the father and mother of one of the gallant young fellows who in the Philippines captured Aguinaldo (Cheers and applause) ; and [-[?talking to an audience?]-] [-[illegible]-] with men such as you and with two of your citizens the father and mother of a boy like that, of course you are expansionists. If you were not I would want to know what was the matter with you. (Applause)
 

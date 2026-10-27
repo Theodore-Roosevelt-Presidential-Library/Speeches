@@ -1,0 +1,18 @@
+---
+speech: 1903-06-01-cheyenne
+title: Remarks of President Roosevelt at Cheyenne, Wyoming, June 1, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0520
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0520
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 188 425:0520]
+
+[margin: File]
+
+Senator Warren; Ladies and {gemtlemen|gentlemen}:
+
+I wish to express through you to the people of Wyoming my appreciation of the fifty-two hours I have spent in the state since breakfast on Saturday. I have enjoyed every moment[+[?.?]+] I enjoyed before too, but I have enjoyed this more. I wish also to say what an admirable thing [-xx xx-] I deem it to have sports of this kind, such as these I have been witnessing here; and to {wongratulate|congratulate} the state and the city {andnthe|and the} association upon having them. As long as here in Wyoming and in your sister states you breed the type of men that we have seen {widingto-day|riding to-day}, Uncle Sam can be absolutely certain that if the hour of need arrives he will have his cavalry ready made. Men who can shoot, ride, live in the open, and have got the game spirit in them, have got 98 per cent of what you need in {cabalry|cavalry}. I wish to congratulate all the riders and two of the ropers. I am always truthful so I limit the number of ropers I congratulate. I wish to say especially to Mr. Irwin that the whole business has been managed in a way which ought to make him well satisfied how it has come out. I thank you all. As for the gentlemen who have been riding those horses, while I wish it distinctly understood that personally I prefer the gait of the one that was given to me, ( I like my horse to do things horizontally rather than {vertisally|vertically} ) still I want to say that I am very proud of them as Americans. (Cheers and applause)
+
+[note: A hand check mark with "File" stands at the top left. In the heading the "C" of "Cheyenne" is typed over another letter; in "gemtlemen" the "g" is typed below the line. Letters typed over others are given in their final reading in "fifty", "if" and "Men". A hand vertical stroke with a dot stands between "moment" and "I", perhaps adding a period. The rest of the page is blank.]

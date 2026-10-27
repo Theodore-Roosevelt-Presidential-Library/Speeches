@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Kalama, Washington, May 22, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0454, 0455
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0454
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 58 425:0454]
@@ -20,3 +20,4 @@ I am glad to be here to congratulate you upon your agriculture and commerce, you
 I have met here [-xxx-] as I have met everywhere men who wear the button which shows that they fought in the great civil war, and those men have left us all [pb 59 425:0455] not merely the heritage of a reunited country but something more, for they have left us the example of the virtues [-xxxx-][+by+] which they made and kept it great. It is because of what you men and those like you did that there is now one country and a President able to go from the Atlantic to the Pacific, from the Rio Grande to Canada and everywhere be at home. (Cheers and applause)
 
 [note: "File" is written by hand in the upper left margin of folio 58. Typed page number "-2-" on folio 59 is omitted; a faint pencil mark stands at the upper left of folio 59. "people", "through" and "by" are typed between the lines above x-ed out words. A hand caret with a short bar above it follows "sense," and appears to insert a dash. A hand stroke between "button" and "which" separates the words. "man", "one" (in "from one end") and "fought" show letters typed over other letters.]
+[note: Third look: the heavily inked letter in "prophesy" is read as "s".]
