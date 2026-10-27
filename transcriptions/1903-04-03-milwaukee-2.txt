@@ -1,0 +1,19 @@
+---
+speech: 1903-04-03-milwaukee-2
+title: Remarks of President Roosevelt in accepting a card of membership in the Press Club at Milwaukee, Wis., April 3,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0057
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0057
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 35 425:0057]
+
+Mr. President:
+
+I accept with all gratitude the honorary membership in your club[-x-]. I am so glad that I was here some years ago  and that I am able to come back now, and as we are speaking among ourselves with no reporters present, I want to say just one word  with all my heart. I have found that if I felt I wished to tell something to [-xxxxxx-] someone who[+[?m?]+] I knew would not repeat it, if there was something that it was essential to keep which I wish[+[?ed?]+] to tell to some one with whom I knew  it would be kept sacred I could  take any honorable man connected with the press with absolute certainty that my faith would be justified. (Applause.)
+
+Among the closest friends that I have made in every station which I have held;[-xx-] where I wanted to test the [?man's?] friendship to see if they had the stuff in them that made it worth while being friends with them; in every such station, whether in the army or as governor or now as President, I have found that it was among the men of your profession that I got some of the closest and sta[+u+]nchest of my friends. I won't say that I have always gotten along well with all the gentlemen of your profession, but I wish to say with all the emphasis possible that taken on the whole there has been no more honorable body, no more upright body than the men of your profession, of the stamp whom you yourselves would have in this club, and I {greetn|greet} you and thank you for having me here this evening. (Cheers and applause.)
+
+[note: Frame 0057 is a single page (folio 35), not the right half of a spread as listed; it was read from the full frame. The upper part of the page holds separate remarks to the Deutscher Club, Milwaukee, followed by a typed rule ("9-------------"); they are not transcribed here.]
+[note: A hand mark after "who" may add "m", and a hand mark above the space after "wish" may add "ed"; both are uncertain. "u" in "staunchest" is written above a caret. "[?man's?]": the end of the word is overtyped.]

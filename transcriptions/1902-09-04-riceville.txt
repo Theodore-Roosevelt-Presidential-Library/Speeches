@@ -1,0 +1,16 @@
+---
+speech: 1902-09-04-riceville
+title: Rema ks of President Roosevelt at Riceville,Tenn.,Sept.4,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0701
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0701
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 38 424:0701]
+
+My friends:
+
+I am glad to have the chance of saying a word of greeting to you. I am thoroughly enjoying my trip through Eastern Tennessee.   I came down here  to attend the meeting of the brotherhood of Locomotive Firemen, but in addition to that it is  a particular pleasure to come here in the battle valley of the  Tennessee,in which the state took its rise-into which the pioneers came even before the Revolutionary War; and I spent most of yesterday going {ofer|over} the battlefields of Chickamauga and Chattanooga, Missionary Ridge {a d|and} Lookout Mountain. I don't see how any halfway decent  American can come away not feeling better than before.   I am very glad to see you,my fellow countrymen.   (Applause)
+
+[note: In the heading the r of "Remarks" did not print and the last digit of the year is overtyped (read as 2, matching the series); a small stroke follows "4". In the text the e's of "see" and the t of "decent" are typed over other letters, and there is a small ink mark above the semicolon after "War". The right half of the frame holds the Athens, Tenn., remarks.]
