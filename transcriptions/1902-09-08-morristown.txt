@@ -4,7 +4,7 @@ title: REMARKS OF THE PRESIDENT AT MORRISTOWN, TENN., September 8, 1902.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0703
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0703
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 42 424:0703]
@@ -18,3 +18,4 @@ Gentlemen and ladies: I have greatly enjoyed yesterday and to-day being in your 
 [note: At the left of the salutation a hand mark (perhaps "Jr" or a paragraph sign) with a long stroke; "Gentlemen" and "ladies" are underlined by hand.]
 [note: The word after "I" in "I can make" is inked out (it begins with "c") and "can" is written above it. The x-ed out run after "goes" is not legible. The sentence before "all through this country" is inked out and only partly legible; "all" is underlined three times by hand to mark a capital (All), starting the new sentence.]
 [note: The last paragraph is struck through by hand line by line, leaving only the closing ")." unstruck; a hand stroke also falls across "those". The struck words are read through the line and are partly uncertain.]
+[note: Third look: the handwritten "Applause" begins with a capital A; the strike-through ends before the typed ")." which is left unstruck.]

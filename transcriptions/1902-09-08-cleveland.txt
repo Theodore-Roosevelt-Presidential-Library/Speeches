@@ -4,13 +4,13 @@ title: Remarks of Pr sident Roosevelt at Cleveland,Tenn.,Sept.8,1902.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0700
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0700
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 37 424:0700]
 
 My friends:
 
-I thank you for having come out to greet me. We are making but a moment[+'+]s stop and I shall merely express my acknowledgments {add|and} say what a pleasure it is to be here in your beautiful state-the state of "Old Hickory", and [-the-] [+a+] state that has ever taken a leading position both in peace and in war. Yesterday I enjoyed particularly going over the great battlefields. I feel that they are an inspiration for every good American to think of the deeds of valor  done alike by the men who wore the blue and by those who wore the gray. I think we ought all to be better men for it, and I [-[?certainly?]-] leave your state feeling, if possible, even a better American. (Cheers and applause)
+I thank you for having come out to greet me. We are making but a moment[+'+]s stop and I shall merely express my acknowledgments {add|and} say what a pleasure it is to be here in your beautiful state-the .state of "Old Hickory", and [-the-] [+a+] state that has ever taken a leading position both in peace and in war. Yesterday I enjoyed particularly going over the great battlefields. I feel that they are an inspiration for every good American to think of the deeds of valor  done alike by the men who wore the blue and by those who wore the gray. I think we ought all to be better men for it, and I [-[?certainly?]-] leave your state feeling, if possible, even a better American. (Cheers and applause)
 
-[note: The heading has a typed gap in "Pr sident". The apostrophe in "moment's" is added by hand. "the" before "state that has ever" is struck through by hand and "a" written above with a caret. The word before "leave" is inked out; only its last letters (apparently "-ly") show.]
+[note: The heading has a typed gap in "Pr sident". The apostrophe in "moment's" is added by hand. "the" before "state that has ever" is struck through by hand and "a" written above with a caret. The word before "leave" is inked out; only its last letters (apparently "-ly") show. A stray period is typed before "state of".]
