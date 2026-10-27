@@ -1906,8 +1906,8 @@
 "union",
 "spread",
 "continent",
-"unity",
-"race"
+"race",
+"strength"
 ],
 "stats": {
 "words": 3296,
@@ -2576,8 +2576,8 @@
 "china",
 "commercial",
 "congress",
-"government",
 "water",
+"government",
 "arid",
 "forest",
 "anarchist"
@@ -2769,8 +2769,8 @@
 },
 "distinctive": [
 "tasks",
-"lesson",
 "afford",
+"lesson",
 "leave",
 "lincoln",
 "love",
@@ -3501,8 +3501,8 @@
 "service",
 "sake",
 "virile",
-"decent",
 "reward",
+"decent",
 "fit",
 "work"
 ],
@@ -4076,8 +4076,8 @@
 "arlington",
 "fought",
 "vernon",
-"mount",
 "dead",
+"mount",
 "presence",
 "loyalty",
 "comrades",
@@ -4205,8 +4205,8 @@
 "shortcomings",
 "cuba",
 "work",
-"wanted",
-"hundred"
+"hundred",
+"wanted"
 ],
 "stats": {
 "words": 1569,
@@ -4487,8 +4487,8 @@
 "lynchings",
 "troops",
 "islands",
-"acts",
 "holidays",
+"acts",
 "committed"
 ],
 "stats": {
@@ -6500,8 +6500,8 @@
 "evils",
 "destroy",
 "remedies",
-"trouble",
 "corporations",
+"trouble",
 "real",
 "deal",
 "power"
@@ -6840,7 +6840,7 @@
 "wherever",
 "wrong",
 "carry",
-"standard"
+"bad"
 ],
 "stats": {
 "words": 1073,
@@ -6952,8 +6952,8 @@
 "abraham",
 "preaching",
 "decency",
-"lincoln",
-"souls"
+"souls",
+"lincoln"
 ],
 "stats": {
 "words": 1418,
@@ -7958,8 +7958,8 @@
 "honesty",
 "weapons",
 "won",
-"victory",
 "wore",
+"victory",
 "citizenship",
 "win"
 ],
@@ -8552,9 +8552,9 @@
 "corporations",
 "change",
 "levees",
-"applause",
 "period",
 "wheeling",
+"applause",
 "dam",
 "industrial",
 "advocating",
@@ -13260,8 +13260,8 @@
 "complaint",
 "failed",
 "gospel",
-"president",
-"issue"
+"issue",
+"president"
 ],
 "stats": {
 "words": 2542,
@@ -16181,7 +16181,7 @@
 "big",
 "politics",
 "play",
-"taught"
+"speaking"
 ],
 "stats": {
 "words": 1619,
@@ -16633,7 +16633,7 @@
 "play",
 "work",
 "worth",
-"believe"
+"women"
 ],
 "stats": {
 "words": 547,
@@ -17510,8 +17510,8 @@
 "girls",
 "count",
 "word",
-"fellow",
 "work",
+"fellow",
 "remember",
 "glad"
 ],
@@ -18806,8 +18806,8 @@
 "comrades",
 "weapons",
 "applause",
-"law",
 "fighting",
+"law",
 "wanted",
 "stuff",
 "cattle"
@@ -18934,8 +18934,8 @@
 "philippine",
 "insurrection",
 "filipinos",
-"army",
 "taft",
+"army",
 "government",
 "militia",
 "regular",
@@ -19502,8 +19502,8 @@
 "north",
 "strength",
 "hard",
-"applause",
 "women",
+"applause",
 "glad",
 "state",
 "work"
@@ -20460,7 +20460,7 @@
 "qualities",
 "hardihood",
 "courage",
-"decent"
+"fundamentally"
 ],
 "stats": {
 "words": 1531,
@@ -20571,12 +20571,12 @@
 "wyoming",
 "laws",
 "congressman",
-"decent",
 "qualities",
+"decent",
 "brave",
+"irrigation",
 "fool",
 "weakling",
-"irrigation",
 "law"
 ],
 "stats": {
@@ -21917,8 +21917,8 @@
 "distinctive": [
 "cheers",
 "children",
-"applause",
-"believe"
+"believe",
+"applause"
 ],
 "stats": {
 "words": 473,
@@ -22036,8 +22036,8 @@
 "boys",
 "sake",
 "mother",
-"children",
 "feeling",
+"children",
 "lesson",
 "father",
 "applause"
@@ -24087,8 +24087,8 @@
 "distinctive": [
 "kansas",
 "foundation",
-"memory",
 "building",
+"memory",
 "soul",
 "greet",
 "applause",
@@ -24831,8 +24831,8 @@
 "places": []
 },
 "distinctive": [
-"believe",
 "women",
+"believe",
 "work"
 ],
 "stats": {
@@ -25534,8 +25534,8 @@
 "decency",
 "patriotic",
 "neighbors",
-"senator",
 "strength",
+"senator",
 "virtue",
 "quality",
 "possess"
@@ -25745,8 +25745,8 @@
 "army",
 "war",
 "united",
-"applause",
 "believe",
+"applause",
 "states",
 "nation",
 "state",
@@ -26209,8 +26209,8 @@
 "tracts",
 "colorado",
 "water",
-"law",
 "benefit",
+"law",
 "farms",
 "lands",
 "irrigation",
@@ -28148,8 +28148,8 @@
 "applause",
 "remember",
 "helped",
-"brotherhood",
 "injustice",
+"brotherhood",
 "brother",
 "new"
 ],
@@ -28496,11 +28496,11 @@
 "california",
 "architecture",
 "civilization",
-"avoid",
 "solve",
+"avoid",
 "world's",
-"brotherhood",
 "fail",
+"brotherhood",
 "soil",
 "problems"
 ],
@@ -28584,8 +28584,8 @@
 "distinctive": [
 "truth",
 "soil",
-"applause",
 "play",
+"applause",
 "senator",
 "california",
 "primarily",
@@ -29498,8 +29498,8 @@
 },
 "distinctive": [
 "california",
-"applause",
 "believe",
+"applause",
 "state",
 "nation"
 ],
@@ -29596,8 +29596,8 @@
 "currency",
 "legislation",
 "law",
-"cheers",
 "business",
+"cheers",
 "laws",
 "prosperity"
 ],
@@ -31764,12 +31764,12 @@
 "railroad",
 "pioneers",
 "lesson",
-"brotherhood",
 "square",
+"brotherhood",
 "safety",
 "ease",
-"qualities",
 "love",
+"qualities",
 "preach"
 ],
 "stats": {
@@ -32429,9 +32429,9 @@
 "law",
 "believe",
 "play",
-"greeting",
-"war",
 "type",
+"war",
+"greeting",
 "citizenship",
 "world",
 "life"
@@ -32538,8 +32538,8 @@
 "decency",
 "feeling",
 "neighbor",
-"average",
-"california"
+"california",
+"average"
 ],
 "stats": {
 "words": 1475,
@@ -33499,8 +33499,8 @@
 "applause",
 "problems",
 "child",
-"appeal",
 "difficulties",
+"appeal",
 "strife",
 "generation",
 "disregard"
@@ -33645,8 +33645,8 @@
 "applause",
 "peace",
 "ships",
-"ocean",
 "won",
+"ocean",
 "adequate",
 "guns",
 "fight",
@@ -33850,8 +33850,8 @@
 "civil",
 "play",
 "work",
-"comes",
-"washington"
+"washington",
+"comes"
 ],
 "stats": {
 "words": 1190,
@@ -33952,8 +33952,8 @@
 "new",
 "type",
 "future",
-"applause",
 "women",
+"applause",
 "country",
 "state"
 ],
@@ -34462,8 +34462,8 @@
 "alaska",
 "salmon",
 "territory",
-"pacific",
 "metal",
+"pacific",
 "river",
 "greatness",
 "settlers",
@@ -34713,8 +34713,8 @@
 "washington",
 "gospel",
 "business",
-"qualities",
 "school",
+"qualities",
 "applause",
 "wonderful",
 "build"
@@ -35327,12 +35327,12 @@
 "navy",
 "weapon",
 "return",
-"type",
 "regions",
+"type",
 "coast",
 "utterly",
 "brotherhood",
-"war"
+"education"
 ],
 "stats": {
 "words": 1903,
@@ -36087,8 +36087,8 @@
 },
 "distinctive": [
 "butte",
-"creed",
 "law",
+"creed",
 "section",
 "class",
 "follow",
@@ -36451,8 +36451,8 @@
 "average",
 "qualities",
 "state",
-"applause",
 "believe",
+"applause",
 "glad",
 "american",
 "country"
@@ -37153,8 +37153,8 @@
 "gotten",
 "spite",
 "fundamentally",
-"borders",
 "laws",
+"borders",
 "woman"
 ],
 "stats": {
@@ -37674,8 +37674,8 @@
 "left",
 "keeper",
 "civil",
-"war",
 "confront",
+"war",
 "memory"
 ],
 "stats": {
@@ -37806,8 +37806,8 @@
 "wanted",
 "decency",
 "university",
-"civil",
 "makes",
+"civil",
 "qualities",
 "added",
 "training"
@@ -38082,10 +38082,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 648,
+"paragraphs": [
+"Mr. Mayor; and you, My Fellow Citizens:",
+"It is a great pleasure to have the chance of saying a word of greeting to you to-day. I have crossed the continent from the Atlantic to the Pacific. Now I am returning; and the thing that has struck me more than anything else on my journey is the essential unity of all Americans.",
+"In being greeted by the men of the Grand Army, by the men who fought in the great civil war, I wish to say to them that they not only by what they did left us a union in name but in fact; for owing to what they did, now wherever an American President goes, from the Atlantic to the Pacific, from the Gulf to the Canadian border, he feels absolutely at home, for he meets men in one place as in the other to whom he can appeal as Americans and as nothing else. The great lesson taught by the civil war was the lesson of brotherhood. You, my comrade/ who fought in the great war, you know that as you marched, as you did your work in camp, as you moved forward into battle, it made no difference as to the locality from which the man on your right hand or on your left hand came, as to what the creed was in accordance with which he worshipped his Maker, what was his social standing or his means. You cared not at all whether he were banker, bricklayer, business man, mechanic, or farmer, so long as he was a man, able to do his work in the world. So it is now in civil life as it was in military life then. The thing with which we have to concern ourselves is not the man's means, not his social position not the locality from which he comes, but the man's worth as a man. (Applause) The line of conduct, the line that divides decent citizens from those who are not, runs at right angles to the line of cleavage between occupation and occupation, between class and class, section and section, creed and creed. The really good American, the man who is loyal to the principles of our government as it was established, and the principles of our government as it was upheld by those who responded to the call of Abraham Lincoln, is the man who recognizes that fact as fundamental in our government. Of all the varieties of men who do ill to the country, the man who does worst is the man who tries to inflame one set of Americans against another set of Americans on artificial grounds, whether he makes his appeal in the name of class against class, creed against creed, or section against section. The flag has pretty broad folds, and they can float over men of wide differences of opinion; but there is no room under its folds for the man who preaches either the gospel of arrogance or the gospel of envy and hatred toward any American. There are two sides to that question. It is a base and foul thing for one of our citizens to look down upon another because he is less well off; it is equally base, equally mean, equally un-American to look at him with envy, hatred, and rancor because he is better off. Either feeling is entirely unworthy of a people trained as we pride ourselves upon having been trained.",
+"I am now coming from the Pacific east toward the Atlantic; and one thing that has interested me very much is to see how purely relative the terms east and west are. It does not make much difference whether a man lives east or west, north or south, if he is a straight American he is a pretty good fellow and other straight Americans can get on with him. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38107,13 +38112,76 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0521",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0521",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor; and you, My Fellow Citizens:",
+"It is a great pleasure to have the chance of saying a word of greeting to you to-day. I have crossed the continent from the Atlantic to the Pacific. Now I am returning; and the thing that has struck me more than anything else on my journey is the essential unity of all Americans.",
+"In being greeted by the men of the Grand Army, by the men who fought in the great civil war, I wish to say to them that they not only by what they did left us a union in name but in fact; for owing to what they did, now wherever an American President goes, from the Atlantic to the Pacific, from the Gulf to the Canadian border, he feels absolutely at home, for he meets men in one place as in the other to whom he can appeal as Americans and as nothing else. The great lesson taught by the civil war was the lesson of brotherhood. You, my comrade/ who fought in the great war, you know that as you marched, as you did your work in camp, as you moved forward into battle, it made no difference as to the locality from which the man on your right hand or on your left hand came, as to what the creed was in accordance with which he worshipped his Maker, what was his social standing or his means. You cared not at all whether he were banker, bricklayer, business man, mechanic, or farmer, so long as he was a man, able to do his work in the world. So it is now in civil life as it was in military life then. The thing with which we have to concern ourselves is not the man's means, not his social position not the locality from which he comes, but the man's worth as a man. (Applause) The line of conduct, the line that divides decent citizens from those who are not, runs at right angles to the line of cleavage between occupation and occupation, between class and class, section and section, creed and creed. The really good American, the man who is loyal to the principles of our government as it was established, and the principles of our government as it was upheld by those who responded to the call of Abraham Lincoln, is the man who recognizes that fact as fundamental in our government. Of all the varieties of men who do ill to the country, the man who does worst is the man who tries to inflame one set of Americans against another set of Americans on artificial grounds, whether he makes his appeal in the name of class against class, creed against creed, or section against section. The flag has pretty broad folds, and they can float over men of wide differences of opinion; but there is no room under its folds for the man who preaches either the gospel of arrogance or the gospel of envy and hatred toward any American. There are two sides to that question. It is a base and foul thing for one of our citizens to look down upon another because he is less well off; it is equally base, equally mean, equally un-American to look at him with envy, hatred, and rancor because he is better off. Either feeling is entirely unworthy of a people trained as we pride ourselves upon having been trained.",
+"I am now coming from the Pacific east toward the Atlantic; and one thing that has interested me very much is to see how purely relative the terms east and west are. It does not make much difference whether a man lives east or west, north or south, if he is a straight American he is a pretty good fellow and other straight Americans can get on with him. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 189 (frame 425:0521)</span>",
+"Mr. Mayor; and you, My Fellow Citizens:",
+"It is a great pleasure to have the chance of saying a word of greeting to you to-day. I have crossed the continent from the Atlantic to the Pacific. Now I am returning; and the thing that has struck me more than anything else on my journey is the essential unity of all Americans.",
+"In being greeted by the men of the Grand Army, by the men who fought in the great civil war, I wish to say to them that they not only by what they did left us a union in name but in fact; for owing to what they did , now wherever an American President goes, <span class=\"sic\" title=\"reads: from\">fron</span> the Atlantic to the Pacific, from the Gulf to the Canadian border, he <del title=\"struck through\">xxxx</del> feels absolutely at home, for he meets men in one place as in the other to whom he can appeal as Americans and as nothing else. The great lesson taught by the civil war was the lesson of brotherhood. You , my comrade/ who fought in the great war, you know that as you marched, as you did your work in camp, as you moved forward into battle, it made no difference as to the locality from which the man on your right hand or on your left hand came, as to what the creed was in accordance with which he worshipped his Maker, what <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">was</ins> his social standing or his means. You cared not <del title=\"struck through\">xx xxx</del> at all whether he were banker, bricklayer, business man, mechanic, or farmer, so long as he was a man, able to do his work in the world. So it is now in civil life as it was in military life then. The thing with which we have to concern ourselves is not the man&#x27;s means, not his social position not the locality from which he comes, but the man&#x27;s worth as a man. (Applause) The line of conduct , the line that divides decent citizens from those who are not, runs at right angles to the line of cleavage between occupation and occupation, between class and class, section and section, creed and creed. The really good American, the man who is loyal to the principles of our government as it was established, and the principles of our government as it was upheld by those who responded to the call of Abraham Lincoln, is the man who recognizes that fact as fundamental in our government. Of all the varieties of men who do ill to the country, the man who does wors<ins title=\"added by hand\">t</ins> is the man who tries to <span class=\"sic\" title=\"reads: inflame\">imflame</span> one set of Americans against another set of Americans on artificial grounds, whether he makes his appeal in the name of class against class, creed against creed, or section against section. <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">That</span></del><ins title=\"added by hand\">The</ins> flag has pretty broad folds,\n<span class=\"pb\">Page 190 (frame 425:0521)</span> and they can float over men of wide differences of opinion; but there is no room under its folds for the man who preaches either the gospel of arrogance or the gospel of envy and hatred toward any American. There are two sides to that question. It is a base and foul thing <del title=\"struck through\">xx xxxx xxxx</del> for one of our citizens to look down upon another because he is less well off; it is equally base, equally mean, equally un-American to look at him with envy, hatred, and rancor because he is better off. Either feeling is entirely unworthy of a people trained as we pride ourselves upon having been trained.",
+"I am now coming from the Pacific east toward the Atlantic; and one <ins title=\"added by hand\">thing</ins> that has interested me very much is to see how purely relative the terms east and west are. It does not make much difference whether a man lives east or west, north or south, if he is a straight American he is a pretty good fellow and other straight Americans can get on with him. (Cheers and applause)",
+"<span class=\"tnote\">Both pages are on frame 0521 (left half folio 189, right half folio 190), as listed.</span>\n<span class=\"tnote\">Several letters are typed over others; final readings given: &quot;anything&quot; (the n looks overstruck with a g), &quot;essential&quot;, &quot;civil&quot; (in &quot;great civil war&quot;), &quot;absolutely&quot;, &quot;section&quot;, &quot;no&quot; and &quot;room&quot; (top of p. 2). &quot;Pacific&quot; in the first paragraph has a letter typed over and an &quot;i&quot; typed above the line.</span>\n<span class=\"tnote\">Typed slash marks after &quot;comrade&quot; (&quot;comrade/&quot;) and at the comma after &quot;home&quot; are reproduced or noted as typed; they may be typist&#x27;s marks for a missing letter or comma.</span>\n<span class=\"tnote\">&quot;was&quot; is typed above the x-ed-out word, not handwritten. &quot;t&quot; in &quot;worst&quot; and &quot;The&quot; (replacing a struck typed word, probably &quot;That&quot;) and &quot;thing&quot; (with caret) are handwritten.</span>\n<span class=\"tnote\">Typed page number &quot;-2-&quot; at the top of folio 190 omitted. A stamped paper mark &quot;No. 1064&quot; at the foot of folio 189 omitted.</span>\n<span class=\"tnote\">Third look: &quot;fron&quot; is typed with a clear final n and is marked as a typing slip; the slash after &quot;comrade&quot; is on the page, in the same grey as the typing, and is kept.</span>"
+],
+"notes": [
+"Both pages are on frame 0521 (left half folio 189, right half folio 190), as listed.",
+"Several letters are typed over others; final readings given: \"anything\" (the n looks overstruck with a g), \"essential\", \"civil\" (in \"great civil war\"), \"absolutely\", \"section\", \"no\" and \"room\" (top of p. 2). \"Pacific\" in the first paragraph has a letter typed over and an \"i\" typed above the line.",
+"Typed slash marks after \"comrade\" (\"comrade/\") and at the comma after \"home\" are reproduced or noted as typed; they may be typist's marks for a missing letter or comma.",
+"\"was\" is typed above the x-ed-out word, not handwritten. \"t\" in \"worst\" and \"The\" (replacing a struck typed word, probably \"That\") and \"thing\" (with caret) are handwritten.",
+"Typed page number \"-2-\" at the top of folio 190 omitted. A stamped paper mark \"No. 1064\" at the foot of folio 189 omitted.",
+"Third look: \"fron\" is typed with a clear final n and is marked as a typing slip; the slash after \"comrade\" is on the page, in the same grey as the typing, and is kept."
+],
+"file": "transcriptions/1903-06-01-sidney.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"civil-war"
+],
+"mentions": {
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+}
+],
+"places": [
+{
+"id": "canada",
+"name": "Canada",
+"count": 1
+}
+]
+},
+"distinctive": [
+"creed",
+"section",
+"americans",
+"class",
+"atlantic",
+"equally",
+"east",
+"line",
+"pacific",
+"civil"
+],
+"stats": {
+"words": 648,
+"unique_words": 257,
+"sentences": 17,
+"avg_sentence": 38.1,
+"minutes": 5,
+"i_count": 4,
+"we_count": 2
+}
 },
 {
 "id": "1903-06-01-and-the-horse-presented-by-the-citizens",
@@ -38211,10 +38279,19 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 2190,
+"paragraphs": [
+"Mr. Chairman, and you, my fellow-Americans:",
+"It is a pleasure to have the opportunity of greeting you this afternoon; and in greeting all of you, I know that the others will not object to my saying a special word of thanks for the attendance of the men of the Grand Army,(Applause.) the men to whose deeds we owe it that there is now a common country, and that the President of the United States can travel from the Atlantic to the Pacific, from the Gulf to the Canadian border and find himself everywhere at home. (Cheers and applause.) You must also let me say a word of special greeting to the gentlemen from the range.(Applause.) Day before yesterday, boys, I had a little ride myself, and I wish you had been along. Finally let me greet especially the future, in the shape of the children. As you gentlemen know, I believe in children, and I am glad to see that apparently the children here are all right in quality and in quantity.",
+"In traveling through our country during the past two months, the thing that has impressed me more than aught else is the essential unity of our people. I wish to say to the veterans, the men of the Grand Army, that more than ever, coming back now, I have a keen and lively appreciation of what they did by their deeds in the Civil War, for they warred not only for unity as regards sections, but for unity all through, for brotherhood all through.",
+"The lesson that you men of the civil war taught applies not merely to military life; it applies just as much to civil life. The civil war was won, when Abraham Lincoln called for men who were willing to die for an ideal; [?] it was won in the first place, because we had people who appreciated the real value of things, who appreciated that often the best things are those that are intangible, that can hardly be touched, that can hardly be called material; [?] and because as a people we were able to show that with us the sense of brotherhood, the sense of treating each man on his merit as a man, was a real and not a merely nominal part of our character. In the first place, our people in '61 showed a realization of what was the important and what the unimportant side of life, just as I ask you, my countrymen, now to show that realization. I do not preach to an individual nor to this nation the doctrine of the easy life. I do not preach to any one to try to be happy by avoiding difficulties, avoiding all trouble, all worry, all work. The kind of life led by the man whose one aim is to have the easiest time possible, to my mind is not worth living. In 186 when Lincoln, called to arms the easy thing to do was not to answer, and the easy lives were led by those who did not respond to the call. Now understand me, I know perfectly well that there were many men who for one reason or another could not and properly did not respond to the call; but there were plenty of men, who when the call was made found it pleasanter and easier to stay at home and wonder why you did not take Richmond that summer than to go ahead and try to take it. It was a very different job talking about it and doing it, because there were a lot of obstinate men in gray in the way— fellow-Americans, with whom your prowess and your victory has now given us the right of brotherhood. One of the pleasant things, one of the wonderful things of that war was that the victory gave to the victors the right again of resuming brotherhood with the vanquished. That was one of the wonderful feats of that war. The man who stayed at home slept at ease under a roof; he did not have to work, he did not have to face risk. You who went out, went out to lie night after night through the winter weather in the frozen mud of the trenches, to march in the scorching heat of the southern sun, when as you remember, if you were recruits, about noon the blanket got so heavy that you tended to throw it away, and at midnight you wished you had two; you went to suffer cold and heat, thirst and wearing fatigue, to face death and see the brightest and the bravest pour out their blood like water on the stricken field, or give up their lives on the fever cots of the hospitals; you did all that. You did it and you did it gladly, because you knew what counted in life and what did not. You knew that there were things infinitely more important than the life of ease, the life of mere pleasure, the life that desired above all things that it should go softly in the delicate places of the earth. Now in looking back, which is the life worth having lived? The life of the man that stayed at home or the life of the man who went out? You who went out have handed on not merely to your children and your children's children, but to all of us who come after you a heritage of honor forever more. You have made the whole nation your debtor for all time; and as long as history speaks of the American republic it will speak of the deeds of the men who saved it.(Applause.) Wasn't that worth doing?",
+"I ask that in civil life, in social and industrial life we apply practically the same principles that these men applied who marched to war in the blue uniform from '61 to '65. The kind of life that is worth living is not the easy life, is not the life passed in avoidance of trouble and worry, in shirking duties, in endeavoring only to have a pleasant time. If there exists any set of people more miserable than others in our country it is those at either end of the social scale whose aim in life it is only to have a pleasant time. I do not know of any man more sure to be unhappy in the long run than the man who sets himself down for his life work to try to have a pleasant time only. The only life worth living is the life that has as its goal duty performed, that has as its goal the doing of a work that is worth doing and doing it well. It is just exactly as in bringing up your children. We all of us know unwise fathers, I am sorry to say unwise mothers too, who will tell you, well I have had to work hard and my boy shall not, and if it is a mother she will say, I have had to work hard, my girl shall be a lady, meaning thereby that the girl shall be a curse to herself and every body else by not being trained to work. They think they are being affectionate to the children. They are not, they are foolish. Of course every man, every woman, who i s a father, who is a mother, will try to take care to give their children happiness, to educate them well, to see that things are made as pleasant for them as is consistent with teaching them how to do their duty. It is not a kindness, it is a curse to bring the child up so that it will not be able to do its work in the world afterwards. It is a curse to a boy to bring him up at home under conditions which make him wholly unable to hold his own when he gets out, as he must get out in the end, to try to do his work in real life. I ask you to bring up your children not to shirk obstacles, but to face them and overcome them. I ask you to have them carry on their lives as you carry on yours with the object not of finding out how trouble can be avoided, but how the best life can be lived. That is sound doctrine in morals and in practice. As I ask you to do that in the sphere of the individual citizen I ask that the nation follow out the same course. A little nation can without shame play a small part. A big nation must play a big part. It is not open to us as a people to say whether or not we are to play a big part in the world. We cannot help it. We have got to play a big part. We can play it badly if we wish, but play it well or play it badly we have to. We shall either succeed greatly or fail greatly. It is only open to us to choose which of the two it shall be. I know you, my fellow countrymen, too well to hesitate as to what your choice will be. The nation should shape its conduct as the individual citizen shapes his. We cannot succeed as a people unless we have the same standard of honesty, decency, in public life as in private life, and the same standard of honor among our public men.",
+"We have great problems here within our own borders. We must try to face them and solve them. Something can be done by law, a good deal at times; more can be done by honest and equal enforcement of the law, of law that recognizes no distinction between the rich man or poor man; not in favor of one, or in favor of the other, but favoring the decent man, the law-abiding man, be he rich or be he poor. (Applause) We must have the type of character in public life that we demand of a man with whom we deal in private life. My friends on horseback, in the old days I lived in the cow country myself, and then we had an expression that ran: \"Don't draw unless you mean to shoot.\" I have great contempt for a private individual who is always blustering, boasting and threatening and when the times comes does not make good.",
+"I want our foreign policy as a nation carried on along just exactly those lines. avoid speaking ill of or insulting any friendly power; always deal courteously with others; be scrupulously careful not to wrong the weak, and hold ourselves ready so as to see that we are not wronged by the strong; (Cheers and applause) do not take a position until we are sure we mean to keep it, and when we have decided to keep it make good whatever we say. (Cheers and applause) I think that is a fairly sound rule for a good foreign policy. ¶ I want you people of Nebraska, and I want the people of every state in this Union, to help me in building up and keeping built up the arm of the government that is essential,-- the navy of the United States. (Applause) Nothing has pleased me more than the way in which the response to the appeal for the navy has been as instantaneous in the interior of this nation as on the seacoast whether of the Atlantic or the Pacific ocean, and it is right it should be so. Exactly as the great battleships are named after all the states, so every deed of honor they perform reflects credit upon each and all of us, and humiliation of the navy of the United States would mean humiliation to every American citizen worth calling such. A navy cannot be built up when war has begun. Those vast and delicate and formidable mechanisms,-- modern warships -- must be prepared well in advance, and then the men trained how to use them. In battle the only shots that count are the shots that hit. There is no earthly use in putting the finest type of gun aboard a ship if you have not got the gunner that can point it right. We need then the ships, we need the guns; we have got in America the right type of men, and should have the right type of men trained so that t [?]hey [?] can shoot straight and handle themselves right. If we do that we will have in the navy, in the first place, the surest guaranty of peace. It is the surest guaranty of peace, the greatest insurance against war, and also an assurance that if war comes the flag will come out of it with its glory undimmed.",
+"My friends, it has been the greatest pleasure for me to see you. I believe in you with all my heart. I wish you well, and I know that the future of this country is assured because I know what type of man the average American citizen is. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38236,13 +38313,88 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0524, 0525, 0526",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0524",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 7 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman, and you, my fellow-Americans:",
+"It is a pleasure to have the opportunity of greeting you this afternoon; and in greeting all of you, I know that the others will not object to my saying a special word of thanks for the attendance of the men of the Grand Army,(Applause.) the men to whose deeds we owe it that there is now a common country, and that the President of the United States can travel from the Atlantic to the Pacific, from the Gulf to the Canadian border and find himself everywhere at home. (Cheers and applause.) You must also let me say a word of special greeting to the gentlemen from the range.(Applause.) Day before yesterday, boys, I had a little ride myself, and I wish you had been along. Finally let me greet especially the future, in the shape of the children. As you gentlemen know, I believe in children, and I am glad to see that apparently the children here are all right in quality and in quantity.",
+"In traveling through our country during the past two months, the thing that has impressed me more than aught else is the essential unity of our people. I wish to say to the veterans, the men of the Grand Army, that more than ever, coming back now, I have a keen and lively appreciation of what they did by their deeds in the Civil War, for they warred not only for unity as regards sections, but for unity all through, for brotherhood all through.",
+"The lesson that you men of the civil war taught applies not merely to military life; it applies just as much to civil life. The civil war was won, when Abraham Lincoln called for men who were willing to die for an ideal; [?] it was won in the first place, because we had people who appreciated the real value of things, who appreciated that often the best things are those that are intangible, that can hardly be touched, that can hardly be called material; [?] and because as a people we were able to show that with us the sense of brotherhood, the sense of treating each man on his merit as a man, was a real and not a merely nominal part of our character. In the first place, our people in '61 showed a realization of what was the important and what the unimportant side of life, just as I ask you, my countrymen, now to show that realization. I do not preach to an individual nor to this nation the doctrine of the easy life. I do not preach to any one to try to be happy by avoiding difficulties, avoiding all trouble, all worry, all work. The kind of life led by the man whose one aim is to have the easiest time possible, to my mind is not worth living. In 186 when Lincoln, called to arms the easy thing to do was not to answer, and the easy lives were led by those who did not respond to the call. Now understand me, I know perfectly well that there were many men who for one reason or another could not and properly did not respond to the call; but there were plenty of men, who when the call was made found it pleasanter and easier to stay at home and wonder why you did not take Richmond that summer than to go ahead and try to take it. It was a very different job talking about it and doing it, because there were a lot of obstinate men in gray in the way— fellow-Americans, with whom your prowess and your victory has now given us the right of brotherhood. One of the pleasant things, one of the wonderful things of that war was that the victory gave to the victors the right again of resuming brotherhood with the vanquished. That was one of the wonderful feats of that war. The man who stayed at home slept at ease under a roof; he did not have to work, he did not have to face risk. You who went out, went out to lie night after night through the winter weather in the frozen mud of the trenches, to march in the scorching heat of the southern sun, when as you remember, if you were recruits, about noon the blanket got so heavy that you tended to throw it away, and at midnight you wished you had two; you went to suffer cold and heat, thirst and wearing fatigue, to face death and see the brightest and the bravest pour out their blood like water on the stricken field, or give up their lives on the fever cots of the hospitals; you did all that. You did it and you did it gladly, because you knew what counted in life and what did not. You knew that there were things infinitely more important than the life of ease, the life of mere pleasure, the life that desired above all things that it should go softly in the delicate places of the earth. Now in looking back, which is the life worth having lived? The life of the man that stayed at home or the life of the man who went out? You who went out have handed on not merely to your children and your children's children, but to all of us who come after you a heritage of honor forever more. You have made the whole nation your debtor for all time; and as long as history speaks of the American republic it will speak of the deeds of the men who saved it.(Applause.) Wasn't that worth doing?",
+"I ask that in civil life, in social and industrial life we apply practically the same principles that these men applied who marched to war in the blue uniform from '61 to '65. The kind of life that is worth living is not the easy life, is not the life passed in avoidance of trouble and worry, in shirking duties, in endeavoring only to have a pleasant time. If there exists any set of people more miserable than others in our country it is those at either end of the social scale whose aim in life it is only to have a pleasant time. I do not know of any man more sure to be unhappy in the long run than the man who sets himself down for his life work to try to have a pleasant time only. The only life worth living is the life that has as its goal duty performed, that has as its goal the doing of a work that is worth doing and doing it well. It is just exactly as in bringing up your children. We all of us know unwise fathers, I am sorry to say unwise mothers too, who will tell you, well I have had to work hard and my boy shall not, and if it is a mother she will say, I have had to work hard, my girl shall be a lady, meaning thereby that the girl shall be a curse to herself and every body else by not being trained to work. They think they are being affectionate to the children. They are not, they are foolish. Of course every man, every woman, who i s a father, who is a mother, will try to take care to give their children happiness, to educate them well, to see that things are made as pleasant for them as is consistent with teaching them how to do their duty. It is not a kindness, it is a curse to bring the child up so that it will not be able to do its work in the world afterwards. It is a curse to a boy to bring him up at home under conditions which make him wholly unable to hold his own when he gets out, as he must get out in the end, to try to do his work in real life. I ask you to bring up your children not to shirk obstacles, but to face them and overcome them. I ask you to have them carry on their lives as you carry on yours with the object not of finding out how trouble can be avoided, but how the best life can be lived. That is sound doctrine in morals and in practice. As I ask you to do that in the sphere of the individual citizen I ask that the nation follow out the same course. A little nation can without shame play a small part. A big nation must play a big part. It is not open to us as a people to say whether or not we are to play a big part in the world. We cannot help it. We have got to play a big part. We can play it badly if we wish, but play it well or play it badly we have to. We shall either succeed greatly or fail greatly. It is only open to us to choose which of the two it shall be. I know you, my fellow countrymen, too well to hesitate as to what your choice will be. The nation should shape its conduct as the individual citizen shapes his. We cannot succeed as a people unless we have the same standard of honesty, decency, in public life as in private life, and the same standard of honor among our public men.",
+"We have great problems here within our own borders. We must try to face them and solve them. Something can be done by law, a good deal at times; more can be done by honest and equal enforcement of the law, of law that recognizes no distinction between the rich man or poor man; not in favor of one, or in favor of the other, but favoring the decent man, the law-abiding man, be he rich or be he poor. (Applause) We must have the type of character in public life that we demand of a man with whom we deal in private life. My friends on horseback, in the old days I lived in the cow country myself, and then we had an expression that ran: \"Don't draw unless you mean to shoot.\" I have great contempt for a private individual who is always blustering, boasting and threatening and when the times comes does not make good.",
+"I want our foreign policy as a nation carried on along just exactly those lines. avoid speaking ill of or insulting any friendly power; always deal courteously with others; be scrupulously careful not to wrong the weak, and hold ourselves ready so as to see that we are not wronged by the strong; (Cheers and applause) do not take a position until we are sure we mean to keep it, and when we have decided to keep it make good whatever we say. (Cheers and applause) I think that is a fairly sound rule for a good foreign policy. ¶ I want you people of Nebraska, and I want the people of every state in this Union, to help me in building up and keeping built up the arm of the government that is essential,-- the navy of the United States. (Applause) Nothing has pleased me more than the way in which the response to the appeal for the navy has been as instantaneous in the interior of this nation as on the seacoast whether of the Atlantic or the Pacific ocean, and it is right it should be so. Exactly as the great battleships are named after all the states, so every deed of honor they perform reflects credit upon each and all of us, and humiliation of the navy of the United States would mean humiliation to every American citizen worth calling such. A navy cannot be built up when war has begun. Those vast and delicate and formidable mechanisms,-- modern warships -- must be prepared well in advance, and then the men trained how to use them. In battle the only shots that count are the shots that hit. There is no earthly use in putting the finest type of gun aboard a ship if you have not got the gunner that can point it right. We need then the ships, we need the guns; we have got in America the right type of men, and should have the right type of men trained so that t [?]hey [?] can shoot straight and handle themselves right. If we do that we will have in the navy, in the first place, the surest guaranty of peace. It is the surest guaranty of peace, the greatest insurance against war, and also an assurance that if war comes the flag will come out of it with its glory undimmed.",
+"My friends, it has been the greatest pleasure for me to see you. I believe in you with all my heart. I wish you well, and I know that the future of this country is assured because I know what type of man the average American citizen is. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 1 (frame 425:0524)</span>",
+"Mr. Chairman, and you, my fellow-Americans:",
+"It is a pleasure to have the opportunity of greeting you this afternoon; and in greeting all of you, I know that the others will not <del title=\"struck through\">xxxxxx</del> object to my saying a special word of thanks for the attendance of the men of the Grand Army,(Applause.) the men to whose deeds we owe it that there is now a common country, and that the President of the United States can travel from the Atlantic to the Pacific, from the Gulf to the Canadian border and find himself everywhere at home. (Cheers and applause.) You must also let me say a word of special greeting to the gentlemen from the range.(Applause.) Day before yesterday, boys, I had a little ride myself, and I wish you had been along. Finally let me greet especially the <span class=\"sic\" title=\"reads: future\">fu ure</span>, in the shape of the children. As you gentlemen know, I believe in children, and I am glad to see that apparently the children here are all right in quality and in quantity.",
+"In traveling through our country during the past <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">two</ins> months, the thing that has impressed me more than aught else is the essential unity of our people. I wish to say to the veterans,the men of the Grand Army, that more than ever, coming back now, I have a keen and lively appreciation of what they did by their deeds in the Civil War, for they warred not only for unity as regards sections, but for unity all through, for brotherhood all through.",
+"The lesson that you men of the civil war taught applies not merely to military life; it applies just as much to civil life. The civil war was won<ins title=\"added by hand\">,</ins> when Abraham Lincoln called for men who were willing to die for an ideal<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">;</span></ins> it was won in the first place, because we had people who appreciated the real value of things, who appreciated <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">that often</span></del> that often the best things are those that are intangible, that can hardly be touched, that can hardly be called material<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">;</span></ins> and because as a people we were able to show <del title=\"struck through\">xxxx</del> that with us the sense of brotherhood, the sense of treating each man on his merit as a man<ins title=\"added by hand\">,</ins> was a real and not a merely nominal part of our character. In the first place, our people in &#x27;61 showed\n<span class=\"pb\">Page 2 (frame 425:0524)</span> a realization of what was the important and what the unimportant side of life, just as I ask you, my countrymen, now to show that realization. I do not preach to an individual nor to this nation the doctrine of the easy life. I do not preach to any one to try to be happy by avoiding difficulties, avoiding all trouble, all worry, all work. The kind of life led by the man whose one aim is to have the easiest time possible<ins title=\"added by hand\">,</ins> to my mind is not worth living. In 186<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\"><del title=\"struck through\">xxx</del></ins> when Lincoln <ins title=\"added by hand\">,</ins> called to arms the easy thing to do was not to answer , and the easy lives were led by those who did not respond to the call. Now understand me, I know perfectly well that there were many men who for one reason or another could not and properly did not respond to the call; but there were plenty of men, who when the call was made found it pleasanter and easier to stay at home and wonder why you did not take Richmond that summer than to go ahead and try to take it. It was a very different job talking about it and doing it, because there were a lot of obstinate men in gray in the way<ins title=\"added by hand\">—</ins> fellow-Americans, with whom your prowess and your victory has now given <del title=\"struck through\">x</del> us the right of brotherhood. One of the pleasant things, one of the wonderful things of that war was that the victory gave to the victors the right again of resuming brotherhood with the vanquished. That was one of the wonderful feats of that war. The man who stayed at home slept at ease under a roof; he did not have to work, he did not have to face risk. You who went out, went out to lie night after night through the winter weather in the frozen mud of the trenches, to march in the scorching heat of the southern sun, when as you remember, if <span class=\"sic\" title=\"reads: you\">your</span> were recruits, about noon the blanket got so heavy that you tended to throw it away, and at midnight you wished <del title=\"struck through\">xx</del> you had two; you went to suffer cold and heat, thirst and wearing fatigue, to face death and see the brightest and the bravest pour out their blood like water on the stricken field, or give up their lives on the fever cots of the hospitals; you did all that. You did it and you did it gladly, because you knew what counted in life and what did not. You knew that there were things infinitely more important than the life of ease, the life of mere pleasure,\n<span class=\"pb\">Page 3 (frame 425:0525)</span> the life that desired above all things that it should go softly in the delicate places of the earth. Now in looking back, which is the life worth having lived? The life of the man that stayed at home or the life of the man who went out? You who went out have <del title=\"struck through\">x</del> handed on not merely to your children and your children<ins title=\"added by hand\">&#x27;</ins>s children, but to all of us who come after you a <span class=\"sic\" title=\"reads: heritage\">hemitage</span> of honor forever more. You have made the whole nation your debtor for al<ins title=\"added by hand\">l</ins> time; and as long as history speaks of the American republic it will speak of the deeds of the men who saved it.(Applause.) Wasn&#x27;t that worth doing?",
+"I ask that in civil life, in social and industrial life we apply practically the same principles that these men applied who marched to war in the blue uniform from &#x27;61 to &#x27;65 . The kind of life that is worth living is not the easy life, is not the life passed in avoidance of trouble and worry, in shirking duties, in endeavoring only to have a pleasant time. If there exists any set of people more miserable than others in our country it is those at either end of the social scale whose aim in life it is only to have a pleasant time. I do not know of any man more sure to be unhappy in the long run than the man who sets himself down <del title=\"struck through\">x</del> for his life work to try to have a pleasant time only. The only life worth living is the life that has as its goal duty performed, that has as its goal the doing of a work that is worth doing and doing it well. It is just exactly as in bringing up your children. We all of us know unwise fathers, I am sorry to say unwise mothers too, who will tell you, well I have had to work hard and my boy shall not,<del title=\"struck through\">xxxx</del> and if it is a mother she will say, I have had to work hard, my girl<del title=\"struck through\">x</del> shall be <del title=\"struck through\">xxxxxxxx</del> <ins title=\"added by hand\">a</ins> lady, meaning thereby that the girl shall be a curse to herself and every body else by not being trained to work. They think they are being affectionate to the children. They are not, they are foolish. Of course every man<del title=\"struck through\">x</del> , every woman, who i s a father, who is a mother, will try to take care to give their children happiness , to educate them well, to see that things are made as pleasant for them as is consistent with teaching them how to do their duty. It is not a kindness, it\n<span class=\"pb\">Page 4 (frame 425:0525)</span> is a curse to bring the child up so that it <del title=\"struck through\">shall</del><ins title=\"added by hand\">will</ins> not be able to do its work in the world afterwards. It is a curse to a boy to bring him up at home under conditions which make him wholly unable to hold his own when he gets out, as he must get out in the end, to try to do his work in real life. I ask you to bring up your children not to shirk obstacles, but to <del title=\"struck through\">xxxxx</del><ins title=\"added by hand\">face</ins> them and overcome them. I ask you to have them carry on their lives as you carry on yours<del title=\"struck through\">xxxxxxxx</del> with the object not of finding out how <span class=\"sic\" title=\"reads: trouble can\">troublecan</span> be avoided, but how the best life can be lived. That is sound doctrine in morals and in practice. As I ask you to do that in the sphere of the individual citizen I ask that the nation follow out the same course. A little nation can without <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">shame</ins> play a small part. A big nation must play a big part. It is not open to us as a people to say whether or not we are to play a big part in the world. We cannot help it. We have got to play a big part. We can play it badly if we wish, but play it well or play it badly we have to. We shall either succeed greatly or fail greatly. It is only open to us to choose which of the two it shall be. I know you, my fellow countrymen, too well to hesitate as to what your choice will be. The nation should shape its conduct as the individual citizen shapes his. We cannot succeed as a people unless we have the same standard of honesty, decency, in public life as in private life, and the same standard of honor among our public men.",
+"We have great problems here within our own borders. We must try to face them and solve them. Something can be done by law, a good deal at times; more can be done by honest <span class=\"sic\" title=\"reads: and equal\">andequal</span> enforcement of the law, of law that recognizes no distinction between the rich man or poor man; not in favor of one, or in favor of the other, but favoring the decent man, the law-abiding man, be he rich or be he poor. (Applause) We must have the type of character in public life that we demand of a man with whom we deal in private life. My friends on horseback, in the old days I lived in the cow country myself, and then we had an expression that ran: &quot;Don&#x27;t draw unless you mean to shoot.&quot; I have great contempt for a private individual who is always blustering, boasting and <span class=\"sic\" title=\"reads: threatening\">threatenting</span> and when the times comes does not make good.",
+"I want our foreign policy as a nation carried on along just exactly those lines<ins title=\"added by hand\">.</ins> avoid speaking ill of or insulting any friendly power; always deal courteously with others; be scrupulously careful not to wrong the weak, and hold ourselves ready so as to see that we are not wronged by the strong; (Cheers and\n<span class=\"pb\">Page 5 (frame 425:0526)</span> applause) do not take a position until we are sure we mean to keep it, and when we have decided to keep it make good whatever we say. (Cheers and applause) I think that is a fairly sound rule for a good foreign policy<ins title=\"added by hand\">. ¶</ins> I want you people of Nebraska, and I want the people of every state in this Union, to help me in building up and keeping built up the arm of the government that is essential,-- the navy of the United States. (Applause) Nothing has pleased me more than the way in which the response to the appeal for the navy has been as instantaneous in the interior of this nation as on the seacoast <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">wither</span></del><ins title=\"added by hand\">whether</ins> of the Atlantic or the Pacific ocean<ins title=\"added by hand\">,</ins> and it is right it should be so. Exactly as the great battleships are named after all the states, so every deed of honor they perform reflects credit upon each and all of us, and humiliation of the navy of the United States would mean humiliation to every American citizen worth calling such. A navy cannot be built up when war has begun. Those vast and delicate and formi<ins title=\"added by hand\">d</ins>able mechanisms,-- modern warships -- must be prepared well in advance, and then the men trained how to use them. In battle the only shots that count are the shots that hit. There is no earthly use in putting the finest type of gun aboard a ship if you have not got the gunner that can point it right. We need then the ships, we need the guns; we have got in America<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">n</span></del> the right type of m<del title=\"struck through\">a</del><ins title=\"added by hand\">e</ins>n, and should have the right type of m<del title=\"struck through\">a</del><ins title=\"added by hand\">e</ins>n trained so that <ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">t</span></ins>he<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">y</span></ins> can shoot straight<del title=\"struck through\">,</del> and handle themselves right. If we do that we will have in the navy, in the first place, the surest guaranty of peace. <del title=\"struck through\">I think that foreign powers <span class=\"unc\" title=\"uncertain reading\">generally mean</span> well toward us, but I think it helps them <span class=\"unc\" title=\"uncertain reading\">out</span> if we have a good navy. It will encourage them to persevere in their good intentions.</del> It is the surest guaranty of peace, the greatest insurance against war, and also an assurance that if war comes the flag will come out of it with its glory undimmed.",
+"My friends, it has been the greatest pleasure for me to see you. I believe in you with all my heart. I wish you well , and I know that the future of this country is assured because I know what type of man the average American citizen is. (Cheers and applause)",
+"<span class=\"tnote\">Pages as listed: folios 1-5 on frames 0524 (both halves), 0525 (both halves) and 0526 (left half). Typed page numbers &quot;-2-&quot; to &quot;-5-&quot; omitted. The heading&#x27;s &quot;June&quot; has overtyped letters.</span>\n<span class=\"tnote\">Folio 2: after &quot;possible&quot; and after &quot;Lincoln&quot; are short handwritten strokes, recorded as commas; the comma after &quot;Lincoln&quot; stands before &quot;called&quot;. &quot;In 186&quot;: the digit(s) after &quot;186&quot; are x-ed out and a word typed above the line is also x-ed out, so the year is left incomplete on the page.</span>\n<span class=\"tnote\">Folio 1: after &quot;ideal&quot; is a handwritten mark (recorded as a semicolon) with a caret and a stroke above &quot;it&quot;; the exact punctuation intended is uncertain. &quot;that often&quot; (first occurrence) is struck by hand; reading of the struck words is uncertain. Commas after &quot;won&quot;, &quot;material&quot; and &quot;man&quot; are handwritten.</span>\n<span class=\"tnote\">Folio 2: the dash after &quot;way&quot; is handwritten with a caret.</span>\n<span class=\"tnote\">Folio 3: the apostrophe in &quot;children&#x27;s&quot; and the second l of &quot;all time&quot; are handwritten; &quot;a&quot; before &quot;lady&quot; is handwritten above x-ed typing.</span>\n<span class=\"tnote\">Folio 4: &quot;will&quot; (replacing struck &quot;shall&quot;) and &quot;shame&quot; (replacing a struck typed word that cannot be read) are handwritten; &quot;face&quot; is typed above an x-ed word. A handwritten run-on line joins &quot;make good.&quot; to the next paragraph &quot;I want our foreign policy&quot;; after &quot;lines&quot; a circled period is written by hand and &quot;avoid&quot; is double-underlined (for a capital).</span>\n<span class=\"tnote\">Folio 5: after &quot;foreign policy&quot; a handwritten period and paragraph mark. &quot;whether&quot;, the &quot;d-&quot; at the end of the line in &quot;formi-dable&quot; (with a hand mark over the first letter of the next line), the comma after &quot;ocean&quot;, the e&#x27;s in &quot;men&quot; (twice), the strokes around &quot;he&quot; (read as t...y, &quot;they&quot;, uncertain) and the slashes after &quot;America&quot; and &quot;straight&quot; are by hand. The passage from &quot;I think that foreign powers&quot; to &quot;good intentions.&quot; is struck through by hand. A small slash in the right margin is not transcribed.</span>\n<span class=\"tnote\">Overtyped letters with clear final readings are given without marks.</span>\n<span class=\"tnote\">Third look: Folio 1, the hand mark after &quot;material&quot; (a slash and a mark like a semicolon) is uncertain, so marked <span class=\"unc\" title=\"uncertain reading\">;</span>. Folio 2, after &quot;186&quot; two typed character positions are overstruck with x and the character(s) beneath cannot be read with confidence, so no final digit is given; the hand stroke before &quot;called&quot; matches the one after &quot;possible&quot; and is kept as a comma; after &quot;way&quot; a hand caret with a dash above it is kept as a dash. Folio 5, the hand mark after &quot;policy&quot; reads as a paragraph sign; whether a typed period lies beneath it cannot be told. In &quot;formidable&quot; the hand &quot;d&quot; and hyphen at the line end are joined (line-end hyphen omitted). After &quot;mechanisms&quot; the comma is typed and not struck: the first hyphen of &quot;--&quot; is typed over it. After &quot;straight&quot; the hand slash runs through a typed comma, kept as struck.</span>"
+],
+"notes": [
+"Pages as listed: folios 1-5 on frames 0524 (both halves), 0525 (both halves) and 0526 (left half). Typed page numbers \"-2-\" to \"-5-\" omitted. The heading's \"June\" has overtyped letters.",
+"Folio 2: after \"possible\" and after \"Lincoln\" are short handwritten strokes, recorded as commas; the comma after \"Lincoln\" stands before \"called\". \"In 186\": the digit(s) after \"186\" are x-ed out and a word typed above the line is also x-ed out, so the year is left incomplete on the page.",
+"Folio 1: after \"ideal\" is a handwritten mark (recorded as a semicolon) with a caret and a stroke above \"it\"; the exact punctuation intended is uncertain. \"that often\" (first occurrence) is struck by hand; reading of the struck words is uncertain. Commas after \"won\", \"material\" and \"man\" are handwritten.",
+"Folio 2: the dash after \"way\" is handwritten with a caret.",
+"Folio 3: the apostrophe in \"children's\" and the second l of \"all time\" are handwritten; \"a\" before \"lady\" is handwritten above x-ed typing.",
+"Folio 4: \"will\" (replacing struck \"shall\") and \"shame\" (replacing a struck typed word that cannot be read) are handwritten; \"face\" is typed above an x-ed word. A handwritten run-on line joins \"make good.\" to the next paragraph \"I want our foreign policy\"; after \"lines\" a circled period is written by hand and \"avoid\" is double-underlined (for a capital).",
+"Folio 5: after \"foreign policy\" a handwritten period and paragraph mark. \"whether\", the \"d-\" at the end of the line in \"formi-dable\" (with a hand mark over the first letter of the next line), the comma after \"ocean\", the e's in \"men\" (twice), the strokes around \"he\" (read as t...y, \"they\", uncertain) and the slashes after \"America\" and \"straight\" are by hand. The passage from \"I think that foreign powers\" to \"good intentions.\" is struck through by hand. A small slash in the right margin is not transcribed.",
+"Overtyped letters with clear final readings are given without marks.",
+"Third look: Folio 1, the hand mark after \"material\" (a slash and a mark like a semicolon) is uncertain, so marked; [?]. Folio 2, after \"186\" two typed character positions are overstruck with x and the character(s) beneath cannot be read with confidence, so no final digit is given; the hand stroke before \"called\" matches the one after \"possible\" and is kept as a comma; after \"way\" a hand caret with a dash above it is kept as a dash. Folio 5, the hand mark after \"policy\" reads as a paragraph sign; whether a typed period lies beneath it cannot be told. In \"formidable\" the hand \"d\" and hyphen at the line end are joined (line-end hyphen omitted). After \"mechanisms\" the comma is typed and not struck: the first hyphen of \"--\" is typed over it. After \"straight\" the hand slash runs through a typed comma, kept as struck."
+],
+"file": "transcriptions/1903-06-01-north-platte.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"home-family",
+"military"
+],
+"mentions": {
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 2
+}
+],
+"places": [
+{
+"id": "canada",
+"name": "Canada",
+"count": 1
+}
+]
+},
+"distinctive": [
+"life",
+"pleasant",
+"play",
+"brotherhood",
+"navy",
+"unity",
+"curse",
+"applause",
+"children",
+"worth"
+],
+"stats": {
+"words": 2190,
+"unique_words": 617,
+"sentences": 67,
+"avg_sentence": 32.7,
+"minutes": 17,
+"i_count": 32,
+"we_count": 30
+}
 },
 {
 "id": "1903-06-02-denison",
@@ -38256,10 +38408,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1028,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure for me to come here and say a word or two of greeting to you this morning. I only regret that here in the home of Secretary Shaw I cannot stay longer with you. I feel thoroughly at home in Iowa. You see I had to come to this one state to get a quarter of my Cabinet.",
+"In greeting all of you I I wish to say a word or two of special thanks to the National Guard who have turned out to-day,-my own comrades -- then to those who ever deserve the right of the line in every American gathering -- the men of the Grand Army of the Republic, the men to whom we owe it that at the present day an American President can travel from one ocean to the other, from the Gulf to the Canadian border, and everywhere be at home among his fellow Americans.",
+"Friends, at this time as I come into your beautiful state, there have come calamities upon our people here in Iowa, to an even greater degree in Kansas, in Missouri, I see also by to-day's paper, in Georgia. We have Biblical authority as well as the authority of common sense for the statement that the rain falls on the just and the unjust alike. When the hand of the Lord is heavy upon any body of men the wisdom of man can do but little. Now and then in our country, from drought, from floods, from pestilence, trouble and misfortune will come; but, oh my friends, as I drove through your city this morning, and now as I look at you, the men and women of this state, I know that all our troubles are temporary; that misfortunes, and we shall have them, will be met and overcome, because in heart and hand and head the American citizen is able to win his way in the long run. (Applause) When misfortune that human wisdom cannot avoid comes of course there will be suffering, there will be misery. Those of us who are free from it can try and must try to lighten it all we can, but we cannot help the fact that there will be much suffering. Furthermore, if through our own folly we do what is wrong, if we act foolishly in matters of legislation, we shall pay the penalty; if the business world loses its head it has lost what no law can supply; but in spite of that we shall go forward; we shall keep in the long run on the plane not only of abiding but of increasing prosperity, if as a people we only keep our sanity, if as a people we keep the qualities which made us win out in the civil war, which have brought us in triumph through other crises so far. Something, a good deal, can be done by law, a good deal can be done by the honest and upright administration of the law. I think you will do me the justice to say that I do not say what I do not mean. I never said anything off the stump that I would not say on the stump, so what I say now you can take as sincere. We have in the persons of Iowa's representatives in both branches of the national Congress, in Iowa's representatives in the administrative branch of the National Government, men to whom I can turn as illustrating what I mean when I say that we are helped greatly by good laws and by intelligent, fearless and honest administration of those laws. We need the ability that you in Iowa have furnished in your public servants. We need the standard of integrity that you have set in public life. We need that uprightness and fearlessness in a public servant which makes him do his duty disregarding either the clamor of the many [?] or the snarling of the few, if either that clamor or that snarling is directed against a course of conduct demanded by regard for the immutable law of righteousness. We need that; but no law that the wit of man has ever devised will make a fool wise, a coward brave, or a weakling strong. No law can by itself bring success to a people. There ar e nations with constitutions like ours, with laws like ours, which yet have lagged behind hopelessly because they did not have the right type of man behind the law. What counts most in the long run is the man who acts through, by and under the law.",
+"It is just as it was in the civil war. It was a good thing to have a good weapon, pretty fair thing to have a good uniform, a good thing to have training; but there were plenty of men whom you knew in the war to whom you could give any weapon you wished, put any uniform on them and train them, and at the end you could do nothing with them, because they did not have the right stuff in them; therefore you could not get the right stuff out of them. What was then true in military life is true in civil life now. We could not get on as a nation no matter what the natural advantages of this country might be, no matter what our laws were, if we did not have the right type of citizen back of the law, the right type of citizenship to take advantage of the features of nature; and we shall go on, my fellow countrymen, we shall make our future even greater than our past, because the average American citizen has in him the qualities of courage, of honesty and of common sense, which must stand as a foundation of national greatness.",
+"In saying good bye let me greet especially the children. I have but one word to say to them. I believe in play, and I believe in work. Play hard while you play, and when you work don't play at all. That is fair advice for the elders too. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38281,13 +38440,75 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0526, 0527",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0526",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure for me to come here and say a word or two of greeting to you this morning. I only regret that here in the home of Secretary Shaw I cannot stay longer with you. I feel thoroughly at home in Iowa. You see I had to come to this one state to get a quarter of my Cabinet.",
+"In greeting all of you I I wish to say a word or two of special thanks to the National Guard who have turned out to-day,-my own comrades -- then to those who ever deserve the right of the line in every American gathering -- the men of the Grand Army of the Republic, the men to whom we owe it that at the present day an American President can travel from one ocean to the other, from the Gulf to the Canadian border, and everywhere be at home among his fellow Americans.",
+"Friends, at this time as I come into your beautiful state, there have come calamities upon our people here in Iowa, to an even greater degree in Kansas, in Missouri, I see also by to-day's paper, in Georgia. We have Biblical authority as well as the authority of common sense for the statement that the rain falls on the just and the unjust alike. When the hand of the Lord is heavy upon any body of men the wisdom of man can do but little. Now and then in our country, from drought, from floods, from pestilence, trouble and misfortune will come; but, oh my friends, as I drove through your city this morning, and now as I look at you, the men and women of this state, I know that all our troubles are temporary; that misfortunes, and we shall have them, will be met and overcome, because in heart and hand and head the American citizen is able to win his way in the long run. (Applause) When misfortune that human wisdom cannot avoid comes of course there will be suffering, there will be misery. Those of us who are free from it can try and must try to lighten it all we can, but we cannot help the fact that there will be much suffering. Furthermore, if through our own folly we do what is wrong, if we act foolishly in matters of legislation, we shall pay the penalty; if the business world loses its head it has lost what no law can supply; but in spite of that we shall go forward; we shall keep in the long run on the plane not only of abiding but of increasing prosperity, if as a people we only keep our sanity, if as a people we keep the qualities which made us win out in the civil war, which have brought us in triumph through other crises so far. Something, a good deal, can be done by law, a good deal can be done by the honest and upright administration of the law. I think you will do me the justice to say that I do not say what I do not mean. I never said anything off the stump that I would not say on the stump, so what I say now you can take as sincere. We have in the persons of Iowa's representatives in both branches of the national Congress, in Iowa's representatives in the administrative branch of the National Government, men to whom I can turn as illustrating what I mean when I say that we are helped greatly by good laws and by intelligent, fearless and honest administration of those laws. We need the ability that you in Iowa have furnished in your public servants. We need the standard of integrity that you have set in public life. We need that uprightness and fearlessness in a public servant which makes him do his duty disregarding either the clamor of the many [?] or the snarling of the few, if either that clamor or that snarling is directed against a course of conduct demanded by regard for the immutable law of righteousness. We need that; but no law that the wit of man has ever devised will make a fool wise, a coward brave, or a weakling strong. No law can by itself bring success to a people. There ar e nations with constitutions like ours, with laws like ours, which yet have lagged behind hopelessly because they did not have the right type of man behind the law. What counts most in the long run is the man who acts through, by and under the law.",
+"It is just as it was in the civil war. It was a good thing to have a good weapon, pretty fair thing to have a good uniform, a good thing to have training; but there were plenty of men whom you knew in the war to whom you could give any weapon you wished, put any uniform on them and train them, and at the end you could do nothing with them, because they did not have the right stuff in them; therefore you could not get the right stuff out of them. What was then true in military life is true in civil life now. We could not get on as a nation no matter what the natural advantages of this country might be, no matter what our laws were, if we did not have the right type of citizen back of the law, the right type of citizenship to take advantage of the features of nature; and we shall go on, my fellow countrymen, we shall make our future even greater than our past, because the average American citizen has in him the qualities of courage, of honesty and of common sense, which must stand as a foundation of national greatness.",
+"In saying good bye let me greet especially the children. I have but one word to say to them. I believe in play, and I believe in work. Play hard while you play, and when you work don't play at all. That is fair advice for the elders too. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 6 (frame 425:0526)</span>",
+"My Friends and Fellow Citizens:",
+"It is a great pleasure for me to come here and say a word <span class=\"sic\" title=\"reads: or\">of</span> two of greeting to you this morning. I only regret that here in the home of Secretary Shaw I cannot stay longer with you. I feel thoroughly at home in Iowa. You see I had to come to this one state to get a quarter of my Cabinet.",
+"In greeting all of you I <del title=\"struck through\">xxxx</del> I wish to say a word or two of special thanks to the National Guard who have turned out to-day,-my own comrades -- then to those who ever deserve the right of the line in every American gathering -- the men of the <span class=\"sic\" title=\"reads: Grand Army\">GrandAmr y</span> of the Republic, the men to whom we owe it that at the present day an American President can travel from one ocean to the other, from the Gulf to the Canadian border, and everywhere be at home among his fellow Americans.",
+"<span class=\"sic\" title=\"reads: Friends\">Freiends</span>, at this time as I come into your beautiful state, <del title=\"struck through\">into your beautiful state</del>, there have come calamities upon our people here in <del title=\"struck through\">your <span class=\"unc\" title=\"uncertain reading\">state</span></del><ins title=\"added by hand\">Iowa,</ins> to an even greater degree in Kansas, in Missouri, I see also by <span class=\"sic\" title=\"reads: to-day&#x27;s\">to-days&#x27;s</span> paper<ins title=\"added by hand\">,</ins> in Georgia. We have <span class=\"sic\" title=\"reads: Biblical authority\">Biblicalauthority</span> as well as the authority of common sense for the statement that the rain falls on the just and the unjust alike. When the hand of the Lord is heavy upon any body of men the <del title=\"struck through\">xxxxx</del> wisdom of man can do but little. Now and then in our country, from drought, from floods, from pestilence, trouble and misfortune will come; but, oh my friends, as I drove through your city this morning, and now as I look at you, the men and women of this state, I know that all our troubles are temporary; that misfortunes, and we shall have them, <span class=\"sic\" title=\"reads: will be\">willbe</span> met and overcome, because in heart and hand and h<ins title=\"added by hand\">e</ins>ad the American citizen is able to win his way in the long run. (Applause) When misfortune <del title=\"struck through\">xxxxxx</del> that human wisdom cannot avoid comes of course there will be suffering, there will be misery. Those of us who are free from it can try and must try to lighten it all we can, but we cannot help the fact that there will be much suffering. Furthermore, if through our own folly we do what is wrong, if we act foolishly in matters of legislation, we shall pay the penalty; if the business world loses its head it has lost what no law can supply; but in\n<span class=\"pb\">Page 7 (frame 425:0527)</span> spite of that we shall go forward; we shall keep in the long run on the plane not only of abiding but of increasing prosperity, if as a people we only keep our sanity, if as a people we keep the qualities which made us win out in the civi<ins title=\"added by hand\">l</ins> war, which have brought us in triumph through other crises so far. Something, a good deal, can be done by law, a good deal can be done by the honest and u pright administration of the law. I think you will do me the justice to say that I do not say what I do not mean. I never said anything off the stump that I would not say on the stump, so what I <span class=\"sic\" title=\"reads: say\">saw</span> now you can take <span class=\"sic\" title=\"reads: as sincere\">as.sincere</span>. We have in the persons of Iowa&#x27;s representatives in both branches of the national Congress, in Iowa&#x27;s representatives in the administrative branch of the National Government, men to whom I can turn as illustrating what I mean when I say that we are helped greatly by good laws and by intelligent, fearless and honest administration of those laws. We need the ability that you in Iowa have <span class=\"sic\" title=\"reads: furnished\">furnishd</span> <del title=\"struck through\">xxxxxxxxxxxxxxxxx</del> in your public servants. We need the standard of integrity that you have set in public life. We need that uprightness and fearlessness in a public servant<del title=\"struck through\">s</del> which makes him do his duty disregarding either the clamor of the man<span class=\"unc\" title=\"uncertain reading\">y</span> or the snarling of the few, if <span class=\"sic\" title=\"reads: either that\">eitherthat</span> clamor or that snarling is directed against a course of conduct demanded by regard for the immutable law of righteousness. We need that; but no law that the wit of man has ever devised will make a fool wise, a coward brave, or a weakling strong. No law can by itself bring success to a people. <del title=\"struck through\">xxxxx</del> There ar e nations with constitutions like ours, with laws like ours, which yet have <ins title=\"added by hand\">l</ins>agged behind hopelessly because they did not have the right type of man behind the law. What counts most in the long run is the man who acts through, by and under the law.",
+"It is just as it was in the civil war. It was a good thing to have a good weapon, pretty fair thing to have a good uniform, a good thing to have training; but there were plenty of men whom you knew in the war to whom you could give any weapon you wished, put any uniform on them and train them, and at the end you could do nothing with them, because they did not have the right stuff in them; therefore you could not get the right stuff out of them. What was then true in military life is true in civil life\n<span class=\"pb\">Page 8 (frame 425:0527)</span> now. We could not get on as a nation no matter what the natural advantages of this country might be, no matter what our laws were, if we did not have the right type of citizen back of the law, the right type of citizenship to take advantage of the features of nature; and we shall go on, my fellow countrymen, we shall make our future even greater than our past, because the average American citizen has in him the qualities of courage, of honesty and of common sense, which must stand as a foundation of national greatness.",
+"In saying good bye let me greet especially the children. I have but one word to say to them. I believe in play, and I believe in work. Play hard while you play, and when you work don&#x27;t play at all. That is fair advice for the elders too. (Cheers and applause)",
+"<span class=\"tnote\">Pages as listed: folio 6 on frame 0526 right half, folios 7 and 8 on frame 0527. Typed page numbers &quot;-2-&quot; and &quot;-3-&quot; omitted.</span>\n<span class=\"tnote\">Folio 6: &quot;into your beautiful state&quot; (after the first &quot;state,&quot;) and &quot;your <span class=\"unc\" title=\"uncertain reading\">state</span>&quot; are struck through by hand; &quot;Iowa,&quot; is handwritten. The comma after &quot;paper&quot; is a handwritten stroke; the &quot;e&quot; in &quot;head&quot; is handwritten with a caret.</span>\n<span class=\"tnote\">Folio 7: the &quot;l&quot; of &quot;civil&quot; and the &quot;l&quot; of &quot;lagged&quot; (over a typed letter) are handwritten. The &quot;s&quot; of &quot;servants&quot; is cancelled with a hand slash. In &quot;the clamor of the man<span class=\"unc\" title=\"uncertain reading\">y</span> or&quot; a handwritten vertical stroke stands over the last letter of &quot;man...&quot; and divides it from &quot;or&quot;; the letter under it is probably y.</span>\n<span class=\"tnote\">Overtyped letters with clear final readings are given without marks (e.g. &quot;thoroughly&quot;, &quot;from&quot;, &quot;try&quot;, &quot;no law&quot;, &quot;especially&quot; where s is struck over another letter).</span>\n<span class=\"tnote\">Third look: a typed period stands in the space between &quot;as&quot; and &quot;sincere&quot;; it is kept and marked as a typing slip.</span>"
+],
+"notes": [
+"Pages as listed: folio 6 on frame 0526 right half, folios 7 and 8 on frame 0527. Typed page numbers \"-2-\" and \"-3-\" omitted.",
+"Folio 6: \"into your beautiful state\" (after the first \"state,\") and \"your state [?]\" are struck through by hand; \"Iowa,\" is handwritten. The comma after \"paper\" is a handwritten stroke; the \"e\" in \"head\" is handwritten with a caret.",
+"Folio 7: the \"l\" of \"civil\" and the \"l\" of \"lagged\" (over a typed letter) are handwritten. The \"s\" of \"servants\" is cancelled with a hand slash. In \"the clamor of the many [?] or\" a handwritten vertical stroke stands over the last letter of \"man...\" and divides it from \"or\"; the letter under it is probably y.",
+"Overtyped letters with clear final readings are given without marks (e.g. \"thoroughly\", \"from\", \"try\", \"no law\", \"especially\" where s is struck over another letter).",
+"Third look: a typed period stands in the space between \"as\" and \"sincere\"; it is kept and marked as a typing slip."
+],
+"file": "transcriptions/1903-06-02-denison.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"citizenship",
+"civil-war"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "canada",
+"name": "Canada",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"iowa",
+"law",
+"play",
+"laws",
+"run",
+"friends",
+"fellow",
+"national",
+"type",
+"civil"
+],
+"stats": {
+"words": 1029,
+"unique_words": 372,
+"sentences": 31,
+"avg_sentence": 33.2,
+"minutes": 8,
+"i_count": 23,
+"we_count": 22
+}
 },
 {
 "id": "1903-06-02-dubuque-2",
@@ -38346,10 +38567,18 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1116,
+"paragraphs": [
+"Senator Dolliver; and you, My Fellow Americans; Men and Women of Iowa:",
+"It is a great pleasure to have the chance of saying a word of greeting to you this morning. I have come from a trip to and fro across the continent; and I want to say that of all things, the thing that has struck me most on that trip is the essential unity of our people. A good American is a good American anywhere in this land. (Cheers and applause) I do not think that until one has traveled a little one gets a real idea of how purely relative a matter east and west is. I cannot say what a pleasure it has been to go from the Atlantic to the Pacific and find everywhere men and women to whom I could appeal in the name of the same ideals, and who were responsive ever to that appeal. We owe that especially to the men who in '61 when Abraham Lincoln called answered the call. (Applause)",
+"In greeting all our people I wish to greet especially those to whom we owe it that we now have a common country, that we now have a country through which a President can travel to meet his countrymen. (Applause) These men, the men of '61 to '65, by what they did not only established the Union, not only left us as a heritage of honor forever more the deeds they did, but they left us the memory of how those deeds were done, the memory of the spirit in which they were done. They taught us for all time the two great lessons -- the lesson of appreciating what is the really important in life, the lesson of brotherhood. It is not important to have an easy time. It is highly unimportant to try to live a life of mere pleasure. It is vitally important to see what is worth doing and then to do it at any cost.",
+"Here to-day as everywhere throughout this Union and in every meeting of Americans you, the men of the civil war, are given the places of honor for ever and always;and your deeds shall live to be told by our children's children and on through generation after generation as long as there shall be a country to have a recorded history on this continent. Why? Because in '61 and the years following you chose not the easy path, but the path that led across the stony slopes of greatness to the goal of triumph for the flag and the nation. (Applause) When Lincoln called, the easy thing was not to answer [?] the call. You did not choose the life of comfort; you did not choose the life which was easy; you did not walk delicately in the earth's soft places; you did not pay heed to your own material well-being; on the contrary, the men of the civil war abandoned for the time that they were in battle the hope of all material gain. They faced hardship and risk; they took up willingly the life that meant suffering by cold in the winter nights, suffering by heat in the summer days on the marches; the practical experience of grinding fatigue, of hunger, the ever-present chance of death in battle, death on the fever cots of the hospitals. They did all that gladly because they had in them the lift toward lofty things that goes with generous souls; because they had in them the spirit that bade them distinguish between the things that are [?] unessential and the things that are essential in life. It is unessential to have an easy time. It is vitally essential to do well your duty, to do well the things worth doing. These men had it in them to see what was essential. That is one lesson they taught us.",
+"The other is the lesson of brotherhood; the recognition of each man as a man, of seeing what was important in his character, and disregarding the trivial. To Each one of you as you moved forward into battle, it mattered a great deal whether the man on your right hand or your left had the right stuff in him. That was of consequence. You wanted to know if when he moved he would in the right way. It was of absolutely no consequence what the creed was in accordance with which he worshipped his Maker; what his birthplace was, what his social position was; you cared nothing whether he were a capitalist or wage worker, mechanic or farmer, lawyer or business man; what you wanted to know was whether when the crisis came he would \"stay put.\"",
+"It is just so in civil life. I believe that this country is going to rise to a pitch not merely of power but of high and true greatness such as no other country has ever shown, because I believe that our average citizen now in peace has profited and will profit by the lessons taught in the civil war by the men of '61; and that we shall apply practically the two lessons of which I have spoken; that we shall show as a nation that what we seek is not mere ease, not mere comfort, not mere material well-being, important though that material well-being is; but that we shall try to do in our lives individually and collectively as a nation the things worth doing and try to do them well; and finally that we shall realize so far as any human power can realize, brotherhood in fact as well as in name, and shall continue to treat this government as it was meant to be treated by those who founded it and by those who preserved it, as a government not of license, but of liberty under, by and through the law, and socially and governmentally as a system under which so far as finite human ability enables us to reach that end, each man is treated not with regard to the accidents of his wealth or his poverty, his occupation or his social position, but with reference to his fundamental qualities as a man among his fellows.",
+"I thank you all for coming out to greet me. I thank the man of the Grand Army. I thank my comrades of the lesser war and the men of the national guard. For let us remember always that exactly as we pay honor to the men of the great war, so the man, regular or volunteer, regular or national guardsman, who wears the uniform that entitles him in time of emergency to fight under the flag, has a peculiar claim upon the good-will of all Americans. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -38371,13 +38600,76 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0528, 0529",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0528",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Senator Dolliver; and you, My Fellow Americans; Men and Women of Iowa:",
+"It is a great pleasure to have the chance of saying a word of greeting to you this morning. I have come from a trip to and fro across the continent; and I want to say that of all things, the thing that has struck me most on that trip is the essential unity of our people. A good American is a good American anywhere in this land. (Cheers and applause) I do not think that until one has traveled a little one gets a real idea of how purely relative a matter east and west is. I cannot say what a pleasure it has been to go from the Atlantic to the Pacific and find everywhere men and women to whom I could appeal in the name of the same ideals, and who were responsive ever to that appeal. We owe that especially to the men who in '61 when Abraham Lincoln called answered the call. (Applause)",
+"In greeting all our people I wish to greet especially those to whom we owe it that we now have a common country, that we now have a country through which a President can travel to meet his countrymen. (Applause) These men, the men of '61 to '65, by what they did not only established the Union, not only left us as a heritage of honor forever more the deeds they did, but they left us the memory of how those deeds were done, the memory of the spirit in which they were done. They taught us for all time the two great lessons -- the lesson of appreciating what is the really important in life, the lesson of brotherhood. It is not important to have an easy time. It is highly unimportant to try to live a life of mere pleasure. It is vitally important to see what is worth doing and then to do it at any cost.",
+"Here to-day as everywhere throughout this Union and in every meeting of Americans you, the men of the civil war, are given the places of honor for ever and always;and your deeds shall live to be told by our children's children and on through generation after generation as long as there shall be a country to have a recorded history on this continent. Why? Because in '61 and the years following you chose not the easy path, but the path that led across the stony slopes of greatness to the goal of triumph for the flag and the nation. (Applause) When Lincoln called, the easy thing was not to answer [?] the call. You did not choose the life of comfort; you did not choose the life which was easy; you did not walk delicately in the earth's soft places; you did not pay heed to your own material well-being; on the contrary, the men of the civil war abandoned for the time that they were in battle the hope of all material gain. They faced hardship and risk; they took up willingly the life that meant suffering by cold in the winter nights, suffering by heat in the summer days on the marches; the practical experience of grinding fatigue, of hunger, the ever-present chance of death in battle, death on the fever cots of the hospitals. They did all that gladly because they had in them the lift toward lofty things that goes with generous souls; because they had in them the spirit that bade them distinguish between the things that are [?] unessential and the things that are essential in life. It is unessential to have an easy time. It is vitally essential to do well your duty, to do well the things worth doing. These men had it in them to see what was essential. That is one lesson they taught us.",
+"The other is the lesson of brotherhood; the recognition of each man as a man, of seeing what was important in his character, and disregarding the trivial. To Each one of you as you moved forward into battle, it mattered a great deal whether the man on your right hand or your left had the right stuff in him. That was of consequence. You wanted to know if when he moved he would in the right way. It was of absolutely no consequence what the creed was in accordance with which he worshipped his Maker; what his birthplace was, what his social position was; you cared nothing whether he were a capitalist or wage worker, mechanic or farmer, lawyer or business man; what you wanted to know was whether when the crisis came he would \"stay put.\"",
+"It is just so in civil life. I believe that this country is going to rise to a pitch not merely of power but of high and true greatness such as no other country has ever shown, because I believe that our average citizen now in peace has profited and will profit by the lessons taught in the civil war by the men of '61; and that we shall apply practically the two lessons of which I have spoken; that we shall show as a nation that what we seek is not mere ease, not mere comfort, not mere material well-being, important though that material well-being is; but that we shall try to do in our lives individually and collectively as a nation the things worth doing and try to do them well; and finally that we shall realize so far as any human power can realize, brotherhood in fact as well as in name, and shall continue to treat this government as it was meant to be treated by those who founded it and by those who preserved it, as a government not of license, but of liberty under, by and through the law, and socially and governmentally as a system under which so far as finite human ability enables us to reach that end, each man is treated not with regard to the accidents of his wealth or his poverty, his occupation or his social position, but with reference to his fundamental qualities as a man among his fellows.",
+"I thank you all for coming out to greet me. I thank the man of the Grand Army. I thank my comrades of the lesser war and the men of the national guard. For let us remember always that exactly as we pay honor to the men of the great war, so the man, regular or volunteer, regular or national guardsman, who wears the uniform that entitles him in time of emergency to fight under the flag, has a peculiar claim upon the good-will of all Americans. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 9 (frame 425:0528)</span>",
+"Senator Dolliver; and you, My Fellow Americans; Men and Women of Iowa:",
+"<span class=\"sic\" title=\"reads: It\">Iy</span> is a great pleasure to have the chance of saying a word of greeting to you this morning. I have come from a trip to and fro across the continent; and I want to say that <ins title=\"added by hand\">of</ins> all things<ins title=\"added by hand\">,</ins> the thing that has struck me most on that trip is the essential unity of our people. A good American is a good American anywhere in this land. (Cheers and applause) I do not think that until one has traveled a little one gets a real idea of how purely relative a matter east and west is. I cannot say what a pleasure it has been to go from the Atlantic to the Pacific and find everywhere men and women to whom I could appeal in the name of the same ideals, and who were responsive ever to that appeal. We owe that especially to the men who in &#x27;61 when Abraham Lincoln called answered the call. (Applause)",
+"In greeting all our people I wish to greet especially those to whom we owe it that we now have a common country, that we now have a country through which a President can travel to meet his countrymen. (Applause) These men, the men of &#x27;61 to &#x27;65, by what they did not only established the Union, not only left us as a heritage of honor forever more the deeds they did, but they left us the memory of how those deeds were done, the memory of the spirit in which they were done. They taught us for all time the two great lessons -- the lesson of appreciating what is the really important in life, <del title=\"struck through\">and</del><ins title=\"added by hand\">the</ins> lesson of brotherhood. It is not important to have an easy time. It is highly unimportant to try to live a life of mere pleasure. It is vitally important to see what is worth doing and then to do it at<del title=\"struck through\">x</del> any cost.",
+"Here to-day as everywhere throughout this Union and in every meeting of Americans you, the men of the civil war, are given the places of honor for ever and always;and your deeds shall live to be told by our children&#x27;s children and on through generation after generation as long as there shall be a country to have a recorded history on this continent. Why? Because in &#x27;61 and the years following you chose not the easy <del title=\"struck through\">xxxx</del><ins title=\"added by hand\">path</ins>, but the path that led across <del title=\"struck through\">xxx</del> the stony slopes of greatness to the goal of triumph for the flag and the nation. (Applause) When Lincoln called<ins title=\"added by hand\">,</ins> the easy\n<span class=\"pb\">Page 10 (frame 425:0528)</span> thing was not to <span class=\"unc\" title=\"uncertain reading\">answer</span> the call. You did not choose the life of comfort; you did not choose the life which was easy; you did not walk delicately in the earth&#x27;s soft places; you did not pay heed to your own material well-being; on the contrary, the men of the civil war <span class=\"sic\" title=\"reads: abandoned for\">abandonedfor</span> the time that they were in battle the hope of all material gain. They faced hardship and risk; they took up willingly <span class=\"sic\" title=\"reads: the life\">thelife</span> that meant <span class=\"sic\" title=\"reads: suffering by\">sufferingby</span> cold in the winter nights, suffering by <del title=\"struck through\">xxxxx</del> heat in the summer days on the marches; the practical experience of grinding fatigue, of hunger, the ever-present chance of death in battle, death on the fever cots of the hospitals. They did all that gladly because they had in them the lift toward lofty things that goes with generous souls; because they had in them the spirit that bade them distinguish between the things that <span class=\"unc\" title=\"uncertain reading\">are</span> unessential and the things that are <del title=\"struck through\">un</del>essential in life. It is unessential to have an easy time. It is vitally essential to do well your duty, to do well the things worth doing. These men had it in them to see what was essential. That is one lesson they taught us.",
+"The other is the lesson of brotherhood; the recognition of each man as a man, of seeing what was important in his character, and disregarding <del title=\"struck through\">xxxx</del> the trivial. <ins title=\"added by hand\">To</ins> Each one of you as you moved forward into battle, it mattered a great deal whether the man on your right hand or your left had the right stuff in him. That was of consequence. You wanted to know if when he moved he would in the right way. It was of absolutely <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> no consequence what the creed was in accordance with which he worshipped his Maker; what <ins title=\"added by hand\">h</ins>is birthplace was, what his social position was; you cared nothing whether he <del title=\"struck through\">xxx</del> were a capitalist or wage worker, mechanic or farmer, lawyer or business man; what you wanted to know was whether when the crisis came he would &quot;stay put.&quot;",
+"It is just so in civil life. I believe that this country is going to rise to a pitch not merely of power but of high and true greatness such as no other country has ever shown, because I believe that our average citizen now in peace has profited and will profit by the lessons taught in the civil war by the men of &#x27;61; and that we shall apply practically the two lessons of which I have spoken; that we shall <del title=\"struck through\">apply</del><ins title=\"added by hand\">show</ins> as a nation\n<span class=\"pb\">Page 11 (frame 425:0529)</span> that what we seek is not mere ease, not mere comfort, not mere material well-being, important though that material well-being is; but that we shall try to do in our lives individually and collectively as a nation the things worth doing and try to do them well; and finally that we shall realize so far as any human power can realize, <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">the</span></del> brotherhood in fact as well as in name, and shall continue to treat this government as it was meant to be treated by those who founded it and by those who preserved it, as a government not of license, but of liberty under<ins title=\"added by hand\">,</ins> by and through the law, <del title=\"struck through\">of <span class=\"unc\" title=\"uncertain reading\">liberty to</span> good government</del>, and socially and governmentally as a system under which so far as finite human ability enables us to reach that <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">end</ins>, <del title=\"struck through\">a system under which</del> each man is treated not with regard to the accidents of his wealth or his poverty, his occupation or his social position, but with reference to his fundamental qualities as a man among his fellows.",
+"I thank you all for coming out to greet me. I thank the man of the Grand Army. I thank my comrades of the lesser war and the men of the national guard. For let us remember always that exactly as we pay honor to the men of the great war, so the man, regular or volunteer, regular or national guardsman, who wears the uniform that entitles him in time of emergency to fight under the flag, has a peculiar claim upon the good-will of all Americans. (Cheers and applause)",
+"<span class=\"tnote\">Pages as listed: folios 9 and 10 on frame 0528, folio 11 on frame 0529 left half. Typed page numbers &quot;-2-&quot; and &quot;-3-&quot; omitted.</span>\n<span class=\"tnote\">Folio 9: &quot;of&quot; is handwritten with a caret before &quot;all things&quot;; the comma after &quot;things&quot; and after &quot;called&quot; are hand strokes; &quot;the&quot; replaces struck &quot;and&quot; by hand; hand close-up marks join &quot;forever&quot; and &quot;more&quot; and &quot;for&quot; and &quot;ever&quot;; the words are left as typed. &quot;at&quot; in &quot;do it at any cost&quot; has its t overtyped, followed by an x-ed letter.</span>\n<span class=\"tnote\">Folio 10: the first letters of &quot;answer&quot; are overtyped and hard to read. &quot;un&quot; of &quot;unessential&quot; (second occurrence) is struck with a double slash. &quot;To&quot; is handwritten with a caret before &quot;Each&quot;. The &quot;h&quot; of &quot;his birthplace&quot; and &quot;show&quot; (replacing struck &quot;apply&quot;) are handwritten. A word after &quot;absolutely&quot; is blotted out by hand. &quot;path&quot; is typed above an x-ed word.</span>\n<span class=\"tnote\">Folio 11: the comma after &quot;under&quot; is a hand stroke; &quot;end&quot; is handwritten above a struck typed word that cannot be read; the other struck passages are struck by hand.</span>\n<span class=\"tnote\">Overtyped letters with clear final readings are given without marks (e.g. &quot;of Iowa&quot;, &quot;would&quot;, &quot;came&quot;, &quot;believe&quot;, &quot;so far&quot;).</span>\n<span class=\"tnote\">Third look: &quot;To&quot; is written by hand above the line with a caret below, before &quot;Each&quot;, and is kept as an insertion; the &quot;o&quot; runs onto the top of the typed &quot;E&quot;, which is left as typed since no change to it can be read with confidence.</span>"
+],
+"notes": [
+"Pages as listed: folios 9 and 10 on frame 0528, folio 11 on frame 0529 left half. Typed page numbers \"-2-\" and \"-3-\" omitted.",
+"Folio 9: \"of\" is handwritten with a caret before \"all things\"; the comma after \"things\" and after \"called\" are hand strokes; \"the\" replaces struck \"and\" by hand; hand close-up marks join \"forever\" and \"more\" and \"for\" and \"ever\"; the words are left as typed. \"at\" in \"do it at any cost\" has its t overtyped, followed by an x-ed letter.",
+"Folio 10: the first letters of \"answer\" are overtyped and hard to read. \"un\" of \"unessential\" (second occurrence) is struck with a double slash. \"To\" is handwritten with a caret before \"Each\". The \"h\" of \"his birthplace\" and \"show\" (replacing struck \"apply\") are handwritten. A word after \"absolutely\" is blotted out by hand. \"path\" is typed above an x-ed word.",
+"Folio 11: the comma after \"under\" is a hand stroke; \"end\" is handwritten above a struck typed word that cannot be read; the other struck passages are struck by hand.",
+"Overtyped letters with clear final readings are given without marks (e.g. \"of Iowa\", \"would\", \"came\", \"believe\", \"so far\").",
+"Third look: \"To\" is written by hand above the line with a caret below, before \"Each\", and is kept as an insertion; the \"o\" runs onto the top of the typed \"E\", which is left as typed since no change to it can be read with confidence."
+],
+"file": "transcriptions/1903-06-02-fort-dodge.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 2
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"easy",
+"lesson",
+"lessons",
+"brotherhood",
+"taught",
+"essential",
+"mere",
+"important",
+"well-being",
+"deeds"
+],
+"stats": {
+"words": 1116,
+"unique_words": 385,
+"sentences": 28,
+"avg_sentence": 39.9,
+"minutes": 9,
+"i_count": 12,
+"we_count": 10
+}
 },
 {
 "id": "1903-06-02-cedar-falls",
@@ -38832,10 +39124,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 390,
+"paragraphs": [
+"Senator Allison; and Gentlemen;",
+"I can say, and not merely in a diplomatic spirit, that I have thoroughly enjoyed this evening. It has been a great pleasure to visit your beautiful city.",
+"I would like now to bear testimony to the way in which I have found the representatives of Iowa at the national capital approach questions of public interest. I have been able to ask both your Senators and Representatives for their aid in dealing with matters of moment to the nation. As a whole I have found them interested in questions of public policy; and I have found that they could guide, and counsel, and aid me in the matters that I deemed of moment to the nation at large, and that they were not merely bound by fourth class post offices. How I have felt toward your people I think it hardly needful for me to say. When I came to choose that member of my Cabinet who occupies the position which taken year in and year out is of most vital consequence to the welfare of the nation, I felt that although I should not ordinarily care to take two men from the same state, yet that Mr. Shaw's qualifications for the position were so preeminent that in justice to the nation I could not pass him by. (Cheers and applause)",
+"As for Secretary Wilson, (Cheers and applause) after having been with him for twenty-one months, and after having been intimately associated with various different national administrations and knowing many members of the Cabinet, I wish to state without reserve that in point of loyalty, of that probity which makes one feel that one is better for being associated with him, that in point of sound common sense, not always a common quality, and in capacity to handle his office in the way that one would wish all offices of the government to be handled, if one could have ideal conditions, I have never met any man in public life who I feel quite came up to Secretary Wilson. (Cheers and applause) I cannot overstate the degree to [?] which I lean on him and the personal affection that I feel for him. (Applause)",
+"In thanking you for the reception accorded me here in your city, let me also say how much I have enjoyed the dinner."
+],
 "editions": [],
 "trc": [
 {
@@ -38857,13 +39155,57 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0537",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0537",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Senator Allison; and Gentlemen;",
+"I can say, and not merely in a diplomatic spirit, that I have thoroughly enjoyed this evening. It has been a great pleasure to visit your beautiful city.",
+"I would like now to bear testimony to the way in which I have found the representatives of Iowa at the national capital approach questions of public interest. I have been able to ask both your Senators and Representatives for their aid in dealing with matters of moment to the nation. As a whole I have found them interested in questions of public policy; and I have found that they could guide, and counsel, and aid me in the matters that I deemed of moment to the nation at large, and that they were not merely bound by fourth class post offices. How I have felt toward your people I think it hardly needful for me to say. When I came to choose that member of my Cabinet who occupies the position which taken year in and year out is of most vital consequence to the welfare of the nation, I felt that although I should not ordinarily care to take two men from the same state, yet that Mr. Shaw's qualifications for the position were so preeminent that in justice to the nation I could not pass him by. (Cheers and applause)",
+"As for Secretary Wilson, (Cheers and applause) after having been with him for twenty-one months, and after having been intimately associated with various different national administrations and knowing many members of the Cabinet, I wish to state without reserve that in point of loyalty, of that probity which makes one feel that one is better for being associated with him, that in point of sound common sense, not always a common quality, and in capacity to handle his office in the way that one would wish all offices of the government to be handled, if one could have ideal conditions, I have never met any man in public life who I feel quite came up to Secretary Wilson. (Cheers and applause) I cannot overstate the degree to [?] which I lean on him and the personal affection that I feel for him. (Applause)",
+"In thanking you for the reception accorded me here in your city, let me also say how much I have enjoyed the dinner."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 27 (frame 425:0537)</span>",
+"Senator Allison; and Gentlemen;",
+"<ins title=\"added by hand\">I can say, and not merely in a diplomatic spirit, that</ins> I have thoroughly enjoyed this evening. It has been a great pleasure to visit your beautiful city.",
+"I would like now to bear testimony to the way in which I have found the representatives of Iowa at the national capital approach questions of public interest. I have been able to ask both your Senators and Representatives for their aid in dealing with matters of moment to the nation. As a <del title=\"struck through\">x</del> whole I have found them interested in questions of public <del title=\"struck through\">xxxxxx</del><ins title=\"added by hand\">policy</ins>; and I have found that they could guide, and counsel, and aid me in the matters that I deemed of moment to the nation at large, and that they were not merely bound by fourth class post offices. How I have felt toward your people I think it hardly nee<ins title=\"added by hand\">d</ins>ful for me to say. When I came to choose that member of my Cabinet who occupies the position which taken year in and year out is of most vital consequence to the <del title=\"struck through\">xxxxxx</del> welfare of the nation, I felt that although I should not ordinarily care to take two men from the same state, yet that Mr. Shaw&#x27;s qualifications for the position were so preeminent that in justice to the nation I could not pass him by. (Cheers and applause)",
+"As for Secretary Wilson, (Cheers and applause) after having been with him for twenty-one months, and after having been intimately associated with various different national administrations and knowing many members of the Cabinet, I wish to state without reserve that in point of loyalty, of that pro<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">v</span></del><ins title=\"added by hand\">b</ins>ity which makes one feel that one is better for being associated with him, that in point of sound common sense, not always a common quality, and <del title=\"struck through\">x</del> in capacity to handle his office in the way that one would wish all offices of the government to be handled, if one could have ideal conditions, I have never met any man in public life who I feel quite came up to Secretary Wilson. (Cheers and applause) I cannot overstate the degree <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">to</span></ins> which I lean on him and the personal affection that I feel for him. (Applause)",
+"In thanking <span class=\"sic\" title=\"reads: you for\">youfor</span> the reception accorded me here in your city, let me also say how much I have enjoyed the dinner.",
+"<span class=\"tnote\">Page as listed: frame 0537 left half, folio 27. The right half (folio 28) holds the separate remarks to the National Guard at Dubuque and is not part of this speech.</span>\n<span class=\"tnote\">The line &quot;I can say, and not merely in a diplomatic spirit, that&quot; is typed in between the salutation and the first line of text, apparently added after the page was typed. &quot;policy&quot; is typed above an x-ed word.</span>\n<span class=\"tnote\">The &quot;d&quot; in &quot;needful&quot; (with caret) and the &quot;b&quot; in &quot;probity&quot; (over a typed letter, probably v) are handwritten. After &quot;degree&quot; a typed word is overwritten by hand with what appears to be &quot;to&quot;.</span>\n<span class=\"tnote\">A hand mark under the space between &quot;class&quot; and &quot;post&quot; does not change the words. Overtyped letters with clear final readings are given without marks (&quot;testimony&quot;, &quot;questions&quot;, &quot;choose&quot;, &quot;point&quot;).</span>\n<span class=\"tnote\">Third look: the mark after &quot;Gentlemen&quot; has a lower part that drops below the line like the semicolon after &quot;Allison&quot;, so it is kept as a semicolon.</span>"
+],
+"notes": [
+"Page as listed: frame 0537 left half, folio 27. The right half (folio 28) holds the separate remarks to the National Guard at Dubuque and is not part of this speech.",
+"The line \"I can say, and not merely in a diplomatic spirit, that\" is typed in between the salutation and the first line of text, apparently added after the page was typed. \"policy\" is typed above an x-ed word.",
+"The \"d\" in \"needful\" (with caret) and the \"b\" in \"probity\" (over a typed letter, probably v) are handwritten. After \"degree\" a typed word is overwritten by hand with what appears to be \"to\".",
+"A hand mark under the space between \"class\" and \"post\" does not change the words. Overtyped letters with clear final readings are given without marks (\"testimony\", \"questions\", \"choose\", \"point\").",
+"Third look: the mark after \"Gentlemen\" has a lower part that drops below the line like the semicolon after \"Allison\", so it is kept as a semicolon."
+],
+"file": "transcriptions/1903-06-02-dubuque.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"cheers",
+"applause",
+"public",
+"nation"
+],
+"stats": {
+"words": 390,
+"unique_words": 188,
+"sentences": 8,
+"avg_sentence": 48.8,
+"minutes": 3,
+"i_count": 21,
+"we_count": 0
+}
 },
 {
 "id": "1903-06-02-dubuque-3",
@@ -39902,8 +40244,8 @@
 "immigration",
 "capacity",
 "civil",
-"union",
 "side",
+"union",
 "land",
 "history",
 "american"
@@ -40015,8 +40357,8 @@
 "virginia",
 "literature",
 "mater",
-"crossed",
 "alma",
+"crossed",
 "graduates",
 "roll",
 "production",
@@ -40203,9 +40545,9 @@
 "example",
 "younger",
 "young",
-"boys",
 "preaching",
 "admire",
+"boys",
 "expect"
 ],
 "stats": {
@@ -41386,8 +41728,8 @@
 "isthmus",
 "panama",
 "colombian",
-"congress",
 "united",
+"congress",
 "canal",
 "revolution",
 "states"
@@ -41887,8 +42229,8 @@
 "freedom",
 "produce",
 "therefore",
-"government",
 "responsibility",
+"government",
 "together"
 ],
 "stats": {
@@ -42088,9 +42430,9 @@
 "ideal",
 "eleven",
 "school",
-"athletics",
 "physical",
-"prowess"
+"athletics",
+"ideals"
 ],
 "stats": {
 "words": 3529,
@@ -43205,8 +43547,8 @@
 "qualities",
 "field",
 "future",
-"average",
 "strength",
+"average",
 "regard",
 "courage"
 ],
@@ -43554,8 +43896,8 @@
 "congress",
 "labor",
 "indian",
-"government",
 "islands",
+"government",
 "bureau",
 "district"
 ],
@@ -43860,7 +44202,7 @@
 "control",
 "club",
 "interstate",
-"business"
+"effort"
 ],
 "stats": {
 "words": 1847,
@@ -44205,7 +44547,7 @@
 "north",
 "problem",
 "negro",
-"warred"
+"earnest"
 ],
 "stats": {
 "words": 3199,
@@ -44633,7 +44975,7 @@
 "doers",
 "changes",
 "kindred",
-"ship"
+"religious"
 ],
 "stats": {
 "words": 1604,
@@ -44932,8 +45274,8 @@
 "distinctive": [
 "navy",
 "ships",
-"army",
 "study",
+"army",
 "uvres",
 "defence",
 "dewey",
@@ -45316,7 +45658,7 @@
 "rules",
 "legitimate",
 "wealth",
-"army"
+"proper"
 ],
 "stats": {
 "words": 1528,
@@ -45502,8 +45844,8 @@
 "success",
 "carries",
 "family",
-"grand",
 "mean",
+"grand",
 "neighbors",
 "army",
 "average",
@@ -45841,8 +46183,8 @@
 "distinctive": [
 "chicago",
 "violence",
-"situation",
 "federal",
+"situation",
 "employers",
 "statement",
 "mob",
@@ -46006,8 +46348,8 @@
 "aggressive",
 "first-class",
 "general",
-"warred",
 "qualities",
+"warred",
 "devotion",
 "memories"
 ],
@@ -46247,8 +46589,8 @@
 "troy",
 "fantastic",
 "debts",
-"choose",
 "peace",
+"choose",
 "ideal"
 ],
 "stats": {
@@ -47095,8 +47437,8 @@
 "level",
 "material",
 "foundation",
-"citizen",
 "north",
+"citizen",
 "afford",
 "lines"
 ],
@@ -47812,8 +48154,8 @@
 "clean",
 "education",
 "white",
-"interested",
 "race",
+"interested",
 "true",
 "house"
 ],
@@ -48643,8 +48985,8 @@
 "officer",
 "navy",
 "captain",
-"duty",
-"company"
+"company",
+"duty"
 ],
 "stats": {
 "words": 1112,
@@ -49246,7 +49588,7 @@
 "opposition",
 "evils",
 "organization",
-"duty"
+"bill"
 ],
 "stats": {
 "words": 6288,
@@ -50424,8 +50766,8 @@
 "public",
 "steal",
 "attack",
-"sanity",
-"evils"
+"evils",
+"sanity"
 ],
 "stats": {
 "words": 3310,
@@ -51069,8 +51411,8 @@
 "navy",
 "military",
 "befallen",
-"army",
 "afloat",
+"army",
 "ashore",
 "civil",
 "everyday",
@@ -51359,8 +51701,8 @@
 "admiral",
 "ideal",
 "family",
-"mother",
 "self-respect",
+"mother",
 "selfish",
 "bishop"
 ],
@@ -51736,12 +52078,12 @@
 "distinctive": [
 "pennsylvania",
 "corporations",
-"wilson",
 "law",
-"government",
+"wilson",
 "constitution",
-"national",
+"government",
 "judicial",
+"national",
 "marshall",
 "epoch"
 ],
@@ -52081,8 +52423,8 @@
 "ages",
 "task",
 "spirit",
-"grand",
 "enough",
+"grand",
 "army"
 ],
 "stats": {
@@ -53239,8 +53581,8 @@
 "persons",
 "school",
 "report",
-"children",
-"property"
+"property",
+"children"
 ],
 "stats": {
 "words": 469,
@@ -54749,8 +55091,8 @@
 "railway",
 "railways",
 "railroad",
-"public",
 "investors",
+"public",
 "roads",
 "stocks"
 ],
@@ -54851,8 +55193,8 @@
 "agricultural",
 "farmers",
 "agriculture",
-"social",
 "colleges",
+"social",
 "labor",
 "farming",
 "economic",
@@ -55369,8 +55711,8 @@
 "distinctive": [
 "discouragement",
 "republics",
-"honest",
 "wealth",
+"honest",
 "president",
 "dishonest",
 "wrongdoing",
@@ -55480,9 +55822,9 @@
 "actual",
 "commodities",
 "settlers",
-"farmer",
 "homesteaders",
-"correspondent"
+"correspondent",
+"farmer"
 ],
 "stats": {
 "words": 4864,
@@ -56180,7 +56522,7 @@
 "graduate",
 "forty",
 "thousand",
-"bear"
+"property"
 ],
 "stats": {
 "words": 1339,
@@ -56503,8 +56845,8 @@
 "distinctive": [
 "interstate",
 "government",
-"law",
 "tax",
+"law",
 "congress",
 "public",
 "commerce",
@@ -57014,9 +57356,9 @@
 "partner",
 "duty",
 "sentiment",
-"children",
-"thoughtless",
 "reward",
+"thoughtless",
+"children",
 "fears"
 ],
 "stats": {
@@ -57836,7 +58178,7 @@
 "condemn",
 "capitalists",
 "praise",
-"government"
+"foolish"
 ],
 "stats": {
 "words": 1346,
@@ -58913,8 +59255,8 @@
 "control",
 "corporations",
 "labor",
-"deforestation",
 "employees",
+"deforestation",
 "destruction"
 ],
 "stats": {
@@ -60282,7 +60624,7 @@
 "charities",
 "bureau",
 "parents",
-"children's"
+"homes"
 ],
 "stats": {
 "words": 1906,
@@ -60607,8 +60949,8 @@
 "technical",
 "advisory",
 "rear-admiral",
-"advice",
 "bureaus",
+"advice",
 "responsibility"
 ],
 "stats": {
@@ -60732,8 +61074,8 @@
 "division",
 "supplies",
 "bureau",
-"military",
 "navy",
+"military",
 "personnel",
 "reorganization",
 "report",
@@ -61852,8 +62194,8 @@
 "species",
 "rome",
 "science",
-"blood",
 "ancestral",
+"blood",
 "empire",
 "fauna",
 "new",
@@ -62293,8 +62635,8 @@
 "property",
 "special",
 "struggle",
-"welfare",
 "political",
+"welfare",
 "corporations",
 "earned",
 "public",
@@ -63030,9 +63372,9 @@
 "honesty",
 "party",
 "york",
-"dinner",
 "illinois",
 "sake",
+"dinner",
 "face"
 ],
 "stats": {
@@ -63826,8 +64168,8 @@
 "loyalty",
 "comrade",
 "sugar",
-"servant",
-"york"
+"york",
+"servant"
 ],
 "stats": {
 "words": 4548,
@@ -64600,8 +64942,8 @@
 "massachusetts",
 "lorimer",
 "laughter",
-"applause",
 "court",
+"applause",
 "illinois",
 "taft",
 "york",
@@ -65235,8 +65577,8 @@
 "bullet",
 "republican",
 "friends",
-"applause",
 "wisconsin",
+"applause",
 "movement",
 "roosevelt"
 ],

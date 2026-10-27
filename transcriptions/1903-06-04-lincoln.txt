@@ -7,7 +7,7 @@ transcribed: 2026-10-27 (pass 1)
 checked: pending
 status: ok
 ---
-[pb 58 425:0548]
+[pb 50 425:0548]
 
 My Fellow Citizens:
 
