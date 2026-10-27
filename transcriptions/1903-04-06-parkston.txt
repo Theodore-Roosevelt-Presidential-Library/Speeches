@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Parkston, S. D., April 6, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0225
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0225
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 65 425:0225]
@@ -13,7 +13,7 @@ status: ok
 
 My fellow {Citizehs|Citizens}:
 
-I am glad to have the chance of stopping to say a word of greeting to you. I have enjoyed thoroughly[+,+] coming through your beautiful state to-day[+,+] to see the men,[-xxx-] the women, and the children. I congratulate you upon the prosperity that you have so abundantly, and which you owe chiefly to your own right hands and cool heads. It is a great thing for a state to produce wheat, and corn and cattle. It is a better thing to produce good men and women, and I am proud of you as American citizens. I congratulate the country that we have people of your stamp in it. I am glad to see all of you, especially the babies. I have got quite a collection of them myself. (Applause)
+I am glad to have the chance of stopping to say a word of greeting to you. I have enjoyed thoroughly[+,+] coming through your beautiful state to-day[+[?,?]+] to see the men,[-xxx-] the women, and the children. I congratulate you upon the prosperity that you have so abundantly, and which you owe chiefly to your own right hands and cool heads. It is a great thing for a state to produce wheat, and corn and cattle. It is a better thing to produce good men and women, and I am proud of you as American citizens. I congratulate the country that we have people of your stamp in it. I am glad to see all of you, especially the babies. I have got quite a collection of them myself. (Applause)
 
 In welcoming you here there is just one word I {haveto|have to} say, and that is about the prosperity we have. Something can be done to keep it up by law and by avoidance of foolish legislation, but for the most part it must depend upon the qualities of the individual citizen.. No law will take the place of courage, honesty, and common sense.
 
@@ -21,3 +21,4 @@ In welcoming you here there is just one word I {haveto|have to} say, and that is
 [note: "chance" is typed with a gap ("chan ce"), closed by a hand mark.]
 [note: The comma after "thoroughly" and the mark after "to-day" (typed run together as "to-dayto") are added by hand. A further hand stroke stands between "and the" and "children"; it changes no words.]
 [note: "the" before "women" is typed above the line over the x-ed out word (probably "and").]
+[note: Third look: the hand mark between "to-day" and "to" descends below the line like the hand comma after "thoroughly" but also runs up between the letters as a separating stroke; whether it is meant as a comma cannot be decided.]

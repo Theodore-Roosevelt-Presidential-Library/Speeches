@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Redfield, S. D., April 6, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0230
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0230
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 73 425:0230]
@@ -13,7 +13,7 @@ status: ok
 
 My Fellow Citizens:
 
-It is a great pleasure to be here to be presented to you. I thank you for coming: Let me thank, especially, [-[illegible]-] the men of the National guard who have turned out to-day. I thank you for being here. I have enjoyed greatly traveling through your beautiful state, seeing the men and the women and the children. I am struck not only by the evidences of prosperity, by the proof of what you have done[+/+] in agriculture and stockraising, but I am also struck by the way in which you are providing for the growing up of the best crop of all -- good citizens. It was a pleasure to see the schools, academies and colleges as I have passed by. After all, it is what the man is that counts. Here I see in the crowd, as I have seen {eveyywhere|everywhere} to-day, the man who shows by the button that he fought in the great war. He was one of those, my comrades, some of whom fought in the lesser war, who taught us by what he did a lesson not only [-xx-] for war but [-xx-] for peace. Fundamentally, that lesson was to judge each man on his worth as a man. That was what you had to do in the civil war; the test of value applied to the man on your right hand or your left. You cared nothing as to his wealth, or creed, or where he was born, what you wished to know was if he had in him the right stuff, if he was a good fighting man, and if he would stay put when the emergency came.
+It is a great pleasure to be here to be presented to you. I thank you for coming: Let me thank, especially, [-[illegible]-] the men of the National guard who have turned out to-day. I thank you for being here. I have enjoyed greatly traveling through your beautiful state, seeing the men and the women and the children. I am struck not only by the evidences of prosperity, by the proof of what you have done in agriculture and stockraising, but I am also struck by the way in which you are providing for the growing up of the best crop of all -- good citizens. It was a pleasure to see the schools, academies and colleges as I have passed by. After all, it is what the man is that counts. Here I see in the crowd, as I have seen {eveyywhere|everywhere} to-day, the man who shows by the button that he fought in the great war. He was one of those, my comrades, some of whom fought in the lesser war, who taught us by what he did a lesson not only [-xx-] for war but [-xx-] for peace. Fundamentally, that lesson was to judge each man on his worth as a man. That was what you had to do in the civil war; the test of value applied to the man on your right hand or your left. You cared nothing as to his wealth, or creed, or where he was born, what you wished to know was if he had in him the right stuff, if he was a good fighting man, and if he would stay put when the emergency came.
 
 It is just the same thing in citizenship. The vital thing to know east or west, north or south, is not as to how the man worships his Maker, not as to his birthplace, but as to whether he has in him those qualities which make a good husband and father, a good neighbor and friend, a good citizen.
 
@@ -27,3 +27,4 @@ You did it, and I congratulate you, and I am mighty glad I am your fellow citize
 [note: The words struck by hand after "especially," cannot be read.]
 [note: A hand slash follows "done". "for" (twice) is typed above the line over x-ed out words. Several letters are overtyped and given in their evident reading ("thank", "men", "Fundamentally", "you", "your", "his", "born", "as").]
 [note: In "fine thing" the last letter of "fine" is written by hand over a typed letter. The word struck by hand after "until" cannot be read; the handwritten replacement above it, with a caret, appears to be "doomsday".]
+[note: Third look: only two characters follow "range", both overtyped with x; whether the first was an "s" cannot be seen, so the typed word is given as "range".]

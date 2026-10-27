@@ -915,8 +915,8 @@
 "war",
 "peace",
 "dead",
-"resistance",
-"freemen"
+"islands",
+"resistance"
 ],
 "stats": {
 "words": 4369,
@@ -1078,8 +1078,8 @@
 "factory",
 "community",
 "statistics",
-"work",
-"separate"
+"separate",
+"work"
 ],
 "stats": {
 "words": 4066,
@@ -1879,7 +1879,7 @@
 "alleghanies",
 "union",
 "spread",
-"older"
+"strength"
 ],
 "stats": {
 "words": 3296,
@@ -2035,8 +2035,8 @@
 "civilization",
 "aggrandizement",
 "duty",
-"philippines",
-"expense"
+"expense",
+"philippines"
 ],
 "stats": {
 "words": 4163,
@@ -4326,8 +4326,8 @@
 "ordinary",
 "duties",
 "battle",
-"citizenship",
 "war",
+"citizenship",
 "nation",
 "duty"
 ],
@@ -4745,8 +4745,8 @@
 },
 "distinctive": [
 "harvard",
-"yale",
 "taft",
+"yale",
 "college",
 "elihu",
 "leonard",
@@ -4945,8 +4945,8 @@
 "island",
 "hartford",
 "philippines",
-"philippine",
 "cuba",
+"philippine",
 "civil",
 "choosing"
 ],
@@ -5234,8 +5234,8 @@
 "creator",
 "corporation",
 "evils",
-"laws",
 "deal",
+"laws",
 "publicity",
 "cure"
 ],
@@ -6370,8 +6370,8 @@
 "destroy",
 "rancor",
 "remedies",
-"win",
 "problems",
+"win",
 "ignorance"
 ],
 "stats": {
@@ -6469,8 +6469,8 @@
 "distinctive": [
 "trusts",
 "corporation",
-"destroy",
 "evils",
+"destroy",
 "remedies",
 "trouble",
 "corporations",
@@ -6921,8 +6921,8 @@
 "richmond",
 "laughter",
 "courage",
-"school",
 "abraham",
+"school",
 "preaching",
 "decency",
 "lincoln"
@@ -7089,8 +7089,8 @@
 "distinctive": [
 "weapon",
 "applause",
-"qualities",
 "lessons",
+"qualities",
 "constitution",
 "well-being",
 "guard",
@@ -7894,10 +7894,10 @@
 "honesty",
 "weapons",
 "citizenship",
-"win",
 "won",
-"applause",
-"victory"
+"win",
+"victory",
+"applause"
 ],
 "stats": {
 "words": 914,
@@ -8494,7 +8494,7 @@
 "dam",
 "trusts",
 "advocating",
-"patent"
+"industrial"
 ],
 "stats": {
 "words": 3613,
@@ -9069,8 +9069,8 @@
 },
 "distinctive": [
 "andrew",
-"state",
-"american"
+"american",
+"state"
 ],
 "stats": {
 "words": 222,
@@ -9611,8 +9611,8 @@
 "decent",
 "regard",
 "american",
-"state",
 "states",
+"state",
 "country"
 ],
 "stats": {
@@ -10315,9 +10315,9 @@
 "carolina",
 "laws",
 "develop",
-"prosperity",
 "north",
 "building",
+"prosperity",
 "section",
 "advantage",
 "fellow",
@@ -10989,8 +10989,8 @@
 "michigan",
 "militia",
 "gospel",
-"reciprocity",
 "naval",
+"reciprocity",
 "destiny",
 "cable",
 "war",
@@ -11307,7 +11307,7 @@
 "physical",
 "continent",
 "difficulties",
-"big"
+"believe"
 ],
 "stats": {
 "words": 749,
@@ -11749,8 +11749,8 @@
 },
 "distinctive": [
 "tariff",
-"schedules",
 "workingman",
+"schedules",
 "changes",
 "policy",
 "partisanship",
@@ -13000,8 +13000,8 @@
 "politics",
 "party",
 "election",
-"allow",
 "honor",
+"allow",
 "governor"
 ],
 "stats": {
@@ -13197,7 +13197,7 @@
 "gospel",
 "failed",
 "president",
-"prosperity"
+"issue"
 ],
 "stats": {
 "words": 2542,
@@ -13736,8 +13736,8 @@
 "sword",
 "statesmanship",
 "homage",
-"fought",
 "supreme",
+"fought",
 "father",
 "justice"
 ],
@@ -13869,8 +13869,8 @@
 "library",
 "laughter",
 "benefit",
-"chance",
 "show",
+"chance",
 "world",
 "work"
 ],
@@ -15989,8 +15989,8 @@
 "institution",
 "sum",
 "turn",
-"hard",
 "play",
+"hard",
 "women",
 "worth",
 "believe"
@@ -16099,10 +16099,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 858,
+"paragraphs": [
+"Men and women of Minnesota:",
+"I am glad to, greet you and to be in your great and beautiful state again, and I am glad that my first stop should be here at the former home of my old friend, ex-Congressman, ex-Senator, ex-Secretary Windom. I knew him well when he was in public life, and I have the honor of knowing your fellow-townsman, the present governor of your state.",
+"Coming here naturally makes me think of Mr. Windom. I valued the man's friendship, because he had in him the elements of incorruptibility, and joined with it fearlessness and that practical sagacity which you need as much in statesmanship as in private life. In the long run, my friends, it counts far less what kind of administration it is you have than it does as to who are the people who administer it. The details of the laws are of but small consequence when compared with the character of the man who are to put them into execution. Our government will work well just so long as you put in the places of trust men of the soul and the brain such as ex-Senator Windom had, and the best scheme of laws ever invented will fail absolutely, will work absolute ruin, if administered by incompetent or cowardly or corrupt hands.(Applause.)",
+"I see in the audience, as I see in all such audiences, men who wear the button that shows that in the times that tried men's souls they were true to their ideal. You know well enough that it was not the uniform, not the musket, it was not even the parade ground drill, that made the soldier. There were other qualities that had to go into his makeup. In the first place he had to have the fighting edge. He had to have the shame that comes to a brave man not to do a brave man's duty. You want qualities in addition to that too. If he was a brave man and did not know how to fight, then he only made a good target for the other side. If a man did not have the heart in him, if he did not know how to shoot, how to march, how to take cover, how to act on his own responsibility when the unexpected happened,(and mind you in war, and in many other kinds of real life, it is always the unexpected things that happen) - If he did not have all of them, then the mere fact that he looked pretty in the uniform did not count. He might look just as well as",
+"some one else who did count. You might not be able to tell the difference from the mere uniform, but the difference was there in the man's heart; the difference lay below the form. It is just the same in our national life. The republics of the middle ages fell, although they had all the forms of freedom, because the soul had gone out of the form, because there was no real spirit of self-governing freedom back of the form. It is not an easy thing to be a successful free people. On the other hand only the highest type of people are really fit for self-government. Only a really high type of people can make a great free self-governing republic like ours work. Almost any people can get along well under a despotism, where you have somebody else to think for you, no strain on the brain; but it is a hard thing to think effective [?]ly and wisely for one's self, to stand up for one's own right, and to avoid the curse of the small and narrow mind that makes a man regard others with envy and hatred and jealousy, to keep the knowledge and power of standing up for one's self, and yet keep also the knowledge that in the long run we can stand up for ourselves best by each standing for the other also.",
+"There is no royal road to freedom; no royal road to self-government. It must come from exercise of the same qualities that make men and women good in the family, good as neighbors, good in the community. Each one of you, what does he want his son to be.? He wants him to make an honorable success in life. You all of you know, certainly, I do, plenty of foolish fathers, and I am sorry to say, an even greater number of foolish mothers, who think they can benefit their children not by teaching them how to meet difficulties, but by teaching them how to dodge them. Don't you know men and women who say, well, I have had to work hard, my boy and girl shall not, and you have seen, all of you, the woman, who will herself slave in the kitchen, slave around her house work, and not teach her daughters how to do anything, and you have seen the foolish man who will bring up his boys to be worthless cumberers [?] of life, because they do not the boys [?] to do things, not to dodge them. (Applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -16124,13 +16131,72 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0108",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0108",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)",
+"reading": [
+"Men and women of Minnesota:",
+"I am glad to, greet you and to be in your great and beautiful state again, and I am glad that my first stop should be here at the former home of my old friend, ex-Congressman, ex-Senator, ex-Secretary Windom. I knew him well when he was in public life, and I have the honor of knowing your fellow-townsman, the present governor of your state.",
+"Coming here naturally makes me think of Mr. Windom. I valued the man's friendship, because he had in him the elements of incorruptibility, and joined with it fearlessness and that practical sagacity which you need as much in statesmanship as in private life. In the long run, my friends, it counts far less what kind of administration it is you have than it does as to who are the people who administer it. The details of the laws are of but small consequence when compared with the character of the man who are to put them into execution. Our government will work well just so long as you put in the places of trust men of the soul and the brain such as ex-Senator Windom had, and the best scheme of laws ever invented will fail absolutely, will work absolute ruin, if administered by incompetent or cowardly or corrupt hands.(Applause.)",
+"I see in the audience, as I see in all such audiences, men who wear the button that shows that in the times that tried men's souls they were true to their ideal. You know well enough that it was not the uniform, not the musket, it was not even the parade ground drill, that made the soldier. There were other qualities that had to go into his makeup. In the first place he had to have the fighting edge. He had to have the shame that comes to a brave man not to do a brave man's duty. You want qualities in addition to that too. If he was a brave man and did not know how to fight, then he only made a good target for the other side. If a man did not have the heart in him, if he did not know how to shoot, how to march, how to take cover, how to act on his own responsibility when the unexpected happened,(and mind you in war, and in many other kinds of real life, it is always the unexpected things that happen) - If he did not have all of them, then the mere fact that he looked pretty in the uniform did not count. He might look just as well as",
+"some one else who did count. You might not be able to tell the difference from the mere uniform, but the difference was there in the man's heart; the difference lay below the form. It is just the same in our national life. The republics of the middle ages fell, although they had all the forms of freedom, because the soul had gone out of the form, because there was no real spirit of self-governing freedom back of the form. It is not an easy thing to be a successful free people. On the other hand only the highest type of people are really fit for self-government. Only a really high type of people can make a great free self-governing republic like ours work. Almost any people can get along well under a despotism, where you have somebody else to think for you, no strain on the brain; but it is a hard thing to think effective [?]ly and wisely for one's self, to stand up for one's own right, and to avoid the curse of the small and narrow mind that makes a man regard others with envy and hatred and jealousy, to keep the knowledge and power of standing up for one's self, and yet keep also the knowledge that in the long run we can stand up for ourselves best by each standing for the other also.",
+"There is no royal road to freedom; no royal road to self-government. It must come from exercise of the same qualities that make men and women good in the family, good as neighbors, good in the community. Each one of you, what does he want his son to be.? He wants him to make an honorable success in life. You all of you know, certainly, I do, plenty of foolish fathers, and I am sorry to say, an even greater number of foolish mothers, who think they can benefit their children not by teaching them how to meet difficulties, but by teaching them how to dodge them. Don't you know men and women who say, well, I have had to work hard, my boy and girl shall not, and you have seen, all of you, the woman, who will herself slave in the kitchen, slave around her house work, and not teach her daughters how to do anything, and you have seen the foolish man who will bring up his boys to be worthless cumberers [?] of life, because they do not the boys [?] to do things, not to dodge them. (Applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 43 (frame 425:0108)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Men and women of Minnesota:",
+"I am glad to,greet you and to be in your great and beautiful state again, and I am glad that my first stop should be here at the <del title=\"struck through\">xxxxxx</del> former home of my old friend, ex-Congressman, ex-Senator, ex-Secretary Windom. I knew him well when he was in public life, and I have the honor of knowing your fellow-townsman, the present governor of your state.",
+"Coming here naturally makes me think of Mr. Windom. I valued the man&#x27;s friendship, because he had in him the elements of incorruptibility, and joined with it fearlessness and that <span class=\"sic\" title=\"reads: practical\">pmactical</span> sagacity which you need as much in statesmanship as in private life<del title=\"struck through\">x</del>. In the long run, my friends, it counts far less what kind of administration it is you have than it does as to who are the people who administer it. The details of the laws are of but small consequence when compared with the character of the man who are to put them into execution. Our government will work well just so long as you put in the places of trust men of the soul and <del title=\"struck through\">xxx</del>the brain such as ex-Senator Windom had, and the best scheme of laws ever invented will fail absolutely, will work absolute ruin, if administered by incompetent or cowardly or corrupt hands.(Applause.)",
+"I see in the audience, as I see in all such audiences, men who wear the button that shows that in the times that tried men&#x27;s souls they were true to their ideal. You know well enough that it was not the uniform, not the musket, it was not even the parade ground drill, that made the soldier. There were other qualities that had to go into his makeup. In the first place he had to have the fighting edge. He had to have the shame that comes to a brave man not to do a brave man&#x27;s duty. You want qualities in addition to that too. If he was a <del title=\"struck through\">xxxxx</del> brave man and did not know how to fight, then he only made a good target for the other side. If a man did not have the heart in him, if he did not know how to shoot, how to march, how to take cover, how to act on his own responsibility when the unexpected happened,<ins title=\"added by hand\">(</ins>and mind you in war, and in many other kinds of real life, it is always the unexpected things that happen<ins title=\"added by hand\">)</ins> <ins title=\"added by hand\">-</ins> If he did not <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">know how to</span>xxx</del> have all of them, then the <span class=\"sic\" title=\"reads: mere\">mre</span> fact that he looked pretty in the uniform did not count. He might look just as well as",
+"<span class=\"pb\">Page 44 (frame 425:0108)</span>",
+"some one else who did count. You might not be able to tell the difference from the <span class=\"sic\" title=\"reads: mere\">mre</span> uniform, but the difference was there in the man&#x27;s heart; the difference lay be<ins title=\"added by hand\">l</ins>ow the form. It is just the same in our national life. The republics of the middle ages fell, although they had all the <span class=\"sic\" title=\"reads: forms\">fomms</span> of freedom, because the soul had gone out of the form, because there was no real spirit of self-governing freedom back of the form . It is not an easy thing to be a successful free people. On the other hand only the highest type of people are really fit for self-government . Only a really high type of people can make a great free self-governing republic like ours work. Almost any people can ge<ins title=\"added by hand\">t</ins> along well under a despotism, where you have somebody <ins title=\"added by hand\">else</ins> to think for you , no strain on the brain; but it is a hard thing to think effect<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">ive</span></ins>ly and wisely for one&#x27;s self, to stand up for one&#x27;s own right, and to avoid the curse of the small and narrow mind tha<ins title=\"added by hand\">t</ins> makes a man regard others with envy and hatred and jealousy, to keep the knowledge and power of standing up for one&#x27;s self<ins title=\"added by hand\">,</ins>and yet keep also the knowledge that in the long run we can stand up for ourselves best by each standing for the other also.",
+"There is no royal road to freedom; no <del title=\"struck through\">xx</del> royal road to self-government. It must come from exercise of the same <del title=\"struck through\">xxx</del> qualities that make men and women good in the family, good as neighbors, good in the community . Each one of you, what does he want his son to be.<ins title=\"added by hand\">?</ins> He want<ins title=\"added by hand\">s</ins> him to make an honorable success in life. You all of you know, certainly<ins title=\"added by hand\">,</ins> I do, plenty of foolish fathers, and I am sorry to say, an even greater number of foolish mothers, who think they can benefit their children not by teaching them how to meet difficulties, but by teaching them how to dodge them. Don&#x27;t you know men and women who say, well, I have had to work hard, my boy and girl shall not, and you have seen, all of you, the woman, who will herself slave in the kitchen, slave around her house work, and not teach her daughters how to do anything, and you have seen the foolish man who will <span class=\"sic\" title=\"reads: bring\">brimg</span> up his boys to be <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> worthless <span class=\"unc\" title=\"uncertain reading\">cumberers</span> of <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> life, because they do not <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">do their work by</span> teaching</del> the boy<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">s</span></ins> <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">and teaching the nation</span></del> to do things, not <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> to dodge them. (Applause.)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand across the upper left corner of the first page, with a long slash; filing mark.</span>\n<span class=\"tnote\">Typewriter spacing gaps inside words (&quot;ex-Co ngressman&quot;, &quot;natural ly&quot;, &quot;a s&quot;, &quot;admin ister&quot;, &quot;ther e&quot;, &quot;boy s&quot;) are closed up; several letters are overtyped or blurred in the typing (&quot;Senator&quot;, &quot;state&quot;, &quot;does&quot;, &quot;absolutely&quot;, &quot;did&quot;, &quot;kinds&quot;, &quot;things&quot;, &quot;not&quot;, &quot;was&quot;, &quot;spirit&quot;, &quot;to&quot;) and are given in their evident final reading.</span>\n<span class=\"tnote\">A heavy hand-drawn vertical bar stands between &quot;the brain&quot; and &quot;such as ex-Senator Windom had&quot;; it does not change the words.</span>\n<span class=\"tnote\">The parentheses around &quot;and mind you ... that happen&quot; and the dash after it are added by hand; the opening parenthesis is written over the typed comma after &quot;happened&quot;. The x-ed out typing after &quot;If he did not&quot; runs words together with x&#x27;s.</span>\n<span class=\"tnote\">On folio 44, the &quot;l&quot; of &quot;below&quot;, the &quot;t&quot; of &quot;get&quot; and of &quot;that&quot;, and the &quot;s&quot; of &quot;wants&quot; are written by hand over the typed letters. The handwritten insertion above &quot;effectly&quot; is small and uncertain; it appears to make &quot;effectively&quot;. &quot;else&quot; is inserted by hand above the line with a caret. The &quot;?&quot; after &quot;to be.&quot; is handwritten over or beside the typed period.</span>\n<span class=\"tnote\">A hand mark (a squiggle above the line and a blot below &quot;and&quot;) stands after &quot;my boy and girl shall not,&quot;; its meaning is unclear.</span>\n<span class=\"tnote\">The last three lines are heavily corrected by hand: the struck words before &quot;worthless&quot; and before &quot;life&quot; cannot be read; the first letters of &quot;cumberers&quot; are blotted; the hand strike-through after &quot;do not&quot; may also run into &quot;teaching&quot;; a small handwritten mark after &quot;boy&quot; may be an added &quot;s&quot;. The word struck before &quot;to dodge them&quot; is overtyped and unreadable.</span>\n<span class=\"tnote\">Third look: after &quot;yet&quot; (p. 44) the hand mark is a heavy slash, not a comma, and is left out of the text as a proofreading mark. The hand strike-through after &quot;do not&quot; runs on through &quot;teaching&quot;, which is struck with the rest. The &quot;?&quot; after &quot;to be.&quot; is written above and right of the typed period, which remains. The word after the hand dash (p. 43) is a capital &quot;If&quot;: its stem rises above the x-height and has no separate dot.</span>"
+],
+"notes": [
+"\"File\" is written by hand across the upper left corner of the first page, with a long slash; filing mark.",
+"Typewriter spacing gaps inside words (\"ex-Co ngressman\", \"natural ly\", \"a s\", \"admin ister\", \"ther e\", \"boy s\") are closed up; several letters are overtyped or blurred in the typing (\"Senator\", \"state\", \"does\", \"absolutely\", \"did\", \"kinds\", \"things\", \"not\", \"was\", \"spirit\", \"to\") and are given in their evident final reading.",
+"A heavy hand-drawn vertical bar stands between \"the brain\" and \"such as ex-Senator Windom had\"; it does not change the words.",
+"The parentheses around \"and mind you... that happen\" and the dash after it are added by hand; the opening parenthesis is written over the typed comma after \"happened\". The x-ed out typing after \"If he did not\" runs words together with x's.",
+"On folio 44, the \"l\" of \"below\", the \"t\" of \"get\" and of \"that\", and the \"s\" of \"wants\" are written by hand over the typed letters. The handwritten insertion above \"effectly\" is small and uncertain; it appears to make \"effectively\". \"else\" is inserted by hand above the line with a caret. The \"?\" after \"to be.\" is handwritten over or beside the typed period.",
+"A hand mark (a squiggle above the line and a blot below \"and\") stands after \"my boy and girl shall not,\"; its meaning is unclear.",
+"The last three lines are heavily corrected by hand: the struck words before \"worthless\" and before \"life\" cannot be read; the first letters of \"cumberers\" are blotted; the hand strike-through after \"do not\" may also run into \"teaching\"; a small handwritten mark after \"boy\" may be an added \"s\". The word struck before \"to dodge them\" is overtyped and unreadable.",
+"Third look: after \"yet\" (p. 44) the hand mark is a heavy slash, not a comma, and is left out of the text as a proofreading mark. The hand strike-through after \"do not\" runs on through \"teaching\", which is struck with the rest. The \"?\" after \"to be.\" is written above and right of the typed period, which remains. The word after the hand dash (p. 43) is a capital \"If\": its stem rises above the x-height and has no separate dot."
+],
+"file": "transcriptions/1903-04-04-winona.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"one's",
+"uniform",
+"brave",
+"freedom",
+"difference",
+"foolish",
+"man's",
+"form",
+"women",
+"qualities"
+],
+"stats": {
+"words": 858,
+"unique_words": 332,
+"sentences": 28,
+"avg_sentence": 30.6,
+"minutes": 7,
+"i_count": 10,
+"we_count": 1
+}
 },
 {
 "id": "1903-04-06-aberdeen",
@@ -16144,10 +16210,22 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1810,
+"paragraphs": [
+"My Fellow Citizens:",
+"I appreciate deeply your having come out to greet me this evening. All day I have been traveling through your beautiful state, and now I have come to your city in the heart of the wheat belt, and the more I have seen the firmer my conviction has been that South Dakota not only grows first class products of the farm; that she not only is great in stock raising, but that she does what is better still-- produces the right type of men and women. (Applause) That is what really counts. We have to have a foundation deep and broad of material prosperity. Without that foundation, we can not build the superstructure of lofty, national life, but we must build that superstructure on it; and passing through your city to-day nothing has struck me more than the frequency of the colleges, academies, high schools, and the little schools out on the prairie. You are getting the right type of citizenship. I speak to pioneers, the sons of pioneers, and those who have come in just after them and have had to share in the roughness of pioneer life; and we must never forget, that much though there is due to the pioneer, almost as much, quite as much in the end, is due to the educator, the school teacher, the clergyman, who came out here to help to build up the higher life,",
+"To make a good citizen, more than one quality is needed. In the first place -- in speaking to an audience like this you can take it for granted that you have got the basic quality of strength -- strength, hardihood, courage, the qualities that make a man. This is not a place for weaklings. No weak or timid man could have come out here and out of the prairie have carved this commonwealth. It was necessary to have men to do the work in this state; but that is not enough. In addition to being men, if you are not decent men you will make but a poor fist of the government. Decency will not avail without strength, and neither will strength avail without decency. Mere cunning, mere craft, mere smartness if unbalanced by the moral sense, make the man a curse to himself and his neighbors. The rugged virtues, the virtues that make a man, are indispensable, but in addition to them, hand in hand with them, have got to go the virtues that make a man a good man in private life, a decent neighbor, a man with whom it is safe to do business, and a man who does his duty by the state.",
+"There is not a royal road to good citizenship, to doing well in public life, any more than there is a royal road to learning. What you need in public life and private life alike, is to possess the old, work-a-day, ordinary virtues that we read about when we were children and wrote about in the copybooks, but do not always remember when we grow older. (Applause) In managing the state, in managing the nation, fundamentally we need just the qualities that are necessary in the home, or in business. People will speak to you saying that there is some patent device by which the state or the nation can do something that will make everybody happy and prosperous. It is not so. What the nation can do, or the state can do, is to have such laws enacted and have them so administered that each man shall have the best possible chance to exercise his qualities, to show the stuff that there is in him. And if there is not any stuff in him, it cannot be brought out. (Applause) No law that the wit of man has ever devised, or ever will devise, can make a fool wise, or a weakling strong, or a coward brave. A man has got to develop the qualities of courage, of honesty, of strength of purpose, of will, of power for effort. He has got to develop them from within. There is not any law that can put them into him from without. He has got to have those in him and develop them, and then the laws can be so shaped as to give the fairest and fullest chance for those qualities to show their effects. Something can be done by the law something can be done by each of us in relation to the others.",
+"There is not a man here, not one of us, who does not sometimes slip, sometimes stumble. There is not one of us who does not sometimes need to have a helping hand stretched out to him; and shame to any one of us who, on such an occasion, fails to stretch out his hand to his brother who has slipped or fallen. But if a man lies down you cannot carry him. You can help him up if he stumbles, but he has got to have the desire to walk or he will be down again. All that the law can do is to smooth the path somewhat for the man who is willing and anxious to walk.",
+"During the last few years we have had great prosperity. If the hand of the Lord is heavy upon us, if there comes drought or freshet, if there comes pestilence or some other form of evil with which our finite, human powers can but illy struggle, then disaster will come upon the best of us, for ever since the days when the tower of Siloam",
+"fell disaster has fallen too often alike on the deserving and on the undeserving-- but under Providence prosperity can come and will come to us if we keep a system of law and administration which will enable us to do good work, and then what is more important by far if we do the good work ourselves. It is easy enough by bad legislation, by bad laws, to put a stop to all chance of prosperity. Good laws can give the chance to develop it, and that is all. If the business world turns crazy, if it loses its head, it has lost what no legislation can supply. All that can be done is to do as we have done; to have such a financial system, to have such an economic system, especially under the tariff, as to give the best chance to our people; and then my abiding faith in the American people is, given that chance they, themselves, will take advantage of it (Cheers and applause)",
+"I have been glad to-day to meet the men and women of Dakota, and the children, and I congratulate you on the quality and quantity of them. (Applause) This is a first class stock and I do not want to see it die out; and I believe you are free from the danger here.",
+"In closing let me try to impress upon every man in his dealings with public affairs that you need just the same kind of qualities in a public servant that you need in a neighbor, in a friend, in a member of your own household. For one thing you want any man with whom you have dealings to keep his word. If he will always tell the truth, you can pardon some other shortcoming, because you know where you are. It is just so with a public man. It is just as unpardonable to promise anything on the stump and not keep the promise, as to promise it off the stump and not keep it. And the man should be held to the same rugged accountability for doing it. Now there is another side to that. You must not ask him to promise what, if he is a sensible man, he knows cannot be done. If you are dealing at a store you have got a right that the man with whom you are dealing shall promise you a good quality of goods and deliver them, and you are a fool if you deal with him when he has broken his word. But if you permit yourself to be led away by the man who promises what you know he cannot give, if he is a straight man, then you are to blame if you are disappointed. If you demand in a public man that he promise the millenium you can guarantee that he will never be able to meet your expectation. The millenium is some way off. The world is getting better, but it has got a long way to travel before it becomes perfect. You need in public life, as you need in private life, the",
+"qualities that you prize in the home, the qualities that you prize among your neighbors with whom you do business. And those qualities when you get them all sifted down can be resolved into three.--In the first place, decency and honesty. It does not make any difference how smart a man is, if he is not a square man, his smartness makes him a curse to all about him. It has always seemed to me a distressing thing to hear among our people a certain admiration for mere smartness, unbalanced by any moral sense. All of you know men of whom some one will say that while they are not quite straight they are dreadful smart. That type of man is a poor creature, and the man who admires him is a poor creature. You cannot afford, if you wish to retain your self-respect, to admire any man who has not the root of decency in him. But that is not enough. I do not care how honest a man is, or how upright he is, if he is afraid he is no good. If he has not got pluck, hardihood, courage, you can do nothing with him. Look back in your own experience. You wanted decent men in the state, but no man, I do not care how decent he was, if he had been afraid he could not have come into this state and built it up; he could not have stood the pioneer days. With honesty you must have courage. And honesty and courage by themselves are not enough. I do not care how brave a man is, or how honest he is, if he is a natural born fool you can do nothing with him. With honesty and courage must go the saving grace of common sense, intelligence, power to think, power to work, power to make the best of circumstances that arise.",
+"I am glad to have seen you, and I think when I have been describing the qualities of good citizenship, I have been describing them to an audience that has more than its fair share of them. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -16169,13 +16247,91 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0231, 0232",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0231",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow Citizens:",
+"I appreciate deeply your having come out to greet me this evening. All day I have been traveling through your beautiful state, and now I have come to your city in the heart of the wheat belt, and the more I have seen the firmer my conviction has been that South Dakota not only grows first class products of the farm; that she not only is great in stock raising, but that she does what is better still-- produces the right type of men and women. (Applause) That is what really counts. We have to have a foundation deep and broad of material prosperity. Without that foundation, we can not build the superstructure of lofty, national life, but we must build that superstructure on it; and passing through your city to-day nothing has struck me more than the frequency of the colleges, academies, high schools, and the little schools out on the prairie. You are getting the right type of citizenship. I speak to pioneers, the sons of pioneers, and those who have come in just after them and have had to share in the roughness of pioneer life; and we must never forget, that much though there is due to the pioneer, almost as much, quite as much in the end, is due to the educator, the school teacher, the clergyman, who came out here to help to build up the higher life,",
+"To make a good citizen, more than one quality is needed. In the first place -- in speaking to an audience like this you can take it for granted that you have got the basic quality of strength -- strength, hardihood, courage, the qualities that make a man. This is not a place for weaklings. No weak or timid man could have come out here and out of the prairie have carved this commonwealth. It was necessary to have men to do the work in this state; but that is not enough. In addition to being men, if you are not decent men you will make but a poor fist of the government. Decency will not avail without strength, and neither will strength avail without decency. Mere cunning, mere craft, mere smartness if unbalanced by the moral sense, make the man a curse to himself and his neighbors. The rugged virtues, the virtues that make a man, are indispensable, but in addition to them, hand in hand with them, have got to go the virtues that make a man a good man in private life, a decent neighbor, a man with whom it is safe to do business, and a man who does his duty by the state.",
+"There is not a royal road to good citizenship, to doing well in public life, any more than there is a royal road to learning. What you need in public life and private life alike, is to possess the old, work-a-day, ordinary virtues that we read about when we were children and wrote about in the copybooks, but do not always remember when we grow older. (Applause) In managing the state, in managing the nation, fundamentally we need just the qualities that are necessary in the home, or in business. People will speak to you saying that there is some patent device by which the state or the nation can do something that will make everybody happy and prosperous. It is not so. What the nation can do, or the state can do, is to have such laws enacted and have them so administered that each man shall have the best possible chance to exercise his qualities, to show the stuff that there is in him. And if there is not any stuff in him, it cannot be brought out. (Applause) No law that the wit of man has ever devised, or ever will devise, can make a fool wise, or a weakling strong, or a coward brave. A man has got to develop the qualities of courage, of honesty, of strength of purpose, of will, of power for effort. He has got to develop them from within. There is not any law that can put them into him from without. He has got to have those in him and develop them, and then the laws can be so shaped as to give the fairest and fullest chance for those qualities to show their effects. Something can be done by the law something can be done by each of us in relation to the others.",
+"There is not a man here, not one of us, who does not sometimes slip, sometimes stumble. There is not one of us who does not sometimes need to have a helping hand stretched out to him; and shame to any one of us who, on such an occasion, fails to stretch out his hand to his brother who has slipped or fallen. But if a man lies down you cannot carry him. You can help him up if he stumbles, but he has got to have the desire to walk or he will be down again. All that the law can do is to smooth the path somewhat for the man who is willing and anxious to walk.",
+"During the last few years we have had great prosperity. If the hand of the Lord is heavy upon us, if there comes drought or freshet, if there comes pestilence or some other form of evil with which our finite, human powers can but illy struggle, then disaster will come upon the best of us, for ever since the days when the tower of Siloam",
+"fell disaster has fallen too often alike on the deserving and on the undeserving-- but under Providence prosperity can come and will come to us if we keep a system of law and administration which will enable us to do good work, and then what is more important by far if we do the good work ourselves. It is easy enough by bad legislation, by bad laws, to put a stop to all chance of prosperity. Good laws can give the chance to develop it, and that is all. If the business world turns crazy, if it loses its head, it has lost what no legislation can supply. All that can be done is to do as we have done; to have such a financial system, to have such an economic system, especially under the tariff, as to give the best chance to our people; and then my abiding faith in the American people is, given that chance they, themselves, will take advantage of it (Cheers and applause)",
+"I have been glad to-day to meet the men and women of Dakota, and the children, and I congratulate you on the quality and quantity of them. (Applause) This is a first class stock and I do not want to see it die out; and I believe you are free from the danger here.",
+"In closing let me try to impress upon every man in his dealings with public affairs that you need just the same kind of qualities in a public servant that you need in a neighbor, in a friend, in a member of your own household. For one thing you want any man with whom you have dealings to keep his word. If he will always tell the truth, you can pardon some other shortcoming, because you know where you are. It is just so with a public man. It is just as unpardonable to promise anything on the stump and not keep the promise, as to promise it off the stump and not keep it. And the man should be held to the same rugged accountability for doing it. Now there is another side to that. You must not ask him to promise what, if he is a sensible man, he knows cannot be done. If you are dealing at a store you have got a right that the man with whom you are dealing shall promise you a good quality of goods and deliver them, and you are a fool if you deal with him when he has broken his word. But if you permit yourself to be led away by the man who promises what you know he cannot give, if he is a straight man, then you are to blame if you are disappointed. If you demand in a public man that he promise the millenium you can guarantee that he will never be able to meet your expectation. The millenium is some way off. The world is getting better, but it has got a long way to travel before it becomes perfect. You need in public life, as you need in private life, the",
+"qualities that you prize in the home, the qualities that you prize among your neighbors with whom you do business. And those qualities when you get them all sifted down can be resolved into three.--In the first place, decency and honesty. It does not make any difference how smart a man is, if he is not a square man, his smartness makes him a curse to all about him. It has always seemed to me a distressing thing to hear among our people a certain admiration for mere smartness, unbalanced by any moral sense. All of you know men of whom some one will say that while they are not quite straight they are dreadful smart. That type of man is a poor creature, and the man who admires him is a poor creature. You cannot afford, if you wish to retain your self-respect, to admire any man who has not the root of decency in him. But that is not enough. I do not care how honest a man is, or how upright he is, if he is afraid he is no good. If he has not got pluck, hardihood, courage, you can do nothing with him. Look back in your own experience. You wanted decent men in the state, but no man, I do not care how decent he was, if he had been afraid he could not have come into this state and built it up; he could not have stood the pioneer days. With honesty you must have courage. And honesty and courage by themselves are not enough. I do not care how brave a man is, or how honest he is, if he is a natural born fool you can do nothing with him. With honesty and courage must go the saving grace of common sense, intelligence, power to think, power to work, power to make the best of circumstances that arise.",
+"I am glad to have seen you, and I think when I have been describing the qualities of good citizenship, I have been describing them to an audience that has more than its fair share of them. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 75 (frame 425:0231)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Fellow Citizens:",
+"I appreciate deeply your having come out to greet me this evening. All day I have been traveling through your beautiful state, and now I have come to your city in the heart of the whea<ins title=\"added by hand\">t</ins> belt, and the more I have seen the firmer my conviction has been that South Dakota not only grows <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> first class products of the farm; that she not only is great in stock raising, but that she does what is better still-- <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> produces the right type of men and women. ( Applause) That is what really counts. We have to have a foundation deep and broad of material prosperity. <del title=\"struck through\">With</del> Without that foundation, we can not build the superstructure of lofty,national life, but we must build that superstructure on it; and passing through your city to-day nothing has struck me more than the frequency of the colleges, academies, high schools, and the little schools out on the prairie. You are getting the right type of citizenship. I speak to pioneers, the sons of pioneers, and those who have come in just after them and have had to share in the roughness of pioneer life; and we must never forget, that much though there is due to the pioneer, almost as much, quite as much in the end, is due to the educator, the school teacher, the clergyman, who came out here to help to build up the higher life, <del title=\"struck through\">to make good</del>",
+"To make a good citizen, more than one quality is needed. In the first place -- <del title=\"struck through\">you can take it forgranted</del> in speaking to an audience like this you can take it for granted that you have got the basic quality of strength -- strength, hardihood, courage, the qualities that make a man. This is not a place for weaklings. No weak or timid man could have come out here and out of the prairie have carved this commonwealth. It was necessary to have men to do the work in this state; but that <del title=\"struck through\">xxx</del> is not enough. In addition to being men, if you are not decent men <span class=\"sic\" title=\"reads: you\">youu</span> will make but a poor fist of the government. Decency will not avail without strength, and neither will strength avail without decency. Mere cunning, mere craft, mere smartness if unbalanced by the moral sense, make the man a curse to himself and his neighbors. The rugged virtues, the virtues that make a man, are indispensable, but in addition to them, hand in hand with them, have got to go the virtues that make a man a good man in private life, a decent neighbor, a man with whom it is safe to do business, and a man who does his duty by the state.",
+"<span class=\"pb\">Page 76 (frame 425:0231)</span>",
+"There is not a royal road to good citizenship, to doing well in public life, any more than there is a royal road to <span class=\"sic\" title=\"reads: learning\">learnigg</span>. What you need in public life and private life alike, is to possess the old, work-a-day, ordinary virtues that we read about when we were children and wrote about in the copybooks, but do not always remember when we grow older. (Applause) In managing the state, in managing the nation, fundamentally we need just the qualities that are necessary in the home, or in business. People will speak to you saying that there is some patent device by which the state or the nation can do something that will make everybody happy and prosperous. It is not so. What the nation can do, or the state can do, is to have such laws enacted and have them so administered that each man shall have the best possible chance to exercise his qualities, to show the stuff that there is in him. And if there is not any stuff in him, it cannot be brought out. (Applause) No law that the wit of man has ever devised, or ever will devise, can make a fool wise, or a weakling strong, or a coward brave. A man has got to develop the qualities of courage, of honesty, of strength of purpose, of will, of power for effort. He has got to develop them from within. There is not any law that can put them into him from without. He has got to have those in him and develop them, and then the laws can be so shaped as to give the fairest and fullest chance for those qualities to show their effects. Something can be done by the law something can be done by each of us in relation to the others.",
+"There is not a man here, not one of us, who does not sometimes slip, sometimes stumble. There is not one of us who does not sometimes need to have a helping hand stretched out to him; and shame to any one of us who, on such an occasion, fails to stretch out <del title=\"struck through\">xxxxxxx</del> his hand to his brother who has slipped or fallen. But if a man lies down you cannot carry him. You can help him up if he stumbles, but he has got to have the desire to walk or he will be down again. All that the law can do is to smooth the path somewhat for the man who is willing and anxious to walk.",
+"During the last few years we have had great prosperity. <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">That prosperity, of course depends upon Providence, for</span></del> <ins title=\"added by hand\">I</ins>f the hand of the Lord is heavy upon us, if there comes drought or freshet, if there comes pestilence or some other form of evil with which <del title=\"struck through\">xxx</del> our finite, human powers can but illy struggle, then disaster will come upon the best of us, for ever since the days when the tower of Siloam",
+"<span class=\"pb\">Page 77 (frame 425:0232)</span>",
+"fell disaster has fallen too often alike on the deserving and on the undeserving-- but under Providence prosperity can come and will come to us if we keep a system of law and administration which will enable us to do good work, and then what is more<del title=\"struck through\">x</del> important by far if we do the good work <span class=\"sic\" title=\"reads: ourselves\">oursekes</span>. It is easy enough by bad legislation, by bad laws, to put a stop to all chance of prosperity. Good laws can give the chance to develop it, and that is all. If the business wor<ins title=\"added by hand\">ld</ins> turns crazy, if <del title=\"struck through\">the business</del> <ins title=\"added by hand\">it</ins> loses its head<ins title=\"added by hand\">,</ins> it has lost what no legislation can supply. All that can be done is to do as we have done; to have such a financial system, to have such an economic system, especially under the tariff, as to give the best chance to our people; and then my abiding faith in the American people is, given that chance they, themselves, will take advantage of it (Cheers and applause)",
+"I have been glad to-day to meet the men and women of Da<ins title=\"added by hand\">k</ins>ota, and the children, and I congratulate you on the quality and quantity of them. (Applause) This is a first class stock and I do not want to see it die out; and I <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">believe</ins> you are free from the danger here.",
+"In closing <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">l</ins>et me try to impress upon every man in his dealings with public affairs that you need just the same kind of qualities in a public servant that you need in a neighbor, in a friend, in a member of your own household. For one thing you want any man with whom you have dealings to keep his word. If he will always tell the truth, you can pardon some other shortcoming, because you know where you are. It is just so with a public man. It is just as unpardonable to promise anything on the stump and not keep the promise, as to promise it off the stump and not keep it. And the man should be held to the same rugged accountability for doing it. Now there is another side to that. You must not ask him to promise what, if he is a sensible <span class=\"sic\" title=\"reads: man\">mam</span>, he knows cannot be done. If you are dealing at a store you have got a right that the man <del title=\"struck through\">xxx xxx</del> with whom you are dealing shall promise you a good quality of goods and deliver them, and you are a fool if you deal with him when he has broken his word. But if you permit yourself to be led away by the man who promises what you know he cannot give, if he is a straight man, then you are to blame if you are disappointed. If you demand in a public man that he promise the millenium you can guarantee that he will never be able to meet your expectation. The millenium is some way off . The world is getting better, but it has got a long way to travel before it becomes perfect. You need in public life, as you need in private life, the",
+"<span class=\"pb\">Page 78 (frame 425:0232)</span>",
+"qualities that you prize in the home, the qualities that you prize among your neighbors with whom you do business. And those qualities when you get them all sifted down can be resolved into three.--In the first place, decency and honesty. It does not make any difference how smart a man is, if he is not a square man, his smartness makes him a curse to all about him. It has always seemed to me a distressing thing <del title=\"struck through\">There always seems to be among</del> to hear among our people a certain admiration for mere smartness, unbalanced by any moral sense. All of you know men of whom some one will say that while <del title=\"struck through\">xx xx</del> they are not quite straight <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">they are</ins> dreadful smart. That type of man is a poor creature, and the man who admires him is a poor creature. You cannot afford, if you wish to retain your self-respect, to admire any man <span class=\"sic\" title=\"reads: who has\">whohas</span> not the root of decency in him. But that is not enough. I do not care how honest a man is , or how upright he is, if he is afraid he is no good<ins title=\"added by hand\">.</ins> <ins title=\"added by hand\">I</ins>f he has not got <del title=\"struck through\">xxx</del> pluck, hardihood, courage, you can do nothing with him. Look back in your own experience. You wanted decent men in the state, but no man, I do not care how decent he was, if he had been afraid he could not have come into this state and built it up; he could not have stood the pioneer days. With honesty you must have courage. And honesty and courage by themselves are not enough. I do not care how brave a man is, or how honest he is, if he is a natural born fool you can do nothing with him. With honesty and courage must go the saving grace of common sense, intelligence, power to think, power to work, power to make the best of circumstances that arise.",
+"I am glad to have seen you, and I think when I have been describing the qualities of good citizenship, I have been describing them to an <span class=\"sic\" title=\"reads: audience\">audidence</span> that has more than its fair share of them. (Cheers and applause)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left of folio 75 with a slash; filing mark.</span>\n<span class=\"tnote\">Typewriter spacing gaps inside words (&quot;Citi zens&quot;, &quot;ca n&quot;, &quot;wor k&quot;, &quot;do ne&quot;, &quot;s ome times&quot;, &quot;r elation&quot;, &quot;sa fe&quot;, &quot;circumst ances&quot;, &quot;b en&quot;) are closed up, and letters overtyped in the typing are given in their evident reading.</span>\n<span class=\"tnote\">Folio 75: the &quot;t&quot; of &quot;wheat&quot; is added by hand; the words struck by hand after &quot;grows&quot; and after &quot;still--&quot; cannot be read. &quot;Without&quot; is typed above the x-ed out &quot;With&quot;, and &quot;not&quot; is typed above the line after &quot;can&quot; with a handwritten caret. &quot;to make good&quot; at the end of the paragraph and &quot;you can take it forgranted&quot; at the start of the next line are x-ed out on the typewriter. &quot;is&quot; is typed above an x-ed out word after &quot;that&quot;. At the right edge the last letters of &quot;the&quot; (&quot;go the&quot;) and &quot;with&quot; (&quot;a man with&quot;) are partly hidden by the page edge.</span>\n<span class=\"tnote\">Folio 76: hand slashes follow &quot;fundamentally&quot; and &quot;law&quot;. The two lines beginning &quot;That prosperity&quot; are struck through by hand and are hard to read; the &quot;I&quot; of &quot;If the hand of the Lord&quot; is written by hand over the typed &quot;i&quot;. The x-ed out typing after &quot;stretch out&quot; and after &quot;with which&quot; cannot be read.</span>\n<span class=\"tnote\">Folio 77: in &quot;business world&quot; the last letters are written by hand over the typed ones; &quot;the business&quot; is struck by hand and &quot;it&quot; written above; the comma after &quot;head&quot; is added by hand; the &quot;k&quot; of &quot;Dakota&quot; is written by hand. The word struck before the handwritten &quot;believe&quot; and the words struck after &quot;In closing&quot; cannot be read; the &quot;l&quot; of &quot;let&quot; is written by hand. &quot;ourselves&quot; is typed &quot;oursekes&quot;.</span>\n<span class=\"tnote\">Folio 78: &quot;It has always seemed to me a distressing thing&quot; is typed above the line with a handwritten caret, replacing the x-ed out &quot;There always seems to be among&quot;; &quot;among&quot; is typed in the left margin with a caret before &quot;our people&quot;. &quot;they are&quot; is typed above two x-ed out words after &quot;while&quot;, with a caret. At the start of the next line a typed word is struck by hand and &quot;they are&quot; is written above it. The period after &quot;good&quot; and the capital &quot;I&quot; of &quot;If he has not got&quot; are added by hand. &quot;if he had been afraid he&quot; is typed above the line with a handwritten caret.</span>\n<span class=\"tnote\">Third look: the hand slashes after &quot;fundamentally&quot; and &quot;law&quot; (p. 76) are proofreading marks and are left out of the text. The handwritten letter of &quot;let&quot; (p. 77) is a lowercase cursive l, begun with an entry stroke from the baseline.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left of folio 75 with a slash; filing mark.",
+"Typewriter spacing gaps inside words (\"Citi zens\", \"ca n\", \"wor k\", \"do ne\", \"s ome times\", \"r elation\", \"sa fe\", \"circumst ances\", \"b en\") are closed up, and letters overtyped in the typing are given in their evident reading.",
+"Folio 75: the \"t\" of \"wheat\" is added by hand; the words struck by hand after \"grows\" and after \"still--\" cannot be read. \"Without\" is typed above the x-ed out \"With\", and \"not\" is typed above the line after \"can\" with a handwritten caret. \"to make good\" at the end of the paragraph and \"you can take it forgranted\" at the start of the next line are x-ed out on the typewriter. \"is\" is typed above an x-ed out word after \"that\". At the right edge the last letters of \"the\" (\"go the\") and \"with\" (\"a man with\") are partly hidden by the page edge.",
+"Folio 76: hand slashes follow \"fundamentally\" and \"law\". The two lines beginning \"That prosperity\" are struck through by hand and are hard to read; the \"I\" of \"If the hand of the Lord\" is written by hand over the typed \"i\". The x-ed out typing after \"stretch out\" and after \"with which\" cannot be read.",
+"Folio 77: in \"business world\" the last letters are written by hand over the typed ones; \"the business\" is struck by hand and \"it\" written above; the comma after \"head\" is added by hand; the \"k\" of \"Dakota\" is written by hand. The word struck before the handwritten \"believe\" and the words struck after \"In closing\" cannot be read; the \"l\" of \"let\" is written by hand. \"ourselves\" is typed \"oursekes\".",
+"Folio 78: \"It has always seemed to me a distressing thing\" is typed above the line with a handwritten caret, replacing the x-ed out \"There always seems to be among\"; \"among\" is typed in the left margin with a caret before \"our people\". \"they are\" is typed above two x-ed out words after \"while\", with a caret. At the start of the next line a typed word is struck by hand and \"they are\" is written above it. The period after \"good\" and the capital \"I\" of \"If he has not got\" are added by hand. \"if he had been afraid he\" is typed above the line with a handwritten caret.",
+"Third look: the hand slashes after \"fundamentally\" and \"law\" (p. 76) are proofreading marks and are left out of the text. The handwritten letter of \"let\" (p. 77) is a lowercase cursive l, begun with an entry stroke from the baseline."
+],
+"file": "transcriptions/1903-04-06-aberdeen.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"law-courts",
+"the-west"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 2
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"promise",
+"smartness",
+"fool",
+"qualities",
+"applause",
+"pioneer",
+"decency",
+"virtues",
+"honesty",
+"courage"
+],
+"stats": {
+"words": 1810,
+"unique_words": 494,
+"sentences": 66,
+"avg_sentence": 27.4,
+"minutes": 14,
+"i_count": 16,
+"we_count": 12
+}
 },
 {
 "id": "1903-04-06-mitchell",
@@ -16189,10 +16345,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1085,
+"paragraphs": [
+"Mr. Mayor, and My Fellow Citizens:",
+"I am glad to have the chance of meeting an audience like this, and saying a few words to you. I have thoroughly enjoyed coming through your great and beautiful state. I enjoy seeing all of you and I know the rest of you will not grudge my saying a special word of thanks to the men of the Grand Army of the Republic for coming out to greet me, (Cheers and applause) for they showed in war the qualities which all of you, the pioneers and the sons of the pioneers, have had to show in peace, -- the qualities of hard, resolute work for a worthy end. South Dakota sent its regiment to the Philippines to serve in the war in which I served. The trouble with us was there was not enough war to go round--You had a big job to do, while ours was a mighty small one; but we did it, and we hope we did not show ourselves entirely unworthy of the men of the fought fields from'61 to '65. (Cheers and applause)",
+"No one can come through your state without having it brought home to him how well off you are, how well you have done, not only in the things of the body but in the things of the mind. This is a state of farmers and stockgrowers, and in the southwest, of miners. There has been of late a higher average of production of wealth per head in this state than in any other state of the union. (Applause) Into such prosperity several different causes necessarily enter. In the first place of course nature has to favor us. If the hand of the Lord is heavy upon us, if drought comes, if the crops are smitten by disease, if the cattle, then the wit of man can only do a certain amount to avert the calamity. Legislation can do something, and bad legislation can stop it entirely; but most of it has to be done by the quality of the individual man. If I were addressing an assemblage of weaklings, of foolish men, of timid men, I would be addressing an assemblage that had failed instead of an assemblage that had succeeded. No law that the wit of man ever has framed or ever will frame will make a timid, and weak [?], and foolish man able to do the work that the hard-headed, stout-hearted, strong-thewed man can do. It is so everywhere in life. We all know of it in dealing with the man whose farm is next to ours, whose shop is next to ours,",
+"the men whom we mee [?]t and contend with in any of the professions. Nothing can take the place of the individual's own quality. Every one at times needs help. Each of us should be only too glad to extend a helping hand in such a case; but in the long run the only help that really counts is the helping a man to help himself. You can lift up a man if he stumbles; if he lies down you cannot carry him. If you try to, it will not help him, and it will not help you. So, fundamentally, it must rest upon yourself to win success. As I said, law can do something; wise legislation, wise and honest administration of the government can do something. If you have bad laws, badly administered, they will spoil any prosperity. It is easy enough to get a bad law that will stop the whole business, but to get a good law is not so easy. And under a good law there will be little imperfections, and under any administration of the laws there will be little imperfections, there will be hitches here and there, there will be points on which you think you could make an improvement. Especially will you think that if you have never tried to make an improvement. It is awfully easy to sit outside and say how the man running the machine should do;but it is not so easy to do it. This prosperity to which we have attained has been attained under a certain economic system, through carrying out certain ideas in currency and the tariff. We cannot afford to reverse the system. Improvement can be made in it, In the tariff for instance, schedules are not sacred, and, as the needs of the nation change and shift it will be necessary to change certain schedules to meet those shifting needs. But remember always that the mere fact that a given schedule could be changed with advantage, does not mean that it is possible at once to change it. Everything has got to be changed as part of the connected whole, and a change should not be made until the good of it is sufficient to counterbalance the certainty that there will be some dislocation, some trouble connected with making it. And above all the change should not be made, save as a matter of the reapplication of the details of the system without changing the principle of the system under which this country has so progressed. This is not a matter of politics, it is a matter of business. It is a matter of the business of all of us, the business of the republic, and I would ask that you approach it in the same spirit in which you approach any question affecting your own farms, your own business enterprises; and when it has all been done bear in mind ever what I said at the outset. something can be done by law; something has",
+"been done by law. We could not have prospered as we have prospered during the last few years, unless we had had a good system of laws, and wise and upright administration of the laws. But law can do no more than give a brave, honest and intelligent man a chance to help himself.",
+"Ultimately our success as a nation must depend upon the high average of citizenship of the individual.Here in the United States.we have won in the past and we shall win in the future because our citizens have in them the stuff out of which to get that high grade of citizenship; (Applause) because they have [?] the strong body, the strong mind, and what counts for more than either body or mind -- character-- character, of which the three components are honesty, courage and common sense. (Cheers and prolonged applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -16214,13 +16377,86 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0225, 0226",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0225",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor, and My Fellow Citizens:",
+"I am glad to have the chance of meeting an audience like this, and saying a few words to you. I have thoroughly enjoyed coming through your great and beautiful state. I enjoy seeing all of you and I know the rest of you will not grudge my saying a special word of thanks to the men of the Grand Army of the Republic for coming out to greet me, (Cheers and applause) for they showed in war the qualities which all of you, the pioneers and the sons of the pioneers, have had to show in peace, -- the qualities of hard, resolute work for a worthy end. South Dakota sent its regiment to the Philippines to serve in the war in which I served. The trouble with us was there was not enough war to go round--You had a big job to do, while ours was a mighty small one; but we did it, and we hope we did not show ourselves entirely unworthy of the men of the fought fields from'61 to '65. (Cheers and applause)",
+"No one can come through your state without having it brought home to him how well off you are, how well you have done, not only in the things of the body but in the things of the mind. This is a state of farmers and stockgrowers, and in the southwest, of miners. There has been of late a higher average of production of wealth per head in this state than in any other state of the union. (Applause) Into such prosperity several different causes necessarily enter. In the first place of course nature has to favor us. If the hand of the Lord is heavy upon us, if drought comes, if the crops are smitten by disease, if the cattle, then the wit of man can only do a certain amount to avert the calamity. Legislation can do something, and bad legislation can stop it entirely; but most of it has to be done by the quality of the individual man. If I were addressing an assemblage of weaklings, of foolish men, of timid men, I would be addressing an assemblage that had failed instead of an assemblage that had succeeded. No law that the wit of man ever has framed or ever will frame will make a timid, and weak [?], and foolish man able to do the work that the hard-headed, stout-hearted, strong-thewed man can do. It is so everywhere in life. We all know of it in dealing with the man whose farm is next to ours, whose shop is next to ours,",
+"the men whom we mee [?]t and contend with in any of the professions. Nothing can take the place of the individual's own quality. Every one at times needs help. Each of us should be only too glad to extend a helping hand in such a case; but in the long run the only help that really counts is the helping a man to help himself. You can lift up a man if he stumbles; if he lies down you cannot carry him. If you try to, it will not help him, and it will not help you. So, fundamentally, it must rest upon yourself to win success. As I said, law can do something; wise legislation, wise and honest administration of the government can do something. If you have bad laws, badly administered, they will spoil any prosperity. It is easy enough to get a bad law that will stop the whole business, but to get a good law is not so easy. And under a good law there will be little imperfections, and under any administration of the laws there will be little imperfections, there will be hitches here and there, there will be points on which you think you could make an improvement. Especially will you think that if you have never tried to make an improvement. It is awfully easy to sit outside and say how the man running the machine should do;but it is not so easy to do it. This prosperity to which we have attained has been attained under a certain economic system, through carrying out certain ideas in currency and the tariff. We cannot afford to reverse the system. Improvement can be made in it, In the tariff for instance, schedules are not sacred, and, as the needs of the nation change and shift it will be necessary to change certain schedules to meet those shifting needs. But remember always that the mere fact that a given schedule could be changed with advantage, does not mean that it is possible at once to change it. Everything has got to be changed as part of the connected whole, and a change should not be made until the good of it is sufficient to counterbalance the certainty that there will be some dislocation, some trouble connected with making it. And above all the change should not be made, save as a matter of the reapplication of the details of the system without changing the principle of the system under which this country has so progressed. This is not a matter of politics, it is a matter of business. It is a matter of the business of all of us, the business of the republic, and I would ask that you approach it in the same spirit in which you approach any question affecting your own farms, your own business enterprises; and when it has all been done bear in mind ever what I said at the outset. something can be done by law; something has",
+"been done by law. We could not have prospered as we have prospered during the last few years, unless we had had a good system of laws, and wise and upright administration of the laws. But law can do no more than give a brave, honest and intelligent man a chance to help himself.",
+"Ultimately our success as a nation must depend upon the high average of citizenship of the individual.Here in the United States.we have won in the past and we shall win in the future because our citizens have in them the stuff out of which to get that high grade of citizenship; (Applause) because they have [?] the strong body, the strong mind, and what counts for more than either body or mind -- character-- character, of which the three components are honesty, courage and common sense. (Cheers and prolonged applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 66 (frame 425:0225)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"<del title=\"struck through\">Gentlemen and ladies</del>",
+"Mr. Mayor, and My Fellow Citizens:",
+"I am glad to have the chance of meeting an audience like this, and saying a few words to you. I have thoroughly enjoyed coming through your great and beautiful state. I enjoy seeing all of you and I know the rest of you will not grudge my saying a special word<del title=\"struck through\">x</del> of thanks to the men of the Grand Army of the Republic for coming out to greet me, (Cheers and applause) for they showed in war the qualities which all of you, the pioneers and the sons of the pioneers, have had to show in peace, -- the qualities of hard, resolute work for a worthy end. South Dakota sent its regiment to the Philippines to serve in the war in which I served. The trouble with us was there was not enough war to go round--You had a big job to do, while ours was a mighty small one; but we did it, and we hope we did not show ourselves entirely unworthy of the men of the fought fields from&#x27;61 to &#x27;65. (Cheers and applause)",
+"No one can come through your state without having it brought home to him how well off you are, how well you have done, not only in the things of the body but in the things of the mind. This is a state of farmers and stockgrowers, and in the southwest, of miners. There has been of late a higher average of production of wealth per head in this state than in any other state of the union. (Applause) Into such prosperity several different causes necessarily enter. In the first place of course nature has to favor us. If the hand of the Lord is heavy upon us, if drought comes, if the crops are smitten by disease, <del title=\"struck through\">xx</del> if the cattle, then the wit of man can only do a certain amount to avert the calamity. Legislation can do something, and bad legislation can stop it entirely; <span class=\"sic\" title=\"reads: but\">bbut</span> most of it has to be done by the quality of the individual man. If I were addressing an assemblage of weaklings, of foolish men, of timid men, I would be addressing an assemblage that had failed instead of an assemblage that had succeeded. No law that the wit of man ever has framed or <span class=\"sic\" title=\"reads: ever will\">everwill</span> frame <del title=\"struck through\">xxx</del> will make a timid, and <span class=\"unc\" title=\"uncertain reading\">weak</span>,and foolish man able to do the work that the hard-headed, stout-hearted, strong-thewed man can do. It is so everywhere in life. We all know of it in dealing with the man whose farm is next to ours, whose shop is next to ours,",
+"<span class=\"pb\">Page 67 (frame 425:0226)</span>",
+"the men whom we me<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">e</span></ins>t <span class=\"sic\" title=\"reads: and\">abd</span> contend with in any of the professions. Nothing can take the place of the individual&#x27;s own quality. Every one at times needs help. Each of us should be only too <span class=\"sic\" title=\"reads: glad to\">gladto</span> extend a helping hand in such a case; but in the long run the only help that really counts is the helping a man to help himself. You can lift up a man if he stumbles; if he lies down you cannot carry him. If you try to, it will not help him, and it will not help you. So, fundamentally, it must rest upon yourself to win success. As I said, law can do something; wise legislation, wise and honest administration of the government can do something. If you have <del title=\"struck through\">xxxx</del> bad laws, badly administered, they will spoil any prosperity. It is easy enough to get a bad law that will stop the whole business, but to get a good law is not so easy. And under a good law there will be little imperfections, and under any administration of the laws there will be little imperfections, there will be hitches here and there, there will be points on which you think you could make an improvement. <span class=\"sic\" title=\"reads: Especially\">Edpecially</span> will you think that if you have never tried to make an improvement. It is awfully easy to sit outside and say how the man running the machine should do;<del title=\"struck through\">x</del>but it is not so easy to do it. This prosperity to which we have attained has been attained under a certain economic system, through carrying out <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> certain ideas in currency and the tariff. We cannot afford to reverse the system. Improvement can be made in it, In the tariff for instance, schedules are not sacred, and, as the needs of the nation change and shift<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> it will be necessary to change certain schedules to meet those shifting needs. But remember always that the mere fact that a given schedule could be changed with advantage, does not mean that it is possible at once to change it. Everything has got to be changed as part of the connected whole, and a change should not be made until the good of it is sufficient to counterbalance the certainty that there will be some dislocation, some trouble connected with making it. And above all the change should not be made, save as a matter of the reapplication of the details of the system without changing the principle of the system under which this country has so progressed. This is not a matter of politics, it is a matter of business. It is a matter of the business of all of us, the business of the republic, and I would ask that you approach it in the same spirit in which you approach any question affecting your own farms, your own <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">own</span></del> business<del title=\"struck through\">xxxxxxxxxx</del> enterprises ; and when it has all been done bear in mind ever what I said at the outset . something can be done by law; something has",
+"<span class=\"pb\">Page 68 (frame 425:0226)</span>",
+"been done by law. We could not have prospered as we have prospered during the last few years, unless we had had a good system of laws, and wise and upright administration of the laws. But law can do no more than give a brave, <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> honest and <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> intelligent man a chance to help himself.",
+"Ultimately our success as a nation must depend upon the high average of citizenship of the individual.Here in the United States.we have won in the past and we shall win in the future because our citizens have in them the stuff out of which to get that high grade of citizenship; (Applause) because they <span class=\"unc\" title=\"uncertain reading\">have</span> the strong body, the strong mind,and what counts for more than either body or mind -- character-- character, of which the three components are honesty, courage <span class=\"sic\" title=\"reads: and\">abd</span> common sense. <ins title=\"added by hand\">(</ins>Cheers and prolonged applause)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left of folio 66 with a slash; filing mark.</span>\n<span class=\"tnote\">The salutation &quot;Gentlemen and ladies&quot; is typed with x&#x27;s between the words and struck through on the typewriter; &quot;Mr. Mayor, and My Fellow Citizens:&quot; follows on the next line.</span>\n<span class=\"tnote\">On folio 66 a short x-ed out word is typed between the lines above &quot;the first place&quot;; &quot;if&quot; before &quot;the cattle&quot; and &quot;will&quot; before &quot;make&quot; are typed above the line over x-ed out words; &quot;of&quot; before &quot;foolish men&quot; is typed above the line with a handwritten caret. A stray &quot;v&quot; stands before &quot;can only do&quot;. The word after &quot;a timid, and&quot; is heavily overtyped; it appears to be &quot;weak&quot;.</span>\n<span class=\"tnote\">On folio 67 the vowel of &quot;met&quot; is corrected by hand (a mark above with a caret below), and a hand stroke marks the apostrophe in &quot;individual&#x27;s&quot;; a hand mark also touches the &quot;c&quot; of &quot;sacred&quot;. Ink blots cover a word after &quot;carrying out&quot; and the punctuation after &quot;shift&quot;; what lies beneath cannot be read. The word at the start of the line after &quot;your own&quot; is heavily overtyped; it may be a repeated &quot;own&quot;. The x-ed out typing after &quot;business&quot; cannot be read.</span>\n<span class=\"tnote\">On folio 68 two ink blots cover a word after &quot;brave,&quot; and a word before &quot;intelligent&quot;; they cannot be read. In &quot;they have the&quot; a hand mark like &quot;(&quot; stands at the start of &quot;have&quot;, whose first letter is unclear. The opening parenthesis before &quot;Cheers&quot; is handwritten, and &quot;applause&quot; is partly overtyped.</span>\n<span class=\"tnote\">The same page (folio 68) goes on with the separately headed remarks in accepting a bouquet from Ransom Post, No. 6, G.A.R., which are not transcribed here.</span>\n<span class=\"tnote\">Third look: the &quot;G&quot; of &quot;Grand&quot; is a typed capital, set slightly low and faint. Above &quot;met&quot; (p. 67) the hand insertion over the caret is an ink blot, probably an &quot;e&quot; but not legible as a letter.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left of folio 66 with a slash; filing mark.",
+"The salutation \"Gentlemen and ladies\" is typed with x's between the words and struck through on the typewriter; \"Mr. Mayor, and My Fellow Citizens:\" follows on the next line.",
+"On folio 66 a short x-ed out word is typed between the lines above \"the first place\"; \"if\" before \"the cattle\" and \"will\" before \"make\" are typed above the line over x-ed out words; \"of\" before \"foolish men\" is typed above the line with a handwritten caret. A stray \"v\" stands before \"can only do\". The word after \"a timid, and\" is heavily overtyped; it appears to be \"weak\".",
+"On folio 67 the vowel of \"met\" is corrected by hand (a mark above with a caret below), and a hand stroke marks the apostrophe in \"individual's\"; a hand mark also touches the \"c\" of \"sacred\". Ink blots cover a word after \"carrying out\" and the punctuation after \"shift\"; what lies beneath cannot be read. The word at the start of the line after \"your own\" is heavily overtyped; it may be a repeated \"own\". The x-ed out typing after \"business\" cannot be read.",
+"On folio 68 two ink blots cover a word after \"brave,\" and a word before \"intelligent\"; they cannot be read. In \"they have the\" a hand mark like \"(\" stands at the start of \"have\", whose first letter is unclear. The opening parenthesis before \"Cheers\" is handwritten, and \"applause\" is partly overtyped.",
+"The same page (folio 68) goes on with the separately headed remarks in accepting a bouquet from Ransom Post, No. 6, G.A.R., which are not transcribed here.",
+"Third look: the \"G\" of \"Grand\" is a typed capital, set slightly low and faint. Above \"met\" (p. 67) the hand insertion over the caret is an ink blot, probably an \"e\" but not legible as a letter."
+],
+"file": "transcriptions/1903-04-06-mitchell.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"citizenship",
+"farming"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 1
 },
-"distinctive": [],
-"stats": null
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
+},
+"distinctive": [
+"assemblage",
+"change",
+"applause",
+"cheers",
+"law",
+"improvement",
+"help",
+"easy",
+"system",
+"laws"
+],
+"stats": {
+"words": 1086,
+"unique_words": 382,
+"sentences": 37,
+"avg_sentence": 29.4,
+"minutes": 8,
+"i_count": 10,
+"we_count": 12
+}
 },
 {
 "id": "1903-04-06-yankton",
@@ -16279,10 +16515,18 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 822,
+"paragraphs": [
+"Mr. Chairman; Boys and Girls; and Men and Women:",
+"I am glad of having the chance of saying a word to the children here of Sioux Falls. I admire South Dakota, I admire what it produces, I am glad to see you doing so well as farmers, and in the western part of the state as miners. But a good deal better than the best product of the farm or of the mine is the product of the home. What will count in the state in the future is the way its children turn out, and that will depend partly upon how they are trained, and partly upon the stuff that there is in them.",
+"To the girls and boys -- and especially to the boys; I am just as fond of the girls but I understand the boys better sometimes-- I have got just one word to say to you. I believe in work and I believe in play, and I would be sorry if I did not see you enjoying yourselves, only don't let it interfere with you doing your work, now or later on in life. Now just one word to the girls. All of you want to read books, all of you want to be like the heroines, to do well and to count in the world. I will tell you how to count; do all the little things as they come up. When mother says,\"Susie run out and get me such and such a thing,\" and if Susie has a book and says \"Oh, dear\" and does go, but goes as a favor and with a distinct sense of injury, Susie is a little nuisance. In the first place she is going any way, if mother is worth anything; if she goes cheerfully and readily and is glad to do it, she will find she is fitting herself for the work of life, for the whole work of life is to do the thing there is to do at the time.",
+"Now boys, in the first place, remember that the manlier you are, the braver and stronger, the nicer you have been at home, the nicer you can be to those who are weaker, and I should be ashamed of any one of you if he flinched or was afraid, and equally and even more ashamed if he was insolent and overbearing toward the weak.",
+"I want [?] you to work and play, and when you play and when you work, to remember a rule that I heard given by a great football captain in one of the big football teams. He would say to his men \"Now I want you to play fair, and play hard, both; don't do anything that is foul to the other side; but do your work.\"",
+"While you are playing football, why play just as hard as you can, and if you get hurt keep on playing; don't flinch, go at it again. That is what will make you men and count in the end. It is the same way with your studies. I remember a Yale professor, in speaking of the football game at Yale some years ago, pointing out a man and saying \"That fellow is not going to be a good player, because he is poor in his studies. I said \" I did not know there was any connection there\". He said \"There is \". I do not mean to say that a very bright fellow can play football well, or that a tolerably dull fellow cannot; but if you find a boy who is too shiftless to work at his books he will also be too shiftless to work at sports in the long run. Of course there are exceptions. But speaking generally the boy or man who does one thing with his whole heart and learns how to do it well, will do other things with his whole heart.",
+"Now just a word to the older people present, a word of thanks to the ministerial association and to the school teachers who have brought about this meeting. In their essence state [?]craft and politics mean nothing but the application to the state on a large scale of the qualities that make a man a good husband, a good neighbor, a good friend, [?] a good business man. It is a good thing to have a sound body, it is a better thing to have a sound mind; but what we need is that which is greater than body or mind -- character. Character is what counts;and this country can be made what it will and shall be made only if we act on the beliefs that we have in the abstract and understand that the nation will be made great just in proportion as its average citizen believes in and acts upon the laws of decency, the laws that teach him to prize honesty, courage and common sense. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -16320,13 +16564,78 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0166",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0166",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman; Boys and Girls; and Men and Women:",
+"I am glad of having the chance of saying a word to the children here of Sioux Falls. I admire South Dakota, I admire what it produces, I am glad to see you doing so well as farmers, and in the western part of the state as miners. But a good deal better than the best product of the farm or of the mine is the product of the home. What will count in the state in the future is the way its children turn out, and that will depend partly upon how they are trained, and partly upon the stuff that there is in them.",
+"To the girls and boys -- and especially to the boys; I am just as fond of the girls but I understand the boys better sometimes-- I have got just one word to say to you. I believe in work and I believe in play, and I would be sorry if I did not see you enjoying yourselves, only don't let it interfere with you doing your work, now or later on in life. Now just one word to the girls. All of you want to read books, all of you want to be like the heroines, to do well and to count in the world. I will tell you how to count; do all the little things as they come up. When mother says,\"Susie run out and get me such and such a thing,\" and if Susie has a book and says \"Oh, dear\" and does go, but goes as a favor and with a distinct sense of injury, Susie is a little nuisance. In the first place she is going any way, if mother is worth anything; if she goes cheerfully and readily and is glad to do it, she will find she is fitting herself for the work of life, for the whole work of life is to do the thing there is to do at the time.",
+"Now boys, in the first place, remember that the manlier you are, the braver and stronger, the nicer you have been at home, the nicer you can be to those who are weaker, and I should be ashamed of any one of you if he flinched or was afraid, and equally and even more ashamed if he was insolent and overbearing toward the weak.",
+"I want [?] you to work and play, and when you play and when you work, to remember a rule that I heard given by a great football captain in one of the big football teams. He would say to his men \"Now I want you to play fair, and play hard, both; don't do anything that is foul to the other side; but do your work.\"",
+"While you are playing football, why play just as hard as you can, and if you get hurt keep on playing; don't flinch, go at it again. That is what will make you men and count in the end. It is the same way with your studies. I remember a Yale professor, in speaking of the football game at Yale some years ago, pointing out a man and saying \"That fellow is not going to be a good player, because he is poor in his studies. I said \" I did not know there was any connection there\". He said \"There is \". I do not mean to say that a very bright fellow can play football well, or that a tolerably dull fellow cannot; but if you find a boy who is too shiftless to work at his books he will also be too shiftless to work at sports in the long run. Of course there are exceptions. But speaking generally the boy or man who does one thing with his whole heart and learns how to do it well, will do other things with his whole heart.",
+"Now just a word to the older people present, a word of thanks to the ministerial association and to the school teachers who have brought about this meeting. In their essence state [?]craft and politics mean nothing but the application to the state on a large scale of the qualities that make a man a good husband, a good neighbor, a good friend, [?] a good business man. It is a good thing to have a sound body, it is a better thing to have a sound mind; but what we need is that which is greater than body or mind -- character. Character is what counts;and this country can be made what it will and shall be made only if we act on the beliefs that we have in the abstract and understand that the nation will be made great just in proportion as its average citizen believes in and acts upon the laws of decency, the laws that teach him to prize honesty, courage and common sense. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 57 (frame 425:0166)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Chairman; Boys and Girls; and Men and Women:",
+"I am glad of having the chance of saying a word to the children here of Sioux Falls. I admire South Dakota, I admire what it produces, I am glad to <span class=\"sic\" title=\"reads: see you\">seeyou</span> doing so well as farmers, and in the western part of the state as miners. But a good deal better than the best product of the farm or of the mine is the product of the home. What will count in the state in the future is the way its children turn out, and that will depend partly upon how they are trained, and partly upon the stuff that there is in them.",
+"To the girls and boys -- and especially to the boys; I am just as fond of the girls but I understand the boys better sometimes-- I have got just one word to say to you. I believe in work and I believe in play, and I would be sorry if I did not see you enjoying yourselves, only don&#x27;t let it interfere with you doing your work, now or later on in life. Now just one word to the girls. All of you want to read books, all of you want to be like the heroines, to do well and to count in the world. I will tell you how to count; do all the little things as they come up. When mother says,<ins title=\"added by hand\">&quot;</ins>Susie run out and get me such and such a thing,<ins title=\"added by hand\">&quot;</ins> and if Susie has a book <ins title=\"added by hand\">and says</ins> &quot;Oh, dear&quot; and does go, but goes as a favor and with a distinct sense of injury, Susie is a little nuisance. In the first place she is going any way, if mother is worth anything; if she goes cheerfully and <del title=\"struck through\">xxxxx</del> readily and is glad to do it, she will find she is fitting herself <del title=\"struck through\">for the</del> for the work of life, for the whole work of life is to do the thing there is to do at the time.",
+"Now boys, in the first place, remember that the manlier you are, the braver and stronger, the nicer you have been at home, the nicer you can be to those who are weaker, and I should be ashamed of any one of you if he flinched or was afraid, and equally<del title=\"struck through\">x</del> and even more ashamed if he was insolent and overbearing toward the weak.",
+"I <span class=\"unc\" title=\"uncertain reading\">want</span> you to work and play, and when you play and when you work, to remember a rule that I heard given by a great football captain in one of the big football teams. He would say to his men &quot;Now I want you to play fair, and play hard, both; don&#x27;t do anything that is foul to the other side; but do your work .&quot;",
+"<span class=\"pb\">Page 58 (frame 425:0166)</span>",
+"While you are playing football, why play just as hard as you can, and if you get hurt keep on playing; don&#x27;t flinch, go at it again. That is what will make you men and count in the end. It is the same way with your studies. I remember a Yale professor, in speaking of <span class=\"sic\" title=\"reads: the\">th</span> football game at Yale some years ago, pointing out a man and saying &quot;That fellow is not going to be a good player, because he is poor in his studies. I said &quot; I did not know there was any connection there&quot;. He said &quot;There is &quot;. I do not mean to say that a very bright fellow <span class=\"sic\" title=\"reads: can\">cam</span> play football well, or that a tolerably dull fellow cannot; but if you find a boy who is too shiftless to work at his books he will also be too shiftless to work at sports in the long run. Of course there are exceptions. But speaking generally the boy or man who does one thing with his whole heart and learns how to do it well, will do other things with his whole heart.",
+"Now just a word to the older people present, a <span class=\"sic\" title=\"reads: word of\">wordof</span> thanks to the ministerial association and to the school teachers who have brought about this meeting. In their essence stat<span class=\"unc\" title=\"uncertain reading\">e</span>craft and politics mean nothing but the <span class=\"sic\" title=\"reads: application\">applimation</span> to the state on a large scale of the qualities that make a man a good husband, a good neighbor, a good friend<span class=\"unc\" title=\"uncertain reading\">,</span> a good business man. It is a good thing to have a sound body, it is a better thing to have a sound mind; but what we need is that which is <span class=\"sic\" title=\"reads: greater than\">greaterthan</span> body or mind -- character. Character is what counts<ins title=\"added by hand\">;</ins>and this country <span class=\"sic\" title=\"reads: can\">cam</span> be made what it will and shall be made only if we act on the beliefs that we <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">are to be known</span></del> <ins title=\"added by hand\">have</ins> in the abstract and understand that the nation will be made<del title=\"struck through\">xgr</del> <del title=\"struck through\">greatxinxproportion justxx</del> great just in proportion <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> as its average citizen<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> believes in and acts upon the laws of decency, the laws that teach him to prize honesty, courage and common sense. (Applause)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left of folio 57 with a slash; filing mark.</span>\n<span class=\"tnote\">Typewriter spacing gaps inside words (&quot;be st&quot;, &quot;th ings&quot;, &quot;de cency&quot;) are closed up, and overtyped letters are given in their evident reading (&quot;of&quot;, &quot;mine&quot;, &quot;way&quot;, &quot;boys&quot;, &quot;am&quot;, &quot;just&quot;, &quot;nicer&quot;, &quot;any&quot;, &quot;country&quot;, &quot;understand&quot;).</span>\n<span class=\"tnote\">Folio 57: the quotation marks around &quot;Susie run out ... such a thing,&quot; are added by hand; &quot;and says&quot; is written by hand above the line with a caret after &quot;book&quot;. A hand bar separates &quot;is&quot; and &quot;going&quot;, typed run together. &quot;for the&quot; at the end of the line before &quot;for the work of life&quot; is struck by hand. A hand bar separates &quot;equally&quot; and &quot;even&quot; (&quot;andeven&quot;). The word after &quot;I&quot; in &quot;I want you to work and play&quot; is overtyped and unclear. &quot;but&quot; before &quot;do your work&quot; is typed above the line.</span>\n<span class=\"tnote\">Folio 58: &quot;very&quot; is typed above the line with a handwritten caret. A hand mark joins &quot;too&quot; and &quot;shiftless&quot;. A hand mark stands in &quot;statecraft&quot; between &quot;stat&quot; and &quot;craft&quot;; the letter there is unclear. A hand semicolon follows &quot;counts&quot;. The words struck by hand after &quot;that we&quot; are hard to read, and &quot;have&quot; is written above them with a caret. The x-ed out typing after &quot;made&quot; and the words struck by hand after &quot;proportion&quot; and after &quot;citizen&quot; cannot be read in full. A hand bar separates &quot;common&quot; and &quot;sense&quot;.</span>\n<span class=\"tnote\">Third look: after &quot;friend&quot; (p. 58) a typed x and a comma are struck on the same space, and which was typed last cannot be told. The hand mark after &quot;counts&quot; is a semicolon: a dot at the top with a tail below.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left of folio 57 with a slash; filing mark.",
+"Typewriter spacing gaps inside words (\"be st\", \"th ings\", \"de cency\") are closed up, and overtyped letters are given in their evident reading (\"of\", \"mine\", \"way\", \"boys\", \"am\", \"just\", \"nicer\", \"any\", \"country\", \"understand\").",
+"Folio 57: the quotation marks around \"Susie run out... such a thing,\" are added by hand; \"and says\" is written by hand above the line with a caret after \"book\". A hand bar separates \"is\" and \"going\", typed run together. \"for the\" at the end of the line before \"for the work of life\" is struck by hand. A hand bar separates \"equally\" and \"even\" (\"andeven\"). The word after \"I\" in \"I want you to work and play\" is overtyped and unclear. \"but\" before \"do your work\" is typed above the line.",
+"Folio 58: \"very\" is typed above the line with a handwritten caret. A hand mark joins \"too\" and \"shiftless\". A hand mark stands in \"statecraft\" between \"stat\" and \"craft\"; the letter there is unclear. A hand semicolon follows \"counts\". The words struck by hand after \"that we\" are hard to read, and \"have\" is written above them with a caret. The x-ed out typing after \"made\" and the words struck by hand after \"proportion\" and after \"citizen\" cannot be read in full. A hand bar separates \"common\" and \"sense\".",
+"Third look: after \"friend\" (p. 58) a typed x and a comma are struck on the same space, and which was typed last cannot be told. The hand mark after \"counts\" is a semicolon: a dot at the top with a tail below."
+],
+"file": "transcriptions/1903-04-06-sioux-falls.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family",
+"citizenship"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"football",
+"boys",
+"girls",
+"play",
+"count",
+"word",
+"fellow",
+"work",
+"glad",
+"remember"
+],
+"stats": {
+"words": 822,
+"unique_words": 288,
+"sentences": 26,
+"avg_sentence": 31.6,
+"minutes": 6,
+"i_count": 20,
+"we_count": 3
+}
 },
 {
 "id": "1903-04-06-sioux-falls-2",
@@ -16386,14 +16695,14 @@
 "distinctive": [
 "department",
 "agriculture",
-"wheat",
 "growers",
+"wheat",
 "wage-worker",
 "tiller",
 "million",
 "employer",
 "farm",
-"stock"
+"region"
 ],
 "stats": {
 "words": 2175,
@@ -16516,10 +16825,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 176,
+"paragraphs": [
+"My Friends and Fellow Citizens [?]:",
+"I am very glad to see you and I am glad to be back [?] again in North Dakota, and to be greeted as you are greeting me to-night. It was [?] twenty three years ago that I first set foot in North Dakota, and for a number of years I lived my life out in the western part of the state; and I have most naturally a peculiar feeling for its people. It does me good to see you. You are a great state, a stock-growing state in the west and a great wheat raising state here; but the reasons I like you most are the men and women, and in addition to the men and women I am glad to see there are a few children down here too. You seem to be all right in quantity of children and all right in quality, and I am glad of that, because I think it is a good stock and I do not want to see it die out.. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -16541,13 +16853,58 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0234",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0234",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"My Friends and Fellow Citizens [?]:",
+"I am very glad to see you and I am glad to be back [?] again in North Dakota, and to be greeted as you are greeting me to-night. It was [?] twenty three years ago that I first set foot in North Dakota, and for a number of years I lived my life out in the western part of the state; and I have most naturally a peculiar feeling for its people. It does me good to see you. You are a great state, a stock-growing state in the west and a great wheat raising state here; but the reasons I like you most are the men and women, and in addition to the men and women I am glad to see there are a few children down here too. You seem to be all right in quantity of children and all right in quality, and I am glad of that, because I think it is a good stock and I do not want to see it die out.. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 81 (frame 425:0234)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My <span class=\"unc\" title=\"uncertain reading\">Friends and Fellow Citizens</span>:",
+"I am very glad to see you and I am glad to be <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">here</span></del> <ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">back</span></ins> again in North Dakota, and to be greeted as you are greeting me to-night. It <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">is</span></del> <ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">was</span></ins> twenty <ins title=\"added by hand\">three</ins> years ago that I first set foot in North Dakota, and for a number of years I lived my life out in the western part of the state; and I have most naturally a peculiar feeling for <del title=\"struck through\">xxx</del> its people. It does me good to see you. You are a great state, a stock-growing state in the west and <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">still</span></del> <ins title=\"added by hand\">a</ins> great wheat raising state here; but the reasons I like you most are the men and women, and in addition to the men and women I am glad to see there are a few children down here too . <del title=\"struck through\"><span class=\"illeg\">[illegible]</span> <span class=\"unc\" title=\"uncertain reading\">myself. I am an expert</span> <span class=\"illeg\">[illegible]</span></del> You seem to be all right in qua<del title=\"struck through\">l</del><ins title=\"added by hand\">nt</ins>ity of children and all right in quality, and I am glad of that, because I think it is a good stock and I do not want to see it die out. <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">N. I intend</span> <span class=\"illeg\">[illegible]</span> <span class=\"unc\" title=\"uncertain reading\">like to hear the band, so I shall just say good-night, and good luck go with you, and I am mighty glad to have seen you</span></del>. (<span class=\"sic\" title=\"reads: Cheers\">Chaeers</span> and applause)",
+"<span class=\"tnote\">The frame is photographed with broad bands of glare, and the heading, the salutation and the first line are very faint; readings marked <span class=\"unc\" title=\"uncertain reading\">...</span> were made from contrast-enhanced crops. The place in the heading reads &quot;Edgeley&quot;.</span>\n<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left with a slash; filing mark.</span>\n<span class=\"tnote\">Above &quot;here&quot; a word is written by hand (apparently &quot;back&quot;), and &quot;was&quot; appears written by hand above &quot;is&quot;. &quot;three&quot; is typed above the line after &quot;twenty&quot;, with a handwritten caret. &quot;its&quot; is typed above an x-ed out word.</span>\n<span class=\"tnote\">After &quot;west and&quot; a typed word is struck by hand and a handwritten &quot;a&quot; stands above it.</span>\n<span class=\"tnote\">The rest of the line after &quot;down here too .&quot; and the start of the next line are struck through by hand. Handwritten letters above &quot;quality&quot; in &quot;all right in quality of children&quot; appear to change it to &quot;quantity&quot;.</span>\n<span class=\"tnote\">The two and a half lines after &quot;die out.&quot; are struck through by hand; only parts can be made out. The period after the struck passage and &quot;(Chaeers and applause)&quot; are not struck.</span>\n<span class=\"tnote\">Third look: &quot;three&quot; is typed above the line with a hand caret between &quot;twenty&quot; and &quot;years&quot;; in &quot;quantity&quot; the typed &quot;l&quot; is struck through by hand and &quot;nt&quot; is written above it.</span>"
+],
+"notes": [
+"The frame is photographed with broad bands of glare, and the heading, the salutation and the first line are very faint; readings marked... [?] were made from contrast-enhanced crops. The place in the heading reads \"Edgeley\".",
+"\"File\" is written by hand at the upper left with a slash; filing mark.",
+"Above \"here\" a word is written by hand (apparently \"back\"), and \"was\" appears written by hand above \"is\". \"three\" is typed above the line after \"twenty\", with a handwritten caret. \"its\" is typed above an x-ed out word.",
+"After \"west and\" a typed word is struck by hand and a handwritten \"a\" stands above it.",
+"The rest of the line after \"down here too.\" and the start of the next line are struck through by hand. Handwritten letters above \"quality\" in \"all right in quality of children\" appear to change it to \"quantity\".",
+"The two and a half lines after \"die out.\" are struck through by hand; only parts can be made out. The period after the struck passage and \"(Chaeers and applause)\" are not struck.",
+"Third look: \"three\" is typed above the line with a hand caret between \"twenty\" and \"years\"; in \"quantity\" the typed \"l\" is struck through by hand and \"nt\" is written above it."
+],
+"file": "transcriptions/1903-04-06-edgeley.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 2
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"glad",
+"state"
+],
+"stats": {
+"words": 176,
+"unique_words": 86,
+"sentences": 5,
+"avg_sentence": 35.2,
+"minutes": 1,
+"i_count": 10,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-06-ellendale",
@@ -16733,10 +17090,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 196,
+"paragraphs": [
+"My fellow Citizens:",
+"I am glad to have the chance of stopping to say a word of greeting to you. I have enjoyed thoroughly, coming through your beautiful state to-day, [?] to see the men, the women, and the children. I congratulate you upon the prosperity that you have so abundantly, and which you owe chiefly to your own right hands and cool heads. It is a great thing for a state to produce wheat, and corn and cattle. It is a better thing to produce good men and women, and I am proud of you as American citizens. I congratulate the country that we have people of your stamp in it. I am glad to see all of you, especially the babies. I have got quite a collection of them myself. (Applause)",
+"In welcoming you here there is just one word I have to say, and that is about the prosperity we have. Something can be done to keep it up by law and by avoidance of foolish legislation, but for the most part it must depend upon the qualities of the individual citizen.. No law will take the place of courage, honesty, and common sense."
+],
 "editions": [],
 "trc": [
 {
@@ -16758,13 +17119,52 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0225",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0225",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My fellow Citizens:",
+"I am glad to have the chance of stopping to say a word of greeting to you. I have enjoyed thoroughly, coming through your beautiful state to-day, [?] to see the men, the women, and the children. I congratulate you upon the prosperity that you have so abundantly, and which you owe chiefly to your own right hands and cool heads. It is a great thing for a state to produce wheat, and corn and cattle. It is a better thing to produce good men and women, and I am proud of you as American citizens. I congratulate the country that we have people of your stamp in it. I am glad to see all of you, especially the babies. I have got quite a collection of them myself. (Applause)",
+"In welcoming you here there is just one word I have to say, and that is about the prosperity we have. Something can be done to keep it up by law and by avoidance of foolish legislation, but for the most part it must depend upon the qualities of the individual citizen.. No law will take the place of courage, honesty, and common sense."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 65 (frame 425:0225)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My fellow <span class=\"sic\" title=\"reads: Citizens\">Citizehs</span>:",
+"I am glad to have the chance of stopping to say a word of greeting to you. I have enjoyed thoroughly<ins title=\"added by hand\">,</ins> coming through your beautiful state to-day<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">,</span></ins> to see the men,<del title=\"struck through\">xxx</del> the women, and the children. I congratulate you upon the prosperity that you have so abundantly, and which you owe chiefly to your own right hands and cool heads. It is a great thing for a state to produce wheat, and corn and cattle. It is a better thing to produce good men and women, and I am proud of you as American citizens. I congratulate the country that we have people of your stamp in it. I am glad to see all of you, especially the babies. I have got quite a collection of them myself. (Applause)",
+"In welcoming you here there is just one word I <span class=\"sic\" title=\"reads: have to\">haveto</span> say, and that is about the prosperity we have. Something can be done to keep it up by law and by avoidance of foolish legislation, but for the most part it must depend upon the qualities of the individual citizen.. No law will take the place of courage, honesty, and common sense.",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left with a slash; filing mark.</span>\n<span class=\"tnote\">&quot;chance&quot; is typed with a gap (&quot;chan ce&quot;), closed by a hand mark.</span>\n<span class=\"tnote\">The comma after &quot;thoroughly&quot; and the mark after &quot;to-day&quot; (typed run together as &quot;to-dayto&quot;) are added by hand. A further hand stroke stands between &quot;and the&quot; and &quot;children&quot;; it changes no words.</span>\n<span class=\"tnote\">&quot;the&quot; before &quot;women&quot; is typed above the line over the x-ed out word (probably &quot;and&quot;).</span>\n<span class=\"tnote\">Third look: the hand mark between &quot;to-day&quot; and &quot;to&quot; descends below the line like the hand comma after &quot;thoroughly&quot; but also runs up between the letters as a separating stroke; whether it is meant as a comma cannot be decided.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left with a slash; filing mark.",
+"\"chance\" is typed with a gap (\"chan ce\"), closed by a hand mark.",
+"The comma after \"thoroughly\" and the mark after \"to-day\" (typed run together as \"to-dayto\") are added by hand. A further hand stroke stands between \"and the\" and \"children\"; it changes no words.",
+"\"the\" before \"women\" is typed above the line over the x-ed out word (probably \"and\").",
+"Third look: the hand mark between \"to-day\" and \"to\" descends below the line like the hand comma after \"thoroughly\" but also runs up between the letters as a separating stroke; whether it is meant as a comma cannot be decided."
+],
+"file": "transcriptions/1903-04-06-parkston.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"farming"
+],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 196,
+"unique_words": 105,
+"sentences": 10,
+"avg_sentence": 19.6,
+"minutes": 2,
+"i_count": 8,
+"we_count": 2
+}
 },
 {
 "id": "1903-04-06-redfield",
@@ -16778,10 +17178,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 479,
+"paragraphs": [
+"My Fellow Citizens:",
+"It is a great pleasure to be here to be presented to you. I thank you for coming: Let me thank, especially, the men of the National guard who have turned out to-day. I thank you for being here. I have enjoyed greatly traveling through your beautiful state, seeing the men and the women and the children. I am struck not only by the evidences of prosperity, by the proof of what you have done in agriculture and stockraising, but I am also struck by the way in which you are providing for the growing up of the best crop of all -- good citizens. It was a pleasure to see the schools, academies and colleges as I have passed by. After all, it is what the man is that counts. Here I see in the crowd, as I have seen everywhere to-day, the man who shows by the button that he fought in the great war. He was one of those, my comrades, some of whom fought in the lesser war, who taught us by what he did a lesson not only for war but for peace. Fundamentally, that lesson was to judge each man on his worth as a man. That was what you had to do in the civil war; the test of value applied to the man on your right hand or your left. You cared nothing as to his wealth, or creed, or where he was born, what you wished to know was if he had in him the right stuff, if he was a good fighting man, and if he would stay put when the emergency came.",
+"It is just the same thing in citizenship. The vital thing to know east or west, north or south, is not as to how the man worships his Maker, not as to his birthplace, but as to whether he has in him those qualities which make a good husband and father, a good neighbor and friend, a good citizen.",
+"It is a fine thing to have your magnificent wheat fields and corn fields, your stock range, your mines in the southwestern part of the state; but it is a finer thing still to have the men and women who make the state. That is the thing that counts in the long run. These prairies might have lain until doomsday [?] and nothing come out of them, if you had not had the right type of men to come here as pioneers. The pioneer days were hard; They were hard on the man, and harder on the woman. You had to have men and women who could stand the strain and do the work, in order that from that work such a commonwealth could be built.",
+"You did it, and I congratulate you, and I am mighty glad I am your fellow citizen. (Long continued applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -16803,13 +17209,65 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0230",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0230",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow Citizens:",
+"It is a great pleasure to be here to be presented to you. I thank you for coming: Let me thank, especially, the men of the National guard who have turned out to-day. I thank you for being here. I have enjoyed greatly traveling through your beautiful state, seeing the men and the women and the children. I am struck not only by the evidences of prosperity, by the proof of what you have done in agriculture and stockraising, but I am also struck by the way in which you are providing for the growing up of the best crop of all -- good citizens. It was a pleasure to see the schools, academies and colleges as I have passed by. After all, it is what the man is that counts. Here I see in the crowd, as I have seen everywhere to-day, the man who shows by the button that he fought in the great war. He was one of those, my comrades, some of whom fought in the lesser war, who taught us by what he did a lesson not only for war but for peace. Fundamentally, that lesson was to judge each man on his worth as a man. That was what you had to do in the civil war; the test of value applied to the man on your right hand or your left. You cared nothing as to his wealth, or creed, or where he was born, what you wished to know was if he had in him the right stuff, if he was a good fighting man, and if he would stay put when the emergency came.",
+"It is just the same thing in citizenship. The vital thing to know east or west, north or south, is not as to how the man worships his Maker, not as to his birthplace, but as to whether he has in him those qualities which make a good husband and father, a good neighbor and friend, a good citizen.",
+"It is a fine thing to have your magnificent wheat fields and corn fields, your stock range, your mines in the southwestern part of the state; but it is a finer thing still to have the men and women who make the state. That is the thing that counts in the long run. These prairies might have lain until doomsday [?] and nothing come out of them, if you had not had the right type of men to come here as pioneers. The pioneer days were hard; They were hard on the man, and harder on the woman. You had to have men and women who could stand the strain and do the work, in order that from that work such a commonwealth could be built.",
+"You did it, and I congratulate you, and I am mighty glad I am your fellow citizen. (Long continued applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 73 (frame 425:0230)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Fellow Citizens:",
+"It is a great pleasure to be here to be presented to you. I thank you for coming: Let me thank, especially, <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> the men of the National guard who have turned out to-day. I thank you for being here. I have enjoyed greatly traveling through your beautiful state, seeing the men and the women and the children. I am struck not only by the evidences of prosperity, by the proof of what you have done in agriculture and stockraising, but I am also struck by the way in which you are providing for the growing up of the best crop of all -- good citizens. It was a pleasure to see the schools, academies and colleges as I have passed by. After all, it is what the man is that counts. Here I see in the crowd, as I have seen <span class=\"sic\" title=\"reads: everywhere\">eveyywhere</span> to-day, the man who shows by the button that he fought in the great war. He was one of those, my comrades, some of whom fought in the lesser war, who taught us by what he did a lesson not only <del title=\"struck through\">xx</del> for war but <del title=\"struck through\">xx</del> for peace. Fundamentally, that lesson was to judge each man on his worth as a man. That was what you had to do in the civil war; the test of value applied to the man on your right hand or your left. You cared nothing as to his wealth, or creed, or where he was born, what you wished to know was if he had in him the right stuff, if he was a good fighting man, and if he would stay put when the emergency came.",
+"It is just the same thing in citizenship. The vital thing to know east or west, north or south, is not as to how the man worships his Maker, not as to his birthplace, but as to whether he has in him those qualities which make a good husband and father, a good neighbor and friend, a good citizen.",
+"It is a fin<ins title=\"added by hand\">e</ins> thing to have your magnificent wheat fields and corn fields, your stock range<del title=\"struck through\">xx</del> , your mines in the southwestern part of the state; but it is a finer thing still to have the men and women who make the state. That is the thing that counts in the long run. These prairies might have lain until <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">doomsday</span></ins> and nothing come out of them, if you had not had the right type of men to come here as pioneers. The pioneer days were hard; They <del title=\"struck through\">xxxx</del> were hard on the man, and harder on the woman. You had to have men and women who could stand the strain and do the work, in order that from <del title=\"struck through\">xxxx</del> that work such a commonwealth could be built.",
+"<span class=\"pb\">Page 74 (frame 425:0230)</span>",
+"You did it, and I congratulate you, and I am mighty glad I am your fellow citizen. (Long continued applause)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand at the upper left of folio 73 with a slash; filing mark. The &quot;R&quot; of &quot;Redfield&quot; in the heading is retouched by hand.</span>\n<span class=\"tnote\">The words struck by hand after &quot;especially,&quot; cannot be read.</span>\n<span class=\"tnote\">A hand slash follows &quot;done&quot;. &quot;for&quot; (twice) is typed above the line over x-ed out words. Several letters are overtyped and given in their evident reading (&quot;thank&quot;, &quot;men&quot;, &quot;Fundamentally&quot;, &quot;you&quot;, &quot;your&quot;, &quot;his&quot;, &quot;born&quot;, &quot;as&quot;).</span>\n<span class=\"tnote\">In &quot;fine thing&quot; the last letter of &quot;fine&quot; is written by hand over a typed letter. The word struck by hand after &quot;until&quot; cannot be read; the handwritten replacement above it, with a caret, appears to be &quot;doomsday&quot;.</span>\n<span class=\"tnote\">Third look: only two characters follow &quot;range&quot;, both overtyped with x; whether the first was an &quot;s&quot; cannot be seen, so the typed word is given as &quot;range&quot;.</span>"
+],
+"notes": [
+"\"File\" is written by hand at the upper left of folio 73 with a slash; filing mark. The \"R\" of \"Redfield\" in the heading is retouched by hand.",
+"The words struck by hand after \"especially,\" cannot be read.",
+"A hand slash follows \"done\". \"for\" (twice) is typed above the line over x-ed out words. Several letters are overtyped and given in their evident reading (\"thank\", \"men\", \"Fundamentally\", \"you\", \"your\", \"his\", \"born\", \"as\").",
+"In \"fine thing\" the last letter of \"fine\" is written by hand over a typed letter. The word struck by hand after \"until\" cannot be read; the handwritten replacement above it, with a caret, appears to be \"doomsday\".",
+"Third look: only two characters follow \"range\", both overtyped with x; whether the first was an \"s\" cannot be seen, so the typed word is given as \"range\"."
+],
+"file": "transcriptions/1903-04-06-redfield.txt"
+},
+"text_source": "typescript",
+"themes": [
+"farming",
+"the-west",
+"home-family",
+"education"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"thank",
+"women",
+"war",
+"right",
+"state"
+],
+"stats": {
+"words": 479,
+"unique_words": 198,
+"sentences": 20,
+"avg_sentence": 23.9,
+"minutes": 4,
+"i_count": 11,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-06-scotland",
@@ -17120,10 +17578,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 787,
+"paragraphs": [
+"Let me say a word more to you suggested by this gift. I spoke of the qualities shown by the men of the Grand Army in the civil war. One of those qualities was the recognition of each man for his worth as a man. You men who fought in that war remember well enough what it meant; you recollect when at 10 o'clock in the morning the blanket was too heavy, and if you were a raw recruit you threw it away,- but at ten that night it became not heavy enough. You remember the fatigue, the endless marches under the southern sun and the freezing misery of the nights in winter, the misery of the fever cots in the hospital, and the great battle, and its loss, and its terror, and the death of the bravest and brightest who shed their blood like water around you. When you got into that kind of work you got to paying heed as to what the man was who was on your right hand or your left. It was of great consequence to you to know it. You did not care at all what way he worshipped his Maker; you did not care whether he had been born here or elsewhere; you did not care whether he was a banker or bricklayer, whether he was a farmer or a merchant, or a mechanic. What you wanted to know was, whether he would stay put when the time came. You cared to know the qualities that stood for his being a man, and if you had managed the army on any other basis we would have failed as sure as fate. We won when we chose our generals because",
+"of their worth as generals. Grant, Sherman, Sheridan and Thomas, and Farragut at sea, were chosen because they were first class fighting men and could do best the work that was to be done. That is how you handled the affairs of the army, and that is why you were able to bring to a successful conclusion the great civil war.",
+"The same thing has to be done in civil life. We cannot afford to draw artificial distinctions in citizenship any more than you could afford to draw them in the army. We never can make and keep this government at the high pitch where we have a right to expect it will be brought and kept until we get it ingrained in us to remember that it is a foul wrong to the country to treat any man save on his worth as a man. There are two sides to it. It is a foul wrong to behave with arrogance and lack of sympathy toward those who are less fortunate; and it is equally as foul a wrong to show envy and rancor and hatred toward those whoare more fortunate than ourselves. The worst lesson that can be taught any American is to teach him to suspect, to feel jealousy of, and hatred for, his fellow Americans. I believe so thoroughly that the average American is a pretty good fellow that I feel that what we chiefly need is to have him find the viewpoint of any other average American, in order to have them work well together. In the long run our interests are common. In any system dealing with eighty millions of men it must be taken as general. There are exceptions, of course, but in the long run we are going to go up or go down together. When you had hard times here it did not just strike here The hard times went from New York to San Francisco. They did not respect state lines. They went everywhere. Now that good times have come, they go everywhere. When you had hard times and this town was struck, it struck all. Some people went down more than others; and when good times came some went up faster and further than others. That was partly luck and partly due to the individual characteristics of the people. But fundamentally when we go down all of us go somewhat down, and when we go up all of us go more or less up. It is just the same as it was in the army [?]. When the defeat came, the whole army felt it. You could not smash one wing and have the center and the other wing perfectly happy, because they were not. It is just the same thing now as a whole. We can win prosperity partly because of Providence [?] being with us, but chiefly if under Providence we develop sanity, common [?] sense, courage, hardihood, stoutness of heart, and stoutness of body among [?] our own citizens.",
+"(Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -17145,13 +17608,88 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0226, 0227",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0226",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)",
+"reading": [
+"Let me say a word more to you suggested by this gift. I spoke of the qualities shown by the men of the Grand Army in the civil war. One of those qualities was the recognition of each man for his worth as a man. You men who fought in that war remember well enough what it meant; you recollect when at 10 o'clock in the morning the blanket was too heavy, and if you were a raw recruit you threw it away,- but at ten that night it became not heavy enough. You remember the fatigue, the endless marches under the southern sun and the freezing misery of the nights in winter, the misery of the fever cots in the hospital, and the great battle, and its loss, and its terror, and the death of the bravest and brightest who shed their blood like water around you. When you got into that kind of work you got to paying heed as to what the man was who was on your right hand or your left. It was of great consequence to you to know it. You did not care at all what way he worshipped his Maker; you did not care whether he had been born here or elsewhere; you did not care whether he was a banker or bricklayer, whether he was a farmer or a merchant, or a mechanic. What you wanted to know was, whether he would stay put when the time came. You cared to know the qualities that stood for his being a man, and if you had managed the army on any other basis we would have failed as sure as fate. We won when we chose our generals because",
+"of their worth as generals. Grant, Sherman, Sheridan and Thomas, and Farragut at sea, were chosen because they were first class fighting men and could do best the work that was to be done. That is how you handled the affairs of the army, and that is why you were able to bring to a successful conclusion the great civil war.",
+"The same thing has to be done in civil life. We cannot afford to draw artificial distinctions in citizenship any more than you could afford to draw them in the army. We never can make and keep this government at the high pitch where we have a right to expect it will be brought and kept until we get it ingrained in us to remember that it is a foul wrong to the country to treat any man save on his worth as a man. There are two sides to it. It is a foul wrong to behave with arrogance and lack of sympathy toward those who are less fortunate; and it is equally as foul a wrong to show envy and rancor and hatred toward those whoare more fortunate than ourselves. The worst lesson that can be taught any American is to teach him to suspect, to feel jealousy of, and hatred for, his fellow Americans. I believe so thoroughly that the average American is a pretty good fellow that I feel that what we chiefly need is to have him find the viewpoint of any other average American, in order to have them work well together. In the long run our interests are common. In any system dealing with eighty millions of men it must be taken as general. There are exceptions, of course, but in the long run we are going to go up or go down together. When you had hard times here it did not just strike here The hard times went from New York to San Francisco. They did not respect state lines. They went everywhere. Now that good times have come, they go everywhere. When you had hard times and this town was struck, it struck all. Some people went down more than others; and when good times came some went up faster and further than others. That was partly luck and partly due to the individual characteristics of the people. But fundamentally when we go down all of us go somewhat down, and when we go up all of us go more or less up. It is just the same as it was in the army [?]. When the defeat came, the whole army felt it. You could not smash one wing and have the center and the other wing perfectly happy, because they were not. It is just the same thing now as a whole. We can win prosperity partly because of Providence [?] being with us, but chiefly if under Providence we develop sanity, common [?] sense, courage, hardihood, stoutness of heart, and stoutness of body among [?] our own citizens.",
+"(Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 68 (frame 425:0226)</span>",
+"<span class=\"margin\">In the margin: +</span>",
+"Let me say a word more to you suggested by this gift. I spoke of the qualities shown by the men of the Grand Army in the civil war. One of those qualities was the recognition of each man for his worth as a man. You men who fought in that war remember well enough what it meant; you recollect when at 10 o&#x27;clock in the <span class=\"sic\" title=\"reads: morning the\">morningthe</span> blanket was too heavy<ins title=\"added by hand\">,</ins> and if you were a raw recruit you threw it away,- but at ten that night it became not heavy enough. You remember the fatigue, the endless marches <del title=\"struck through\">in</del> under the southern sun and the freezing misery of the nights in winter, the misery of the fever cots in the hospital, and the great battle, and its loss, and its terror, and the death of the bravest and brightest who shed their blood like water around you. When you got into that kind of work you got to paying heed as to what the man was who was on <span class=\"sic\" title=\"reads: your\">you</span> right hand or your left. It was of <del title=\"struck through\">xxx</del> great consequence to you to know it. <span class=\"sic\" title=\"reads: You did\">Youdid</span> not care at all what way he worshipped his Maker; you did not care whether he had been born here or elsewhere; you did not care whether he was a banker or bricklayer, whether he was a farmer or a merchant, or a mechanic. What you wanted to know was, whether he would stay put when the time came. You cared to know the qualities that stood for his being a man, and if you had managed the army on any other basis we would have failed as sure as fate. We won when we chose our generals because",
+"<span class=\"pb\">Page 69 (frame 425:0227)</span>",
+"of their worth as generals. Grant, Sherman, Sheridan and Thomas, and Farragut at sea, were chosen because they were first class fighting men and could do best the work that was to be done. That is how you handled the affairs of the army, and that is why you were able to bring to a successful conclusion the great civil war.",
+"The same thing <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> has to be done in civil life. We cannot <span class=\"sic\" title=\"reads: afford to\">affordto</span> draw artificial distinctions in citizenship any more than you could afford to draw them in the army. We never can make and keep this government at the high pitch where we have a right to expect it will be brought and kept until we get it ingrained in us to remember that it is a foul wrong to the country to treat any man save <del title=\"struck through\">xx</del> on his worth as a man. There are two sides to it. It is a foul wrong to behave with arrogance and lack of sympathy toward those who are less fortunate; and it is equally as foul a wrong to show envy and rancor and hatred toward those who<ins title=\"added by hand\">a</ins>re more fortunate than ourselves. The worst lesson that can be taught any American is to teach him to suspect, to feel jealousy of, and <span class=\"sic\" title=\"reads: hatred for\">hatredfor</span>, his fellow Americans. I believe so thoroughly that the average American is a pretty good fellow that I feel that what we chiefly need is to have him <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">brought into contact,</span></del> find the viewpoint of any other average American , in order to have them work well together. In the long run our interests are common. In any system dealing with eighty millions of men it must be taken as general. There are exceptions, of course, but in the long run we are going to go up or go down together. When you had hard times here it did not just strike here The hard times went from New York to San Francisco. They did not respect state lines. They went everywhere. Now that good times have come, they go everywhere. When you had hard times and this town was struck, it struck all. Some people went down more than others; and when good times came some went up faster and further than others. That was partly luck and partly due to the individual characteristics of the people. But fundamentally when we go down all of us go somewhat down, and when we go up all <span class=\"sic\" title=\"reads: of us\">ofus</span> go more or less up. It is just the same as it was in the <span class=\"unc\" title=\"uncertain reading\">army</span>. When the defeat came, the whole army felt it. You could not smash one wing and have the center and the other wing <span class=\"sic\" title=\"reads: perfectly\">pefectly</span> happy, because they were not. It is just the same thing now as a whole. We can win prosperity partly because of <span class=\"unc\" title=\"uncertain reading\">Providence</span> being with us, but chiefly if under Providence we develop sanity, <span class=\"unc\" title=\"uncertain reading\">common</span> sense, courage, <span class=\"sic\" title=\"reads: hardihood\">hardinhood</span>, stoutness of heart, and stoutness of body <span class=\"unc\" title=\"uncertain reading\">among</span> our own citizens.",
+"(Cheers and applause)",
+"<span class=\"tnote\">The listed page (frame 0227, left half) holds only the second page of these remarks; they begin under their own typed heading on the right half of frame 0226 (folio 68), below the end of the Mitchell address.</span>\n<span class=\"tnote\">A large hand-drawn cross stands in the left margin beside the heading.</span>\n<span class=\"tnote\">On folio 68, &quot;you recollect&quot; is typed above the line with a handwritten caret; &quot;under&quot; is typed above the x-ed out &quot;in&quot; with a hand mark; the &quot;t&quot; of &quot;blanket&quot; and the comma after &quot;heavy&quot; are touched up by hand; &quot;the death&quot; is typed with the space overtyped. The first letter of &quot;It was of&quot; is retouched by hand. A hand slash follows &quot;generals&quot;.</span>\n<span class=\"tnote\">On folio 69 a heavy ink bar above &quot;thing&quot; with a caret below hides whatever was written there. A hand bar follows &quot;any man&quot;. In &quot;who&#x27;re&quot; an &quot;a&quot; is written by hand over the apostrophe, making &quot;who are&quot;. A hand slash separates &quot;hatred&quot; and &quot;for&quot;. &quot;feel&quot; and &quot;is&quot; are overtyped. The words after &quot;to have him&quot; are struck through by hand and are hard to read.</span>\n<span class=\"tnote\">The lower left corner of folio 69 is folded over in the image, so the first letters of &quot;Providence&quot;, &quot;common&quot; and &quot;among&quot; in the last three lines are hidden; the word at the end of the line &quot;as it was in the&quot; is blotted.</span>\n<span class=\"tnote\">Third look: &quot;you right hand&quot; is typed &quot;you&quot; (folio 68). The slash after &quot;generals&quot; and the bar after &quot;any man&quot; are proofreading marks left out of the text; &quot;hatredfor&quot; is typed run together and separated by a hand bar.</span>"
+],
+"notes": [
+"The listed page (frame 0227, left half) holds only the second page of these remarks; they begin under their own typed heading on the right half of frame 0226 (folio 68), below the end of the Mitchell address.",
+"A large hand-drawn cross stands in the left margin beside the heading.",
+"On folio 68, \"you recollect\" is typed above the line with a handwritten caret; \"under\" is typed above the x-ed out \"in\" with a hand mark; the \"t\" of \"blanket\" and the comma after \"heavy\" are touched up by hand; \"the death\" is typed with the space overtyped. The first letter of \"It was of\" is retouched by hand. A hand slash follows \"generals\".",
+"On folio 69 a heavy ink bar above \"thing\" with a caret below hides whatever was written there. A hand bar follows \"any man\". In \"who're\" an \"a\" is written by hand over the apostrophe, making \"who are\". A hand slash separates \"hatred\" and \"for\". \"feel\" and \"is\" are overtyped. The words after \"to have him\" are struck through by hand and are hard to read.",
+"The lower left corner of folio 69 is folded over in the image, so the first letters of \"Providence\", \"common\" and \"among\" in the last three lines are hidden; the word at the end of the line \"as it was in the\" is blotted.",
+"Third look: \"you right hand\" is typed \"you\" (folio 68). The slash after \"generals\" and the bar after \"any man\" are proofreading marks left out of the text; \"hatredfor\" is typed run together and separated by a hand bar."
+],
+"file": "transcriptions/1903-04-06-the-grand-army-of-the-republic-of-mitche.txt"
+},
+"text_source": "typescript",
+"themes": [
+"military",
+"civil-war"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+},
+{
+"id": "david-farragut",
+"name": "David Farragut",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"foul",
+"army",
+"partly",
+"went",
+"hard",
+"care",
+"civil",
+"wrong",
+"qualities",
+"worth"
+],
+"stats": {
+"words": 787,
+"unique_words": 316,
+"sentences": 36,
+"avg_sentence": 21.9,
+"minutes": 6,
+"i_count": 3,
+"we_count": 13
+}
 },
 {
 "id": "1903-04-06-the-wage-worker-and-the-tiller-of-the-so",
@@ -17436,7 +17974,7 @@
 "justice",
 "secure",
 "laws",
-"administration"
+"wrong"
 ],
 "stats": {
 "words": 629,
@@ -20310,8 +20848,8 @@
 "louisiana",
 "territory",
 "process",
-"westward",
 "purchase",
+"westward",
 "original",
 "empires",
 "local"
@@ -20501,7 +21039,7 @@
 "preacher",
 "embody",
 "tendencies",
-"men's"
+"christian"
 ],
 "stats": {
 "words": 2356,
@@ -23976,13 +24514,13 @@
 "pacific",
 "mediterranean",
 "seated",
-"sea",
 "roman",
+"sea",
 "strove",
 "antiquity",
 "centuries",
 "shores",
-"atlantic"
+"nations"
 ],
 "stats": {
 "words": 1827,
@@ -26962,8 +27500,8 @@
 "distinctive": [
 "steamship",
 "law",
-"cutting",
 "line",
+"cutting",
 "railroads",
 "crime",
 "foolish",
@@ -27966,8 +28504,8 @@
 "agriculture",
 "reserves",
 "irrigated",
-"over-grazing",
 "land",
+"over-grazing",
 "forests"
 ],
 "stats": {
@@ -29827,7 +30365,7 @@
 "side",
 "land",
 "history",
-"war"
+"american"
 ],
 "stats": {
 "words": 923,
@@ -30124,8 +30662,8 @@
 "example",
 "society",
 "preaching",
-"admire",
 "boys",
+"admire",
 "young",
 "strong"
 ],
@@ -30645,16 +31183,16 @@
 ]
 },
 "distinctive": [
-"sherman",
 "armies",
+"sherman",
 "statue",
 "patriotism",
 "loyalty",
 "memory",
 "average",
 "deeds",
-"fighting",
-"memories"
+"memories",
+"fighting"
 ],
 "stats": {
 "words": 1728,
@@ -30813,8 +31351,8 @@
 "treaty",
 "cuban",
 "stations",
-"economic",
 "policy",
+"economic",
 "market",
 "senate",
 "naval",
@@ -32009,8 +32547,8 @@
 "ideal",
 "eleven",
 "school",
-"athletics",
 "physical",
+"athletics",
 "prowess"
 ],
 "stats": {
@@ -32961,8 +33499,8 @@
 "distinctive": [
 "conference",
 "hague",
-"sense",
 "nations",
+"sense",
 "nation",
 "work"
 ],
@@ -34120,8 +34658,8 @@
 "applause",
 "colored",
 "white",
-"south",
 "race",
+"south",
 "black",
 "north",
 "negro",
@@ -34235,9 +34773,9 @@
 "east",
 "side",
 "president",
-"children",
 "end",
-"brought"
+"children",
+"back"
 ],
 "stats": {
 "words": 1439,
@@ -34639,8 +35177,8 @@
 "children",
 "family",
 "self-indulgence",
-"mother",
 "self-sacrifice",
+"mother",
 "mothers",
 "woman's",
 "wife",
@@ -35012,8 +35550,8 @@
 "fathers",
 "regiment",
 "arms",
-"fought",
-"deeds"
+"deeds",
+"fought"
 ],
 "stats": {
 "words": 1575,
@@ -35160,7 +35698,7 @@
 "responsibility",
 "duties",
 "fellow-citizens",
-"state"
+"proud"
 ],
 "stats": {
 "words": 1169,
@@ -35518,8 +36056,8 @@
 "morgan",
 "commerce",
 "highways",
-"railroads",
-"justice"
+"justice",
+"railroads"
 ],
 "stats": {
 "words": 2858,
@@ -35608,10 +36146,10 @@
 "corporations",
 "frankest",
 "wheeled",
-"vehicles",
 "commerce",
+"vehicles",
 "abused",
-"rock"
+"corporation"
 ],
 "stats": {
 "words": 2545,
@@ -36072,8 +36610,8 @@
 "common-sense",
 "sake",
 "value",
-"comes",
-"life"
+"president",
+"comes"
 ],
 "stats": {
 "words": 1474,
@@ -36164,8 +36702,8 @@
 "santo",
 "domingo",
 "idealism",
-"troy",
 "ideals",
+"troy",
 "fantastic",
 "choose",
 "debts",
@@ -36639,8 +37177,8 @@
 "creditors",
 "policy",
 "custom-houses",
-"debts",
-"monroe"
+"monroe",
+"debts"
 ],
 "stats": {
 "words": 4357,
@@ -36775,7 +37313,7 @@
 "south",
 "scrupulous",
 "faced",
-"common"
+"extraordinary"
 ],
 "stats": {
 "words": 2371,
@@ -37088,8 +37626,8 @@
 "article",
 "forth",
 "special",
-"typical",
-"training"
+"training",
+"typical"
 ],
 "stats": {
 "words": 840,
@@ -37663,7 +38201,7 @@
 "accomplished",
 "benefit",
 "faith",
-"south"
+"cause"
 ],
 "stats": {
 "words": 1264,
@@ -38944,8 +39482,8 @@
 "domingo",
 "congress",
 "law",
-"government",
 "commission",
+"government",
 "immigrants",
 "immigration"
 ],
@@ -39165,9 +39703,9 @@
 "action",
 "opposition",
 "wrong",
-"courage",
 "evils",
-"organization"
+"organization",
+"courage"
 ],
 "stats": {
 "words": 6288,
@@ -39632,9 +40170,9 @@
 "consulting",
 "engineers",
 "board",
+"commission",
 "suez",
 "soo",
-"commission",
 "traffic"
 ],
 "stats": {
@@ -39942,8 +40480,8 @@
 "ink",
 "bureaus",
 "work",
-"red",
 "department",
+"red",
 "committees",
 "responsible"
 ],
@@ -40338,13 +40876,13 @@
 },
 "distinctive": [
 "unrest",
-"fortunes",
 "evil",
+"fortunes",
 "shalt",
 "crown",
 "steal",
-"sanity",
 "public",
+"sanity",
 "attack",
 "discriminate"
 ],
@@ -40413,11 +40951,11 @@
 "immunity",
 "commissioner",
 "garfield",
-"judge",
 "evidence",
+"judge",
 "offence",
-"code",
 "commerce",
+"code",
 "corporations"
 ],
 "stats": {
@@ -40743,8 +41281,8 @@
 "rates",
 "report",
 "railroads",
-"secret",
 "commission",
+"secret",
 "commerce",
 "interstate",
 "discriminations",
@@ -40897,8 +41435,8 @@
 "negro",
 "average",
 "farm",
-"smooth",
 "color",
+"smooth",
 "intelligent"
 ],
 "stats": {
@@ -41351,9 +41889,9 @@
 "disregards",
 "college",
 "intellect",
-"boy",
-"learning",
 "prowess",
+"learning",
+"boy",
 "condemn",
 "students",
 "count"
@@ -41521,7 +42059,7 @@
 "government",
 "city",
 "help",
-"success"
+"injustice"
 ],
 "stats": {
 "words": 1536,
@@ -41663,7 +42201,7 @@
 "marshall",
 "judicial",
 "government",
-"legislation"
+"national"
 ],
 "stats": {
 "words": 3848,
@@ -42002,8 +42540,8 @@
 "ages",
 "army",
 "task",
-"enough",
-"spirit"
+"spirit",
+"enough"
 ],
 "stats": {
 "words": 1803,
@@ -42724,8 +43262,8 @@
 "distinctive": [
 "commander",
 "virtues",
-"hardihood",
 "emphatically",
+"hardihood",
 "deed",
 "meant",
 "shown",
@@ -42828,8 +43366,8 @@
 "officers",
 "rear-admiral",
 "naval",
-"rear-admirals",
 "navy",
+"rear-admirals",
 "captains",
 "sea-going",
 "personnel",
@@ -44377,7 +44915,7 @@
 "grew",
 "absorbed",
 "reform",
-"stock"
+"tide"
 ],
 "stats": {
 "words": 3908,
@@ -44488,8 +45026,8 @@
 "glory",
 "disagreeable",
 "woman",
-"fought",
-"statue"
+"statue",
+"fought"
 ],
 "stats": {
 "words": 2780,
@@ -44551,8 +45089,8 @@
 "weak",
 "enjoy",
 "selfish",
-"stuff",
-"showing"
+"showing",
+"stuff"
 ],
 "stats": {
 "words": 1168,
@@ -44775,8 +45313,8 @@
 "farming",
 "social",
 "labor",
-"economic",
-"farmer"
+"farmer",
+"economic"
 ],
 "stats": {
 "words": 5767,
@@ -44908,8 +45446,8 @@
 "georgia",
 "employer",
 "workmen",
-"children",
 "federal",
+"children",
 "negligence",
 "workman",
 "compensation",
@@ -45190,12 +45728,12 @@
 "corporations",
 "criminal",
 "corporation",
+"action",
 "puritans",
 "criminally",
-"action",
 "business",
 "legislation",
-"law"
+"ease"
 ],
 "stats": {
 "words": 5092,
@@ -45290,8 +45828,8 @@
 "discouragement",
 "republics",
 "honest",
-"wealth",
 "president",
+"wealth",
 "dishonest",
 "wrongdoing",
 "poverty",
@@ -45396,11 +45934,11 @@
 "farm",
 "land",
 "fencing",
-"range",
 "master",
+"range",
+"actual",
 "commodities",
 "farmer",
-"actual",
 "homesteaders",
 "correspondent"
 ],
@@ -45627,8 +46165,8 @@
 "insult",
 "affairs",
 "regards",
-"voyage",
-"fleet"
+"fleet",
+"voyage"
 ],
 "stats": {
 "words": 3861,
@@ -46427,9 +46965,9 @@
 "government",
 "congress",
 "commerce",
-"legislation",
-"conference",
 "public",
+"conference",
+"legislation",
 "department"
 ],
 "stats": {
@@ -46864,8 +47402,8 @@
 "boy",
 "idleness",
 "training",
-"relation",
 "labor",
+"relation",
 "educated",
 "family",
 "education"
@@ -47870,8 +48408,8 @@
 "resources",
 "natural",
 "forests",
-"conservation",
 "coal",
+"conservation",
 "maine",
 "waterways",
 "court",
@@ -47944,7 +48482,7 @@
 "federal",
 "carried",
 "privilege",
-"state"
+"power"
 ],
 "stats": {
 "words": 558,
@@ -48009,7 +48547,7 @@
 "grown",
 "true",
 "national",
-"qualities"
+"material"
 ],
 "stats": {
 "words": 1387,
@@ -48456,8 +48994,8 @@
 "nation's",
 "general",
 "grant",
-"army",
 "indeed",
+"army",
 "new"
 ],
 "stats": {
@@ -48831,10 +49369,10 @@
 "interstate",
 "courts",
 "fisheries",
-"mountains",
-"deforestation",
 "control",
+"mountains",
 "corporations",
+"deforestation",
 "savings"
 ],
 "stats": {
@@ -49411,8 +49949,8 @@
 "distinctive": [
 "bill",
 "water",
-"electric",
 "power",
+"electric",
 "charge",
 "bills",
 "navigable",
@@ -49581,7 +50119,7 @@
 "church",
 "european",
 "missionaries",
-"methodist"
+"continent"
 ],
 "stats": {
 "words": 4648,
@@ -49924,8 +50462,8 @@
 "examination",
 "selected",
 "director",
-"decennial",
 "politicians",
+"decennial",
 "affiliations",
 "competitive"
 ],
@@ -50100,8 +50638,8 @@
 "possessed",
 "brother",
 "lived",
-"common",
-"devotion"
+"devotion",
+"common"
 ],
 "stats": {
 "words": 1535,
@@ -50802,8 +51340,8 @@
 },
 "distinctive": [
 "sudan",
-"mission",
 "christian",
+"mission",
 "christians",
 "christianity",
 "college",
@@ -51107,8 +51645,8 @@
 "peace",
 "prize",
 "agreement",
-"armaments",
 "court",
+"armaments",
 "international",
 "treaties",
 "arbitration",
@@ -51464,8 +52002,8 @@
 },
 "distinctive": [
 "harvard",
-"football",
 "sport",
+"football",
 "laughter",
 "athlete",
 "genius",
@@ -52048,9 +52586,9 @@
 "pubhc",
 "crooked",
 "conservation",
-"men's",
 "christian",
 "wonderful",
+"men's",
 "insist",
 "honesty",
 "ahead"
@@ -52214,8 +52752,8 @@
 "special",
 "kansas",
 "struggle",
-"earned",
 "welfare",
+"earned",
 "corporations",
 "political",
 "interests"
@@ -52507,11 +53045,11 @@
 "advising",
 "steal",
 "commission",
-"dakota",
 "principle",
+"dakota",
 "maverick",
 "square",
-"dishonestly"
+"exceptional"
 ],
 "stats": {
 "words": 4194,
@@ -52604,8 +53142,8 @@
 "labor",
 "organized",
 "hours",
-"earners",
 "workers",
+"earners",
 "social",
 "earner",
 "employer",
@@ -52739,11 +53277,11 @@
 "minnesota",
 "resources",
 "forests",
-"water",
 "development",
+"water",
 "kansas",
-"natural",
-"control"
+"control",
+"natural"
 ],
 "stats": {
 "words": 5943,
@@ -52836,7 +53374,7 @@
 "skilled",
 "editor",
 "politician",
-"wields"
+"public"
 ],
 "stats": {
 "words": 4465,
@@ -52948,10 +53486,10 @@
 "club",
 "chicago",
 "honesty",
-"york",
 "party",
-"dinner",
+"york",
 "sake",
+"dinner",
 "illinois",
 "advised"
 ],
@@ -53030,8 +53568,8 @@
 "wage",
 "union",
 "corporation",
-"policeman",
 "justice",
+"policeman",
 "miners",
 "workers",
 "employees"
@@ -53622,12 +54160,12 @@
 "brand",
 "servant",
 "corporation",
-"honesty",
 "candidate",
+"honesty",
 "entity",
 "knave",
-"afraid",
-"maverick"
+"maverick",
+"afraid"
 ],
 "stats": {
 "words": 4943,
@@ -55157,8 +55695,8 @@
 "party",
 "republican",
 "wisconsin",
-"cheers",
-"roosevelt"
+"roosevelt",
+"col"
 ],
 "stats": {
 "words": 5177,
