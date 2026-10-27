@@ -1,0 +1,19 @@
+---
+speech: 1903-05-04-palmer-lake
+title: Remarks of President Roosevelt at Palmer Lake, Colo.,May 4,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 354
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0354
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 57 425:0354]
+
+[margin: File]
+
+Ladies and Gentlemen:
+
+I have been travelling to-day through your great and beautiful state, and it has been the keenest pleasure to me to see it, and especially to see you, and I greet the men, the women and the children. I congratulate you not merely upon your great mineral resources, not merely upon what I believe will be the agricultural development that will follow especially upon the adaptation of irrigation throughout this country, but I congratulate you especially upon the type of manhood and {wom anhood|womanhood} you have developed in the state. That is what counts. You fought in the great war,my comrade there, and you know when all is said and done the fundamental factor in winning a battle was the type of soldier you had in it. That was what counted in the long run, and the best organization, the best management [-xxxxxxxxxxxxxx-] will not avail if you have not got the right type of man behind you. It is so in business; it is so in any affair of life, and as it is [-[illegible]-] in business so it is in [-the-][+public+] affairs[+.+] [-[illegible]-] [+It is the type+] of citizenship which we develop that in the long run must decide our success as a nation, and I believe in you and believe in the country of which you are a part, because I believe that the average [-c[illegible]xxxx-] American citizen has the right kind of material in him; and [-not-] it behooves us not merely to say that but to act it. It is a good thing to feel pride of country and pride of ourselves. It is a better thing so to act as to justify that pride. We can so act only if each of us shows his power to shift for himself, His {powe r|power} to act in combination with others, and the same scrupulous respect for the rights of others that he exacts from them in return. The man who fails to show that respect [-[illegible]-] is a wrong-doer to his neighbor and to the nation, and a bad citizen, no matter what [-[illegible]-] his position in the community may be; and the good[-xxxx-] citizen is the type of man who while able to hold his own never forgets that his duty includes his neighbor as well as himself. You of the Civil War, your concern with the man on your right hand or your left was[+,+] not what kind his creed was, not what his social station was, not what his financial standing was, [+[?but?]+] whether when the time came he would [+"+]stay put.[+"+] That was what you wanted to know. And it is the same thing in civil life, and the man who judges any of his fellows by any other standard than that man's worth is a poor citizen. (Cheers and applause.)
+
+[note: Speech is on the right half of the frame. The year in the heading and several words are typed over other letters (e.g. "and" in the salutation, "justify", "His", "others"); final readings given. The last eight lines are typed with closer line spacing.]
+[note: Typewriter x-outs after "management", in "average c...xxx American", and after "good". One whole typed line after "no matter what" is overtyped with x's and other letters so that it cannot be read. Struck by hand: a short word after "as it is", "the" before "affairs", a few words after "affairs" (illegible; replaced above the line by "It is the type"), "not" after "and" (before "it behooves"), and a mark after "respect". "public", "It is the type", the comma after "was", the small word read as "but", and the quotation marks around "stay put." are by hand; a circled period (proofreading mark) follows "affairs". The semicolon after "him" has a hand stroke on it.]

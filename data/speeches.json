@@ -721,8 +721,8 @@
 "trusts",
 "corporation",
 "corporations",
-"remedies",
 "abuses",
+"remedies",
 "publicity",
 "taxes",
 "remedy"
@@ -915,8 +915,8 @@
 "war",
 "peace",
 "dead",
-"islands",
-"resistance"
+"resistance",
+"freemen"
 ],
 "stats": {
 "words": 4369,
@@ -1079,7 +1079,7 @@
 "community",
 "statistics",
 "separate",
-"work"
+"contact"
 ],
 "stats": {
 "words": 4066,
@@ -1643,8 +1643,8 @@
 "betterment",
 "charity",
 "brotherhood",
-"men's",
 "young",
+"men's",
 "sentimentality"
 ],
 "stats": {
@@ -1748,7 +1748,7 @@
 "industrial",
 "commonplace",
 "manliness",
-"prosperity"
+"tendencies"
 ],
 "stats": {
 "words": 2855,
@@ -1877,9 +1877,9 @@
 "unity",
 "continent",
 "alleghanies",
-"union",
 "spread",
-"strength"
+"union",
+"older"
 ],
 "stats": {
 "words": 3296,
@@ -2028,8 +2028,8 @@
 },
 "distinctive": [
 "pioneers",
-"law",
 "barbarism",
+"law",
 "blunders",
 "wilfully",
 "civilization",
@@ -2155,7 +2155,7 @@
 "ranks",
 "struggles",
 "fought",
-"civil"
+"occupations"
 ],
 "stats": {
 "words": 3084,
@@ -4326,8 +4326,8 @@
 "ordinary",
 "duties",
 "battle",
-"war",
 "citizenship",
+"war",
 "nation",
 "duty"
 ],
@@ -5117,8 +5117,8 @@
 "laws",
 "talent",
 "cure",
-"wealth",
 "power",
+"wealth",
 "conditions",
 "harm",
 "community"
@@ -5418,7 +5418,7 @@
 "officers",
 "sea",
 "efficiency",
-"keeping"
+"advance"
 ],
 "stats": {
 "words": 1139,
@@ -5813,8 +5813,8 @@
 "places": []
 },
 "distinctive": [
-"virtue",
 "dangerous",
+"virtue",
 "wicked",
 "school",
 "stronger",
@@ -5903,8 +5903,8 @@
 "places": []
 },
 "distinctive": [
-"virtue",
 "dangerous",
+"virtue",
 "wicked",
 "school",
 "stronger",
@@ -6183,8 +6183,8 @@
 "honesty",
 "labor",
 "citizen",
-"courage",
-"citizenship"
+"citizenship",
+"courage"
 ],
 "stats": {
 "words": 912,
@@ -7093,10 +7093,10 @@
 "qualities",
 "constitution",
 "well-being",
-"guard",
 "citizenship",
+"guard",
 "material",
-"soldier"
+"foundation"
 ],
 "stats": {
 "words": 1295,
@@ -7894,9 +7894,9 @@
 "honesty",
 "weapons",
 "citizenship",
-"won",
 "win",
 "victory",
+"won",
 "applause"
 ],
 "stats": {
@@ -10315,8 +10315,8 @@
 "carolina",
 "laws",
 "develop",
-"north",
 "building",
+"north",
 "prosperity",
 "section",
 "advantage",
@@ -10451,8 +10451,8 @@
 "weapon",
 "confederate",
 "decency",
-"honesty",
 "forefathers",
+"honesty",
 "valiant"
 ],
 "stats": {
@@ -11124,8 +11124,8 @@
 "destiny",
 "mighty",
 "future",
-"prosperity",
 "war",
+"prosperity",
 "fought",
 "peace",
 "country"
@@ -11534,8 +11534,8 @@
 },
 "distinctive": [
 "honesty",
-"courage",
 "citizenship",
+"courage",
 "weapon",
 "law",
 "revolutionary",
@@ -13622,7 +13622,7 @@
 "islands",
 "system",
 "rural",
-"law"
+"conditions"
 ],
 "stats": {
 "words": 9756,
@@ -16314,8 +16314,8 @@
 "distinctive": [
 "promise",
 "smartness",
-"fool",
 "qualities",
+"fool",
 "applause",
 "pioneer",
 "decency",
@@ -16440,12 +16440,12 @@
 "assemblage",
 "change",
 "applause",
-"cheers",
 "law",
+"cheers",
 "improvement",
 "help",
-"easy",
 "system",
+"easy",
 "laws"
 ],
 "stats": {
@@ -16470,10 +16470,20 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1084,
+"paragraphs": [
+"SenatorGamble; [?] My Fellow Americans:",
+"I am glad to have the chance of being here in South Dakota, and I feel at home. I have been here many times before. (Applause) Twenty-three years ago I came to Dakota when it was a territory, and if there are any cow punchers in the audience I might claim special acquaintance with them; and in greeting all of you I know that the rest will not object to my saying a special word of greeting to the men of the Grand Army. We as citizens can succeed in doing our work just in proportion as we do it in the way they did theirs from '61 to '65. I want to say another word of greeting to the best possible exhibit of South Dakota's product -- the children. They seem to be all right in quality and all right in quantity. As I like the stock I am glad it is to be kept up. (Cheers and applause)",
+"Now a word to you here in this state, whose leading industries are agriculture, and in the west mining-- a state of farmers and miners. I do not have to speak of the prosperity we have enjoyed, because you have shared in it to an unusual degree. I understand that South Dakota stands highest of all the states of the union in the aggregate productiveness of wealth per head during the year. That prosperity is due to many causes, not to any one. Mere legislation, mere governmental work, never can make it. If the rain does not fall or if it falls too much, there is not any way of making a law about it. If the hand of the Lord is heavy upon us, in flood or in drought, in disease or pestilence so far as these cannot be controlled, then the wit of man cannot devise a perfect remedy.",
+"Furthermore in addition to dealing with the elements outside of the control of man, only under the Control of Providence, we must ever keep in mind that the fundamental factor in any man's success is the man's own qualities, [?] his strength, his courage, his hardihood, his thrift, his wisdom. Here in our own experience in this state during the days of its statehood and the days when it was a territory, we have seen the effort made to grow what could not be grown in certain localities, ruin follow, the locality would apparently be abandoned, and then occupied again when men had the sense to takeup [?] an industry that was adapted to it. You can grow cattle where you cannot grow wheat.",
+"We will win out primarily according to the way in which the average American does his work. I spoke to the men of the Grand Army, I can draw the lesson that I am now drawing from their experience as well as from our own in civil life., In the civil war, you won. To win you needed good leaders, you needed the genius of Lincoln, you needed the backing of the people, but what you needed most was the courage and hardihood of the individual fighting man. You carried the banner of the republic in triumph to Appomattox, because the average man had in him the stuff out of which soldiers are made.",
+"As it was in war, so it must be in civil life. No law that ever was devised or ever can be devised will make a coward brave, or a fool wise, or a weakling strong. Fundamentally you have to have the right stuff in you or you cannot get it out of you. (Applause) You haveit [?] here on the prairie, and have turned this into the great state that it is, because you have had that stuff in you. That was not easy; not a bit; you did not have easy times in the war, either. The things in this life that are really worth having do not usually come to those who wish to lead lives of mere ease. I am speaking to pioneers or to the sons of pioneers, and any man who does pioneering work does rough work, and if he is not fit to do it he will go to the wall in a trice. It is hard work to make a new state, a new country, it is a work fit for men to do and only men can do it, and it takes men to do it too(Applause) You had men to do it, and you did it.",
+"It is difficult to get prosperity by law, but good laws can help in getting it, and it is easy enough to mar it by poor laws. We are getting along well as a nation. We have got prosperity. We have gotten that prosperity under a certain economic scheme of finance and tariff. Be cautious how you go into any drastic change that may upset it all. There is nothing sacred about a tariff schedule. As it becomes necessary to change a schedule, to make it fit the shifting needs of a nation, do it; Remember, however, that there is more to be considered than merely whether one given schedule should be changed. All the schedules have got to be considered as part of the whole, and, while it is vitally important that we should not become fossilized in our economic policy, that we should be able to reapply the detailsto the shifting needs of the nation; remember that the change must not be made until we are convinced that the need is so great as to more than offset the inevitable dislocation that will come from",
+"it, and that when the change is made it should be a change in the application of details of the scheme, and not a change in the scheme of the policy under and through which we have attained to our present pitch of prosperity.",
+"I have but a moment. It has been a real pleasure to see you, and I can sum up all I have to say to you in just a couple of phrases. You need wise laws. See that you get them. You need honest administration of the laws. See that you have it. But do not make the mistake of thinking that any law, or any administration of the law, can take the place of the fundamental qualities that make a good individual citizen and make a good nation-- the qualities of honesty, of courage, and of common sense."
+],
 "editions": [],
 "trc": [
 {
@@ -16495,13 +16505,93 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0223, 0224",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0223",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)",
+"reading": [
+"SenatorGamble; [?] My Fellow Americans:",
+"I am glad to have the chance of being here in South Dakota, and I feel at home. I have been here many times before. (Applause) Twenty-three years ago I came to Dakota when it was a territory, and if there are any cow punchers in the audience I might claim special acquaintance with them; and in greeting all of you I know that the rest will not object to my saying a special word of greeting to the men of the Grand Army. We as citizens can succeed in doing our work just in proportion as we do it in the way they did theirs from '61 to '65. I want to say another word of greeting to the best possible exhibit of South Dakota's product -- the children. They seem to be all right in quality and all right in quantity. As I like the stock I am glad it is to be kept up. (Cheers and applause)",
+"Now a word to you here in this state, whose leading industries are agriculture, and in the west mining-- a state of farmers and miners. I do not have to speak of the prosperity we have enjoyed, because you have shared in it to an unusual degree. I understand that South Dakota stands highest of all the states of the union in the aggregate productiveness of wealth per head during the year. That prosperity is due to many causes, not to any one. Mere legislation, mere governmental work, never can make it. If the rain does not fall or if it falls too much, there is not any way of making a law about it. If the hand of the Lord is heavy upon us, in flood or in drought, in disease or pestilence so far as these cannot be controlled, then the wit of man cannot devise a perfect remedy.",
+"Furthermore in addition to dealing with the elements outside of the control of man, only under the Control of Providence, we must ever keep in mind that the fundamental factor in any man's success is the man's own qualities, [?] his strength, his courage, his hardihood, his thrift, his wisdom. Here in our own experience in this state during the days of its statehood and the days when it was a territory, we have seen the effort made to grow what could not be grown in certain localities, ruin follow, the locality would apparently be abandoned, and then occupied again when men had the sense to takeup [?] an industry that was adapted to it. You can grow cattle where you cannot grow wheat.",
+"We will win out primarily according to the way in which the average American does his work. I spoke to the men of the Grand Army, I can draw the lesson that I am now drawing from their experience as well as from our own in civil life., In the civil war, you won. To win you needed good leaders, you needed the genius of Lincoln, you needed the backing of the people, but what you needed most was the courage and hardihood of the individual fighting man. You carried the banner of the republic in triumph to Appomattox, because the average man had in him the stuff out of which soldiers are made.",
+"As it was in war, so it must be in civil life. No law that ever was devised or ever can be devised will make a coward brave, or a fool wise, or a weakling strong. Fundamentally you have to have the right stuff in you or you cannot get it out of you. (Applause) You haveit [?] here on the prairie, and have turned this into the great state that it is, because you have had that stuff in you. That was not easy; not a bit; you did not have easy times in the war, either. The things in this life that are really worth having do not usually come to those who wish to lead lives of mere ease. I am speaking to pioneers or to the sons of pioneers, and any man who does pioneering work does rough work, and if he is not fit to do it he will go to the wall in a trice. It is hard work to make a new state, a new country, it is a work fit for men to do and only men can do it, and it takes men to do it too(Applause) You had men to do it, and you did it.",
+"It is difficult to get prosperity by law, but good laws can help in getting it, and it is easy enough to mar it by poor laws. We are getting along well as a nation. We have got prosperity. We have gotten that prosperity under a certain economic scheme of finance and tariff. Be cautious how you go into any drastic change that may upset it all. There is nothing sacred about a tariff schedule. As it becomes necessary to change a schedule, to make it fit the shifting needs of a nation, do it; Remember, however, that there is more to be considered than merely whether one given schedule should be changed. All the schedules have got to be considered as part of the whole, and, while it is vitally important that we should not become fossilized in our economic policy, that we should be able to reapply the detailsto the shifting needs of the nation; remember that the change must not be made until we are convinced that the need is so great as to more than offset the inevitable dislocation that will come from",
+"it, and that when the change is made it should be a change in the application of details of the scheme, and not a change in the scheme of the policy under and through which we have attained to our present pitch of prosperity.",
+"I have but a moment. It has been a real pleasure to see you, and I can sum up all I have to say to you in just a couple of phrases. You need wise laws. See that you get them. You need honest administration of the laws. See that you have it. But do not make the mistake of thinking that any law, or any administration of the law, can take the place of the fundamental qualities that make a good individual citizen and make a good nation-- the qualities of honesty, of courage, and of common sense."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 61 (frame 425:0223)</span>",
+"<span class=\"margin\">In the margin: <span class=\"illeg\">[illegible]</span></span>",
+"Senator<ins title=\"added by hand\">Gamble</ins><span class=\"unc\" title=\"uncertain reading\">;</span> My <span class=\"sic\" title=\"reads: Fellow\">Fe llow</span> Americans:",
+"I am glad to have the chance of being here in South Dakota , and I feel at home. I have been here many times before. (Applause) Twenty-three years ago I came to Dakota when it was a territory, and if there are any cow punc<ins title=\"added by hand\">h</ins>ers in the audience I might claim special acquaintance with them; and in greeting all of you I know that the rest will not object to my saying a special word of greeting to the men of the Grand Army. We as <span class=\"sic\" title=\"reads: citizens can\">citizenscan</span> succeed in doing our work just in proportion as we do it in the way they did theirs from &#x27;61 to &#x27;65. I want to say another word of greeting to the best possible exhibit of South Dakota&#x27;s product -- the children. <del title=\"struck through\">xxh</del>They seem to be all right in quality and all right in quantity. As I like the stock I am glad it is to be kept up. (Cheers and applause)",
+"Now a word to you here in this state, whose leading industries are agriculture, and in <span class=\"sic\" title=\"reads: the\">t e</span> west mining<ins title=\"added by hand\">--</ins> a state of farmers and miners. I do not have to speak of the prosperity we have enjoyed, because you have shared in it to an unusual degree. I understand that South Dakota stands highest of all the states of the union in the aggregate productiveness of wealth per head during the year. That prosperity is due to many causes, not to any one. Mere legislation, mere governmental work, never can make it. If the rain does not fall or if it falls too much, ther<ins title=\"added by hand\">e</ins> is not any way of making a law about it. If the hand of the Lord is heavy upon us, in flood or in drought, in disease or pestilence so far as these cannot be controlled, then the wit of man cannot devise a perfect remedy.",
+"Furthermore in addition to dealing with the elements outside of the control of man, only under the Control of Providence, we must ever keep in mind that the <span class=\"sic\" title=\"reads: fundamental\">fundemental</span> factor in any man&#x27;s success is the man&#x27;s own qualities<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">,</span></ins> his strength, his courage, his hard<ins title=\"added by hand\">i</ins>hood, his thrift, his wisdom. Here in our own experience in this state during the days of its statehood and the days when it was a territory, we have seen the effort made to grow what could not be grown in certain localities, ruin follow, the locality <span class=\"sic\" title=\"reads: would\">woudd</span> apparently be abandoned<ins title=\"added by hand\">,</ins> and then occupied again when men had the sense to take<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">up</span></ins> an industry that was adapted to it. You can grow cattle where you cannot grow wheat.",
+"<span class=\"pb\">Page 62 (frame 425:0223)</span>",
+"We will win out primarily according to the way in which the average American does his work. I spoke to the men of the Grand Army, I can draw the lesson that I am now drawing from their experience as well as from our own in civil life. <del title=\"struck through\">In the army</del>, In the civil war , you won. To win you needed good leaders, you needed the genius of Lincoln, you needed the backing of the people, but what you needed most was the <span class=\"sic\" title=\"reads: courage\">co urage</span> and hardihood of the individual fighting man. You <span class=\"sic\" title=\"reads: carried the\">carriedthe</span> banner of the <span class=\"sic\" title=\"reads: republic\">rppublic</span> in triumph to Appomattox, because the average man had in him the stuff out of which soldiers are made.",
+"As it was in war, so it must be in civil life. No law that ever was devised or ever can be devised will make a <del title=\"struck through\">xxxxx</del> coward brave, or a fool wise, or a weakling strong. Fundamentally you have to have the right stuff in you or you cannot get it out of you. (Applause) You have<ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">it</span></ins> here on the prairie, and <ins title=\"added by hand\">have</ins> turned this into the great state that it is, because you have had that stuff in you. That was not easy; not a bit; you did not have easy times in the war,either. The things in this life that are really worth having do not usually come to those who wish to lead lives of mere ease. I am speaking to pioneers or to the sons of pioneers, and any man who does pioneering work does rough work, and if he is not fit to do it he will go to the wall in a trice. It is hard work to make a new state, a new country, it is a work fit for men to do and only men can do it, and it takes men to do <span class=\"sic\" title=\"reads: it too\">ittoo</span>(Applause) You had men to do it, and you did it.",
+"It is difficult to get prosperity by law, but good laws can help in getting it, and it is easy enough to mar it by poor laws. We are getting along well as a nation. We have got prosperity. We have gotten that prosperity under a certain economic scheme of finance <span class=\"sic\" title=\"reads: and\">ad</span> tariff. Be cautious how you go into any drastic change that may upset it all. There is nothing sacred about a tariff schedule. As it becomes necessary to change a schedule, to make it fit the shifting needs of a nation, do it; <del title=\"struck through\">xxx</del> Remember , however, <span class=\"sic\" title=\"reads: that\">t hat</span> there is more to be considered than merely whether one given schedule should be changed. All the schedules have got to be considered as part of the whole, and, while it is vitally important that we should not become fossilized in our economic policy, that we should be able to <span class=\"sic\" title=\"reads: reapply\">r eapply</span> the details<ins title=\"added by hand\">to</ins> the shifting needs of the nation; remember that the change must not be made until we are convinced that the need is so great as to more than offset the inevitable dislocation that will come from",
+"<span class=\"pb\">Page 63 (frame 425:0224)</span>",
+"it, and that when the <span class=\"sic\" title=\"reads: change\">whange</span> is made it <span class=\"sic\" title=\"reads: should\">shoud</span> be a change in the application of details of the scheme, and not a change in the scheme of the policy under and through which we have attained to our present pitch of prosperity.",
+"I have but a moment. It has been a real pleasure to see you, and I can sum up all I have to say to you in just a couple of phrases. <span class=\"sic\" title=\"reads: You\">Yoy</span> need wise laws. See that you get them. You need honest administration of the laws. See that you have it. But do not make the mistake of thinking that any law, or any administration of the law, can take the place of the fundamental qualities that make a good individual citizen and make a good nation<ins title=\"added by hand\">--</ins> the qualities of honesty, of courage, and of common sense.",
+"<span class=\"tnote\">&quot;Gamble&quot; is written by hand above &quot;Senator&quot; with a caret; the typed mark after &quot;Senator&quot; is a semicolon or colon, partly covered by the caret.</span>\n<span class=\"tnote\">Hand strokes that separate or mark words without changing them: a slash after &quot;object&quot; (p. 61), a vertical stroke through the &quot;s&quot; of the run-together &quot;citizenscan&quot; (p. 61), a stroke between &quot;it&quot; and &quot;too&quot; (p. 62), a slash after &quot;do it;&quot; (p. 62), and a close-up mark joining &quot;under stand&quot; (p. 61, given here as &quot;understand&quot;).</span>\n<span class=\"tnote\">The dashes after &quot;mining&quot; (p. 61) and &quot;nation&quot; (p. 63) are added by hand with a caret. &quot;have&quot; before &quot;turned&quot; (p. 62) and the word after &quot;You have&quot; (p. 62, read as &quot;it&quot; but uncertain) are handwritten with carets. The word inserted after &quot;take&quot; (p. 61) is handwritten with a caret and looks like &quot;up&quot;.</span>\n<span class=\"tnote\">&quot;to&quot; above the caret after &quot;details&quot; (p. 62) appears to be typed in afterwards, not handwritten.</span>\n<span class=\"tnote\">On p. 61 a handwritten letter after &quot;ther&quot; corrects it to &quot;there&quot;; &quot;hardihood&quot; has a handwritten &quot;i&quot;; the first letter of &quot;Control&quot; (in &quot;under the Control of Providence&quot;) is marked over by hand and is given as typed; &quot;qualities&quot; before &quot;his strength&quot; has a hand mark on its final s with a tail below the line, read as a doubtful hand comma; the &quot;t&quot; of &quot;the sense&quot; has a hand stroke over it whose meaning is unclear.</span>\n<span class=\"tnote\">&quot;<del title=\"struck through\">xxh</del>&quot; (p. 61), &quot;<del title=\"struck through\">In the army</del>&quot; (p. 62, x-ed out but legible) and &quot;<del title=\"struck through\">xxx</del>&quot; before &quot;Remember&quot; (p. 62) are x-ed out on the typewriter. Several letters are typed over others (e.g. &quot;times&quot;, &quot;considered&quot;, &quot;takes&quot;, &quot;Fundamentally&quot;, &quot;nation&quot;) and read as given.</span>\n<span class=\"tnote\">Faint mirror-image offset type from the facing page shows between some lines on pp. 61-62; it is not part of the text.</span>\n<span class=\"tnote\">Third look: typed page numbers &quot;-2-&quot; and &quot;-3-&quot; head pp. 62 and 63 and are not transcribed in the body. The mark after &quot;Senator&quot; shows a dot with the caret drawn through the lower half, so colon or semicolon cannot be told apart; kept as <span class=\"unc\" title=\"uncertain reading\">;</span>. The hand mark on the s of &quot;qualities&quot; has a comma-like tail and is given as a doubtful added comma.</span>"
+],
+"notes": [
+"\"Gamble\" is written by hand above \"Senator\" with a caret; the typed mark after \"Senator\" is a semicolon or colon, partly covered by the caret.",
+"Hand strokes that separate or mark words without changing them: a slash after \"object\" (p. 61), a vertical stroke through the \"s\" of the run-together \"citizenscan\" (p. 61), a stroke between \"it\" and \"too\" (p. 62), a slash after \"do it;\" (p. 62), and a close-up mark joining \"under stand\" (p. 61, given here as \"understand\").",
+"The dashes after \"mining\" (p. 61) and \"nation\" (p. 63) are added by hand with a caret. \"have\" before \"turned\" (p. 62) and the word after \"You have\" (p. 62, read as \"it\" but uncertain) are handwritten with carets. The word inserted after \"take\" (p. 61) is handwritten with a caret and looks like \"up\".",
+"\"to\" above the caret after \"details\" (p. 62) appears to be typed in afterwards, not handwritten.",
+"On p. 61 a handwritten letter after \"ther\" corrects it to \"there\"; \"hardihood\" has a handwritten \"i\"; the first letter of \"Control\" (in \"under the Control of Providence\") is marked over by hand and is given as typed; \"qualities\" before \"his strength\" has a hand mark on its final s with a tail below the line, read as a doubtful hand comma; the \"t\" of \"the sense\" has a hand stroke over it whose meaning is unclear.",
+"\"\" (p. 61), \"\" (p. 62, x-ed out but legible) and \"\" before \"Remember\" (p. 62) are x-ed out on the typewriter. Several letters are typed over others (e.g. \"times\", \"considered\", \"takes\", \"Fundamentally\", \"nation\") and read as given.",
+"Faint mirror-image offset type from the facing page shows between some lines on pp. 61-62; it is not part of the text.",
+"Third look: typed page numbers \"-2-\" and \"-3-\" head pp. 62 and 63 and are not transcribed in the body. The mark after \"Senator\" shows a dot with the caret drawn through the lower half, so colon or semicolon cannot be told apart; kept as; [?]. The hand mark on the s of \"qualities\" has a comma-like tail and is given as a doubtful added comma."
+],
+"file": "transcriptions/1903-04-06-yankton.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"civil-war",
+"the-west"
+],
+"mentions": {
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+}
+],
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 4
+}
+]
+},
+"distinctive": [
+"schedule",
+"change",
+"dakota",
+"prosperity",
+"scheme",
+"applause",
+"stuff",
+"needed",
+"grow",
+"greeting"
+],
+"stats": {
+"words": 1084,
+"unique_words": 383,
+"sentences": 41,
+"avg_sentence": 26.4,
+"minutes": 8,
+"i_count": 18,
+"we_count": 13
+}
 },
 {
 "id": "1903-04-06-sioux-falls",
@@ -16696,11 +16786,11 @@
 "department",
 "agriculture",
 "growers",
-"wheat",
 "wage-worker",
 "tiller",
 "million",
 "employer",
+"wheat",
 "farm",
 "region"
 ],
@@ -17740,10 +17830,22 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1626,
+"paragraphs": [
+"My Fellow [?] Citizens; Men and Women of North Dakota:",
+"I have felt as I have come westwardtoday along the line of the Northern Pacific, steadily, that I was getting more and more back into my home country. (Applause) I first came here to North Dakota when it was still the territory of Dakota,-twenty-three years ago; so you see I can claim to be a pretty old citizen myself. For a number of years I lived west of here on the Little Missouri, and I passed through here more often on a cattle or freight train then than in any other way. And it just does me good to get back with you. I cannot say how glad I am to see you all; and I know the rest of you will not grudge my saying a special word first to the veterans of the great war, to the men to whom we owe it that because of what they did from '61 to '65 we have a country to live in and be proud of now. (Applause) You men of the great war served in different regiments from different states, and then you came out here to do the pioneer work that was in its way as hard as the work of the soldier, and those of the next generation, helped out here and there by one of your own number, formed the regiment from the state which was not even thought of when you fought in the early 60's, and that regiment went off to the Philippines to do its share in upholding the glory of the flag that you had left untarnished and untorn to their keeping. (Cheers and applause) After greeting you I want to greet my own comrades -- the men of the National Guard -- and to say to them, and to say also to the regular soldiers here, officers and enlisted men alike, how proud we are of Uncle Sam's uniform, and proud to honor the men who by their conduct have reflected credit upon it. (Applause)",
+"To you, my fellow citizens, the people of this state, I have watched your growth into and through statehood carefully. Many of those in this audience are old neighbors of mine, and from now on as we go westward I come more and more to places in which I know people, until I come to a town where I know everyone, where I have been on the ranch with them, worked with them, shipped cattle with them, and know them as only you do know men with whom you work. There are two ways of getting to know a man, by working with him and by fighting with him; and there are a few men here with whom I have had both experiences. So, naturally, I take a peculiar interest in you, and my heart is rejoiced with the",
+"prosperity in this state, to see you growing steadily, growing into greatness; this great prairie state with its wheat and its cattle, with its products of the farm and the stock ranch. I am proud of you. I am proud of your products; and your best products is your men and women. I have been glad to see them all along. I have been very glad to see the children; and to see that they are all right in quality and all right in quantity; because the stock is a good one and I do not want to see it fail to increase. (Applause)",
+"Now just one word about our prosperity. Something can be done for that by law and the administration of the law. Much more can be done to harm it by bad laws. It is easy enough to pass a bad law that will give us no chance for it. All that a good law can do, if administered well, is to secure square dealing, so far as the law can, between man and man, and give each man a chance to exercise the best qualities he has. In the long run a man must rise or fall according to the stuff there is in him. It is just as it is in war. We need such a militia law as we have just had passed by Congress. We need good weapons-- the best weapons-- for our troops. We need a good administration of the War Department. But no administration in the War Department, no weapons, nothing that can be done from the outside, will be of any avail unless the officer and the enlisted man have already in them the stuff to make of themselves soldiers in every sense of the word. If they have not got the stuff in them, it is not there to get out of them; that is all. (Applause) You men of the great war won imperishable glory in the old days from '61 to '65; and you, my comrades of the lesser war, did your work so well in the Philippines, because you had the stuff in you, had the fighting edge, the resolute and firm determination to do your duty when the time came.",
+"As it is with the soldiers, so it is in civil life. I am standing in the presence of many pioneers, and sons of, and successors to, the pioneers. No law could have enabled those men to do what they did. All that the law could do was to give each man a chance to show the proof of what his own stout heart, and cool head, and strong hand could accomplish; to give him the chance, and then he had to take advantage of that chance himself. The work of building up this new state was akin to the work of the soldier, which you men of the Grand Army did in the dark days of the civil war, and it needed, essentially, just the same",
+"qualities. In the first place, honesty, decency, the spirit of square dealing between man and man. You had to have that, just as you had to have the spirit of patriotism in the soldier. In addition to that you had to have the courage and the strength to make it good; and finally, the common sense, the hard intelligence, without which the other qualities would fail.",
+"There is another lesson to apply in civil life which was taught by you, men of the civil war, when you went to war, when you had to endure the heart-breaking weariness of the long marches under the southern sun, the misery of the freezing nights in winter on guard in the trenches, the risk of fever, the risk of death by bullet or shell, when you had to do all that you wanted to know the mettle that there was in your comrades. You could do nothing if they did not have the mettle in them. You wanted to know as to the man on your right hand and the man on your left, not the non-essentials, you did not care how he worshipped his Maker; his creed was an affair for himself. You did not care for his social standing or wealth, whether he was a banker or bricklayer, a farmer or a mechanic. That did not make any difference. What you wanted to know was, if when the time came he would stay put; If when the time came to move, he would move the right way. That is what you were concerned with. In other words you had to judge him on his worth as a man, And in the grim sifting out of war the generals who were developed to lead you were the men who came to the front because they could do the job best -- Grant, Sherman, Thomas, Sheridan, Farragut on the ocean, came to the front because they were the fighting men who could handle best the fighting men under them. In placing reliance upon your comrades you could not afford to pay heed to anything except the worth of the man himself.",
+"It is just so in our civil life of to-day. If we pay heed to the accidents and not to the essentials of the man's character, we by just so much prove false to our traditions and our principles and by just so much mar the chance of getting an honest government. What you want to know of a man in public life is what you would want to know of him in private life. Does he keep his word? Does he treat a promise made on the stump as being as sacred as if made off the stump? Does he deal squarely with his neighbors? Does he try to shape the laws so that they shall be in the interest neither of the rich man as such nor of the poor man as",
+"such, but of every honest man, be he rich or be he poor. (Applause) That is what we have a right to ask. Let the man's station be what it will, let his occupation be what it will, if he has got those qualities in him we are for him. And if he has not, we are against him, because he has no place in the American body politic. (Applause)",
+"That is the doctrine we should preach -- the doctrine of a man's worth as a man. And it is the doctrine of a man's worth as a man which you have lived up to here, my fellow citizens; and it is why you have made your state a state to be proud of, a state to be glad to have in the union. I have enjoyed meeting you, and I wish you all the prosperity that the coming years can possibly give you. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -17765,13 +17867,117 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
-"mentions": {
-"people": [],
-"places": []
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0270, 0271, 0272",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0270",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow [?] Citizens; Men and Women of North Dakota:",
+"I have felt as I have come westwardtoday along the line of the Northern Pacific, steadily, that I was getting more and more back into my home country. (Applause) I first came here to North Dakota when it was still the territory of Dakota,-twenty-three years ago; so you see I can claim to be a pretty old citizen myself. For a number of years I lived west of here on the Little Missouri, and I passed through here more often on a cattle or freight train then than in any other way. And it just does me good to get back with you. I cannot say how glad I am to see you all; and I know the rest of you will not grudge my saying a special word first to the veterans of the great war, to the men to whom we owe it that because of what they did from '61 to '65 we have a country to live in and be proud of now. (Applause) You men of the great war served in different regiments from different states, and then you came out here to do the pioneer work that was in its way as hard as the work of the soldier, and those of the next generation, helped out here and there by one of your own number, formed the regiment from the state which was not even thought of when you fought in the early 60's, and that regiment went off to the Philippines to do its share in upholding the glory of the flag that you had left untarnished and untorn to their keeping. (Cheers and applause) After greeting you I want to greet my own comrades -- the men of the National Guard -- and to say to them, and to say also to the regular soldiers here, officers and enlisted men alike, how proud we are of Uncle Sam's uniform, and proud to honor the men who by their conduct have reflected credit upon it. (Applause)",
+"To you, my fellow citizens, the people of this state, I have watched your growth into and through statehood carefully. Many of those in this audience are old neighbors of mine, and from now on as we go westward I come more and more to places in which I know people, until I come to a town where I know everyone, where I have been on the ranch with them, worked with them, shipped cattle with them, and know them as only you do know men with whom you work. There are two ways of getting to know a man, by working with him and by fighting with him; and there are a few men here with whom I have had both experiences. So, naturally, I take a peculiar interest in you, and my heart is rejoiced with the",
+"prosperity in this state, to see you growing steadily, growing into greatness; this great prairie state with its wheat and its cattle, with its products of the farm and the stock ranch. I am proud of you. I am proud of your products; and your best products is your men and women. I have been glad to see them all along. I have been very glad to see the children; and to see that they are all right in quality and all right in quantity; because the stock is a good one and I do not want to see it fail to increase. (Applause)",
+"Now just one word about our prosperity. Something can be done for that by law and the administration of the law. Much more can be done to harm it by bad laws. It is easy enough to pass a bad law that will give us no chance for it. All that a good law can do, if administered well, is to secure square dealing, so far as the law can, between man and man, and give each man a chance to exercise the best qualities he has. In the long run a man must rise or fall according to the stuff there is in him. It is just as it is in war. We need such a militia law as we have just had passed by Congress. We need good weapons-- the best weapons-- for our troops. We need a good administration of the War Department. But no administration in the War Department, no weapons, nothing that can be done from the outside, will be of any avail unless the officer and the enlisted man have already in them the stuff to make of themselves soldiers in every sense of the word. If they have not got the stuff in them, it is not there to get out of them; that is all. (Applause) You men of the great war won imperishable glory in the old days from '61 to '65; and you, my comrades of the lesser war, did your work so well in the Philippines, because you had the stuff in you, had the fighting edge, the resolute and firm determination to do your duty when the time came.",
+"As it is with the soldiers, so it is in civil life. I am standing in the presence of many pioneers, and sons of, and successors to, the pioneers. No law could have enabled those men to do what they did. All that the law could do was to give each man a chance to show the proof of what his own stout heart, and cool head, and strong hand could accomplish; to give him the chance, and then he had to take advantage of that chance himself. The work of building up this new state was akin to the work of the soldier, which you men of the Grand Army did in the dark days of the civil war, and it needed, essentially, just the same",
+"qualities. In the first place, honesty, decency, the spirit of square dealing between man and man. You had to have that, just as you had to have the spirit of patriotism in the soldier. In addition to that you had to have the courage and the strength to make it good; and finally, the common sense, the hard intelligence, without which the other qualities would fail.",
+"There is another lesson to apply in civil life which was taught by you, men of the civil war, when you went to war, when you had to endure the heart-breaking weariness of the long marches under the southern sun, the misery of the freezing nights in winter on guard in the trenches, the risk of fever, the risk of death by bullet or shell, when you had to do all that you wanted to know the mettle that there was in your comrades. You could do nothing if they did not have the mettle in them. You wanted to know as to the man on your right hand and the man on your left, not the non-essentials, you did not care how he worshipped his Maker; his creed was an affair for himself. You did not care for his social standing or wealth, whether he was a banker or bricklayer, a farmer or a mechanic. That did not make any difference. What you wanted to know was, if when the time came he would stay put; If when the time came to move, he would move the right way. That is what you were concerned with. In other words you had to judge him on his worth as a man, And in the grim sifting out of war the generals who were developed to lead you were the men who came to the front because they could do the job best -- Grant, Sherman, Thomas, Sheridan, Farragut on the ocean, came to the front because they were the fighting men who could handle best the fighting men under them. In placing reliance upon your comrades you could not afford to pay heed to anything except the worth of the man himself.",
+"It is just so in our civil life of to-day. If we pay heed to the accidents and not to the essentials of the man's character, we by just so much prove false to our traditions and our principles and by just so much mar the chance of getting an honest government. What you want to know of a man in public life is what you would want to know of him in private life. Does he keep his word? Does he treat a promise made on the stump as being as sacred as if made off the stump? Does he deal squarely with his neighbors? Does he try to shape the laws so that they shall be in the interest neither of the rich man as such nor of the poor man as",
+"such, but of every honest man, be he rich or be he poor. (Applause) That is what we have a right to ask. Let the man's station be what it will, let his occupation be what it will, if he has got those qualities in him we are for him. And if he has not, we are against him, because he has no place in the American body politic. (Applause)",
+"That is the doctrine we should preach -- the doctrine of a man's worth as a man. And it is the doctrine of a man's worth as a man which you have lived up to here, my fellow citizens; and it is why you have made your state a state to be proud of, a state to be glad to have in the union. I have enjoyed meeting you, and I wish you all the prosperity that the coming years can possibly give you. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 90 (frame 425:0270)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My <span class=\"unc\" title=\"uncertain reading\">Fellow</span> Citizens; Men and <span class=\"sic\" title=\"reads: Women\">Wommen</span> of North Dakota:",
+"I have felt as I have come westward<ins title=\"added by hand\">today</ins> along the line of the Northern Pacific, <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">Railroad</span></del> steadily, that I was getting more and more <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">at home</span></del><ins title=\"added by hand\">back</ins> into my home country. (Applause) I first came here to North Dakota when it was still the territory of Dakota,-twenty-three years ago; so you see I can claim to be a pretty old citizen myself. For a number of years I lived west of here on the Little Missouri, and I passed through here more often on a cattle or freight train then than in any other way. And it just does me good to get back with you. I cannot say how glad I am to see you all; and I know the rest of you will not grudge my saying a special word first to the veterans of the great war, to the men to whom we owe it that because of what they did from &#x27;61 to &#x27;65 we have a country to live in and be proud of now. (Applause) You men of the great war served in different regiments from different states, and then you came out here to do the pioneer work that was in its way as hard as the work of the soldier, and those of the next generation,helped out here and there by one of your own number, formed the regiment from the state which was not even thought of when you fought in the early 60&#x27;s, and that regiment went off to the Philippines to do its share in upholding the glory of the flag that you had left untarnished and untorn to their keeping. (Cheers and applause) After greeting you I want to greet my own comrades -- the men of the National Guard -- and to say to them, and to say also to the regular soldiers here, officers and enlisted men alike, how proud we are of Uncle Sam&#x27;s uniform, and proud to honor the men who by their conduct have reflected credit upon it. (Applause)",
+"To you, my fellow citizens, the people of this state, I have watched your growth into and through statehood carefully. Many of those in this audience are old neighbors of mine, and from now on as we go westward I come more and more to places in which I know people, until I <del title=\"struck through\">xxxx</del> come to a town where I know everyone, where I have been on the ranch with them, worked with them, shipped cattle with them, and know them as only you do know men with whom you work. There are two ways of getting to know a man, by working with him and by fighting with him; and there are <del title=\"struck through\">xx</del> a few men here with whom I have had both experiences. So, naturally, I take a peculiar interest in you, and my heart is rejoiced with the",
+"<span class=\"pb\">Page 91 (frame 425:0271)</span>",
+"prosperity in this state, to see you growing steadily, growing into greatness; this great prairie state with its wheat and its cattle<ins title=\"added by hand\">,</ins> with its products of the farm and the stock ranch. I am proud of you. I am proud of your products; and your best products is your men and women. I have been glad to see them all along. I have been very glad to see the children; and to see that they are all right in quality and all right in quantity; because the stock is a good one and I do not want to see it fail to increase. (Applause)",
+"Now just one word about our prosperity. Something can be done for that by law and the administration of the law. Much more can be done to harm it by bad laws. It is easy enough to pass a bad law that will give us no chance for it. All that a good law can do, if administered well, is to secure squ<ins title=\"added by hand\">a</ins>re dealing, so far as the law can, between man and man, and give each man a chance to exercise <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">his</span></del> the best qualities he has. In the long run a man must rise or fall according to the stuff there is in him. It is just as it is in war. We need such a militia law as we have just had passed by Congress. We need good weapons-- the best weapons-- for our troops. We need a good administration of the War Department. But no administration in the War Department, no weapons, nothing that can be done from the outside, will be of any avail unless the officer and the enlisted man have already in them the stuff to make of themselves soldiers in every sense of the word. If they have not got the stuff in them, it is not there to get out of them; that is all. (Applause) You men of the great war won imperishable glory in the old days from &#x27;61 to &#x27;65; and you, my comrades of the lesser war, did your work so well in the Philippines, because you had the stuff in you, had the fighting edge, the resolute and firm determination to do your duty when the time came.",
+"As it is with the soldiers, so it is in civil life. I am standing in the <del title=\"struck through\">xxxxx</del> presence of many pioneers, and sons of, and successors to, the pioneers. No law could have enabled those men to do what they did. All that the law could do was to give each man a chance to show the proof of what his own stout heart, and cool head, and strong hand could accomplish; to give him the chance, and then he had to take advantage of that chance himself. The work of building up this new state was akin to the work of the soldier, which you men of the Grand Army did in the dark days of the civil war, and it needed, essentially, just the same",
+"<span class=\"pb\">Page 92 (frame 425:0271)</span>",
+"qualities. In the first place, honesty, decency, the spirit of square dealing between man and man. You had to have that, just as you had to have the spirit of patriotism in the soldier. In addition to that you had to have the courage and the strength to make it good; and <span class=\"sic\" title=\"reads: finally\">fina.lly</span>, the common sense, the hard intelligence, without which the <del title=\"struck through\">xxx</del> other qualities would fail.",
+"There is another lesson to apply in civil life which was taught by you, men of the civil war, when you went to war, when you had to endure the heart-breaking weariness of the long marches under <del title=\"struck through\">xxxx</del> the southern sun, the misery of the freezing nights in winter on guard in the trenches, the risk of fever, the risk of death by bullet or shell, when you had to do all that you wanted to know the <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">material</span></del> <del title=\"struck through\">metal</del><ins title=\"added by hand\">mettle</ins> that there was in your comrades. You could do nothing if they did not have the <del title=\"struck through\">metal</del><ins title=\"added by hand\">mettle</ins> in them. You wanted to know as to the man on your right hand and the man on your left, not the non-essentials, you did not care how he worshipped his Maker; his creed was an affair for himself. You did not care for his social standing or wealth, whether he was a banker or bricklayer, a farmer or a mechanic. That did not make any difference. What you wanted to know was, if when the time came he would stay put; If when the time came to move, he would move the right way. That is what you were concerned with. In other words you had to judge him on his worth as a man, And in the grim sifting out of war the generals who were developed to lead you were <del title=\"struck through\">xxx</del> the men who came to the front because they could do the job best -- Grant, Sherman, Thomas, Sheridan, Farragut on the ocean, came to the front because they were the fighting men who could handle best the fighting men under <span class=\"sic\" title=\"reads: them\">t hem</span>. In placing reliance upon your comrades you could not afford to pay heed to anything except the worth of the man himself.",
+"It is just so in our civil life of to-day. If we pay heed to the accidents and not to the essentials of the man&#x27;s character, we by just so much prove false to our traditions and our principles and by just so much mar the chance of getting an honest government. What you want to <span class=\"sic\" title=\"reads: know\">kno w</span> of a man in public life is what you would want to know of him in private life. Does he keep his word? Does he treat a promise made on the stump as being as sacred as if made off the stump? Does he deal <span class=\"sic\" title=\"reads: squarely with\">squarelywith</span> his neighbors? Does he try to shape the laws so that they shall be in the <span class=\"sic\" title=\"reads: interest neither\">interestneither</span> of the rich man as such nor of the poor man as",
+"<span class=\"pb\">Page 93 (frame 425:0272)</span>",
+"such, but of every honest man, be he rich or <del title=\"struck through\">xxxx</del> be he poor. <span class=\"sic\" title=\"reads: (Applause)\">(A;pplause)</span> That is what we have a right to ask. Let the man&#x27;s station be what it will<ins title=\"added by hand\">,</ins> let his occupation be what it will, if he has got those qualities in him we are for him. And if he has <span class=\"sic\" title=\"reads: not\">npt</span>, we are against him, because he has no place in the American body politic. (Applause)",
+"That is the doctrine we should preach -- the doctrine of a man&#x27;s worth as a man. And it is the doctrine of a man&#x27;s worth as a man <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> which you have lived up to here, my fellow citizens; and it is why you have made your state a state to be proud of, a state to be glad to have in the union<ins title=\"added by hand\">.</ins><del title=\"struck through\">and I <span class=\"unc\" title=\"uncertain reading\">greet you</span></del> I have enjoyed meeting you, and I wish you all the prosperity that the coming years can possibly give you. (Cheers and applause)",
+"<span class=\"tnote\">&quot;today&quot; (p. 90, with a caret) and &quot;back&quot; (p. 90, above the x-ed out words) are typed in afterwards between the lines. A hand slash follows the x-ed out &quot;at home&quot;.</span>\n<span class=\"tnote\">Words x-ed out on the typewriter: &quot;<span class=\"unc\" title=\"uncertain reading\">Railroad</span>&quot; and &quot;<span class=\"unc\" title=\"uncertain reading\">at home</span>&quot; (p. 90, letters partly legible), &quot;<del title=\"struck through\">xxxx</del>&quot; after &quot;until I&quot; and &quot;<del title=\"struck through\">xx</del>&quot; after &quot;there are&quot; (p. 90), &quot;<span class=\"unc\" title=\"uncertain reading\">his</span>&quot; and &quot;<del title=\"struck through\">xxxxx</del>&quot; after &quot;in the&quot; (p. 91), &quot;<del title=\"struck through\">xxx</del>&quot;, &quot;<del title=\"struck through\">xxxx</del>&quot;, &quot;<span class=\"unc\" title=\"uncertain reading\">material</span>&quot; and &quot;<del title=\"struck through\">xxx</del>&quot; (p. 92), &quot;<del title=\"struck through\">xxxx</del>&quot; (p. 93). The short word after &quot;as a man&quot; on p. 93 is blotted out by hand.</span>\n<span class=\"tnote\">Hand corrections: &quot;metal&quot; is struck through twice on p. 92 and &quot;mettle&quot; written above; the comma after &quot;cattle&quot; (p. 91) and after &quot;will&quot; (p. 93), and the &quot;a&quot; in &quot;square&quot; (p. 91) are added by hand. On p. 93 &quot;and I greet you&quot; is struck through by hand and a circled period put after &quot;union&quot;.</span>\n<span class=\"tnote\">Hand marks that do not change words: an ink touch on the &quot;o&quot; of &quot;proud&quot; (p. 91), a slash after &quot;Congress&quot; (p. 91), a close-up mark in &quot;himse lf&quot; (p. 91, given as &quot;himself&quot;), and vertical strokes after &quot;an&quot; in &quot;getting an honest&quot;, and through the run-together &quot;squarelywith&quot; and &quot;interestneither&quot; (p. 92).</span>\n<span class=\"tnote\">The first word of the salutation is read as &quot;Fellow&quot;; its initial letter is faintly printed and looks like a lower-case &quot;r&quot; or &quot;y&quot;. Several letters are typed over others (&quot;in this state&quot;, &quot;freight&quot;, &quot;endure&quot;, &quot;nights&quot;, &quot;farmer&quot;, &quot;worth&quot;, &quot;could&quot;, &quot;heart&quot;, &quot;possibly&quot;) and read as given.</span>\n<span class=\"tnote\">Third look: typed page numbers &quot;-2-&quot;, &quot;-3-&quot; and &quot;-4-&quot; head pp. 91-93 and are not transcribed in the body.</span>"
+],
+"notes": [
+"\"today\" (p. 90, with a caret) and \"back\" (p. 90, above the x-ed out words) are typed in afterwards between the lines. A hand slash follows the x-ed out \"at home\".",
+"Words x-ed out on the typewriter: \"Railroad [?]\" and \"at home [?]\" (p. 90, letters partly legible), \"\" after \"until I\" and \"\" after \"there are\" (p. 90), \"his [?]\" and \"\" after \"in the\" (p. 91), \"\", \"\", \"material [?]\" and \"\" (p. 92), \"\" (p. 93). The short word after \"as a man\" on p. 93 is blotted out by hand.",
+"Hand corrections: \"metal\" is struck through twice on p. 92 and \"mettle\" written above; the comma after \"cattle\" (p. 91) and after \"will\" (p. 93), and the \"a\" in \"square\" (p. 91) are added by hand. On p. 93 \"and I greet you\" is struck through by hand and a circled period put after \"union\".",
+"Hand marks that do not change words: an ink touch on the \"o\" of \"proud\" (p. 91), a slash after \"Congress\" (p. 91), a close-up mark in \"himse lf\" (p. 91, given as \"himself\"), and vertical strokes after \"an\" in \"getting an honest\", and through the run-together \"squarelywith\" and \"interestneither\" (p. 92).",
+"The first word of the salutation is read as \"Fellow\"; its initial letter is faintly printed and looks like a lower-case \"r\" or \"y\". Several letters are typed over others (\"in this state\", \"freight\", \"endure\", \"nights\", \"farmer\", \"worth\", \"could\", \"heart\", \"possibly\") and read as given.",
+"Third look: typed page numbers \"-2-\", \"-3-\" and \"-4-\" head pp. 91-93 and are not transcribed in the body."
+],
+"file": "transcriptions/1903-04-07-bismarck.txt"
 },
-"distinctive": [],
-"stats": null
+"text_source": "typescript",
+"themes": [
+"military",
+"law-courts",
+"civil-war",
+"farming"
+],
+"mentions": {
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+},
+{
+"id": "david-farragut",
+"name": "David Farragut",
+"count": 1
+}
+],
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 4
+},
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 2
+}
+]
+},
+"distinctive": [
+"applause",
+"comrades",
+"proud",
+"dakota",
+"weapons",
+"stuff",
+"products",
+"wanted",
+"fighting",
+"cattle"
+],
+"stats": {
+"words": 1626,
+"unique_words": 451,
+"sentences": 50,
+"avg_sentence": 32.5,
+"minutes": 13,
+"i_count": 27,
+"we_count": 14
+}
 },
 {
 "id": "1903-04-07-fargo",
@@ -17884,10 +18090,10 @@
 "islands",
 "philippine",
 "insurrection",
-"army",
 "filipinos",
-"militia",
+"army",
 "taft",
+"militia",
 "civil",
 "government",
 "philippines"
@@ -18366,10 +18572,17 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 567,
+"paragraphs": [
+"My Fellow-Citizens:",
+"I cannot say what pleasure it is to see you, to be back among you again. As I have traveled west through North Dakota to-day I have felt more and more that it was getting to be a good deal like coming back home.(Applause.) And from now on there will be few places where I shall stop in which I will not have some old friends among the people that greet me. I have been in your city in the old days. I came to North Dakota first twenty-three years ago; and for a number of years I lived out to the west here, on the Little Missouri, so I know your state pretty well. I know its people and I am proud of you. I have watched with keenest interest your growth and prosperity, and how you have gone. I am glad to see the success you have made of whatever you have turned your hands to- fine wheat growing and cattle raising and the like. But of all your crops I like the children best. (Cheers and applause.) They seem to be all right in quality and in quantity, and that is what counts-the kind of men and women you are going to have in this state. That is the thing that counts, and as I like the stock I am glad to see it kept up.",
+"I want to congratulate you upon the work that has been done in your schools. I have been struck by the public schools, the high schools, the normal schools all as I have come along to-day. The growth has been wonderful and it has been characteristic of the state-I may say of our people-that hand in hand with the material development has gone the upbuilding of the social and intellectual life, without which the material development can count for so little. We have a right to demand in a state and in a nation wisdom from the law makers; good legislation; honest and upright administration. Something can be done by law. If the laws are bad or are administered corruptly or inefficiently or timidly, it will be bad for all of us.",
+"But when is all said and done, the chief factor in any man's success must be that man's own individual qualities, his individual character. You men and women of North Dakota have built up this",
+"state because you have had the stuff in you to do it; because you have not been discouraged by adversity and hardship; because you have had the spirit that dares, the spirit that does; you have had endurance and physical hardihood and resolution, strength of mind, strength of body, strength of soul. If it had not been for those qualities you could not have won out in the contest with nature; you could not have made this state what it is. It has been a hard struggle-in many ways the work of the frontiersman always is hard; but then, gentlemen, I think that you will find that in the long run whatever is worth doing is hard. If it is an easy job it is not usually worth having. The men that win out are the men who are able and willing to work.",
+"I am very glad to see you, men, women and children. I am proud of you and I wish you well. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -18391,13 +18604,76 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0272, 0273",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0272",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My Fellow-Citizens:",
+"I cannot say what pleasure it is to see you, to be back among you again. As I have traveled west through North Dakota to-day I have felt more and more that it was getting to be a good deal like coming back home.(Applause.) And from now on there will be few places where I shall stop in which I will not have some old friends among the people that greet me. I have been in your city in the old days. I came to North Dakota first twenty-three years ago; and for a number of years I lived out to the west here, on the Little Missouri, so I know your state pretty well. I know its people and I am proud of you. I have watched with keenest interest your growth and prosperity, and how you have gone. I am glad to see the success you have made of whatever you have turned your hands to- fine wheat growing and cattle raising and the like. But of all your crops I like the children best. (Cheers and applause.) They seem to be all right in quality and in quantity, and that is what counts-the kind of men and women you are going to have in this state. That is the thing that counts, and as I like the stock I am glad to see it kept up.",
+"I want to congratulate you upon the work that has been done in your schools. I have been struck by the public schools, the high schools, the normal schools all as I have come along to-day. The growth has been wonderful and it has been characteristic of the state-I may say of our people-that hand in hand with the material development has gone the upbuilding of the social and intellectual life, without which the material development can count for so little. We have a right to demand in a state and in a nation wisdom from the law makers; good legislation; honest and upright administration. Something can be done by law. If the laws are bad or are administered corruptly or inefficiently or timidly, it will be bad for all of us.",
+"But when is all said and done, the chief factor in any man's success must be that man's own individual qualities, his individual character. You men and women of North Dakota have built up this",
+"state because you have had the stuff in you to do it; because you have not been discouraged by adversity and hardship; because you have had the spirit that dares, the spirit that does; you have had endurance and physical hardihood and resolution, strength of mind, strength of body, strength of soul. If it had not been for those qualities you could not have won out in the contest with nature; you could not have made this state what it is. It has been a hard struggle-in many ways the work of the frontiersman always is hard; but then, gentlemen, I think that you will find that in the long run whatever is worth doing is hard. If it is an easy job it is not usually worth having. The men that win out are the men who are able and willing to work.",
+"I am very glad to see you, men, women and children. I am proud of you and I wish you well. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 94 (frame 425:0272)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Fellow-Citizens:",
+"I cannot say what pleasure it is to see you, to be back among you again. As I have traveled west through North Dakota to-day I have felt more and more that it was getting to be a good deal like coming back home.(Applause.) And from now on there will be few places where I shall stop in which I will not have some old friends among the people that greet me. I have been in your city in the old days. I <span class=\"sic\" title=\"reads: came\">c ame</span> to North Dakota first twenty-three years ago; and for a number of years I live<ins title=\"added by hand\">d</ins> out to the west here,on the Little Missouri, so I know your state pretty well. I know its people and I am proud of you. I have watched with keenest interest your growth and prosperity, and how you have gone. I am glad to see the success you have made of whatever you have turned your hands to- fine wheat growing and cattle raising and the like. But of all your crops I like the children best. (Cheers and <span class=\"sic\" title=\"reads: applause\">appl ause</span>.) They seem to be all right in quality and in quantity, and that is what counts-the kind of men and women you are going to <span class=\"sic\" title=\"reads: have\">h ave</span> in this state. That is the thing that counts, and as I like the stock I am glad to see it kept up.",
+"I want to congratulate you upon the work that has been done in your schools. I have been struck by the public schools, the high schools, the normal schools all as I have come along to-day. The growth has been wonderful and it has been characteristic of the state-I may say of our people-that hand in hand with the material development has gone the upbuilding of the social and intellectual life,without which the material development can count for so little. We have a right to demand in a state and in a nation wisdom from the law makers; good legislation; honest and upright administration. Something can be done by law. If the laws are bad or are administered corruptly or <span class=\"sic\" title=\"reads: inefficiently\">inefficientky</span> or timidly, it will be bad for all of us.",
+"But when is all said and done, the chief factor in any man&#x27;s success must be that man&#x27;s own individual qualities, his individual character. You men and women of North Dakota have built up this",
+"<span class=\"pb\">Page 95 (frame 425:0273)</span>",
+"state because you have had the stuff in you to do it; because you have not been discouraged by adversity and hardship; because you have had the spirit that dares , the spirit that does; you have had endurance and physical hardihood and <del title=\"struck through\">xx</del> resolution, strength of mind, strength of body, strength of soul. If it had not been for those <span class=\"sic\" title=\"reads: qualities you\">qualitiesyou</span> could not have won out in the contest with nature; you could not have made this state what it is. It has been a hard struggle-in many ways the work of the frontiersman always is hard; but then,gentlemen, I think that you will find that in the long run whatever is worth doing is hard. If it is an easy job it is not usually worth having. <span class=\"sic\" title=\"reads: The\">Th e</span> men that win out are the men who are able and willing to work.",
+"I am very glad to see you, men, women and children. I am proud of you and I wish you well. (Cheers and applause.)",
+"<span class=\"tnote\">&quot;d&quot; is added by hand after &quot;live&quot; (p. 94). In &quot;But when is all said and done&quot; (p. 94) &quot;is&quot; and &quot;all&quot; are each marked by hand with transposition loops, meaning &quot;when all is said and done&quot;; the words are given in their typed order.</span>\n<span class=\"tnote\">Several letters are typed over others and read as given (e.g. &quot;where&quot;, &quot;twenty&quot;, &quot;is&quot; in &quot;That is the thing&quot;, &quot;schools&quot;, &quot;normal&quot;, &quot;from&quot;, &quot;character&quot;, &quot;you&quot;, &quot;not&quot;, &quot;hardihood&quot;, &quot;made&quot;, &quot;gentlemen&quot;, &quot;am&quot;). &quot;<del title=\"struck through\">xx</del>&quot; before &quot;resolution&quot; (p. 95) is x-ed out on the typewriter.</span>\n<span class=\"tnote\">Third look: typed page number &quot;-2-&quot; heads p. 95 and is not transcribed in the body.</span>"
+],
+"notes": [
+"\"d\" is added by hand after \"live\" (p. 94). In \"But when is all said and done\" (p. 94) \"is\" and \"all\" are each marked by hand with transposition loops, meaning \"when all is said and done\"; the words are given in their typed order.",
+"Several letters are typed over others and read as given (e.g. \"where\", \"twenty\", \"is\" in \"That is the thing\", \"schools\", \"normal\", \"from\", \"character\", \"you\", \"not\", \"hardihood\", \"made\", \"gentlemen\", \"am\"). \"\" before \"resolution\" (p. 95) is x-ed out on the typewriter.",
+"Third look: typed page number \"-2-\" heads p. 95 and is not transcribed in the body."
+],
+"file": "transcriptions/1903-04-07-mandan.txt"
+},
+"text_source": "typescript",
+"themes": [
+"strenuous",
+"law-courts",
+"education",
+"farming"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 4
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"schools",
+"dakota",
+"applause",
+"north",
+"strength",
+"hard",
+"women",
+"glad",
+"state",
+"work"
+],
+"stats": {
+"words": 567,
+"unique_words": 235,
+"sentences": 23,
+"avg_sentence": 24.7,
+"minutes": 4,
+"i_count": 23,
+"we_count": 1
+}
 },
 {
 "id": "1903-04-07-richardton",
@@ -18589,10 +18865,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 179,
+"paragraphs": [
+"My fellow Citizens:",
+"In greeting you all, let me first say a special word of greeting to the veterans of the great war, to the men without whom we would not have any country here of which to be proud; and next to my own comrades, the men of the National Guard, the men some of whom served in the Philippine Islands. All that I can say of ourselves, the men of the lesser war, is that we tried to follow in the footsteps of the men of the great war.",
+"I greet you all. I feel at home here in North Dakota. It was twenty-three years ago that I first came to your state, when it was then a territory. I know you well. I congratulate you upon upon all you do in wheat growing and stock raising, but above all, in the kind of men and women you grow. (Applause) And here, with your normal and your high schools, whose professor I have just met, I see you are preparing for the next crop -- the children. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -18614,13 +18894,61 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0268",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0268",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My fellow Citizens:",
+"In greeting you all, let me first say a special word of greeting to the veterans of the great war, to the men without whom we would not have any country here of which to be proud; and next to my own comrades, the men of the National Guard, the men some of whom served in the Philippine Islands. All that I can say of ourselves, the men of the lesser war, is that we tried to follow in the footsteps of the men of the great war.",
+"I greet you all. I feel at home here in North Dakota. It was twenty-three years ago that I first came to your state, when it was then a territory. I know you well. I congratulate you upon upon all you do in wheat growing and stock raising, but above all, in the kind of men and women you grow. (Applause) And here, with your normal and your high schools, whose professor I have just met, I see you are preparing for the next crop -- the children. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 85 (frame 425:0268)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My fellow Citizens:",
+"In greeting you all, let me first say a special word of greeting to the veterans of the great war, to the men without whom we would not have any country here of which to be proud; and next to my own comrades, the men of the National Guard, the men some of whom served in the Philippine<del title=\"struck through\">x</del> Islands. All that I can say of ourselves, the men of the lesser war, is that we tried to follow in the footsteps of the men of the great war.",
+"I greet you all. I feel at home here in North Dakota. It was twenty-three years ago that I first came to your state, when it was then a territory. I know you well. I congratulate you upon upon all you do in wheat <del title=\"struck through\">raising</del><ins title=\"added by hand\">growing</ins> and stock raising, but above all,in the kind of men and women you grow. (Applause) And here, with your normal and your high schools, whose professor I have just met, I see you are preparing for the next crop -- the children. (Applause)",
+"<span class=\"tnote\">&quot;raising&quot; after &quot;wheat&quot; is x-ed out on the typewriter and &quot;growing&quot; is typed above it.</span>\n<span class=\"tnote\">Hand marks that do not clearly change the words: a stroke over the letter after &quot;war&quot; (before the comma) in the first paragraph, and a stroke over the &quot;w&quot; of &quot;know&quot;. After &quot;Philippine&quot; an x is typed over a letter (apparently s), cancelling it and &quot;in&quot; after &quot;above all,&quot; is typed over another letter.</span>\n<span class=\"tnote\">The capital R of &quot;Roosevelt&quot; in the heading is set below the line (&quot;President Roosevelt&quot;).</span>\n<span class=\"tnote\">Third look: at native resolution the last letter of &quot;Philippine<del title=\"struck through\">x</del>&quot; is a heavy x struck over another letter, so the word as corrected reads &quot;Philippine&quot;.</span>"
+],
+"notes": [
+"\"raising\" after \"wheat\" is x-ed out on the typewriter and \"growing\" is typed above it.",
+"Hand marks that do not clearly change the words: a stroke over the letter after \"war\" (before the comma) in the first paragraph, and a stroke over the \"w\" of \"know\". After \"Philippine\" an x is typed over a letter (apparently s), cancelling it and \"in\" after \"above all,\" is typed over another letter.",
+"The capital R of \"Roosevelt\" in the heading is set below the line (\"President Roosevelt\").",
+"Third look: at native resolution the last letter of \"Philippine\" is a heavy x struck over another letter, so the word as corrected reads \"Philippine\"."
+],
+"file": "transcriptions/1903-04-07-valley-city.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 1
 },
-"distinctive": [],
-"stats": null
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
+},
+"distinctive": [
+"war"
+],
+"stats": {
+"words": 179,
+"unique_words": 98,
+"sentences": 7,
+"avg_sentence": 25.6,
+"minutes": 1,
+"i_count": 8,
+"we_count": 2
+}
 },
 {
 "id": "1903-04-07-fargo-2",
@@ -18770,10 +19098,20 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1201,
+"paragraphs": [
+"Mr. Mayor; Mr. Congressman; and you, my Fellow Citizens of this great State:",
+"I am glad indeed to be with you to-day; and deeply though I regret the absence of the Governor and its cause, let me say Mr. Chief Justice, that no man could fail to be touched and pleased in the highest degree by being met by the members of the Supreme Court of the State that he visits. For important though it is that the executive and legislative should go right, it is not merely important, it is vital to have the justiciary what it should be, what it is. Our government stands for liberty under the law, and that is what the bench typifies.",
+"Coming here to see you I do not come as a stranger, at least I do not feel so, I feel as if I was coming home. Yesterday and this morning I have been traveling through the country that I know so well. Montana has done very much for me, and I hope I am not ungrateful for it. It helped to train me. It is twenty years ago that I first came over the eastern border into what was then the territory of Montana; and for years I lived along the little Missouri where my cattle ranged in your state as well as in Dakota; for years I was a delegate from the Little Missouri stockmen to the Montana stockgrowers Association at Miles City, and I was just as sorry as I could be not to be able to pass through Miles City in daylight, for I have so often been there when I went on business and met the cattle men interested in business and met them from one end of your state to the other; and I know them too. It helped me, as I say, in many, many ways to be in your state. I have taken part in the life of your citizens in more than one direction. For instance, the knowledge that I got in traveling through and working in Montana, from association with the stockmen, from knowledge of the agricultural needs of the people around the head waters of the Little Missouri and its tributaries in the western part of the state -- that knowledge was one of the main causes of my becoming so convinced that it was absolutely necessary for the national government to do its part in promoting irrigation in arid and semi-arid regions. (Cheers and applause) I felt that what the improvement of the rivers and harbors was for the humid regions, so the care of the water in the upper portions of the water courses was for the people of the Rocky Mountain states and the great plains. (Applause)",
+"And there is no single act of legislation of the past Congress upon which I look back with greater satisfaction, or which I feel is of better augury for the future of our country than the irrigation law enacted by that Congress. (Applause)",
+"More thanthat, gentlemen and ladies, it was the experience that I had out here that was the main factor in putting me into touch with men and events so that I got my regiment. (Cheers and applause) I wanted to have in that regiment the same type of man I had met on the plains, and in the mountains, and in the cow camps, because I knew him. I feel bound to you by many ties -- to all the western people -- and in a sense particularly in this state which I know so well; this state with its literally boundless possibilities -- a state great now but to be infinitely greater in the future; with its mines, its cattle ranches, its agricultural regions and its extraordinary water power, a water power which will as the day follows the night make this state a great manufacturing state as well as a pastoral, and agricultural, and mining state. The diversification of your industries is great. Your products are many, of the mine, the cattle range, agriculture and to be of manufacturing; but the best product any state can have is the product of men and women. (Applause) I believe in you, not for what you produce, but for what you are. I am glad to see the men and women, and especially the children. (Applause)",
+"My fellow citizens, in making such prosperity as you have had several factors come in. Of course there must be the ground work of the favoring by nature, the favoring by Providence. Legislation can do something. Bad laws can harm the whole thing. If you have bad legislation you cannot more than partially overcome the harm it does. Good laws can do something, but honest administration of the laws can do more. But most of all has to be done by the individual man for himself. (Applause)",
+"The reason that the pioneers were able to make of this state what it is -- and I am addressing the pioneers and the sons and successors of pioneers -- was because you came into the territoryeach resolute to carve out his own fortune by his own right hand, with the help of a stout heart and a cool head. No legislation that ever was invented, none that the wit of man can ever devise, will make the fool wise, the coward brave, or the weakling strong. If you have not the right stuff in you, it is not there to get out of you. (Cheers and applause)",
+"Law can help, law can do something, but the man's individual character, his power of working for himself, his power of working in conjunction with his fellows, that is fundamentally the chief factor in the upbuilding of this nation, and must remain so. Our constitution, our system of free government, have done much for us. But there are other countries with constitutions modeled on ours which yet have lagged far, far behind in the race of progress, of civilization, of stable and orderly government and industrial development, and they have done it because, though the weapons were the same, the man that wielded them was different. It is the man behind the gun that counts in a battle. It is the man behind the law that counts in civil life. Nothing will take the place of strength, honesty, and courage in the individual man. You have won and have made this state what it is, and you will make it far greater than even your fondest dreams now teach you it may be made, because of the stuff there is in you, because of the character you have.",
+"I am glad to be here. I am glad to greet you. I am on my way to try to get a fortnight's holiday.. I shall be back in your state later on. This is the first time I have visited it since I have become President. I have been here at intervals for the past twenty years, and I have known your citizens in many different relations. I congratulate you upon what you have done with your state. I thank you for your greeting, and I wish you well with all my heart. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -18795,13 +19133,84 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0275, 0276",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0275",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor; Mr. Congressman; and you, my Fellow Citizens of this great State:",
+"I am glad indeed to be with you to-day; and deeply though I regret the absence of the Governor and its cause, let me say Mr. Chief Justice, that no man could fail to be touched and pleased in the highest degree by being met by the members of the Supreme Court of the State that he visits. For important though it is that the executive and legislative should go right, it is not merely important, it is vital to have the justiciary what it should be, what it is. Our government stands for liberty under the law, and that is what the bench typifies.",
+"Coming here to see you I do not come as a stranger, at least I do not feel so, I feel as if I was coming home. Yesterday and this morning I have been traveling through the country that I know so well. Montana has done very much for me, and I hope I am not ungrateful for it. It helped to train me. It is twenty years ago that I first came over the eastern border into what was then the territory of Montana; and for years I lived along the little Missouri where my cattle ranged in your state as well as in Dakota; for years I was a delegate from the Little Missouri stockmen to the Montana stockgrowers Association at Miles City, and I was just as sorry as I could be not to be able to pass through Miles City in daylight, for I have so often been there when I went on business and met the cattle men interested in business and met them from one end of your state to the other; and I know them too. It helped me, as I say, in many, many ways to be in your state. I have taken part in the life of your citizens in more than one direction. For instance, the knowledge that I got in traveling through and working in Montana, from association with the stockmen, from knowledge of the agricultural needs of the people around the head waters of the Little Missouri and its tributaries in the western part of the state -- that knowledge was one of the main causes of my becoming so convinced that it was absolutely necessary for the national government to do its part in promoting irrigation in arid and semi-arid regions. (Cheers and applause) I felt that what the improvement of the rivers and harbors was for the humid regions, so the care of the water in the upper portions of the water courses was for the people of the Rocky Mountain states and the great plains. (Applause)",
+"And there is no single act of legislation of the past Congress upon which I look back with greater satisfaction, or which I feel is of better augury for the future of our country than the irrigation law enacted by that Congress. (Applause)",
+"More thanthat, gentlemen and ladies, it was the experience that I had out here that was the main factor in putting me into touch with men and events so that I got my regiment. (Cheers and applause) I wanted to have in that regiment the same type of man I had met on the plains, and in the mountains, and in the cow camps, because I knew him. I feel bound to you by many ties -- to all the western people -- and in a sense particularly in this state which I know so well; this state with its literally boundless possibilities -- a state great now but to be infinitely greater in the future; with its mines, its cattle ranches, its agricultural regions and its extraordinary water power, a water power which will as the day follows the night make this state a great manufacturing state as well as a pastoral, and agricultural, and mining state. The diversification of your industries is great. Your products are many, of the mine, the cattle range, agriculture and to be of manufacturing; but the best product any state can have is the product of men and women. (Applause) I believe in you, not for what you produce, but for what you are. I am glad to see the men and women, and especially the children. (Applause)",
+"My fellow citizens, in making such prosperity as you have had several factors come in. Of course there must be the ground work of the favoring by nature, the favoring by Providence. Legislation can do something. Bad laws can harm the whole thing. If you have bad legislation you cannot more than partially overcome the harm it does. Good laws can do something, but honest administration of the laws can do more. But most of all has to be done by the individual man for himself. (Applause)",
+"The reason that the pioneers were able to make of this state what it is -- and I am addressing the pioneers and the sons and successors of pioneers -- was because you came into the territoryeach resolute to carve out his own fortune by his own right hand, with the help of a stout heart and a cool head. No legislation that ever was invented, none that the wit of man can ever devise, will make the fool wise, the coward brave, or the weakling strong. If you have not the right stuff in you, it is not there to get out of you. (Cheers and applause)",
+"Law can help, law can do something, but the man's individual character, his power of working for himself, his power of working in conjunction with his fellows, that is fundamentally the chief factor in the upbuilding of this nation, and must remain so. Our constitution, our system of free government, have done much for us. But there are other countries with constitutions modeled on ours which yet have lagged far, far behind in the race of progress, of civilization, of stable and orderly government and industrial development, and they have done it because, though the weapons were the same, the man that wielded them was different. It is the man behind the gun that counts in a battle. It is the man behind the law that counts in civil life. Nothing will take the place of strength, honesty, and courage in the individual man. You have won and have made this state what it is, and you will make it far greater than even your fondest dreams now teach you it may be made, because of the stuff there is in you, because of the character you have.",
+"I am glad to be here. I am glad to greet you. I am on my way to try to get a fortnight's holiday.. I shall be back in your state later on. This is the first time I have visited it since I have become President. I have been here at intervals for the past twenty years, and I have known your citizens in many different relations. I congratulate you upon what you have done with your state. I thank you for your greeting, and I wish you well with all my heart. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 99 (frame 425:0275)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Mayor; Mr. Congressman; and you, my Fellow Citizens of this great State:",
+"I am glad indeed to be with you to-day; and deeply though I regret the absence of the Governor and its cause, let me say Mr. Chief <span class=\"sic\" title=\"reads: Justice\">Justi ce</span>, that no man could fail to be touched and pleased in the highest degree by being met by the members of the Supreme Court of the State that he visits. For important though it is that the executive and legislative should go right, it is not merely important, it is vital to have the justiciary what it should be, what it is. Our <span class=\"sic\" title=\"reads: government\">g overnment</span> stands for liberty under the law, and that is what the bench typifies.",
+"Coming here to see you I do not come as a stranger, at least I do not feel so, I feel as if I was coming home. Yesterday and this morning I have been traveling through the country that I know so well.<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">and</span></del> Montana has done very much for me, and I hope I am not ungrateful for it. It helped to train me. It is twenty years ago that I first came over the eastern border into what was then the territory of Montana; and for years <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">my cattle rang</span></del> I lived along the little Missouri where my cattle ranged in your state as well as in Dakota; for years I was a delegate from the Little Missouri stockmen to the Montana stockgrowers Association at Miles City, and I was just as sorry as I could be not to be able to pass through Miles City in daylight, for I have so often been there when I went on business and met the cattle men interested in business and met them from one end of your state to the other; and I know them too. It helped me, as I say, in many, many ways to be in your state. I have taken part in the life of your citizens in more than one direction. For instance, the knowledge that I got in traveling through and working in Montana, from association with the stockmen, from knowledge of the agricultural needs of the people around the head waters of the Little Missouri and its <span class=\"sic\" title=\"reads: tributaries\">t ributaries</span> in the western part of the state -- that knowledge was one of the main <del title=\"struck through\">xxxxxxx</del> causes of my becoming so <span class=\"sic\" title=\"reads: convinced\">co nvinced</span> that it was absolutely necessary for the national government to do its part in promoting irrigation in arid and semi-arid regions. (Cheers and applause) I felt that what the improvement of the rivers and harbors was for the humid regions, so the care of the water in the upper portions of the water courses was for the people of the Rocky Mountain states and the great plains. ( Applause)",
+"<span class=\"pb\">Page 100 (frame 425:0275)</span>",
+"And there is no single act of legislation of the past Congress upon which I look back with greater satisfaction , or which I feel is of better augury for the future of our country than the irrigation law enacted by that Congress. (Applause)",
+"More than<ins title=\"added by hand\">that</ins>, gentlemen and ladies, it was the <span class=\"sic\" title=\"reads: experience\">ex perience</span> that I had out here that was the <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">main</ins> factor<del title=\"struck through\">s</del> in putting me into touch with men and events so that I got my regiment. (Cheers and applause) I wanted to have in that regiment the same type of man I had met on the plains, and in the mountains, and <span class=\"sic\" title=\"reads: in the\">inthe</span> cow camps, because I knew him. I feel bound to<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> you by many ties -- to all the western people -- and in a sense particularly in this state which I know so well; this state with its literally boundless possibilities -- a state great now but to be infinitely greater in the future; with its mines, its cattle ranches, its agricultural regions and its extraordinary water power, a water power which will as the day follows the night make this state a great manufacturing state as well as a pastoral, and agricultural, and mining state. The diversification of your industries is great. Your products are many, of the mine, the cattle range, agriculture and to be of manufacturing; but the best product any state can have is the product of men and women. (Applause) I believe in you, not for what you produce, but for what you are. I am glad to see the men and women, and especially the children. (Applause)",
+"My fellow citizens, in making such prosperity as you have had several factors come in. Of course there must be the ground work of the favoring by nature, the favoring by Providence. Legislation can do something. Bad laws can harm the <span class=\"sic\" title=\"reads: whole\">wh ole</span> thing. If you have bad legislation you cannot more than partially overcome the harm it does. Good laws can do something, but honest administration of the laws can do more. But most of all has to be done by the individual man for himself. (Applause)",
+"The reason that the pioneers were able to make of this state what it is -- and I am <span class=\"sic\" title=\"reads: addressing\">addre ssing</span> the pioneers and the sons and successors of pioneers -- was <span class=\"sic\" title=\"reads: because\">bcause</span> you <span class=\"sic\" title=\"reads: came\">ca me</span> into the territory<ins title=\"added by hand\">each</ins> resolute <span class=\"sic\" title=\"reads: to carve\">tocarve</span> out his own fortune by his own right hand, with the help of a stout heart and a cool head. No legislation that ever was invented, none that the wit of man can ever devise, will make the fool wise, the coward brave,or the weakling strong. If you have not the right stuff in you,<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">why</span></del> it is not there to get out of you . (Cheers and applause)",
+"<span class=\"pb\">Page 101 (frame 425:0276)</span>",
+"Law can help, law can do something, but the man&#x27;s individual character, his power of working for himself, his power of working in conjunction with his fellows,<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> that is fundamentally the chief factor in the upbuilding of this nation, and must remain so. Our <del title=\"struck through\">x</del> constitution, our system of free government, have done much for us. But there are other countries with constitutions modeled on ours which yet have lagged far, far behind in the race of progress, of civilization, of stable and orderly government and industrial development, and they have done it because, though the weapons were the same, the man that wielded them was different. It is the man behind the gun that counts in a battle. It is the man behind the law that counts in civil life. Nothing will take the place of strength, honesty, and courage in the individual man. You have won and have made this state what it is, and you will make it far greater than even your fondest dreams now teach you it may be made, because of the stuff there is in you, because of the character you have.",
+"I am glad to be here. I am glad to greet you. I am on my way to try to get a fortnight&#x27;s holiday. <del title=\"struck through\">For the last eighteen months I have taken everything as it came, from coal strikes to <span class=\"unc\" title=\"uncertain reading\">trolley cars</span>, and <span class=\"unc\" title=\"uncertain reading\">I feel I am</span> entitled to a fortnight to myself. <span class=\"illeg\">[illegible]</span> <span class=\"unc\" title=\"uncertain reading\">glad to greet you</span></del>. I shall be back in your state later on. This is the first time I have visited it since I have become President. I have been here at intervals for the past twenty years, and I have known your citizens in many different relations. I congratulate you upon what you have done with your state. I thank you for your greeting, and I wish you well with all my heart. (Cheers and applause)",
+"<span class=\"tnote\">Hand corrections on p. 100: &quot;that&quot; written above after &quot;More than&quot;; a blotted-out word before &quot;factor&quot; with &quot;main&quot; written above and a caret; a stroke through the final &quot;s&quot; of &quot;factors&quot;; &quot;each&quot; written above with a caret after &quot;territory&quot;. Words blotted out by hand and unreadable follow &quot;bound to&quot; and &quot;you,&quot; (&quot;why&quot; is a guess for the latter).</span>\n<span class=\"tnote\">On p. 101 three typed lines, from &quot;For the last eighteen months&quot; to &quot;glad to greet you&quot;, are struck through by hand with heavy lines and the start of the last line is further blotted; the words are given as far as they can be made out. A short mark after &quot;fellows,&quot; is also blotted by hand.</span>\n<span class=\"tnote\">On p. 99 a hand slash follows &quot;well&quot;, then a typed period and an x-ed out word that looks like &quot;and&quot;. Other x-ed out typing: &quot;<span class=\"unc\" title=\"uncertain reading\">my cattle rang</span>&quot; and &quot;<del title=\"struck through\">xxxxxxx</del>&quot; before &quot;causes&quot; (p. 99), &quot;<del title=\"struck through\">x</del>&quot; before &quot;constitution&quot; (p. 101).</span>\n<span class=\"tnote\">The last letter of &quot;than&quot; in &quot;country than the irrigation law&quot; (p. 100) is marked by hand. Letters are typed or inked over in &quot;that the executive&quot;, &quot;visits&quot;, &quot;morning&quot;, &quot;could&quot;, &quot;more&quot;, &quot;Cheers&quot;, &quot;was for the humid&quot;, &quot;does&quot;, &quot;make&quot;, &quot;remain&quot;, &quot;civilization&quot;, &quot;wielded&quot;, &quot;strength&quot; and &quot;glad&quot;; all read as given.</span>\n<span class=\"tnote\">Third look: typed page numbers &quot;-2-&quot; and &quot;-3-&quot; head pp. 100 and 101 and are not transcribed in the body.</span>"
+],
+"notes": [
+"Hand corrections on p. 100: \"that\" written above after \"More than\"; a blotted-out word before \"factor\" with \"main\" written above and a caret; a stroke through the final \"s\" of \"factors\"; \"each\" written above with a caret after \"territory\". Words blotted out by hand and unreadable follow \"bound to\" and \"you,\" (\"why\" is a guess for the latter).",
+"On p. 101 three typed lines, from \"For the last eighteen months\" to \"glad to greet you\", are struck through by hand with heavy lines and the start of the last line is further blotted; the words are given as far as they can be made out. A short mark after \"fellows,\" is also blotted by hand.",
+"On p. 99 a hand slash follows \"well\", then a typed period and an x-ed out word that looks like \"and\". Other x-ed out typing: \"my cattle rang [?]\" and \"\" before \"causes\" (p. 99), \"\" before \"constitution\" (p. 101).",
+"The last letter of \"than\" in \"country than the irrigation law\" (p. 100) is marked by hand. Letters are typed or inked over in \"that the executive\", \"visits\", \"morning\", \"could\", \"more\", \"Cheers\", \"was for the humid\", \"does\", \"make\", \"remain\", \"civilization\", \"wielded\", \"strength\" and \"glad\"; all read as given.",
+"Third look: typed page numbers \"-2-\" and \"-3-\" head pp. 100 and 101 and are not transcribed in the body."
+],
+"file": "transcriptions/1903-04-08-livingston.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts",
+"farming",
+"the-west"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 3
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"montana",
+"applause",
+"cattle",
+"cheers",
+"missouri",
+"pioneers",
+"state",
+"regions",
+"water",
+"agricultural"
+],
+"stats": {
+"words": 1201,
+"unique_words": 399,
+"sentences": 38,
+"avg_sentence": 31.6,
+"minutes": 9,
+"i_count": 45,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-08-gardiner",
@@ -20846,8 +21255,8 @@
 "expansion",
 "thirteen",
 "louisiana",
-"territory",
 "process",
+"territory",
 "purchase",
 "westward",
 "original",
@@ -22639,8 +23048,8 @@
 "canyon",
 "irrigation",
 "preserve",
-"children",
 "benefit",
+"children",
 "country"
 ],
 "stats": {
@@ -24632,8 +25041,8 @@
 "distinctive": [
 "mckinley",
 "monument",
-"lesson",
 "war",
+"lesson",
 "relations",
 "virtues",
 "sons",
@@ -30359,8 +30768,8 @@
 "baltimore",
 "german",
 "immigration",
-"civil",
 "capacity",
+"civil",
 "union",
 "side",
 "land",
@@ -30665,7 +31074,7 @@
 "boys",
 "admire",
 "young",
-"strong"
+"expect"
 ],
 "stats": {
 "words": 1336,
@@ -30985,8 +31394,8 @@
 "places": []
 },
 "distinctive": [
-"greet",
 "play",
+"greet",
 "glad",
 "believe",
 "children"
@@ -31084,8 +31493,8 @@
 "civil",
 "victory",
 "gallant",
-"grand",
 "liberty",
+"grand",
 "new"
 ],
 "stats": {
@@ -31187,8 +31596,8 @@
 "sherman",
 "statue",
 "patriotism",
-"loyalty",
 "memory",
+"loyalty",
 "average",
 "deeds",
 "memories",
@@ -31272,8 +31681,8 @@
 "cheerfully",
 "fresh",
 "soul",
-"lord",
 "burden",
+"lord",
 "church",
 "responsibility"
 ],
@@ -31845,8 +32254,8 @@
 "isthmus",
 "panama",
 "colombian",
-"congress",
 "canal",
+"congress",
 "revolution",
 "united",
 "granada"
@@ -32547,8 +32956,8 @@
 "ideal",
 "eleven",
 "school",
-"physical",
 "athletics",
+"physical",
 "prowess"
 ],
 "stats": {
@@ -33664,8 +34073,8 @@
 "qualities",
 "future",
 "average",
-"strength",
 "field",
+"strength",
 "courage",
 "regard"
 ],
@@ -34012,8 +34421,8 @@
 "reserves",
 "indian",
 "congress",
-"islands",
 "labor",
+"islands",
 "government",
 "bureau",
 "alaska"
@@ -34162,7 +34571,7 @@
 "reward",
 "necessarily",
 "america",
-"administration"
+"work"
 ],
 "stats": {
 "words": 886,
@@ -34391,8 +34800,8 @@
 "arbitration",
 "courage",
 "step",
-"prepare",
 "training",
+"prepare",
 "ships"
 ],
 "stats": {
@@ -34775,7 +35184,7 @@
 "president",
 "end",
 "children",
-"back"
+"brought"
 ],
 "stats": {
 "words": 1439,
@@ -35177,8 +35586,8 @@
 "children",
 "family",
 "self-indulgence",
-"self-sacrifice",
 "mother",
+"self-sacrifice",
 "mothers",
 "woman's",
 "wife",
@@ -35287,7 +35696,7 @@
 "immigrants",
 "eighteenth",
 "sons",
-"generals"
+"philadelphia"
 ],
 "stats": {
 "words": 2055,
@@ -35398,7 +35807,7 @@
 "built",
 "hit",
 "defence",
-"militia"
+"victories"
 ],
 "stats": {
 "words": 2426,
@@ -35622,8 +36031,8 @@
 "agree",
 "railroad",
 "square",
-"pretty",
 "panama",
+"pretty",
 "injustice",
 "rich",
 "poor",
@@ -35773,8 +36182,8 @@
 "corporate",
 "attack",
 "rules",
-"army",
 "legitimate",
+"army",
 "wealth"
 ],
 "stats": {
@@ -35874,10 +36283,10 @@
 "texas",
 "children",
 "wore",
-"wanted",
 "day's",
 "commander",
-"care"
+"wanted",
+"weapon"
 ],
 "stats": {
 "words": 3426,
@@ -35963,10 +36372,10 @@
 "carries",
 "family",
 "neighbors",
-"army",
 "mean",
-"win",
+"army",
 "average",
+"win",
 "stuff"
 ],
 "stats": {
@@ -37920,8 +38329,8 @@
 "cotton",
 "china",
 "chinese",
-"wealth",
 "senator",
+"wealth",
 "boycott",
 "planter",
 "islands",
@@ -38273,8 +38682,8 @@
 "race",
 "interested",
 "white",
-"fellow-citizens",
-"true"
+"true",
+"fellow-citizens"
 ],
 "stats": {
 "words": 765,
@@ -38350,8 +38759,8 @@
 "navy",
 "ship",
 "panama",
-"mayor",
-"ships"
+"ships",
+"mayor"
 ],
 "stats": {
 "words": 1479,
@@ -38915,8 +39324,8 @@
 "distinctive": [
 "louisiana",
 "greeted",
-"governor",
 "orleans",
+"governor",
 "gratitude",
 "mayor",
 "summer",
@@ -39099,8 +39508,8 @@
 "ship's",
 "surrender",
 "died",
-"officer",
 "navy",
+"officer",
 "captain",
 "company",
 "officers"
@@ -39701,8 +40110,8 @@
 "measures",
 "wealth",
 "action",
-"opposition",
 "wrong",
+"opposition",
 "evils",
 "organization",
 "courage"
@@ -39820,8 +40229,8 @@
 "speed",
 "thank",
 "guns",
-"gun",
-"trip"
+"trip",
+"gun"
 ],
 "stats": {
 "words": 1101,
@@ -39965,8 +40374,8 @@
 "distinctive": [
 "medical",
 "profession",
-"army",
 "corps",
+"army",
 "panama",
 "disaster",
 "department",
@@ -40413,8 +40822,8 @@
 "lower",
 "getting",
 "department",
-"law",
-"business"
+"business",
+"law"
 ],
 "stats": {
 "words": 655,
@@ -40480,8 +40889,8 @@
 "ink",
 "bureaus",
 "work",
-"department",
 "red",
+"department",
 "committees",
 "responsible"
 ],
@@ -40884,7 +41293,7 @@
 "public",
 "sanity",
 "attack",
-"discriminate"
+"worse"
 ],
 "stats": {
 "words": 3310,
@@ -41529,8 +41938,8 @@
 "befallen",
 "army",
 "afloat",
-"civil",
 "ashore",
+"civil",
 "everyday",
 "average"
 ],
@@ -41594,8 +42003,8 @@
 "court",
 "criticism",
 "supreme",
-"bench",
 "names",
+"bench",
 "justice",
 "weight",
 "fortune",
@@ -41889,9 +42298,9 @@
 "disregards",
 "college",
 "intellect",
-"prowess",
 "learning",
 "boy",
+"prowess",
 "condemn",
 "students",
 "count"
@@ -42053,8 +42462,8 @@
 "trials",
 "farm",
 "problems",
-"factor",
 "supervision",
+"factor",
 "lay",
 "government",
 "city",
@@ -43621,8 +44030,8 @@
 "distinctive": [
 "timber",
 "forest",
-"range",
 "lands",
+"range",
 "land",
 "fraud",
 "commutation",
@@ -43695,8 +44104,8 @@
 "secretary",
 "schools",
 "school",
-"children",
 "persons",
+"children",
 "report",
 "property"
 ],
@@ -43971,8 +44380,8 @@
 },
 "distinctive": [
 "company",
-"valley",
 "river",
+"valley",
 "imperial",
 "california",
 "colorado",
@@ -44759,9 +45168,9 @@
 ]
 },
 "distinctive": [
-"regiment",
 "dead",
 "grief",
+"regiment",
 "army",
 "lesson",
 "admiration",
@@ -45935,9 +46344,9 @@
 "land",
 "fencing",
 "master",
-"range",
 "actual",
 "commodities",
+"range",
 "farmer",
 "homesteaders",
 "correspondent"
@@ -46054,8 +46463,8 @@
 "railroads",
 "constitution",
 "national",
-"interpreted",
 "canal",
+"interpreted",
 "corporations",
 "highway"
 ],
@@ -46523,8 +46932,8 @@
 "generation",
 "tennessee",
 "change",
-"stuff",
 "blue",
+"stuff",
 "gray"
 ],
 "stats": {
@@ -46959,8 +47368,8 @@
 ]
 },
 "distinctive": [
-"law",
 "interstate",
+"law",
 "tax",
 "government",
 "congress",
@@ -47858,9 +48267,9 @@
 "peace",
 "navy",
 "military",
+"measures",
 "treaties",
-"oppression",
-"measures"
+"oppression"
 ],
 "stats": {
 "words": 1727,
@@ -48221,8 +48630,8 @@
 "mexico",
 "trip",
 "peoples",
-"western",
 "republics",
+"western",
 "occasion"
 ],
 "stats": {
@@ -48546,8 +48955,8 @@
 "evil",
 "grown",
 "true",
-"national",
-"material"
+"material",
+"national"
 ],
 "stats": {
 "words": 1387,
@@ -48988,11 +49397,11 @@
 },
 "distinctive": [
 "career",
-"sheridan",
 "cavalry",
+"sheridan",
 "ideal",
-"nation's",
 "general",
+"nation's",
 "grant",
 "indeed",
 "army",
@@ -49370,10 +49779,10 @@
 "courts",
 "fisheries",
 "control",
-"mountains",
 "corporations",
 "deforestation",
-"savings"
+"mountains",
+"employees"
 ],
 "stats": {
 "words": 19444,
@@ -49518,9 +49927,9 @@
 "liberty",
 "imagination",
 "art",
-"head",
 "modem",
 "coin",
+"head",
 "conventional",
 "beautiful"
 ],
@@ -50548,8 +50957,8 @@
 "farming",
 "agriculture",
 "farmer",
-"life",
 "agricultural",
+"life",
 "towns",
 "plan"
 ],
@@ -50637,9 +51046,9 @@
 "practical",
 "possessed",
 "brother",
-"lived",
 "devotion",
-"common"
+"lived",
+"struggle"
 ],
 "stats": {
 "words": 1535,
@@ -50732,8 +51141,8 @@
 },
 "distinctive": [
 "conference",
-"children",
 "agencies",
+"children",
 "dependent",
 "conclusions",
 "charities",
@@ -51564,7 +51973,7 @@
 "individualism",
 "orator",
 "reward",
-"qualities"
+"virtues"
 ],
 "stats": {
 "words": 8833,
@@ -51645,8 +52054,8 @@
 "peace",
 "prize",
 "agreement",
-"court",
 "armaments",
+"court",
 "international",
 "treaties",
 "arbitration",
@@ -52590,8 +52999,8 @@
 "wonderful",
 "men's",
 "insist",
-"honesty",
-"ahead"
+"ahead",
+"honesty"
 ],
 "stats": {
 "words": 1246,
@@ -53046,10 +53455,10 @@
 "steal",
 "commission",
 "principle",
-"dakota",
 "maverick",
-"square",
-"exceptional"
+"exceptional",
+"dishonestly",
+"dakota"
 ],
 "stats": {
 "words": 4194,
@@ -53566,12 +53975,12 @@
 "violence",
 "law",
 "wage",
-"union",
 "corporation",
+"union",
 "justice",
 "policeman",
-"miners",
 "workers",
+"miners",
 "employees"
 ],
 "stats": {
@@ -53661,9 +54070,9 @@
 "nationalism",
 "judicial",
 "dissenting",
+"rights",
 "abraham",
 "lincoln",
-"rights",
 "court"
 ],
 "stats": {
@@ -55689,14 +56098,14 @@
 "distinctive": [
 "wilson",
 "applause",
-"bullet",
 "shot",
+"bullet",
 "friends",
 "party",
 "republican",
 "wisconsin",
 "roosevelt",
-"col"
+"movement"
 ],
 "stats": {
 "words": 5177,
