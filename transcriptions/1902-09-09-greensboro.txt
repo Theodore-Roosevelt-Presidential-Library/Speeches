@@ -1,0 +1,22 @@
+---
+speech: 1902-09-09-greensboro
+title: Remarks of President Roosevelt at Greensboro, N.C., Sept.9,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0711
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0711
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 58 424:0711]
+
+[margin: File]
+[margin: not given [?out?]]
+
+My fellow citizens; men and women of North Carolina:
+
+I shall say just a word of greeting to you. I have enjoyed to the full my trip through North Carolina to-day. I have enjoyed seeing the signs of the great industrial development of this . I speak from the heart when I say that I feel that here in this state, as also in eastern Tennessee, and in the immediate neighborhood, you have that region of all our country in which this century that has opened will see the greatest industrial development.(Cheers and applause) Now, gentlemen, I should be glad of that anyhow for your sakes, because I am an American and I wish to see my fellow Americans prosper. But more than that, no one section of this country can prosper greatly without its helping other {sectic ns|sections}.(Applause) If we have a period of good times, more or less of the prosperity comes to all of us; and if there are bad times they come all over the Union; they do not stop for state lines. In '93 we were not very happy in New York, and I guess you [-xxxxxxx-] had a middling rough time here. Now we are getting on well as a whole, and we are getting on well as a consequence all over the Union. (Cries of "Good." With 80,000,000 people you cannot make all prosperous- not to save your necks- but you can arrange the conditions so that each man shall have the best chance [-xxx-] of prospering. No law, no general condition in the country will give a man intelligence if he hasn't got it; will give a man courage if he is a coward; will make a man decent if he is a knave; but if he is brave and honest, and if he has got hard common sense you can make the conditions such that he can use to the best advantage those qualities.
+
+Now, gentlemen, you have here certain natural advantages, but what counts a [-xxxxxxxx-] great deal more than any natural advantages, is the character of the men and women who are to take advantage of them.(Applause) I know you pretty well, and I believe in you(Laughter {a d|and} applause), and therefore I say that I do not [-x-] risk much in prophesying that if you will set to work resolutely and intelligently to take advantage of the chances that here [-xxxx-] open [-xx-] themselves, you can and will make of this section in your state ,of all the neighboring regions, without regard to state lines, one of those portions of the world's surface which will see the greatest progress, the greatest prosperity during the half century upon which we are now entering. (Cheers and applause)
+
+[note: Frame 0711, left half (a), folio 58. Two diagonal pencil lines cross the upper left corner over the start of the heading and salutation, with "File" and "not given [?out?]" written between them.]
+[note: Overstruck letters in "come", "state", "one" and "during"; the final readings are given. The last seven lines are typed with closer line spacing than the rest.]
