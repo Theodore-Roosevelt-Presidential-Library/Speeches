@@ -1079,7 +1079,7 @@
 "community",
 "statistics",
 "separate",
-"contact"
+"work"
 ],
 "stats": {
 "words": 4066,
@@ -1874,8 +1874,8 @@
 "westward",
 "colorado",
 "commonwealths",
-"continent",
 "unity",
+"continent",
 "union",
 "alleghanies",
 "spread",
@@ -2033,8 +2033,8 @@
 "blunders",
 "wilfully",
 "civilization",
-"aggrandizement",
 "duty",
+"aggrandizement",
 "expense",
 "philippines"
 ],
@@ -3470,8 +3470,8 @@
 "dean",
 "university",
 "scholarship",
-"sake",
 "service",
+"sake",
 "virile",
 "decent",
 "reward",
@@ -3660,8 +3660,8 @@
 "past",
 "navy",
 "flag",
-"honor",
 "army",
+"honor",
 "americans",
 "glad"
 ],
@@ -4173,8 +4173,8 @@
 "missionary",
 "presbyterian",
 "reformed",
-"wanted",
 "island",
+"wanted",
 "shortcomings",
 "cuba",
 "work",
@@ -4326,10 +4326,10 @@
 "ordinary",
 "duties",
 "battle",
-"citizenship",
 "war",
-"duty",
-"nation"
+"citizenship",
+"nation",
+"duty"
 ],
 "stats": {
 "words": 830,
@@ -5414,9 +5414,9 @@
 "preparedness",
 "enlisted",
 "preparation",
+"war",
 "officers",
 "sea",
-"war",
 "efficiency",
 "advance"
 ],
@@ -6925,7 +6925,7 @@
 "abraham",
 "preaching",
 "decency",
-"souls"
+"lincoln"
 ],
 "stats": {
 "words": 1418,
@@ -7629,8 +7629,8 @@
 "wheeling",
 "levees",
 "period",
-"dam",
 "change",
+"dam",
 "advocating",
 "industrial",
 "mississippi",
@@ -10148,8 +10148,8 @@
 "places": []
 },
 "distinctive": [
-"applause",
 "fellow",
+"applause",
 "meet"
 ],
 "stats": {
@@ -10781,7 +10781,7 @@
 "business",
 "schedules",
 "cured",
-"monopoly"
+"damage"
 ],
 "stats": {
 "words": 4357,
@@ -11124,8 +11124,8 @@
 "destiny",
 "mighty",
 "future",
-"prosperity",
 "war",
+"prosperity",
 "fought",
 "peace",
 "country"
@@ -11305,8 +11305,8 @@
 "win",
 "applause",
 "physical",
-"continent",
 "difficulties",
+"continent",
 "believe"
 ],
 "stats": {
@@ -11424,7 +11424,7 @@
 "industrial",
 "consequence",
 "evil",
-"applause"
+"fellow"
 ],
 "stats": {
 "words": 1339,
@@ -11542,7 +11542,7 @@
 "arms",
 "laws",
 "constitution",
-"fundamental"
+"citizen"
 ],
 "stats": {
 "words": 1164,
@@ -13621,8 +13621,8 @@
 "consideration",
 "islands",
 "system",
-"rural",
-"conditions"
+"conditions",
+"rural"
 ],
 "stats": {
 "words": 9756,
@@ -14814,8 +14814,8 @@
 "pennsylvania",
 "fundamentally",
 "president",
-"applause",
 "senate",
+"applause",
 "lesson",
 "house",
 "interests",
@@ -16467,8 +16467,8 @@
 "distinctive": [
 "qualities",
 "citizenship",
-"proud",
 "cause",
+"proud",
 "state"
 ],
 "stats": {
@@ -16745,8 +16745,8 @@
 "distinctive": [
 "promise",
 "smartness",
-"fool",
 "qualities",
+"fool",
 "pioneer",
 "applause",
 "decency",
@@ -16872,8 +16872,8 @@
 "change",
 "applause",
 "law",
-"cheers",
 "improvement",
+"cheers",
 "help",
 "system",
 "easy",
@@ -17008,8 +17008,8 @@
 "dakota",
 "prosperity",
 "scheme",
-"applause",
 "needed",
+"applause",
 "stuff",
 "grow",
 "greeting"
@@ -18396,9 +18396,9 @@
 "weapons",
 "products",
 "stuff",
-"wanted",
 "fighting",
-"cattle"
+"wanted",
+"law"
 ],
 "stats": {
 "words": 1626,
@@ -19818,10 +19818,10 @@
 "park",
 "montana",
 "yellowstone",
-"wyoming",
 "idaho",
 "preservation",
 "wilderness",
+"wyoming",
 "beauties",
 "enjoyment",
 "preserved"
@@ -20054,10 +20054,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 120,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"I want to thank you very much for coming to greet me. It is nearly 23 years since I first saw what was then the territory of Dakota. I lived most of the time in South Dakota, and I came down along the western edge, along the Black Hills. I was in the cow business myself at that time. I know your people. I am fond of them and proud of them. I believe in them. I have watched with the greatest interest your growth to statehood. I thank you for greeting me. I am glad to see the men, the women and the children. I greet you and wish you well and thank you for coming. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -20079,13 +20082,52 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0284",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0284",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen and Ladies:",
+"I want to thank you very much for coming to greet me. It is nearly 23 years since I first saw what was then the territory of Dakota. I lived most of the time in South Dakota, and I came down along the western edge, along the Black Hills. I was in the cow business myself at that time. I know your people. I am fond of them and proud of them. I believe in them. I have watched with the greatest interest your growth to statehood. I thank you for greeting me. I am glad to see the men, the women and the children. I greet you and wish you well and thank you for coming. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 117 (frame 425:0284)</span>",
+"Gentlemen and Ladies:",
+"I want to thank you very much for coming to greet me. It is <span class=\"sic\" title=\"reads: nearly\">neary</span> 23 years since I first saw what was then the territory of Dakota. I lived most of the time in South Dakota, and I came down along the western edge, along the Black Hills. I was in the cow business myself at that time. I know your people. I am fond of them and proud of them. I believe in them. I have watched<del title=\"struck through\">d</del> with the greatest interest your growth to statehood. I thank you for greeting me. I am glad to see the men, the women and the children. I greet you and wish you well and thank you for coming. (Applause)",
+"<span class=\"tnote\">The &quot;3&quot; of &quot;23&quot; is typed over another figure; the final reading is &quot;23&quot;.</span>\n<span class=\"tnote\">A doubled final &quot;d&quot; in &quot;watchedd&quot; is struck through by hand.</span>\n<span class=\"tnote\">&quot;at&quot; in the heading and &quot;statehood&quot; have letters typed over others; final readings are given.</span>"
+],
+"notes": [
+"The \"3\" of \"23\" is typed over another figure; the final reading is \"23\".",
+"A doubled final \"d\" in \"watchedd\" is struck through by hand.",
+"\"at\" in the heading and \"statehood\" have letters typed over others; final readings are given."
+],
+"file": "transcriptions/1903-04-25-ardmore.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 2
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"thank"
+],
+"stats": {
+"words": 120,
+"unique_words": 69,
+"sentences": 11,
+"avg_sentence": 10.9,
+"minutes": 1,
+"i_count": 12,
+"we_count": 0
+}
 },
 {
 "id": "1903-04-25-crawford",
@@ -20099,10 +20141,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 406,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I want to thank you so much for having come here to greet me. I am glad to see you, men and women, and the children. And I want to extend my heartiest thanks through the commanding officer to the soldiers who have come here, and to say how much I appreciate their coming. It was my good fortune to serve at Santiago in a division of regular cavalry, and it will always be one of the proudest and happiest thoughts of my life that I was thus able to serve. I thank you most warmly for your greeting. When I get to the west, here, I feel thoroughly at home. I know you; I have been with you; I worked here on the plains in the old days; I believe in you with all my heart, and I have taken the keenest pride in watching your growth, in seeing these states of the plains and Rocky Mountains go steadily onward in their career of greatness. The men of the west, pioneers and the successors of the pioneers, here have shown those qualities which we prize in the men who wear Uncle Sam's uniform -- qualities of courage, of hardihood, of indomitable resolution. For those who go first in a battle, for the forlorn hope at the breach, we pay a special measure of regard, and such measure of regard must be paid to the pioneers, to those who led the vanguard of the nation's march across the continent. The men of the west, the stockgrowers, the cattle raisers, the farmers, the miners, they are those who have laid deep and firm the foundations of the nation's greatness. I greet you here, you men and women of this great and beautiful state. You have a right to be proud of the products of the state, but after all, the crop that counts most is the crop of men and women; and as I believe in the stock I am glad to see it kept up. And now coming through here there is just one word I want to say always to my fellow citizens, and that is, when you deal with public affairs, apply the same standards and use the same common sense that you do in private affairs. Law can do something, but only something, and most must be done by the individual quality of the man or the woman. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -20124,13 +20169,57 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0284",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0284",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"I want to thank you so much for having come here to greet me. I am glad to see you, men and women, and the children. And I want to extend my heartiest thanks through the commanding officer to the soldiers who have come here, and to say how much I appreciate their coming. It was my good fortune to serve at Santiago in a division of regular cavalry, and it will always be one of the proudest and happiest thoughts of my life that I was thus able to serve. I thank you most warmly for your greeting. When I get to the west, here, I feel thoroughly at home. I know you; I have been with you; I worked here on the plains in the old days; I believe in you with all my heart, and I have taken the keenest pride in watching your growth, in seeing these states of the plains and Rocky Mountains go steadily onward in their career of greatness. The men of the west, pioneers and the successors of the pioneers, here have shown those qualities which we prize in the men who wear Uncle Sam's uniform -- qualities of courage, of hardihood, of indomitable resolution. For those who go first in a battle, for the forlorn hope at the breach, we pay a special measure of regard, and such measure of regard must be paid to the pioneers, to those who led the vanguard of the nation's march across the continent. The men of the west, the stockgrowers, the cattle raisers, the farmers, the miners, they are those who have laid deep and firm the foundations of the nation's greatness. I greet you here, you men and women of this great and beautiful state. You have a right to be proud of the products of the state, but after all, the crop that counts most is the crop of men and women; and as I believe in the stock I am glad to see it kept up. And now coming through here there is just one word I want to say always to my fellow citizens, and that is, when you deal with public affairs, apply the same standards and use the same common sense that you do in private affairs. Law can do something, but only something, and most must be done by the individual quality of the man or the woman. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 118 (frame 425:0284)</span>",
+"Ladies and Gentlemen:",
+"I want to thank you so much for having come here to greet me. I am glad to see you, men and women, and the children. And I want to extend my heartiest thanks through the commanding officer to the soldiers who have come here, and to say how much I appreciate <span class=\"sic\" title=\"reads: their coming\">theircoming</span> . It was my good fortune to serve <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">at</ins> Santiago in a division of regular cavalry, and it will always be one of the proudest and happiest thoughts of my life that I was thus able to serve. I thank you most warmly for your greeting. When I get to the west, here, I feel thoroughly at home. I know you; I have been with you; I worked here on the plains in the old days; I believe in you with all my heart, and I have taken the keenest pride in watching your growth, in seeing these states of the plains and Rocky Mountains <del title=\"struck through\">xxx</del> go steadily onward in their career <del title=\"struck through\">xxx</del> of greatness. The men of the west, pioneers and the successors of the pioneers, here have shown those qualities which we prize in the men who wear Uncle Sam&#x27;s uniform -- qualities of courage, of hardihood, of <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> indomitable resolution. For those who go first in a battle, for the forlorn hope at the breach, we pay a special measure of regard, and such measure of regard must be paid to the pioneers, to those who led the vanguard of the nation&#x27;s march across the continent. The men of the west, the stockgrowers, the cattle raisers, the farmers, the miners, they are those who have laid deep and firm the foundations of the nation&#x27;s greatness. I greet you here, you men and women of this great <span class=\"sic\" title=\"reads: and\">ahd</span> beautiful state. You have a right to be proud of the products of the state, but after all, the crop that counts most is the crop of men and women; and as I believe in the stock I am glad to see it kept up. And now coming through here there is just one word I want to say always to my fellow citizens, and that is<ins title=\"added by hand\">,</ins> when you deal with public affairs, apply the same standards and use the same common sense that you do in private affairs. Law can do something, but only something, and most must be done by the individual quality of the man or the woman. (Cheers and applause)",
+"<span class=\"tnote\">In the typed heading the original place name is x-ed out on the typewriter (it may have been &quot;Chadron&quot;, but this is uncertain) and &quot;Crawford,&quot; is typed above it; the title gives the corrected heading.</span>\n<span class=\"tnote\">The typed word after &quot;serve&quot; is struck out and &quot;at&quot; is written above it by hand; a hand-drawn ink blot covers a short typed word before &quot;indomitable&quot;; a comma after &quot;is&quot; is added by hand.</span>\n<span class=\"tnote\">Many letters are typed over others (&quot;women&quot;, &quot;fortune&quot;, &quot;thoroughly&quot;, &quot;heart&quot;, &quot;regard&quot;, &quot;vanguard&quot;); final readings are given.</span>"
+],
+"notes": [
+"In the typed heading the original place name is x-ed out on the typewriter (it may have been \"Chadron\", but this is uncertain) and \"Crawford,\" is typed above it; the title gives the corrected heading.",
+"The typed word after \"serve\" is struck out and \"at\" is written above it by hand; a hand-drawn ink blot covers a short typed word before \"indomitable\"; a comma after \"is\" is added by hand.",
+"Many letters are typed over others (\"women\", \"fortune\", \"thoroughly\", \"heart\", \"regard\", \"vanguard\"); final readings are given."
+],
+"file": "transcriptions/1903-04-25-crawford.txt"
+},
+"text_source": "typescript",
+"themes": [
+"the-west",
+"farming"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "santiago",
+"name": "Santiago and San Juan Hill",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"pioneers",
+"west",
+"women"
+],
+"stats": {
+"words": 406,
+"unique_words": 189,
+"sentences": 14,
+"avg_sentence": 29.0,
+"minutes": 3,
+"i_count": 17,
+"we_count": 2
+}
 },
 {
 "id": "1903-04-25-gillette",
@@ -20144,10 +20233,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 390,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"It is a great pleasure to me to get back into Wyoming. It is just nineteen years ago--in 1884-- that I first struck Wyoming. I was handling a cow outfit myself then in North Dakota, on the little Missouri, and first of all we wanted to get some horses, so we struck across the Powder river and Clear Fork into Buffalo and came on over here. I tell you it seems natural to get back here. Of course there have been great changes. I am struck in the first place coming along and looking at the stock, at the different quality of stock it is to what it was twenty years ago. You recollect when the cattle were all horns and tails. (Laughter) Now you see the white faces, Herefords and shorthorns. The way the cattle and sheep interests have grown in this country is a most interesting thing to me.",
+"I am very glad to get back among you. I feel as though when I get out here I am at home. I know you well and I believe in you. If there are any men here who have ever worked with the \"101\" outfit (Cries of \"I have\"), I want to say to you that I used to sleep with the foreman of that outfit at one time and naturally I feel at home when I am here. I believe in you with all my heart because I feel that the men who have taken the lead in settling this great west have come nearer than any other people in civil life to doing the kind of work that we honor the soldier for doing. They have not had easy lives. Pioneer lives are hard on everyone. But they have done the big deeds; they have prepared the way for civilization; they have been the vanguard of the host who have conquered this continent. I believe in them because they have been strong men. Out here in Wyoming I believe in what you raise, and I believe especially in the men and women you raise. Those are the best types, after all, and for that reason I am mighty glad to see so many children. And as I believe in you and in your stock I am glad to see that it is not dying out. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -20169,13 +20262,65 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0279",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0279",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen and Ladies:",
+"It is a great pleasure to me to get back into Wyoming. It is just nineteen years ago--in 1884-- that I first struck Wyoming. I was handling a cow outfit myself then in North Dakota, on the little Missouri, and first of all we wanted to get some horses, so we struck across the Powder river and Clear Fork into Buffalo and came on over here. I tell you it seems natural to get back here. Of course there have been great changes. I am struck in the first place coming along and looking at the stock, at the different quality of stock it is to what it was twenty years ago. You recollect when the cattle were all horns and tails. (Laughter) Now you see the white faces, Herefords and shorthorns. The way the cattle and sheep interests have grown in this country is a most interesting thing to me.",
+"I am very glad to get back among you. I feel as though when I get out here I am at home. I know you well and I believe in you. If there are any men here who have ever worked with the \"101\" outfit (Cries of \"I have\"), I want to say to you that I used to sleep with the foreman of that outfit at one time and naturally I feel at home when I am here. I believe in you with all my heart because I feel that the men who have taken the lead in settling this great west have come nearer than any other people in civil life to doing the kind of work that we honor the soldier for doing. They have not had easy lives. Pioneer lives are hard on everyone. But they have done the big deeds; they have prepared the way for civilization; they have been the vanguard of the host who have conquered this continent. I believe in them because they have been strong men. Out here in Wyoming I believe in what you raise, and I believe especially in the men and women you raise. Those are the best types, after all, and for that reason I am mighty glad to see so many children. And as I believe in you and in your stock I am glad to see that it is not dying out. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 108 (frame 425:0279)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Gentlemen and Ladies:",
+"It is a great pleasure to me to get back into Wyoming. It is just nineteen years ago--in 1884-- that I first struck Wyoming. I was handling a cow outfit myself then in North Dakota, on the little Missouri, and first of all we wanted to get some horses, so we struck across the Powder river and Clear Fork into <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">Buffalo</span></del> Buffalo and came on over here. I tell you it seems natural to get back here. Of course there have been great changes. I am struck in the first place coming along and looking at the stock, at the different quality of stock it is to what it was twenty years ago. You recollect when the cattle were all horns and tails. (Laughter) Now you see the white faces, <span class=\"sic\" title=\"reads: Herefords\">Hewefords</span> and shorthorns. The way the cattle and sheep interests have grown in this country is a most interesting thing to me.",
+"I am very glad to get back among you. I feel as though when I get out here I am at home. I know you well and I believe in you. If there are any men here who have ever worked with the &quot;101&quot; outfit (Cries of &quot;I have&quot;), I want to say to you that I used to sleep with the <span class=\"sic\" title=\"reads: foreman\">formman</span> of that outfit at one time and naturally I feel at home when I am here. I believe in you with all my heart because I feel that the men who have taken the lead in settling this great west have come nearer than any other people in civil life to doing the kind of work that we honor the soldier for doing. They have not had easy lives. Pioneer lives are hard on everyone. But they have done the big deeds; they have prepared the way for civilization; they have been the vanguard of the host who have conquered this continent. I believe in them because they have been <span class=\"sic\" title=\"reads: strong men\">strongmen</span>. Out here in Wyoming I believe in what you raise, and I believe especially in the men and women you raise. Those are the best types, after all, and for that reason I am mighty glad to see so many children. And as I believe in you and in your stock I am glad to see that it is not dying out. (Applause)",
+"<span class=\"tnote\">The word before &quot;Buffalo&quot; is x-ed out on the typewriter; its letters look like &quot;Buffalo&quot; under the strike-over but cannot be read with certainty.</span>\n<span class=\"tnote\">The third letter of &quot;Hewefords&quot; is overtyped and could be &quot;w&quot; or &quot;s&quot;; either way the intended word is &quot;Herefords&quot;.</span>\n<span class=\"tnote\">&quot;with&quot; and &quot;But&quot; show one letter typed over another (&quot;with&quot; has t/h overlapping; &quot;But&quot; has a letter struck over the &quot;u&quot;); the final readings are given.</span>\n<span class=\"tnote\">A hand-drawn vertical stroke separates &quot;strong&quot; and &quot;men&quot; in the typed &quot;strongmen&quot;, marking a space.</span>\n<span class=\"tnote\">The handwritten &quot;File&quot; with a slash in the upper left margin is a filing mark.</span>"
+],
+"notes": [
+"The word before \"Buffalo\" is x-ed out on the typewriter; its letters look like \"Buffalo\" under the strike-over but cannot be read with certainty.",
+"The third letter of \"Hewefords\" is overtyped and could be \"w\" or \"s\"; either way the intended word is \"Herefords\".",
+"\"with\" and \"But\" show one letter typed over another (\"with\" has t/h overlapping; \"But\" has a letter struck over the \"u\"); the final readings are given.",
+"A hand-drawn vertical stroke separates \"strong\" and \"men\" in the typed \"strongmen\", marking a space.",
+"The handwritten \"File\" with a slash in the upper left margin is a filing mark."
+],
+"file": "transcriptions/1903-04-25-gillette.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "dakota",
+"name": "Dakota and the Badlands",
+"count": 1
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"outfit",
+"wyoming",
+"struck",
+"stock",
+"believe",
+"back",
+"glad"
+],
+"stats": {
+"words": 391,
+"unique_words": 175,
+"sentences": 20,
+"avg_sentence": 19.6,
+"minutes": 3,
+"i_count": 23,
+"we_count": 3
+}
 },
 {
 "id": "1903-04-25-moorcroft",
@@ -20472,10 +20617,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 140,
+"paragraphs": [
+"My friends and fellow-citizens:",
+"It is a great pleasure to have the chance of greeting you to-day. I have enjoyed to the full my trip through Nebraska. I congratulate you upon the prosperity in which we are all sharing. To have it, first of all the hand of the Lord must be with us. Something in addition can be done by laws, by honest enforcement of the laws, but after all, in the long run, the thing that counts most is the individual man's character and capacity.(Cheers and applause.) Nothing can take the place of that. Law can do something, but the wisest law ever devised will not give a fool, wisdom, or a weakling strength. I congratulate the people of Nebraska, not only upon their crops and their country, but upon their men and women. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -20497,13 +20645,47 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0289",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0289",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My friends and fellow-citizens:",
+"It is a great pleasure to have the chance of greeting you to-day. I have enjoyed to the full my trip through Nebraska. I congratulate you upon the prosperity in which we are all sharing. To have it, first of all the hand of the Lord must be with us. Something in addition can be done by laws, by honest enforcement of the laws, but after all, in the long run, the thing that counts most is the individual man's character and capacity.(Cheers and applause.) Nothing can take the place of that. Law can do something, but the wisest law ever devised will not give a fool, wisdom, or a weakling strength. I congratulate the people of Nebraska, not only upon their crops and their country, but upon their men and women. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 127 (frame 425:0289)</span>",
+"<span class=\"margin\">In the margin: File. not given out</span>",
+"My friends and <span class=\"sic\" title=\"reads: fellow-citizens\">fellow-zitizens</span>:",
+"It is a great pleasure to have the <span class=\"sic\" title=\"reads: chance\">change</span> of greeting you to-day. I have enjoyed to the full my trip through Nebraska. I congratulate you upon the prosperity in which we are all sharing. To have it,first of all the hand of the Lord must be with us. Something in addition can be done by laws, by honest <del title=\"struck through\">xxxx</del> enforcement of the laws, but after all,in the long run, the thing that counts most is the individual man&#x27;s character and capacity.(Cheers and applause.) Nothing can take the place of that. Law can do something, but the wisest law ever devised will not give a fool,wisdom, or a weakling strength. I congratulate the people of Nebraska, not only upon their crops and their country, but upon their men and women. (Cheers and applause.)",
+"<span class=\"tnote\">In the typed heading the original place name is x-ed out on the typewriter and &quot;Crete,&quot; is typed above it; the title gives the corrected heading.</span>\n<span class=\"tnote\">The handwritten note &quot;File. not given out&quot; in the upper left margin, with a slash, is a filing mark; it suggests these remarks were not released.</span>\n<span class=\"tnote\">Several letters are typed over others (&quot;Remarks&quot;, &quot;President&quot;, &quot;friends&quot;, &quot;to-day&quot;, &quot;congratulate&quot;, &quot;it,first&quot;, &quot;laws&quot;); final readings are given.</span>"
+],
+"notes": [
+"In the typed heading the original place name is x-ed out on the typewriter and \"Crete,\" is typed above it; the title gives the corrected heading.",
+"The handwritten note \"File. not given out\" in the upper left margin, with a slash, is a filing mark; it suggests these remarks were not released.",
+"Several letters are typed over others (\"Remarks\", \"President\", \"friends\", \"to-day\", \"congratulate\", \"it, first\", \"laws\"); final readings are given."
+],
+"file": "transcriptions/1903-04-27-crete.txt"
+},
+"text_source": "typescript",
+"themes": [
+"law-courts"
+],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 140,
+"unique_words": 84,
+"sentences": 7,
+"avg_sentence": 20.0,
+"minutes": 1,
+"i_count": 3,
+"we_count": 1
+}
 },
 {
 "id": "1903-04-27-fairmont",
@@ -32687,8 +32869,8 @@
 "colombian",
 "canal",
 "congress",
-"revolution",
 "united",
+"revolution",
 "granada"
 ],
 "stats": {
@@ -33759,8 +33941,8 @@
 "effort",
 "commemorate",
 "crises",
-"crisis",
 "history",
+"crisis",
 "washington"
 ],
 "stats": {
@@ -35232,8 +35414,8 @@
 "courage",
 "step",
 "training",
-"ships",
-"position"
+"position",
+"ships"
 ],
 "stats": {
 "words": 2154,
@@ -35848,8 +36030,8 @@
 "problems",
 "cause",
 "relations",
-"affairs",
 "regards",
+"affairs",
 "responsibility",
 "republic",
 "peace",
@@ -36538,7 +36720,7 @@
 "responsibility",
 "duties",
 "fellow-citizens",
-"proud"
+"state"
 ],
 "stats": {
 "words": 1169,
@@ -36896,8 +37078,8 @@
 "morgan",
 "commerce",
 "highways",
-"railroads",
-"justice"
+"justice",
+"railroads"
 ],
 "stats": {
 "words": 2858,
@@ -38147,8 +38329,8 @@
 "memories",
 "peace",
 "face",
-"age",
 "fought",
+"age",
 "sons",
 "south",
 "scrupulous",
@@ -38760,8 +38942,8 @@
 "cotton",
 "china",
 "chinese",
-"senator",
 "wealth",
+"senator",
 "boycott",
 "planter",
 "islands",
@@ -39041,7 +39223,7 @@
 "accomplished",
 "benefit",
 "faith",
-"south"
+"cause"
 ],
 "stats": {
 "words": 1264,
@@ -39110,9 +39292,9 @@
 "teachers",
 "clean",
 "education",
-"white",
 "race",
 "interested",
+"white",
 "true",
 "fellow-citizens"
 ],
@@ -39943,7 +40125,7 @@
 "officer",
 "captain",
 "company",
-"officers"
+"duty"
 ],
 "stats": {
 "words": 1112,
@@ -40543,8 +40725,8 @@
 "action",
 "wrong",
 "opposition",
-"evils",
 "organization",
+"evils",
 "twisted"
 ],
 "stats": {
@@ -40660,8 +40842,8 @@
 "speed",
 "thank",
 "guns",
-"trip",
-"gun"
+"gun",
+"trip"
 ],
 "stats": {
 "words": 1101,
@@ -42499,8 +42681,8 @@
 },
 "distinctive": [
 "happiest",
-"burton",
 "foundation",
+"burton",
 "college",
 "graduating",
 "graduate",
@@ -43378,8 +43560,8 @@
 "grand",
 "realize",
 "ages",
-"task",
 "army",
+"task",
 "spirit",
 "enough"
 ],
@@ -44811,8 +44993,8 @@
 },
 "distinctive": [
 "company",
-"river",
 "valley",
+"river",
 "imperial",
 "california",
 "colorado",
@@ -45860,8 +46042,8 @@
 "distinctive": [
 "mcclellan",
 "potomac",
-"equality",
 "peace",
+"equality",
 "ease",
 "glory",
 "woman",
@@ -47003,8 +47185,8 @@
 "corporations",
 "democracy",
 "insult",
-"affairs",
 "regards",
+"affairs",
 "fleet",
 "voyage"
 ],
@@ -47476,8 +47658,8 @@
 "esteem",
 "race",
 "graduate",
-"forty",
 "thousand",
+"forty",
 "bear"
 ],
 "stats": {
@@ -48176,8 +48358,8 @@
 "rivers",
 "traffic",
 "report",
-"river",
 "plan",
+"river",
 "waterway",
 "navigation"
 ],
@@ -48600,10 +48782,10 @@
 "grants",
 "dam",
 "charge",
-"breach",
-"navigable",
 "act",
+"navigable",
 "plans",
+"breach",
 "rainy",
 "dams"
 ],
@@ -49828,8 +50010,8 @@
 },
 "distinctive": [
 "career",
-"cavalry",
 "sheridan",
+"cavalry",
 "ideal",
 "general",
 "nation's",
@@ -49913,8 +50095,8 @@
 "white",
 "race",
 "color",
-"thriving",
 "churches",
+"thriving",
 "pledged",
 "building",
 "negro"
@@ -50209,10 +50391,10 @@
 "interstate",
 "courts",
 "control",
-"fisheries",
 "corporations",
-"mountains",
+"fisheries",
 "deforestation",
+"mountains",
 "employees"
 ],
 "stats": {
@@ -52404,7 +52586,7 @@
 "individualism",
 "orator",
 "reward",
-"virtues"
+"wrong"
 ],
 "stats": {
 "words": 8833,
@@ -53888,8 +54070,8 @@
 "principle",
 "maverick",
 "exceptional",
-"dakota",
-"dishonestly"
+"dishonestly",
+"square"
 ],
 "stats": {
 "words": 4194,
@@ -54212,8 +54394,8 @@
 "girls",
 "skilled",
 "profession",
-"editor",
 "politician",
+"editor",
 "public"
 ],
 "stats": {
@@ -54331,7 +54513,7 @@
 "dinner",
 "sake",
 "illinois",
-"advised"
+"face"
 ],
 "stats": {
 "words": 2682,
@@ -54411,8 +54593,8 @@
 "justice",
 "policeman",
 "workers",
-"miners",
-"employees"
+"employees",
+"miners"
 ],
 "stats": {
 "words": 2067,
@@ -56536,7 +56718,7 @@
 "republican",
 "wisconsin",
 "roosevelt",
-"col"
+"movement"
 ],
 "stats": {
 "words": 5177,
