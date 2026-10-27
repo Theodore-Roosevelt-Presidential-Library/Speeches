@@ -1,0 +1,23 @@
+---
+speech: 1903-04-06-edgeley
+title: Remarks of President Roosevelt at Edgeley, N. D., April 6, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0234
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0234
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 81 425:0234]
+
+[margin: File]
+
+My [?Friends and Fellow Citizens?]:
+
+I am very glad to see you and I am glad to be [-[?here?]-] [+[?back?]+] again in North Dakota, and to be greeted as you are greeting me to-night. It [-[?is?]-] [+[?was?]+] twenty three years ago that I first set foot in North Dakota, and for a number of years I lived my life out in the western part of the state; and I have most naturally a peculiar feeling for [-xxx-] its people. It does me good to see you. You are a great state, a stock-growing state in the west and [-[?still?]-] [+a+] great wheat raising state here; but the reasons I like you most are the men and women, and in addition to the men and women I am glad to see there are a few children down here too . [-[illegible] [?myself. I am an expert?] [illegible]-] You seem to be all right in qua[+[?nt?]+]lity of children and all right in quality, and I am glad of that, because I think it is a good stock and I do not want to see it die out. [-[?N. I intend?] [illegible] [?like to hear the band, so I shall just say good-night, and good luck go with you, and I am mighty glad to have seen you?]-]. ({Chaeers|Cheers} and applause)
+
+[note: The frame is photographed with broad bands of glare, and the heading, the salutation and the first line are very faint; readings marked [?...?] were made from contrast-enhanced crops. The place in the heading reads "Edgeley".]
+[note: "File" is written by hand at the upper left with a slash; filing mark.]
+[note: Above "here" a word is written by hand (apparently "back"), and "was" appears written by hand above "is". "three" is typed above the line after "twenty", with a handwritten caret. "its" is typed above an x-ed out word.]
+[note: After "west and" a typed word is struck by hand and a handwritten "a" stands above it.]
+[note: The rest of the line after "down here too ." and the start of the next line are struck through by hand. Handwritten letters above "quality" in "all right in quality of children" appear to change it to "quantity".]
+[note: The two and a half lines after "die out." are struck through by hand; only parts can be made out. The period after the struck passage and "(Chaeers and applause)" are not struck.]

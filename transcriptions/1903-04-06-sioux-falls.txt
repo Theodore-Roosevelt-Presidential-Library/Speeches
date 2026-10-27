@@ -1,0 +1,33 @@
+---
+speech: 1903-04-06-sioux-falls
+title: Address of President Roosevelt to the School Children at Sioux Falls, S. D., April 6, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0166
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0166
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 57 425:0166]
+
+[margin: File]
+
+Mr. Chairman; Boys and Girls; and Men and Women:
+
+I am glad of having the chance of saying a word to the children here of Sioux Falls. I admire South Dakota, I admire what it produces, I am glad to {seeyou|see you} doing so well as farmers, and in the western part of the state as miners. But a good deal better than the best product of the farm or of the mine is the product of the home. What will count in the state in the future is the way its children turn out, and that will depend partly upon how they are trained, and partly upon the stuff that there is in them.
+
+To the girls and boys -- and especially to the boys; I am just as fond of the girls but I understand the boys better sometimes-- I have got just one word to say to you. I believe in work and I believe in play, and I would be sorry if I did not see you enjoying yourselves, only don't let it interfere with you doing your work, now or later on in life. Now just one word to the girls. All of you want to read books, all of you want to be like the heroines, to do well and to count in the world. I will tell you how to count; do all the little things as they come up. When mother says,[+"+]Susie run out and get me such and such a thing,[+"+] and if Susie has a book [+and says+] "Oh, dear" and does go, but goes as a favor and with a distinct sense of injury, Susie is a little nuisance. In the first place she is going any way, if mother is worth anything; if she goes cheerfully and [-xxxxx-] readily and is glad to do it, she will find she is fitting herself [-for the-] for the work of life, for the whole work of life is to do the thing there is to do at the time.
+
+Now boys, in the first place, remember that the manlier you are, the braver and stronger, the nicer you have been at home, the nicer you can be to those who are weaker, and I should be ashamed of any one of you if he flinched or was afraid, and equally[-x-] and even more ashamed if he was insolent and overbearing toward the weak.
+
+I [?want?] you to work and play, and when you play and when you work, to remember a rule that I heard given by a great football captain in one of the big football teams. He would say to his men "Now I want you to play fair, and play hard, both; don't do anything that is foul to the other side; but do your work ."
+
+[pb 58 425:0166]
+
+While you are playing football, why play just as hard as you can, and if you get hurt keep on playing; don't flinch, go at it again. That is what will make you men and count in the end. It is the same way with your studies. I remember a Yale professor, in speaking of {th|the} football game at Yale some years ago, pointing out a man and saying "That fellow is not going to be a good player, because he is poor in his studies. I said " I did not know there was any connection there". He said "There is ". I do not mean to say that a very bright fellow {cam|can} play football well, or that a tolerably dull fellow cannot; but if you find a boy who is too shiftless to work at his books he will also be too shiftless to work at sports in the long run. Of course there are exceptions. But speaking generally the boy or man who does one thing with his whole heart and learns how to do it well, will do other things with his whole heart.
+
+Now just a word to the older people present, a {wordof|word of} thanks to the ministerial association and to the school teachers who have brought about this meeting. In their essence stat[?e?]craft and politics mean nothing but the {applimation|application} to the state on a large scale of the qualities that make a man a good husband, a good neighbor, a good friend, a good business man. It is a good thing to have a sound body, it is a better thing to have a sound mind; but what we need is that which is {greaterthan|greater than} body or mind -- character. Character is what counts[+;+]and this country {cam|can} be made what it will and shall be made only if we act on the beliefs that we [-[?are to be known?]-] [+have+] in the abstract and understand that the nation will be made[-xgr-] [-greatxinxproportion justxx-] great just in proportion [-[illegible]-] as its average citizen[-[illegible]-] believes in and acts upon the laws of decency, the laws that teach him to prize honesty, courage and common sense. (Applause)
+
+[note: "File" is written by hand at the upper left of folio 57 with a slash; filing mark.]
+[note: Typewriter spacing gaps inside words ("be st", "th ings", "de cency") are closed up, and overtyped letters are given in their evident reading ("of", "mine", "way", "boys", "am", "just", "nicer", "any", "country", "understand").]
+[note: Folio 57: the quotation marks around "Susie run out ... such a thing," are added by hand; "and says" is written by hand above the line with a caret after "book". A hand bar separates "is" and "going", typed run together. "for the" at the end of the line before "for the work of life" is struck by hand. A hand bar separates "equally" and "even" ("andeven"). The word after "I" in "I want you to work and play" is overtyped and unclear. "but" before "do your work" is typed above the line.]
+[note: Folio 58: "very" is typed above the line with a handwritten caret. A hand mark joins "too" and "shiftless". A hand mark stands in "statecraft" between "stat" and "craft"; the letter there is unclear. A hand semicolon follows "counts". The words struck by hand after "that we" are hard to read, and "have" is written above them with a caret. The x-ed out typing after "made" and the words struck by hand after "proportion" and after "citizen" cannot be read in full. A hand bar separates "common" and "sense".]
