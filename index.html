@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Theodore Roosevelt's Speeches | Theodore Roosevelt Presidential Library</title>
+<meta name="description" content="Theodore Roosevelt's speeches in his own words, from his years as governor to his last campaigns, each linked to the original document at the Theodore Roosevelt Center or the Library of Congress.">
+<meta property="og:title" content="Theodore Roosevelt's Speeches">
+<meta property="og:description" content="Theodore Roosevelt's speeches in his own words, from his years as governor to his last campaigns, each linked to the original document at the Theodore Roosevelt Center or the Library of Congress.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://speeches.labs.trlibrary.com/">
+<meta property="og:site_name" content="Theodore Roosevelt Presidential Library">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&family=Lora:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="bar">
+  <a class="brand" href="index.html"><b>Speeches</b>Theodore Roosevelt Presidential Library</a>
+  <nav><a href="index.html" aria-current="page">Explore</a><a href="phrases.html">Phrases</a><a href="words.html">Words</a><a href="map.html">Map</a><a href="themes.html">Themes</a><a href="about.html">About</a><a href="api.html">API &amp; data</a></nav>
+</header>
+<section class="hero">
+  <div class="wrap">
+    <h1>Theodore Roosevelt, in his own words</h1>
+    <p class="lede">Whistle-stop remarks from the back of a train, messages to Congress, addresses at the Sorbonne and Oxford, a speech given with a bullet in his chest. Each mark below is one speech, placed by year and day. Point at a mark to see it; click to read it.</p>
+    <div class="stats" id="stats"></div>
+    <div class="legend" aria-hidden="true">
+      <span><i style="background:#FC924E"></i>Full text to read here</span>
+      <span><i style="background:#99ADC5"></i>Original document at the archive</span>
+      <span><i style="background:#F9D635"></i>Message to Congress</span>
+    </div>
+    <div class="gridwrap" id="gridwrap">
+      <canvas class="speechgrid" id="grid" role="img" aria-label="Every speech in the collection, one row per year, placed by day of the year"></canvas>
+      <div class="gridtip" id="tip"></div>
+    </div>
+  </div>
+</section>
+
+<main class="cols">
+  <section>
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="Search titles and places, like “Grand Canyon”" autocomplete="off" aria-label="Search titles and places">
+      <select id="kind" aria-label="Kind">
+        <option value="">Everything</option>
+        <option value="spoken" selected>Spoken (speeches and lectures)</option>
+        <option value="message">Messages to Congress</option>
+      </select>
+      <label><input type="checkbox" id="onlytext"> Full text only</label>
+    </div>
+    <div class="chips" id="chips"></div>
+    <p class="small" id="count" aria-live="polite"></p>
+    <div id="list"></div>
+    <div class="more"><button class="btn" id="moreBtn" hidden>Show more</button></div>
+  </section>
+  <aside class="side">
+    <h2 id="otdTitle">On this day</h2>
+    <ul class="otd" id="otd"></ul>
+    <div id="otdNote" class="small"></div>
+    <h2 style="margin-top:28px">Start here</h2>
+    <ul class="otd" id="starts"></ul>
+  </aside>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    Texts come from editions printed in Roosevelt's lifetime and are shown as printed. Every speech links to the original document at the Theodore Roosevelt Center at Dickinson State University or the Library of Congress where one is known. Check the original before quoting.
+    <a href="about.html">About the sources</a> &nbsp;|&nbsp; <a href="https://daybyday.labs.trlibrary.com/">Theodore Roosevelt Day by Day</a> &nbsp;|&nbsp; <a href="https://www.trlibrary.com/visit">Plan your visit to the Library in Medora</a>
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+<script>
+(async () => {
+  const [idx, pl, th, meta] = await Promise.all([SP.get("speeches.json"), SP.get("places.json"), SP.get("themes.json"), SP.get("meta.json")]);
+  const S = idx.speeches, PM = {};
+  pl.places.forEach(p => PM[p.id] = p);
+  const THEMES = th.themes;
+  document.getElementById("stats").innerHTML =
+    `<span><b>${SP.num(meta.speeches)}</b>speeches and papers</span><span><b>${SP.num(meta.with_text)}</b>with full text</span><span><b>${SP.num(Math.round(meta.words / 1000))}K</b>words to search</span><span><b>${SP.num(meta.places)}</b>places he spoke</span>`;
+
+  // ---- the year grid ----
+  const canvas = document.getElementById("grid"), tip = document.getElementById("tip"), ctx = canvas.getContext("2d");
+  const dated = S.filter(s => s.date && s.date.length === 10);
+  const years = dated.map(s => +s.date.slice(0, 4));
+  const Y0 = Math.min(...years), Y1 = Math.max(...years), LABEL = 38;
+  let CW = 3, CH = 10, GAP = 2, match = null;
+  const pos = new Map();
+  const doy = iso => { const d = new Date(iso + "T00:00:00Z"); return Math.floor((d - Date.UTC(d.getUTCFullYear(), 0, 1)) / 864e5); };
+  const color = s => s.kind === "message" || s.kind === "letter" || s.kind === "statement" || s.kind === "memorandum" ? "#F9D635" : (s.text ? "#FC924E" : "#99ADC5");
+  function layout() {
+    const w = Math.min(document.getElementById("gridwrap").clientWidth, 1140);
+    CW = Math.max(2, Math.floor((w - LABEL) / 366));
+    const dpr = window.devicePixelRatio || 1, W = LABEL + 366 * CW, H = (Y1 - Y0 + 1) * (CH + GAP) + 18;
+    canvas.width = W * dpr; canvas.height = H * dpr; canvas.style.width = W + "px"; canvas.style.height = H + "px";
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0); draw();
+  }
+  function draw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.font = "600 11px 'Source Sans 3', sans-serif"; ctx.textBaseline = "middle";
+    for (let y = Y0; y <= Y1; y++) {
+      ctx.fillStyle = "#0E355F"; ctx.fillRect(LABEL, (y - Y0) * (CH + GAP), 366 * CW, CH);
+      if (y === Y0 || y === Y1 || y % 5 === 0) { ctx.fillStyle = "#99ADC5"; ctx.fillText(y, 0, (y - Y0) * (CH + GAP) + CH / 2); }
+    }
+    ["Jan", "Apr", "Jul", "Oct"].forEach((m, i) => { ctx.fillStyle = "#99ADC5"; ctx.fillText(m, LABEL + [0, 90, 181, 273][i] * CW, (Y1 - Y0 + 1) * (CH + GAP) + 9); });
+    pos.clear();
+    for (const s of dated) {
+      const y = +s.date.slice(0, 4), x = doy(s.date);
+      const key = `${y}:${x}`; const list = pos.get(key) || []; list.push(s); pos.set(key, list);
+      ctx.fillStyle = match && !match.has(s.id) ? "#16406B" : color(s);
+      ctx.fillRect(LABEL + x * CW, (y - Y0) * (CH + GAP), Math.max(2, CW), CH);
+    }
+  }
+  function cellAt(ev) {
+    const b = canvas.getBoundingClientRect();
+    const x = Math.floor((ev.clientX - b.left - LABEL) / CW), y = Math.floor((ev.clientY - b.top) / (CH + GAP));
+    return pos.get(`${Y0 + y}:${x}`) || pos.get(`${Y0 + y}:${x - 1}`) || pos.get(`${Y0 + y}:${x + 1}`);
+  }
+  canvas.addEventListener("mousemove", ev => {
+    const l = cellAt(ev);
+    if (!l) { tip.style.display = "none"; return; }
+    tip.innerHTML = `<b>${SP.esc(SP.fmtDate(l[0].date))}</b>` + l.slice(0, 4).map(s => SP.esc(s.title)).join("<br>") + (l.length > 4 ? `<br>and ${l.length - 4} more` : "");
+    const wb = document.getElementById("gridwrap").getBoundingClientRect();
+    tip.style.display = "block";
+    tip.style.left = Math.min(ev.clientX - wb.left + 14, wb.width - 310) + "px";
+    tip.style.top = (ev.clientY - wb.top + 14) + "px";
+  });
+  canvas.addEventListener("mouseleave", () => tip.style.display = "none");
+  canvas.addEventListener("click", ev => { const l = cellAt(ev); if (l) location.href = `speech.html?id=${encodeURIComponent(l[0].id)}`; });
+  window.addEventListener("resize", layout);
+  layout();
+
+  // ---- filters and list ----
+  const chips = document.getElementById("chips");
+  let activeTheme = SP.param("theme");
+  chips.innerHTML = THEMES.map(t => `<button class="chip light" data-t="${t.id}" aria-pressed="${t.id === activeTheme}">${SP.esc(t.name)}</button>`).join("");
+  const q = document.getElementById("q"), kind = document.getElementById("kind"), onlytext = document.getElementById("onlytext");
+  if (SP.param("q")) q.value = SP.param("q");
+  if (SP.param("place")) q.value = PM[SP.param("place")]?.name || "";
+  let shown = 120, current = [];
+  function filter() {
+    const term = q.value.trim().toLowerCase();
+    current = S.filter(s => {
+      if (kind.value === "spoken" && !(s.kind === "speech" || s.kind === "lecture")) return false;
+      if (kind.value === "message" && s.kind !== "message") return false;
+      if (kind.value === "letter" && !["letter", "statement", "memorandum"].includes(s.kind)) return false;
+      if (onlytext.checked && !s.text) return false;
+      if (activeTheme && !(s.themes || []).includes(activeTheme)) return false;
+      if (term.length > 1) {
+        const p = s.place ? PM[s.place] : null;
+        const hay = (s.title + " " + (s.occasion || "") + " " + (p ? p.name + " " + p.region : "") + " " + (s.date || "")).toLowerCase();
+        if (!hay.includes(term)) return false;
+      }
+      return true;
+    });
+    match = (term.length > 1 || activeTheme || onlytext.checked || kind.value) ? new Set(current.map(s => s.id)) : null;
+    draw(); render();
+  }
+  function render() {
+    let h = "", lastY = null;
+    current.slice(0, shown).forEach(s => {
+      const y = s.date ? s.date.slice(0, 4) : "Undated";
+      if (y !== lastY) { if (lastY !== null) h += "</ul>"; h += `<div class="yearhead">${y}</div><ul class="slist">`; lastY = y; }
+      h += SP.row(s, PM);
+    });
+    if (lastY !== null) h += "</ul>";
+    document.getElementById("list").innerHTML = h || `<p>Nothing matches. Try a broader search.</p>`;
+    document.getElementById("count").textContent = `${SP.num(current.length)} match${current.length === 1 ? "" : "es"}`;
+    document.getElementById("moreBtn").hidden = current.length <= shown;
+  }
+  document.getElementById("moreBtn").addEventListener("click", () => { shown += 200; render(); });
+  let t; q.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => { shown = 120; filter(); }, 200); });
+  kind.addEventListener("change", () => { shown = 120; filter(); });
+  onlytext.addEventListener("change", () => { shown = 120; filter(); });
+  chips.addEventListener("click", e => {
+    const b = e.target.closest("button[data-t]"); if (!b) return;
+    activeTheme = activeTheme === b.dataset.t ? null : b.dataset.t;
+    chips.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x.dataset.t === activeTheme));
+    shown = 120; filter();
+  });
+  filter();
+
+  // ---- on this day ----
+  const today = new Date(), md = String(today.getMonth() + 1).padStart(2, "0") + "-" + String(today.getDate()).padStart(2, "0");
+  document.getElementById("otdTitle").textContent = `On ${SP.MONTHS[today.getMonth()]} ${today.getDate()}`;
+  SP.get(`on-this-day/${md}.json`).then(o => {
+    const l = o.speeches.sort((a, b) => (b.text - a.text) || (b.words - a.words)).slice(0, 8).sort((a, b) => a.date.localeCompare(b.date));
+    document.getElementById("otd").innerHTML = l.map(x => `<li class="sig${x.text ? 3 : 1}"><span class="yr">${x.date.slice(0, 4)}</span>${SP.speechLink(x.id, SP.esc(x.title))}<div class="small">${SP.esc(x.place || "")}</div></li>`).join("");
+    document.getElementById("otdNote").textContent = o.speeches.length > 8 ? `${o.speeches.length} speeches in all were given on this date.` : "";
+  }).catch(() => { document.getElementById("otd").innerHTML = `<li class="small">No speech in the collection falls on this date.</li>`; });
+
+  // ---- start here: well-known speeches ----
+  const STARTS = [["1899-04-10", "Strenuous"], ["1901-09-02", "National Duties"], ["1903-05-06", "Grand Canyon"], ["1906-04-14", "House Office"], ["1910-04-23", "Citizenship"], ["1910-08-31", "New Nationalism"], ["1912-08-06", "Confession"], ["1912-10-14", "Milwaukee"]];
+  document.getElementById("starts").innerHTML = STARTS.map(([d, k]) => S.find(s => s.date === d && s.text && s.title.includes(k)) || S.find(s => s.date === d && s.text)).filter(Boolean)
+    .map(s => `<li class="sig3"><span class="yr">${s.date.slice(0, 4)}</span>${SP.speechLink(s.id, SP.esc(s.title))}<div class="small">${SP.esc(s.place ? SP.placeName(PM[s.place]) : "")}</div></li>`).join("");
+})();
+</script>
+</body>
+</html>

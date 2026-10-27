@@ -1,0 +1,107 @@
+<!-- title: A speech by Theodore Roosevelt -->
+<!-- desc: Read a speech by Theodore Roosevelt, with links to the original document at the Theodore Roosevelt Center and the Library of Congress. -->
+
+<!--BODY-->
+<section class="speechhead">
+  <div class="wrap" id="head"><div class="date">Loading</div></div>
+</section>
+<main class="cols">
+  <article>
+    <div id="checks"></div><div id="textnote"></div>
+    <div class="findbar" id="findbar" hidden>
+      <label for="find">Find in this speech</label>
+      <input type="search" id="find" placeholder="a word or phrase" autocomplete="off">
+      <span id="findhits" class="small"></span>
+    </div>
+    <div class="reading" id="text"></div>
+    <nav class="daynav" id="nav"></nav>
+  </article>
+  <aside class="side">
+    <div class="sources" id="sources"></div>
+    <div id="facts"></div>
+  </aside>
+</main>
+<!--SCRIPT-->
+<script>
+(async () => {
+  const id = SP.param("id");
+  if (!id) { location.href = "index.html"; return; }
+  let s;
+  try { s = await SP.get(`speeches/${encodeURIComponent(id)}.json`); }
+  catch (e) { document.getElementById("head").innerHTML = `<h1>Speech not found</h1><p class="meta"><a href="index.html">Back to all speeches</a></p>`; return; }
+  const themes = (await SP.get("themes.json")).themes;
+  const TN = {}; themes.forEach(t => TN[t.id] = t.name);
+  document.title = `${s.title} (${SP.fmtDate(s.date)}) | Theodore Roosevelt's Speeches`;
+
+  const metaBits = [
+    s.place ? `<a href="map.html?place=${encodeURIComponent(s.place.id)}">${SP.esc(SP.placeName(s.place))}</a>` : null,
+    s.occasion && s.occasion !== s.title ? SP.esc(s.occasion) : null,
+    SP.esc(s.period),
+    s.kind !== "speech" ? SP.esc(SP.KIND[s.kind] || s.kind) : null,
+    s.stats ? `${SP.num(s.stats.words)} words, about ${s.stats.minutes} minute${s.stats.minutes === 1 ? "" : "s"} aloud` : null,
+  ].filter(Boolean);
+  document.getElementById("head").innerHTML = `<div class="date">${SP.esc(SP.weekday(s.date) ? SP.weekday(s.date) + ", " : "")}${SP.esc(SP.fmtDate(s.date))}</div>
+    <h1>${SP.esc(s.title)}</h1><div class="meta">${metaBits.join(" &nbsp;|&nbsp; ")}</div>`;
+
+  // ---- sources: TRC first, then LOC, then the printed edition ----
+  let src = `<h3>Read the original</h3><ol>`;
+  for (const r of s.trc) {
+    src += `<li>${r.thumb ? `<a href="${SP.esc(r.url)}" target="_blank" rel="noopener"><img class="thumb" src="${SP.esc(r.thumb)}" alt="First page, from the Library of Congress" loading="lazy"></a>` : ""}<b><a href="${SP.esc(r.url)}" target="_blank" rel="noopener">Theodore Roosevelt Center</a></b>${SP.esc(r.title)}${r.pages ? `, ${SP.esc(r.pages)} page${r.pages == 1 ? "" : "s"}` : ""}. ${r.repository ? "Held by the " + SP.esc(r.repository) + "." : ""}</li>`;
+  }
+  for (const l of s.loc) {
+    src += `<li><b><a href="${SP.esc(l.url)}" target="_blank" rel="noopener">Library of Congress</a></b>${SP.esc(l.title)}, microfilm reel ${l.reel}, near frame ${l.frame}.</li>`;
+  }
+  if (!s.loc.length && s.loc_search) src += `<li><b><a href="${SP.esc(s.loc_search)}" target="_blank" rel="noopener">Library of Congress</a></b>Search the Theodore Roosevelt Papers, Series 5 (Speeches and Executive Orders), for this date.</li>`;
+  for (const e of s.editions) {
+    const links = [e.scan ? `<a href="${SP.esc(e.scan)}" target="_blank" rel="noopener">page scan</a>` : null, e.gutenberg ? `<a href="${SP.esc(e.gutenberg)}" target="_blank" rel="noopener">Project Gutenberg text</a>` : null].filter(Boolean).join(", ");
+    src += `<li><b>Printed in</b><i>${SP.esc(e.title)}</i>${e.page ? `, page ${SP.esc(e.page)}` : ""}${links ? ` (${links})` : ""}.</li>`;
+  }
+  if (s.daybyday) src += `<li><b><a href="${SP.esc(s.daybyday)}">Day by Day</a></b>Where he was and what else happened that day.</li>`;
+  src += `</ol>`;
+  document.getElementById("sources").innerHTML = src;
+
+  if (s.checks?.length) document.getElementById("textnote").insertAdjacentHTML("beforebegin", `<p class="dnote"><b>A note on this speech.</b> ${s.checks.map(SP.esc).join(" ")}</p>`);
+
+  // ---- the text ----
+  const box = document.getElementById("text");
+  if (s.has_text) {
+    const e0 = s.editions[0];
+    let note = e0 ? `Text as printed in <i>${SP.esc(e0.title)}</i>.` : "";
+    if (s.ocr) note += ` This text was read by machine from a scan of the printed page, so expect stray errors.`;
+    if (s.date_source === "dbd") note += ` The date comes from the Theodore Roosevelt Association's <i>Chronological Record</i>, by way of <a href="https://daybyday.labs.trlibrary.com/">Day by Day</a>; the printed edition does not give it.`;
+    if (s.note) note += ` ${SP.esc(s.note)}`;
+    note += ` Check the original before quoting.`;
+    document.getElementById("textnote").innerHTML = `<p class="textnote">${note}</p>`;
+    const isHead = p => p.length < 90 && p.replace(/[^A-Za-z]/g, "").length > 4 && p.replace(/[^A-Z]/g, "").length / p.replace(/[^A-Za-z]/g, "").length > .8;
+    const paras = s.paragraphs.map((p, i) => isHead(p) ? `<h3 class="subhead">${SP.esc(p.charAt(0) + p.slice(1).toLowerCase())}</h3>` : `<p${i === 0 && p.length < 140 && /[:,]$/.test(p) ? ' class="salute"' : ""}>${SP.esc(p)}</p>`);
+    box.innerHTML = paras.join("");
+    document.getElementById("findbar").hidden = false;
+    const orig = box.innerHTML;
+    const find = document.getElementById("find");
+    function hilite(term) {
+      if (!term || term.length < 2) { box.innerHTML = orig; document.getElementById("findhits").textContent = ""; return; }
+      const re = new RegExp(`(${SP.escRe(SP.esc(term))})`, "gi");
+      let n = 0;
+      box.innerHTML = orig.replace(/>([^<]+)</g, (m, t) => ">" + t.replace(re, x => { n++; return `<mark>${x}</mark>`; }) + "<");
+      document.getElementById("findhits").textContent = `${n} found`;
+      const first = box.querySelector("mark"); if (first) first.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+    let t; find.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => hilite(find.value.trim()), 250); });
+    if (SP.param("find")) { find.value = SP.param("find"); hilite(find.value); }
+  } else {
+    box.innerHTML = `<div class="nostext"><p>The text of this speech is not yet transcribed here. The original typescript or printed copy is at the archive: ${s.trc[0] ? `<a href="${SP.esc(s.trc[0].url)}" target="_blank" rel="noopener">read it at the Theodore Roosevelt Center</a>` : "see the sources"}.</p><p class="small">Many of these are short remarks from his speaking tours, kept as typed copies among his papers.</p></div>`;
+  }
+
+  // ---- facts ----
+  let f = "";
+  if (s.themes?.length) f += `<div class="sidebox"><h3>What it is about</h3><ul class="taglist">${s.themes.map(t => `<li><a href="index.html?theme=${t}">${SP.esc(TN[t] || t)}</a></li>`).join("")}</ul><p class="small" style="margin:8px 0 0">Topics are found by counting key words, so treat them as a guide. <a href="themes.html">How topics work</a></p></div>`;
+  if (s.distinctive?.length) f += `<div class="sidebox"><h3>Words that stand out</h3><ul class="wordlist">${s.distinctive.map(w => `<li><a href="phrases.html?q=${encodeURIComponent(w)}">${SP.esc(w)}</a></li>`).join("")}</ul><p class="small" style="margin:8px 0 0">Words he used here far more than in his other speeches.</p></div>`;
+  const pm = s.mentions?.people || [], lm = s.mentions?.places || [];
+  if (pm.length) f += `<div class="sidebox"><h3>People he named</h3><ul>${pm.slice(0, 10).map(p => `<li>${SP.esc(p.name)}${p.count > 1 ? ` (${p.count})` : ""}</li>`).join("")}</ul></div>`;
+  if (lm.length) f += `<div class="sidebox"><h3>Places he talked about</h3><ul>${lm.slice(0, 10).map(p => `<li>${SP.esc(p.name)}${p.count > 1 ? ` (${p.count})` : ""}</li>`).join("")}</ul></div>`;
+  if (s.stats) f += `<div class="sidebox"><h3>By the numbers</h3><ul><li>${SP.num(s.stats.words)} words, ${SP.num(s.stats.unique_words)} different ones</li><li>${s.stats.avg_sentence} words in an average sentence</li><li>“I” ${s.stats.i_count} times, “we” ${s.stats.we_count} times</li></ul></div>`;
+  document.getElementById("facts").innerHTML = f;
+
+  document.getElementById("nav").innerHTML = `${s.prev ? `<a href="speech.html?id=${encodeURIComponent(s.prev)}">Previous speech</a>` : "<span></span>"}<a href="index.html">All speeches</a>${s.next ? `<a href="speech.html?id=${encodeURIComponent(s.next)}">Next speech</a>` : "<span></span>"}`;
+})();
+</script>

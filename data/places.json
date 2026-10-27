@@ -1,0 +1,3386 @@
+{
+ "aberdeen-south-dakota": {
+  "id": "aberdeen-south-dakota",
+  "name": "Aberdeen",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 45.4647,
+  "lon": -98.48648,
+  "geocode": "geonames"
+ },
+ "abilene-kansas": {
+  "id": "abilene-kansas",
+  "name": "Abilene",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.91722,
+  "lon": -97.21391,
+  "geocode": "geonames"
+ },
+ "aibonito-puerto-rico": {
+  "id": "aibonito-puerto-rico",
+  "name": "Aibonito",
+  "region": "Puerto Rico",
+  "country": "Puerto Rico",
+  "lat": 18.14,
+  "lon": -66.266,
+  "geocode": "manual"
+ },
+ "albuquerque-new-mexico": {
+  "id": "albuquerque-new-mexico",
+  "name": "Albuquerque",
+  "region": "New Mexico",
+  "country": "United States",
+  "lat": 35.08449,
+  "lon": -106.65114,
+  "geocode": "geonames"
+ },
+ "alexandria-indiana": {
+  "id": "alexandria-indiana",
+  "name": "Alexandria",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 40.26282,
+  "lon": -85.67581,
+  "geocode": "geonames"
+ },
+ "alliance-nebraska": {
+  "id": "alliance-nebraska",
+  "name": "Alliance",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 42.10163,
+  "lon": -102.87215,
+  "geocode": "geonames"
+ },
+ "alpena-south-dakota": {
+  "id": "alpena-south-dakota",
+  "name": "Alpena",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 44.18138,
+  "lon": -98.36565,
+  "geocode": "geonames"
+ },
+ "altoona-pennsylvania": {
+  "id": "altoona-pennsylvania",
+  "name": "Altoona",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 40.51868,
+  "lon": -78.39474,
+  "geocode": "geonames"
+ },
+ "annapolis-maryland": {
+  "id": "annapolis-maryland",
+  "name": "Annapolis",
+  "region": "Maryland",
+  "country": "United States",
+  "lat": 38.97859,
+  "lon": -76.49184,
+  "geocode": "geonames"
+ },
+ "antietam-maryland": {
+  "id": "antietam-maryland",
+  "name": "Antietam",
+  "region": "Maryland",
+  "country": "United States",
+  "lat": 39.4734,
+  "lon": -77.7449,
+  "geocode": "manual"
+ },
+ "ardmore-south-dakota": {
+  "id": "ardmore-south-dakota",
+  "name": "Ardmore",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 43.01941,
+  "lon": -103.65631,
+  "geocode": "geonames"
+ },
+ "arlington-virginia": {
+  "id": "arlington-virginia",
+  "name": "Arlington",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 38.8783,
+  "lon": -77.0687,
+  "geocode": "manual"
+ },
+ "asheville-north-carolina": {
+  "id": "asheville-north-carolina",
+  "name": "Asheville",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.60095,
+  "lon": -82.55402,
+  "geocode": "geonames"
+ },
+ "ashland-oregon": {
+  "id": "ashland-oregon",
+  "name": "Ashland",
+  "region": "Oregon",
+  "country": "United States",
+  "lat": 42.19458,
+  "lon": -122.70948,
+  "geocode": "geonames"
+ },
+ "athens-tennessee": {
+  "id": "athens-tennessee",
+  "name": "Athens",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.44285,
+  "lon": -84.59299,
+  "geocode": "geonames"
+ },
+ "athol-massachusetts": {
+  "id": "athol-massachusetts",
+  "name": "Athol",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.59592,
+  "lon": -72.22675,
+  "geocode": "geonames"
+ },
+ "atlanta-georgia": {
+  "id": "atlanta-georgia",
+  "name": "Atlanta",
+  "region": "Georgia",
+  "country": "United States",
+  "lat": 33.749,
+  "lon": -84.38798,
+  "geocode": "geonames"
+ },
+ "auburn-california": {
+  "id": "auburn-california",
+  "name": "Auburn",
+  "region": "California",
+  "country": "United States",
+  "lat": 38.89657,
+  "lon": -121.07689,
+  "geocode": "geonames"
+ },
+ "augusta-maine": {
+  "id": "augusta-maine",
+  "name": "Augusta",
+  "region": "Maine",
+  "country": "United States",
+  "lat": 44.31062,
+  "lon": -69.77949,
+  "geocode": "geonames"
+ },
+ "aurora-illinois": {
+  "id": "aurora-illinois",
+  "name": "Aurora",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 41.76058,
+  "lon": -88.32007,
+  "geocode": "geonames"
+ },
+ "austin-texas": {
+  "id": "austin-texas",
+  "name": "Austin",
+  "region": "Texas",
+  "country": "United States",
+  "lat": 30.26715,
+  "lon": -97.74306,
+  "geocode": "geonames"
+ },
+ "baltimore-maryland": {
+  "id": "baltimore-maryland",
+  "name": "Baltimore",
+  "region": "Maryland",
+  "country": "United States",
+  "lat": 39.29038,
+  "lon": -76.61219,
+  "geocode": "geonames"
+ },
+ "bangor-maine": {
+  "id": "bangor-maine",
+  "name": "Bangor",
+  "region": "Maine",
+  "country": "United States",
+  "lat": 44.79884,
+  "lon": -68.77265,
+  "geocode": "geonames"
+ },
+ "barstow-california": {
+  "id": "barstow-california",
+  "name": "Barstow",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.89859,
+  "lon": -117.02282,
+  "geocode": "geonames"
+ },
+ "bellows-falls-vermont": {
+  "id": "bellows-falls-vermont",
+  "name": "Bellows Falls",
+  "region": "Vermont",
+  "country": "United States",
+  "lat": 43.13341,
+  "lon": -72.44398,
+  "geocode": "geonames"
+ },
+ "berenda-california": {
+  "id": "berenda-california",
+  "name": "Berenda",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.04022,
+  "lon": -120.1535,
+  "geocode": "geonames"
+ },
+ "berkeley-california": {
+  "id": "berkeley-california",
+  "name": "Berkeley",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.87159,
+  "lon": -122.27275,
+  "geocode": "geonames"
+ },
+ "berlin-germany": {
+  "id": "berlin-germany",
+  "name": "Berlin",
+  "region": "Germany",
+  "country": "Germany",
+  "lat": 52.52,
+  "lon": 13.405,
+  "geocode": "manual"
+ },
+ "billings-montana": {
+  "id": "billings-montana",
+  "name": "Billings",
+  "region": "Montana",
+  "country": "United States",
+  "lat": 45.78329,
+  "lon": -108.50069,
+  "geocode": "geonames"
+ },
+ "birmingham-alabama": {
+  "id": "birmingham-alabama",
+  "name": "Birmingham",
+  "region": "Alabama",
+  "country": "United States",
+  "lat": 33.52066,
+  "lon": -86.80249,
+  "geocode": "geonames"
+ },
+ "bismarck-north-dakota": {
+  "id": "bismarck-north-dakota",
+  "name": "Bismarck",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.80833,
+  "lon": -100.78374,
+  "geocode": "geonames"
+ },
+ "bloomington-illinois": {
+  "id": "bloomington-illinois",
+  "name": "Bloomington",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 40.4842,
+  "lon": -88.99369,
+  "geocode": "geonames"
+ },
+ "blue-schoolhouse-on-upper-divide-creek-colorado": {
+  "id": "blue-schoolhouse-on-upper-divide-creek-colorado",
+  "name": "Blue Schoolhouse on Upper Divide Creek",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 39.35,
+  "lon": -107.55,
+  "geocode": "manual"
+ },
+ "boise-idaho": {
+  "id": "boise-idaho",
+  "name": "Boise",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 43.6135,
+  "lon": -116.20345,
+  "geocode": "geonames"
+ },
+ "boston-massachusetts": {
+  "id": "boston-massachusetts",
+  "name": "Boston",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.35843,
+  "lon": -71.05977,
+  "geocode": "geonames"
+ },
+ "boulder-montana": {
+  "id": "boulder-montana",
+  "name": "Boulder",
+  "region": "Montana",
+  "country": "United States",
+  "lat": 46.23659,
+  "lon": -112.12083,
+  "geocode": "geonames"
+ },
+ "branchville-south-carolina": {
+  "id": "branchville-south-carolina",
+  "name": "Branchville",
+  "region": "South Carolina",
+  "country": "United States",
+  "lat": 33.25127,
+  "lon": -80.81565,
+  "geocode": "geonames"
+ },
+ "brandy-virginia": {
+  "id": "brandy-virginia",
+  "name": "Brandy",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 38.5068,
+  "lon": -77.8933,
+  "geocode": "manual"
+ },
+ "brattleboro-vermont": {
+  "id": "brattleboro-vermont",
+  "name": "Brattleboro",
+  "region": "Vermont",
+  "country": "United States",
+  "lat": 42.85092,
+  "lon": -72.55787,
+  "geocode": "geonames"
+ },
+ "bremerton-washington": {
+  "id": "bremerton-washington",
+  "name": "Bremerton",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.56732,
+  "lon": -122.63264,
+  "geocode": "geonames"
+ },
+ "bridgeport-connecticut": {
+  "id": "bridgeport-connecticut",
+  "name": "Bridgeport",
+  "region": "Connecticut",
+  "country": "United States",
+  "lat": 41.17923,
+  "lon": -73.18945,
+  "geocode": "geonames"
+ },
+ "brooklyn-new-york": {
+  "id": "brooklyn-new-york",
+  "name": "Brooklyn",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.6501,
+  "lon": -73.94958,
+  "geocode": "geonames"
+ },
+ "buffalo-new-york": {
+  "id": "buffalo-new-york",
+  "name": "Buffalo",
+  "region": "New York",
+  "country": "United States",
+  "lat": 42.88645,
+  "lon": -78.87837,
+  "geocode": "geonames"
+ },
+ "burlingame-california": {
+  "id": "burlingame-california",
+  "name": "Burlingame",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.5841,
+  "lon": -122.36608,
+  "geocode": "geonames"
+ },
+ "burlington-vermont": {
+  "id": "burlington-vermont",
+  "name": "Burlington",
+  "region": "Vermont",
+  "country": "United States",
+  "lat": 44.47588,
+  "lon": -73.21207,
+  "geocode": "geonames"
+ },
+ "butte-montana": {
+  "id": "butte-montana",
+  "name": "Butte",
+  "region": "Montana",
+  "country": "United States",
+  "lat": 46.00382,
+  "lon": -112.53474,
+  "geocode": "geonames"
+ },
+ "cairo-egypt": {
+  "id": "cairo-egypt",
+  "name": "Cairo",
+  "region": "Egypt",
+  "country": "Egypt",
+  "lat": 30.0444,
+  "lon": 31.2357,
+  "geocode": "manual"
+ },
+ "cairo-illinois": {
+  "id": "cairo-illinois",
+  "name": "Cairo",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 37.00533,
+  "lon": -89.17646,
+  "geocode": "geonames"
+ },
+ "cambridge-england": {
+  "id": "cambridge-england",
+  "name": "Cambridge",
+  "region": "England",
+  "country": "England",
+  "lat": 52.2053,
+  "lon": 0.1218,
+  "geocode": "manual"
+ },
+ "cambridge-massachusetts": {
+  "id": "cambridge-massachusetts",
+  "name": "Cambridge",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.3751,
+  "lon": -71.10561,
+  "geocode": "geonames"
+ },
+ "cambridge-ohio": {
+  "id": "cambridge-ohio",
+  "name": "Cambridge",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 40.03118,
+  "lon": -81.58846,
+  "geocode": "geonames"
+ },
+ "campbell-california": {
+  "id": "campbell-california",
+  "name": "Campbell",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.28717,
+  "lon": -121.94996,
+  "geocode": "geonames"
+ },
+ "canton-ohio": {
+  "id": "canton-ohio",
+  "name": "Canton",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 40.79895,
+  "lon": -81.37845,
+  "geocode": "geonames"
+ },
+ "carson-city-nevada": {
+  "id": "carson-city-nevada",
+  "name": "Carson City",
+  "region": "Nevada",
+  "country": "United States",
+  "lat": 39.1638,
+  "lon": -119.7674,
+  "geocode": "geonames"
+ },
+ "casselton-north-dakota": {
+  "id": "casselton-north-dakota",
+  "name": "Casselton",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.90053,
+  "lon": -97.2112,
+  "geocode": "geonames"
+ },
+ "cedar-falls-iowa": {
+  "id": "cedar-falls-iowa",
+  "name": "Cedar Falls",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.52776,
+  "lon": -92.44547,
+  "geocode": "geonames"
+ },
+ "centralia-washington": {
+  "id": "centralia-washington",
+  "name": "Centralia",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.71621,
+  "lon": -122.9543,
+  "geocode": "geonames"
+ },
+ "chapman-kansas": {
+  "id": "chapman-kansas",
+  "name": "Chapman",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.97222,
+  "lon": -97.02251,
+  "geocode": "geonames"
+ },
+ "charleston-south-carolina": {
+  "id": "charleston-south-carolina",
+  "name": "Charleston",
+  "region": "South Carolina",
+  "country": "United States",
+  "lat": 32.77632,
+  "lon": -79.93275,
+  "geocode": "geonames"
+ },
+ "charlotte-north-carolina": {
+  "id": "charlotte-north-carolina",
+  "name": "Charlotte",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.22709,
+  "lon": -80.84313,
+  "geocode": "geonames"
+ },
+ "charlottesville-virginia": {
+  "id": "charlottesville-virginia",
+  "name": "Charlottesville",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 38.02931,
+  "lon": -78.47668,
+  "geocode": "geonames"
+ },
+ "chattanooga-tennessee": {
+  "id": "chattanooga-tennessee",
+  "name": "Chattanooga",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.04563,
+  "lon": -85.30968,
+  "geocode": "geonames"
+ },
+ "chautauqua-new-york": {
+  "id": "chautauqua-new-york",
+  "name": "Chautauqua",
+  "region": "New York",
+  "country": "United States",
+  "lat": 42.20978,
+  "lon": -79.46671,
+  "geocode": "geonames"
+ },
+ "chehalis-washington": {
+  "id": "chehalis-washington",
+  "name": "Chehalis",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.66205,
+  "lon": -122.96402,
+  "geocode": "geonames"
+ },
+ "chester-south-carolina": {
+  "id": "chester-south-carolina",
+  "name": "Chester",
+  "region": "South Carolina",
+  "country": "United States",
+  "lat": 34.70486,
+  "lon": -81.21426,
+  "geocode": "geonames"
+ },
+ "chester-vermont": {
+  "id": "chester-vermont",
+  "name": "Chester",
+  "region": "Vermont",
+  "country": "United States",
+  "lat": 43.26285,
+  "lon": -72.59509,
+  "geocode": "geonames"
+ },
+ "cheyenne-wyoming": {
+  "id": "cheyenne-wyoming",
+  "name": "Cheyenne",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 41.13998,
+  "lon": -104.82025,
+  "geocode": "geonames"
+ },
+ "chicago-illinois": {
+  "id": "chicago-illinois",
+  "name": "Chicago",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 41.85003,
+  "lon": -87.65005,
+  "geocode": "geonames"
+ },
+ "chickamauga-georgia": {
+  "id": "chickamauga-georgia",
+  "name": "Chickamauga",
+  "region": "Georgia",
+  "country": "United States",
+  "lat": 34.87119,
+  "lon": -85.29079,
+  "geocode": "geonames"
+ },
+ "christiania-oslo-norway": {
+  "id": "christiania-oslo-norway",
+  "name": "Christiania (Oslo)",
+  "region": "Norway",
+  "country": "Norway",
+  "lat": 59.9139,
+  "lon": 10.7522,
+  "geocode": "manual"
+ },
+ "cincinnati-ohio": {
+  "id": "cincinnati-ohio",
+  "name": "Cincinnati",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 39.12711,
+  "lon": -84.51439,
+  "geocode": "geonames"
+ },
+ "claremont-california": {
+  "id": "claremont-california",
+  "name": "Claremont",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.09668,
+  "lon": -117.71978,
+  "geocode": "geonames"
+ },
+ "clarinda-iowa": {
+  "id": "clarinda-iowa",
+  "name": "Clarinda",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 40.73981,
+  "lon": -95.038,
+  "geocode": "geonames"
+ },
+ "clarksville-missouri": {
+  "id": "clarksville-missouri",
+  "name": "Clarksville",
+  "region": "Missouri",
+  "country": "United States",
+  "lat": 39.3706,
+  "lon": -90.90513,
+  "geocode": "geonames"
+ },
+ "cle-elum-washington": {
+  "id": "cle-elum-washington",
+  "name": "Cle Elum",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.1954,
+  "lon": -120.93925,
+  "geocode": "geonames"
+ },
+ "cleveland-tennessee": {
+  "id": "cleveland-tennessee",
+  "name": "Cleveland",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.15952,
+  "lon": -84.87661,
+  "geocode": "geonames"
+ },
+ "col-n-panama": {
+  "id": "col-n-panama",
+  "name": "Colón",
+  "region": "Panama",
+  "country": "Panama",
+  "lat": 9.3592,
+  "lon": -79.9014,
+  "geocode": "manual"
+ },
+ "colfax-california": {
+  "id": "colfax-california",
+  "name": "Colfax",
+  "region": "California",
+  "country": "United States",
+  "lat": 39.10073,
+  "lon": -120.95328,
+  "geocode": "geonames"
+ },
+ "colorado-springs-colorado": {
+  "id": "colorado-springs-colorado",
+  "name": "Colorado Springs",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 38.83388,
+  "lon": -104.82136,
+  "geocode": "geonames"
+ },
+ "columbia-south-carolina": {
+  "id": "columbia-south-carolina",
+  "name": "Columbia",
+  "region": "South Carolina",
+  "country": "United States",
+  "lat": 34.00071,
+  "lon": -81.03481,
+  "geocode": "geonames"
+ },
+ "columbus-ohio": {
+  "id": "columbus-ohio",
+  "name": "Columbus",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 39.96118,
+  "lon": -82.99879,
+  "geocode": "geonames"
+ },
+ "connellsville-pennsylvania": {
+  "id": "connellsville-pennsylvania",
+  "name": "Connellsville",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 40.01785,
+  "lon": -79.58948,
+  "geocode": "geonames"
+ },
+ "connelly-springs-north-carolina": {
+  "id": "connelly-springs-north-carolina",
+  "name": "Connelly Springs",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.74291,
+  "lon": -81.51343,
+  "geocode": "geonames"
+ },
+ "crawford-nebraska": {
+  "id": "crawford-nebraska",
+  "name": "Crawford",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 42.68302,
+  "lon": -103.4127,
+  "geocode": "geonames"
+ },
+ "crete-nebraska": {
+  "id": "crete-nebraska",
+  "name": "Crete",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.62778,
+  "lon": -96.96142,
+  "geocode": "geonames"
+ },
+ "cuchara-junction-colorado": {
+  "id": "cuchara-junction-colorado",
+  "name": "Cuchara Junction",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 37.66696,
+  "lon": -104.68609,
+  "geocode": "geonames"
+ },
+ "culebra-panama-canal-zone": {
+  "id": "culebra-panama-canal-zone",
+  "name": "Culebra",
+  "region": "Panama Canal Zone",
+  "country": "Panama Canal Zone",
+  "lat": 9.045,
+  "lon": -79.656,
+  "geocode": "manual"
+ },
+ "dallas-texas": {
+  "id": "dallas-texas",
+  "name": "Dallas",
+  "region": "Texas",
+  "country": "United States",
+  "lat": 32.78306,
+  "lon": -96.80667,
+  "geocode": "geonames"
+ },
+ "dalton-massachusetts": {
+  "id": "dalton-massachusetts",
+  "name": "Dalton",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.4737,
+  "lon": -73.16621,
+  "geocode": "geonames"
+ },
+ "danville-illinois": {
+  "id": "danville-illinois",
+  "name": "Danville",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 40.12448,
+  "lon": -87.63002,
+  "geocode": "geonames"
+ },
+ "danville-virginia": {
+  "id": "danville-virginia",
+  "name": "Danville",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 36.58597,
+  "lon": -79.39502,
+  "geocode": "geonames"
+ },
+ "dawson-north-dakota": {
+  "id": "dawson-north-dakota",
+  "name": "Dawson",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.8686,
+  "lon": -99.7515,
+  "geocode": "geonames"
+ },
+ "decatur-illinois": {
+  "id": "decatur-illinois",
+  "name": "Decatur",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 39.84031,
+  "lon": -88.9548,
+  "geocode": "geonames"
+ },
+ "denison-iowa": {
+  "id": "denison-iowa",
+  "name": "Denison",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.01777,
+  "lon": -95.35528,
+  "geocode": "geonames"
+ },
+ "dennison-ohio": {
+  "id": "dennison-ohio",
+  "name": "Dennison",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 40.3934,
+  "lon": -81.33372,
+  "geocode": "geonames"
+ },
+ "denver-colorado": {
+  "id": "denver-colorado",
+  "name": "Denver",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 39.73915,
+  "lon": -104.9847,
+  "geocode": "geonames"
+ },
+ "des-moines-iowa": {
+  "id": "des-moines-iowa",
+  "name": "Des Moines",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 41.60054,
+  "lon": -93.60911,
+  "geocode": "geonames"
+ },
+ "detroit-michigan": {
+  "id": "detroit-michigan",
+  "name": "Detroit",
+  "region": "Michigan",
+  "country": "United States",
+  "lat": 42.33143,
+  "lon": -83.04575,
+  "geocode": "geonames"
+ },
+ "dickinson-north-dakota": {
+  "id": "dickinson-north-dakota",
+  "name": "Dickinson",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.87918,
+  "lon": -102.78962,
+  "geocode": "geonames"
+ },
+ "dorrance-kansas": {
+  "id": "dorrance-kansas",
+  "name": "Dorrance",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.84668,
+  "lon": -98.58952,
+  "geocode": "geonames"
+ },
+ "douglas-wyoming": {
+  "id": "douglas-wyoming",
+  "name": "Douglas",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 42.75969,
+  "lon": -105.38221,
+  "geocode": "geonames"
+ },
+ "dubuque-iowa": {
+  "id": "dubuque-iowa",
+  "name": "Dubuque",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.50056,
+  "lon": -90.66457,
+  "geocode": "geonames"
+ },
+ "dunsmuir-california": {
+  "id": "dunsmuir-california",
+  "name": "Dunsmuir",
+  "region": "California",
+  "country": "United States",
+  "lat": 41.20821,
+  "lon": -122.27195,
+  "geocode": "geonames"
+ },
+ "durham-north-carolina": {
+  "id": "durham-north-carolina",
+  "name": "Durham",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.99403,
+  "lon": -78.89862,
+  "geocode": "geonames"
+ },
+ "dwight-illinois": {
+  "id": "dwight-illinois",
+  "name": "Dwight",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 41.09448,
+  "lon": -88.42506,
+  "geocode": "geonames"
+ },
+ "echo-utah": {
+  "id": "echo-utah",
+  "name": "Echo",
+  "region": "Utah",
+  "country": "United States",
+  "lat": 40.97772,
+  "lon": -111.44325,
+  "geocode": "geonames"
+ },
+ "edgeley-north-dakota": {
+  "id": "edgeley-north-dakota",
+  "name": "Edgeley",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.35914,
+  "lon": -98.71566,
+  "geocode": "geonames"
+ },
+ "edgemont-south-dakota": {
+  "id": "edgemont-south-dakota",
+  "name": "Edgemont",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 43.30107,
+  "lon": -103.8272,
+  "geocode": "geonames"
+ },
+ "el-moro-colorado": {
+  "id": "el-moro-colorado",
+  "name": "El Moro",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 37.22446,
+  "lon": -104.46665,
+  "geocode": "geonames"
+ },
+ "ellendale-north-dakota": {
+  "id": "ellendale-north-dakota",
+  "name": "Ellendale",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.00275,
+  "lon": -98.52705,
+  "geocode": "geonames"
+ },
+ "ellensburg-washington": {
+  "id": "ellensburg-washington",
+  "name": "Ellensburg",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.99651,
+  "lon": -120.54785,
+  "geocode": "geonames"
+ },
+ "ellis-kansas": {
+  "id": "ellis-kansas",
+  "name": "Ellis",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.93807,
+  "lon": -99.56067,
+  "geocode": "geonames"
+ },
+ "ellsworth-kansas": {
+  "id": "ellsworth-kansas",
+  "name": "Ellsworth",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.73056,
+  "lon": -98.22811,
+  "geocode": "geonames"
+ },
+ "evanston-illinois": {
+  "id": "evanston-illinois",
+  "name": "Evanston",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 42.04114,
+  "lon": -87.69006,
+  "geocode": "geonames"
+ },
+ "evanston-wyoming": {
+  "id": "evanston-wyoming",
+  "name": "Evanston",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 41.26828,
+  "lon": -110.96324,
+  "geocode": "geonames"
+ },
+ "evansville-indiana": {
+  "id": "evansville-indiana",
+  "name": "Evansville",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 37.97476,
+  "lon": -87.55585,
+  "geocode": "geonames"
+ },
+ "everett-washington": {
+  "id": "everett-washington",
+  "name": "Everett",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.97898,
+  "lon": -122.20208,
+  "geocode": "geonames"
+ },
+ "fairmont-nebraska": {
+  "id": "fairmont-nebraska",
+  "name": "Fairmont",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.63695,
+  "lon": -97.58533,
+  "geocode": "geonames"
+ },
+ "fargo-north-dakota": {
+  "id": "fargo-north-dakota",
+  "name": "Fargo",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.87719,
+  "lon": -96.7898,
+  "geocode": "geonames"
+ },
+ "fitchburg-massachusetts": {
+  "id": "fitchburg-massachusetts",
+  "name": "Fitchburg",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.58342,
+  "lon": -71.8023,
+  "geocode": "geonames"
+ },
+ "forest-hills-new-york": {
+  "id": "forest-hills-new-york",
+  "name": "Forest Hills",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.71621,
+  "lon": -73.85014,
+  "geocode": "geonames"
+ },
+ "fort-dodge-iowa": {
+  "id": "fort-dodge-iowa",
+  "name": "Fort Dodge",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.49747,
+  "lon": -94.16802,
+  "geocode": "geonames"
+ },
+ "fort-myer-virginia": {
+  "id": "fort-myer-virginia",
+  "name": "Fort Myer",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 38.8806,
+  "lon": -77.0789,
+  "geocode": "manual"
+ },
+ "frederick-south-dakota": {
+  "id": "frederick-south-dakota",
+  "name": "Frederick",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 45.83247,
+  "lon": -98.50621,
+  "geocode": "geonames"
+ },
+ "freeport-illinois": {
+  "id": "freeport-illinois",
+  "name": "Freeport",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 42.29669,
+  "lon": -89.62123,
+  "geocode": "geonames"
+ },
+ "fremont-nebraska": {
+  "id": "fremont-nebraska",
+  "name": "Fremont",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 41.43333,
+  "lon": -96.49808,
+  "geocode": "geonames"
+ },
+ "galena-illinois": {
+  "id": "galena-illinois",
+  "name": "Galena",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 42.41667,
+  "lon": -90.42902,
+  "geocode": "geonames"
+ },
+ "gardiner-montana": {
+  "id": "gardiner-montana",
+  "name": "Gardiner",
+  "region": "Montana",
+  "country": "United States",
+  "lat": 45.03188,
+  "lon": -110.70577,
+  "geocode": "geonames"
+ },
+ "gardner-massachusetts": {
+  "id": "gardner-massachusetts",
+  "name": "Gardner",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.57509,
+  "lon": -71.99813,
+  "geocode": "geonames"
+ },
+ "gettysburg-pennsylvania": {
+  "id": "gettysburg-pennsylvania",
+  "name": "Gettysburg",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 39.8309,
+  "lon": -77.2311,
+  "geocode": "manual"
+ },
+ "gillette-wyoming": {
+  "id": "gillette-wyoming",
+  "name": "Gillette",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 44.29109,
+  "lon": -105.50222,
+  "geocode": "geonames"
+ },
+ "glenns-ferry-idaho": {
+  "id": "glenns-ferry-idaho",
+  "name": "Glenns Ferry",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 42.9549,
+  "lon": -115.3009,
+  "geocode": "geonames"
+ },
+ "grand-canyon-arizona": {
+  "id": "grand-canyon-arizona",
+  "name": "Grand Canyon",
+  "region": "Arizona",
+  "country": "United States",
+  "lat": 36.0573,
+  "lon": -112.143,
+  "geocode": "manual"
+ },
+ "grand-island-nebraska": {
+  "id": "grand-island-nebraska",
+  "name": "Grand Island",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.92501,
+  "lon": -98.34201,
+  "geocode": "geonames"
+ },
+ "grand-rapids-michigan": {
+  "id": "grand-rapids-michigan",
+  "name": "Grand Rapids",
+  "region": "Michigan",
+  "country": "United States",
+  "lat": 42.96336,
+  "lon": -85.66809,
+  "geocode": "geonames"
+ },
+ "great-barrington-massachusetts": {
+  "id": "great-barrington-massachusetts",
+  "name": "Great Barrington",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.19592,
+  "lon": -73.36206,
+  "geocode": "geonames"
+ },
+ "greensboro-north-carolina": {
+  "id": "greensboro-north-carolina",
+  "name": "Greensboro",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 36.07264,
+  "lon": -79.79198,
+  "geocode": "geonames"
+ },
+ "groton-massachusetts": {
+  "id": "groton-massachusetts",
+  "name": "Groton",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.6112,
+  "lon": -71.57451,
+  "geocode": "geonames"
+ },
+ "hampstead-new-york": {
+  "id": "hampstead-new-york",
+  "name": "Hempstead",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.7062,
+  "lon": -73.6187,
+  "geocode": "manual"
+ },
+ "hampton-virginia": {
+  "id": "hampton-virginia",
+  "name": "Hampton",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 37.02987,
+  "lon": -76.34522,
+  "geocode": "geonames"
+ },
+ "hannibal-missouri": {
+  "id": "hannibal-missouri",
+  "name": "Hannibal",
+  "region": "Missouri",
+  "country": "United States",
+  "lat": 39.70838,
+  "lon": -91.35848,
+  "geocode": "geonames"
+ },
+ "harrisburg-pennsylvania": {
+  "id": "harrisburg-pennsylvania",
+  "name": "Harrisburg",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 40.2737,
+  "lon": -76.88442,
+  "geocode": "geonames"
+ },
+ "harrison-idaho": {
+  "id": "harrison-idaho",
+  "name": "Harrison",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 47.45435,
+  "lon": -116.78546,
+  "geocode": "geonames"
+ },
+ "hartford-connecticut": {
+  "id": "hartford-connecticut",
+  "name": "Hartford",
+  "region": "Connecticut",
+  "country": "United States",
+  "lat": 41.76371,
+  "lon": -72.68509,
+  "geocode": "geonames"
+ },
+ "hastings-nebraska": {
+  "id": "hastings-nebraska",
+  "name": "Hastings",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.58612,
+  "lon": -98.38839,
+  "geocode": "geonames"
+ },
+ "haverhill-massachusetts": {
+  "id": "haverhill-massachusetts",
+  "name": "Haverhill",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.7762,
+  "lon": -71.07728,
+  "geocode": "geonames"
+ },
+ "hays-kansas": {
+  "id": "hays-kansas",
+  "name": "Hays",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.87918,
+  "lon": -99.32677,
+  "geocode": "geonames"
+ },
+ "helena-montana": {
+  "id": "helena-montana",
+  "name": "Helena",
+  "region": "Montana",
+  "country": "United States",
+  "lat": 46.59271,
+  "lon": -112.03611,
+  "geocode": "geonames"
+ },
+ "hickory-north-carolina": {
+  "id": "hickory-north-carolina",
+  "name": "Hickory",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.73319,
+  "lon": -81.3412,
+  "geocode": "geonames"
+ },
+ "hodgenville-kentucky": {
+  "id": "hodgenville-kentucky",
+  "name": "Hodgenville",
+  "region": "Kentucky",
+  "country": "United States",
+  "lat": 37.57395,
+  "lon": -85.73996,
+  "geocode": "geonames"
+ },
+ "hope-idaho": {
+  "id": "hope-idaho",
+  "name": "Hope",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 48.24771,
+  "lon": -116.30712,
+  "geocode": "geonames"
+ },
+ "hornbrook-california": {
+  "id": "hornbrook-california",
+  "name": "Hornbrook",
+  "region": "California",
+  "country": "United States",
+  "lat": 41.91014,
+  "lon": -122.55586,
+  "geocode": "geonames"
+ },
+ "huntington-new-york": {
+  "id": "huntington-new-york",
+  "name": "Huntington",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.86815,
+  "lon": -73.42568,
+  "geocode": "geonames"
+ },
+ "independence-iowa": {
+  "id": "independence-iowa",
+  "name": "Independence",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.4686,
+  "lon": -91.88934,
+  "geocode": "geonames"
+ },
+ "indianapolis-indiana": {
+  "id": "indianapolis-indiana",
+  "name": "Indianapolis",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 39.76838,
+  "lon": -86.15804,
+  "geocode": "geonames"
+ },
+ "iowa-falls-iowa": {
+  "id": "iowa-falls-iowa",
+  "name": "Iowa Falls",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.52248,
+  "lon": -93.25131,
+  "geocode": "geonames"
+ },
+ "jacksonville-florida": {
+  "id": "jacksonville-florida",
+  "name": "Jacksonville",
+  "region": "Florida",
+  "country": "United States",
+  "lat": 30.33218,
+  "lon": -81.65565,
+  "geocode": "geonames"
+ },
+ "jamestown-north-dakota": {
+  "id": "jamestown-north-dakota",
+  "name": "Jamestown",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.91054,
+  "lon": -98.70844,
+  "geocode": "geonames"
+ },
+ "jamestown-virginia": {
+  "id": "jamestown-virginia",
+  "name": "Jamestown",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 37.2082,
+  "lon": -76.77413,
+  "geocode": "geonames"
+ },
+ "jefferson-junction-wisconsin": {
+  "id": "jefferson-junction-wisconsin",
+  "name": "Jefferson Junction",
+  "region": "Wisconsin",
+  "country": "United States",
+  "lat": 43.03695,
+  "lon": -88.7901,
+  "geocode": "geonames"
+ },
+ "johnson-city-tennessee": {
+  "id": "johnson-city-tennessee",
+  "name": "Johnson City",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 36.31344,
+  "lon": -82.35347,
+  "geocode": "geonames"
+ },
+ "joliet-illinois": {
+  "id": "joliet-illinois",
+  "name": "Joliet",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 41.52519,
+  "lon": -88.0834,
+  "geocode": "geonames"
+ },
+ "junction-city-kansas": {
+  "id": "junction-city-kansas",
+  "name": "Junction City",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.02861,
+  "lon": -96.8314,
+  "geocode": "geonames"
+ },
+ "kalama-washington": {
+  "id": "kalama-washington",
+  "name": "Kalama",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.00767,
+  "lon": -122.84436,
+  "geocode": "geonames"
+ },
+ "kansas-city-kansas": {
+  "id": "kansas-city-kansas",
+  "name": "Kansas City",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.11417,
+  "lon": -94.62746,
+  "geocode": "geonames"
+ },
+ "kansas-city-missouri": {
+  "id": "kansas-city-missouri",
+  "name": "Kansas City",
+  "region": "Missouri",
+  "country": "United States",
+  "lat": 39.09973,
+  "lon": -94.57857,
+  "geocode": "geonames"
+ },
+ "kearney-nebraska": {
+  "id": "kearney-nebraska",
+  "name": "Kearney",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.69946,
+  "lon": -99.08148,
+  "geocode": "geonames"
+ },
+ "keokuk-iowa": {
+  "id": "keokuk-iowa",
+  "name": "Keokuk",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 40.39727,
+  "lon": -91.38487,
+  "geocode": "geonames"
+ },
+ "khartoum-sudan": {
+  "id": "khartoum-sudan",
+  "name": "Khartoum",
+  "region": "Sudan",
+  "country": "Sudan",
+  "lat": 15.5007,
+  "lon": 32.5599,
+  "geocode": "manual"
+ },
+ "kimama-idaho": {
+  "id": "kimama-idaho",
+  "name": "Kimama",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 42.83796,
+  "lon": -113.79557,
+  "geocode": "geonames"
+ },
+ "knoxville-tennessee": {
+  "id": "knoxville-tennessee",
+  "name": "Knoxville",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.96064,
+  "lon": -83.92074,
+  "geocode": "geonames"
+ },
+ "kokomo-indiana": {
+  "id": "kokomo-indiana",
+  "name": "Kokomo",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 40.48643,
+  "lon": -86.1336,
+  "geocode": "geonames"
+ },
+ "la-crosse-wisconsin": {
+  "id": "la-crosse-wisconsin",
+  "name": "La Crosse",
+  "region": "Wisconsin",
+  "country": "United States",
+  "lat": 43.80136,
+  "lon": -91.23958,
+  "geocode": "geonames"
+ },
+ "lake-city-minnesota": {
+  "id": "lake-city-minnesota",
+  "name": "Lake City",
+  "region": "Minnesota",
+  "country": "United States",
+  "lat": 44.44968,
+  "lon": -92.2682,
+  "geocode": "geonames"
+ },
+ "lake-mills-wisconsin": {
+  "id": "lake-mills-wisconsin",
+  "name": "Lake Mills",
+  "region": "Wisconsin",
+  "country": "United States",
+  "lat": 43.08139,
+  "lon": -88.91177,
+  "geocode": "geonames"
+ },
+ "lansing-michigan": {
+  "id": "lansing-michigan",
+  "name": "Lansing",
+  "region": "Michigan",
+  "country": "United States",
+  "lat": 42.73253,
+  "lon": -84.55553,
+  "geocode": "geonames"
+ },
+ "laramie-wyoming": {
+  "id": "laramie-wyoming",
+  "name": "Laramie",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 41.31137,
+  "lon": -105.5911,
+  "geocode": "geonames"
+ },
+ "lenox-massachusetts": {
+  "id": "lenox-massachusetts",
+  "name": "Lenox",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.35648,
+  "lon": -73.28483,
+  "geocode": "geonames"
+ },
+ "leominster-massachusetts": {
+  "id": "leominster-massachusetts",
+  "name": "Leominster",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.52509,
+  "lon": -71.75979,
+  "geocode": "geonames"
+ },
+ "lexington-illinois": {
+  "id": "lexington-illinois",
+  "name": "Lexington",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 40.64142,
+  "lon": -88.7834,
+  "geocode": "geonames"
+ },
+ "lexington-kentucky": {
+  "id": "lexington-kentucky",
+  "name": "Lexington",
+  "region": "Kentucky",
+  "country": "United States",
+  "lat": 37.98869,
+  "lon": -84.47772,
+  "geocode": "geonames"
+ },
+ "lexington-nebraska": {
+  "id": "lexington-nebraska",
+  "name": "Lexington",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.78084,
+  "lon": -99.7415,
+  "geocode": "geonames"
+ },
+ "lincoln-illinois": {
+  "id": "lincoln-illinois",
+  "name": "Lincoln",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 40.14838,
+  "lon": -89.36482,
+  "geocode": "geonames"
+ },
+ "lincoln-nebraska": {
+  "id": "lincoln-nebraska",
+  "name": "Lincoln",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.8,
+  "lon": -96.66696,
+  "geocode": "geonames"
+ },
+ "little-rock-arkansas": {
+  "id": "little-rock-arkansas",
+  "name": "Little Rock",
+  "region": "Arkansas",
+  "country": "United States",
+  "lat": 34.74648,
+  "lon": -92.28959,
+  "geocode": "geonames"
+ },
+ "livingston-montana": {
+  "id": "livingston-montana",
+  "name": "Livingston",
+  "region": "Montana",
+  "country": "United States",
+  "lat": 45.66244,
+  "lon": -110.56104,
+  "geocode": "geonames"
+ },
+ "locust-valley-new-york": {
+  "id": "locust-valley-new-york",
+  "name": "Locust Valley",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.87593,
+  "lon": -73.59707,
+  "geocode": "geonames"
+ },
+ "logansport-indiana": {
+  "id": "logansport-indiana",
+  "name": "Logansport",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 40.75448,
+  "lon": -86.35667,
+  "geocode": "geonames"
+ },
+ "london-england": {
+  "id": "london-england",
+  "name": "London",
+  "region": "England",
+  "country": "England",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "geocode": "manual"
+ },
+ "lookout-mountain-tennessee": {
+  "id": "lookout-mountain-tennessee",
+  "name": "Lookout Mountain",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.0098,
+  "lon": -85.3442,
+  "geocode": "manual"
+ },
+ "los-angeles-california": {
+  "id": "los-angeles-california",
+  "name": "Los Angeles",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.05223,
+  "lon": -118.24368,
+  "geocode": "geonames"
+ },
+ "louisiana-missouri": {
+  "id": "louisiana-missouri",
+  "name": "Louisiana",
+  "region": "Missouri",
+  "country": "United States",
+  "lat": 39.44894,
+  "lon": -91.05153,
+  "geocode": "geonames"
+ },
+ "louisville-kentucky": {
+  "id": "louisville-kentucky",
+  "name": "Louisville",
+  "region": "Kentucky",
+  "country": "United States",
+  "lat": 38.25424,
+  "lon": -85.75941,
+  "geocode": "geonames"
+ },
+ "ludlow-kentucky": {
+  "id": "ludlow-kentucky",
+  "name": "Ludlow",
+  "region": "Kentucky",
+  "country": "United States",
+  "lat": 39.09256,
+  "lon": -84.54744,
+  "geocode": "geonames"
+ },
+ "madison-wisconsin": {
+  "id": "madison-wisconsin",
+  "name": "Madison",
+  "region": "Wisconsin",
+  "country": "United States",
+  "lat": 43.07305,
+  "lon": -89.40123,
+  "geocode": "geonames"
+ },
+ "manassas-virginia": {
+  "id": "manassas-virginia",
+  "name": "Manassas",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 38.75095,
+  "lon": -77.47527,
+  "geocode": "geonames"
+ },
+ "manchester-iowa": {
+  "id": "manchester-iowa",
+  "name": "Manchester",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.48415,
+  "lon": -91.45543,
+  "geocode": "geonames"
+ },
+ "mandan-north-dakota": {
+  "id": "mandan-north-dakota",
+  "name": "Mandan",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.82666,
+  "lon": -100.88958,
+  "geocode": "geonames"
+ },
+ "manhattan-kansas": {
+  "id": "manhattan-kansas",
+  "name": "Manhattan",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.18361,
+  "lon": -96.57167,
+  "geocode": "geonames"
+ },
+ "marshall-north-carolina": {
+  "id": "marshall-north-carolina",
+  "name": "Marshall",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.79733,
+  "lon": -82.68403,
+  "geocode": "geonames"
+ },
+ "matachin-panama-canal-zone": {
+  "id": "matachin-panama-canal-zone",
+  "name": "Matachin",
+  "region": "Panama Canal Zone",
+  "country": "Panama Canal Zone",
+  "lat": 9.105,
+  "lon": -79.715,
+  "geocode": "manual"
+ },
+ "medora-north-dakota": {
+  "id": "medora-north-dakota",
+  "name": "Medora",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.9139,
+  "lon": -103.52435,
+  "geocode": "geonames"
+ },
+ "memphis-tennessee": {
+  "id": "memphis-tennessee",
+  "name": "Memphis",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.14953,
+  "lon": -90.04898,
+  "geocode": "geonames"
+ },
+ "merced-california": {
+  "id": "merced-california",
+  "name": "Merced",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.30216,
+  "lon": -120.48297,
+  "geocode": "geonames"
+ },
+ "midland-ohio": {
+  "id": "midland-ohio",
+  "name": "Midland",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 39.30617,
+  "lon": -83.91104,
+  "geocode": "geonames"
+ },
+ "millers-falls-massachusetts": {
+  "id": "millers-falls-massachusetts",
+  "name": "Millers Falls",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.58203,
+  "lon": -72.49259,
+  "geocode": "geonames"
+ },
+ "milwaukee-wisconsin": {
+  "id": "milwaukee-wisconsin",
+  "name": "Milwaukee",
+  "region": "Wisconsin",
+  "country": "United States",
+  "lat": 43.0389,
+  "lon": -87.90647,
+  "geocode": "geonames"
+ },
+ "minneapolis-minnesota": {
+  "id": "minneapolis-minnesota",
+  "name": "Minneapolis",
+  "region": "Minnesota",
+  "country": "United States",
+  "lat": 44.97997,
+  "lon": -93.26384,
+  "geocode": "geonames"
+ },
+ "minnesota-state-fairgrounds-minnesota": {
+  "id": "minnesota-state-fairgrounds-minnesota",
+  "name": "Minnesota State Fairgrounds",
+  "region": "Minnesota",
+  "country": "United States",
+  "lat": 44.9817,
+  "lon": -93.1694,
+  "geocode": "manual"
+ },
+ "mitchell-south-dakota": {
+  "id": "mitchell-south-dakota",
+  "name": "Mitchell",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 43.70943,
+  "lon": -98.0298,
+  "geocode": "geonames"
+ },
+ "mobile-alabama": {
+  "id": "mobile-alabama",
+  "name": "Mobile",
+  "region": "Alabama",
+  "country": "United States",
+  "lat": 30.69436,
+  "lon": -88.04305,
+  "geocode": "geonames"
+ },
+ "modesto-california": {
+  "id": "modesto-california",
+  "name": "Modesto",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.6391,
+  "lon": -120.99688,
+  "geocode": "geonames"
+ },
+ "montague-california": {
+  "id": "montague-california",
+  "name": "Montague",
+  "region": "California",
+  "country": "United States",
+  "lat": 41.7282,
+  "lon": -122.5278,
+  "geocode": "geonames"
+ },
+ "montgomery-alabama": {
+  "id": "montgomery-alabama",
+  "name": "Montgomery",
+  "region": "Alabama",
+  "country": "United States",
+  "lat": 32.36681,
+  "lon": -86.29997,
+  "geocode": "geonames"
+ },
+ "moorcroft-wyoming": {
+  "id": "moorcroft-wyoming",
+  "name": "Moorcroft",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 44.26331,
+  "lon": -104.95025,
+  "geocode": "geonames"
+ },
+ "morristown-tennessee": {
+  "id": "morristown-tennessee",
+  "name": "Morristown",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 36.21398,
+  "lon": -83.29489,
+  "geocode": "geonames"
+ },
+ "mount-vernon-massachusetts": {
+  "id": "mount-vernon-massachusetts",
+  "name": "Mount Vernon",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": null,
+  "lon": null,
+  "geocode": null
+ },
+ "mountain-home-idaho": {
+  "id": "mountain-home-idaho",
+  "name": "Mountain Home",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 43.13295,
+  "lon": -115.6912,
+  "geocode": "geonames"
+ },
+ "nampa-idaho": {
+  "id": "nampa-idaho",
+  "name": "Nampa",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 43.54072,
+  "lon": -116.56346,
+  "geocode": "geonames"
+ },
+ "nashville-tennessee": {
+  "id": "nashville-tennessee",
+  "name": "Nashville",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 36.16589,
+  "lon": -86.78444,
+  "geocode": "geonames"
+ },
+ "nebraska-city-nebraska": {
+  "id": "nebraska-city-nebraska",
+  "name": "Nebraska City",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 40.67667,
+  "lon": -95.85917,
+  "geocode": "geonames"
+ },
+ "new-castle-wyoming": {
+  "id": "new-castle-wyoming",
+  "name": "New Castle",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 43.8547,
+  "lon": -104.20494,
+  "geocode": "geonames"
+ },
+ "new-milford-connecticut": {
+  "id": "new-milford-connecticut",
+  "name": "New Milford",
+  "region": "Connecticut",
+  "country": "United States",
+  "lat": 41.57704,
+  "lon": -73.40845,
+  "geocode": "geonames"
+ },
+ "new-orleans-louisiana": {
+  "id": "new-orleans-louisiana",
+  "name": "New Orleans",
+  "region": "Louisiana",
+  "country": "United States",
+  "lat": 29.95465,
+  "lon": -90.07507,
+  "geocode": "geonames"
+ },
+ "new-york-new-york": {
+  "id": "new-york-new-york",
+  "name": "New York",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.71427,
+  "lon": -74.00597,
+  "geocode": "geonames"
+ },
+ "newark-ohio": {
+  "id": "newark-ohio",
+  "name": "Newark",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 40.05812,
+  "lon": -82.40126,
+  "geocode": "geonames"
+ },
+ "newburgh-new-york": {
+  "id": "newburgh-new-york",
+  "name": "Newburgh",
+  "region": "New York",
+  "country": "United States",
+  "lat": 41.50343,
+  "lon": -74.01042,
+  "geocode": "geonames"
+ },
+ "newport-rhode-island": {
+  "id": "newport-rhode-island",
+  "name": "Newport",
+  "region": "Rhode Island",
+  "country": "United States",
+  "lat": 41.4901,
+  "lon": -71.31283,
+  "geocode": "geonames"
+ },
+ "noblesville-indiana": {
+  "id": "noblesville-indiana",
+  "name": "Noblesville",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 40.04559,
+  "lon": -86.0086,
+  "geocode": "geonames"
+ },
+ "norfolk-virginia": {
+  "id": "norfolk-virginia",
+  "name": "Norfolk",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 36.84681,
+  "lon": -76.28522,
+  "geocode": "geonames"
+ },
+ "north-platte-nebraska": {
+  "id": "north-platte-nebraska",
+  "name": "North Platte",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 41.12389,
+  "lon": -100.76542,
+  "geocode": "geonames"
+ },
+ "north-yakima-washington": {
+  "id": "north-yakima-washington",
+  "name": "North Yakima (now Yakima)",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.6021,
+  "lon": -120.5059,
+  "geocode": "manual"
+ },
+ "northfield-massachusetts": {
+  "id": "northfield-massachusetts",
+  "name": "Northfield",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.69592,
+  "lon": -72.45287,
+  "geocode": "geonames"
+ },
+ "oakland-california": {
+  "id": "oakland-california",
+  "name": "Oakland",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.80437,
+  "lon": -122.2708,
+  "geocode": "geonames"
+ },
+ "oakley-kansas": {
+  "id": "oakley-kansas",
+  "name": "Oakley",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.13334,
+  "lon": -100.86376,
+  "geocode": "geonames"
+ },
+ "ocean-grove-new-jersey": {
+  "id": "ocean-grove-new-jersey",
+  "name": "Ocean Grove",
+  "region": "New Jersey",
+  "country": "United States",
+  "lat": 40.21206,
+  "lon": -74.00653,
+  "geocode": "geonames"
+ },
+ "ogden-utah": {
+  "id": "ogden-utah",
+  "name": "Ogden",
+  "region": "Utah",
+  "country": "United States",
+  "lat": 41.223,
+  "lon": -111.97383,
+  "geocode": "geonames"
+ },
+ "old-fort-north-carolina": {
+  "id": "old-fort-north-carolina",
+  "name": "Old Fort",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.62901,
+  "lon": -82.18067,
+  "geocode": "geonames"
+ },
+ "olympia-washington": {
+  "id": "olympia-washington",
+  "name": "Olympia",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.04491,
+  "lon": -122.90169,
+  "geocode": "geonames"
+ },
+ "omaha-nebraska": {
+  "id": "omaha-nebraska",
+  "name": "Omaha",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 41.25626,
+  "lon": -95.94043,
+  "geocode": "geonames"
+ },
+ "ooltewah-tennessee": {
+  "id": "ooltewah-tennessee",
+  "name": "Ooltewah",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.07507,
+  "lon": -85.06217,
+  "geocode": "geonames"
+ },
+ "oregon-city-oregon": {
+  "id": "oregon-city-oregon",
+  "name": "Oregon City",
+  "region": "Oregon",
+  "country": "United States",
+  "lat": 45.35734,
+  "lon": -122.60676,
+  "geocode": "geonames"
+ },
+ "osawatomie-kansas": {
+  "id": "osawatomie-kansas",
+  "name": "Osawatomie",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.49724,
+  "lon": -94.95052,
+  "geocode": "geonames"
+ },
+ "osceola-iowa": {
+  "id": "osceola-iowa",
+  "name": "Osceola",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 41.03389,
+  "lon": -93.7655,
+  "geocode": "geonames"
+ },
+ "oskaloosa-iowa": {
+  "id": "oskaloosa-iowa",
+  "name": "Oskaloosa",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 41.29639,
+  "lon": -92.64436,
+  "geocode": "geonames"
+ },
+ "ottumwa-iowa": {
+  "id": "ottumwa-iowa",
+  "name": "Ottumwa",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 41.02001,
+  "lon": -92.4113,
+  "geocode": "geonames"
+ },
+ "oxford-england": {
+  "id": "oxford-england",
+  "name": "Oxford",
+  "region": "England",
+  "country": "England",
+  "lat": 51.752,
+  "lon": -1.2577,
+  "geocode": "manual"
+ },
+ "oxnard-california": {
+  "id": "oxnard-california",
+  "name": "Oxnard",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.1975,
+  "lon": -119.17705,
+  "geocode": "geonames"
+ },
+ "oyster-bay-new-york": {
+  "id": "oyster-bay-new-york",
+  "name": "Oyster Bay",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.86565,
+  "lon": -73.53207,
+  "geocode": "geonames"
+ },
+ "pajaro-california": {
+  "id": "pajaro-california",
+  "name": "Pajaro",
+  "region": "California",
+  "country": "United States",
+  "lat": 36.90412,
+  "lon": -121.74856,
+  "geocode": "geonames"
+ },
+ "palmer-lake-colorado": {
+  "id": "palmer-lake-colorado",
+  "name": "Palmer Lake",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 39.12221,
+  "lon": -104.9172,
+  "geocode": "geonames"
+ },
+ "palo-alto-california": {
+  "id": "palo-alto-california",
+  "name": "Palo Alto",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.44188,
+  "lon": -122.14302,
+  "geocode": "geonames"
+ },
+ "panama-panama": {
+  "id": "panama-panama",
+  "name": "Panama",
+  "region": "Panama",
+  "country": "Panama",
+  "lat": 8.9824,
+  "lon": -79.5199,
+  "geocode": "manual"
+ },
+ "paris-france": {
+  "id": "paris-france",
+  "name": "Paris",
+  "region": "France",
+  "country": "France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "geocode": "manual"
+ },
+ "parkston-south-dakota": {
+  "id": "parkston-south-dakota",
+  "name": "Parkston",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 43.39888,
+  "lon": -97.98368,
+  "geocode": "geonames"
+ },
+ "pasadena-california": {
+  "id": "pasadena-california",
+  "name": "Pasadena",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.14778,
+  "lon": -118.14452,
+  "geocode": "geonames"
+ },
+ "pasco-washington": {
+  "id": "pasco-washington",
+  "name": "Pasco",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.23958,
+  "lon": -119.10057,
+  "geocode": "geonames"
+ },
+ "paso-robles-california": {
+  "id": "paso-robles-california",
+  "name": "Paso Robles",
+  "region": "California",
+  "country": "United States",
+  "lat": 35.62664,
+  "lon": -120.691,
+  "geocode": "geonames"
+ },
+ "pen-mar-pennsylvania": {
+  "id": "pen-mar-pennsylvania",
+  "name": "Pen Mar",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 39.72037,
+  "lon": -77.50666,
+  "geocode": "geonames"
+ },
+ "philadelphia-pennsylvania": {
+  "id": "philadelphia-pennsylvania",
+  "name": "Philadelphia",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 39.95238,
+  "lon": -75.16362,
+  "geocode": "geonames"
+ },
+ "pittsfield-massachusetts": {
+  "id": "pittsfield-massachusetts",
+  "name": "Pittsfield",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.45008,
+  "lon": -73.24538,
+  "geocode": "geonames"
+ },
+ "pocatello-idaho": {
+  "id": "pocatello-idaho",
+  "name": "Pocatello",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 42.8713,
+  "lon": -112.44553,
+  "geocode": "geonames"
+ },
+ "portland-maine": {
+  "id": "portland-maine",
+  "name": "Portland",
+  "region": "Maine",
+  "country": "United States",
+  "lat": 43.65737,
+  "lon": -70.2589,
+  "geocode": "geonames"
+ },
+ "portland-oregon": {
+  "id": "portland-oregon",
+  "name": "Portland",
+  "region": "Oregon",
+  "country": "United States",
+  "lat": 45.52345,
+  "lon": -122.67621,
+  "geocode": "geonames"
+ },
+ "portsmouth-virginia": {
+  "id": "portsmouth-virginia",
+  "name": "Portsmouth",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 36.83543,
+  "lon": -76.29827,
+  "geocode": "geonames"
+ },
+ "prosser-washington": {
+  "id": "prosser-washington",
+  "name": "Prosser",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.2068,
+  "lon": -119.76892,
+  "geocode": "geonames"
+ },
+ "providence-rhode-island": {
+  "id": "providence-rhode-island",
+  "name": "Providence",
+  "region": "Rhode Island",
+  "country": "United States",
+  "lat": 41.82399,
+  "lon": -71.41283,
+  "geocode": "geonames"
+ },
+ "provincetown-massachusetts": {
+  "id": "provincetown-massachusetts",
+  "name": "Provincetown",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.05295,
+  "lon": -70.1864,
+  "geocode": "geonames"
+ },
+ "pueblo-colorado": {
+  "id": "pueblo-colorado",
+  "name": "Pueblo",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 38.25445,
+  "lon": -104.60914,
+  "geocode": "geonames"
+ },
+ "quincy-illinois": {
+  "id": "quincy-illinois",
+  "name": "Quincy",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 39.9356,
+  "lon": -91.40987,
+  "geocode": "geonames"
+ },
+ "r-o-piedras-puerto-rico": {
+  "id": "r-o-piedras-puerto-rico",
+  "name": "Río Piedras",
+  "region": "Puerto Rico",
+  "country": "Puerto Rico",
+  "lat": 18.3995,
+  "lon": -66.05,
+  "geocode": "manual"
+ },
+ "racine-wisconsin": {
+  "id": "racine-wisconsin",
+  "name": "Racine",
+  "region": "Wisconsin",
+  "country": "United States",
+  "lat": 42.72613,
+  "lon": -87.78285,
+  "geocode": "geonames"
+ },
+ "raleigh-north-carolina": {
+  "id": "raleigh-north-carolina",
+  "name": "Raleigh",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.7721,
+  "lon": -78.63861,
+  "geocode": "geonames"
+ },
+ "raymond-california": {
+  "id": "raymond-california",
+  "name": "Raymond",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.21717,
+  "lon": -119.90544,
+  "geocode": "geonames"
+ },
+ "redding-california": {
+  "id": "redding-california",
+  "name": "Redding",
+  "region": "California",
+  "country": "United States",
+  "lat": 40.58654,
+  "lon": -122.39168,
+  "geocode": "geonames"
+ },
+ "redfield-south-dakota": {
+  "id": "redfield-south-dakota",
+  "name": "Redfield",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 44.87581,
+  "lon": -98.51871,
+  "geocode": "geonames"
+ },
+ "redlands-california": {
+  "id": "redlands-california",
+  "name": "Redlands",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.05557,
+  "lon": -117.18254,
+  "geocode": "geonames"
+ },
+ "remington-virginia": {
+  "id": "remington-virginia",
+  "name": "Remington",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 38.53374,
+  "lon": -77.80833,
+  "geocode": "geonames"
+ },
+ "reno-nevada": {
+  "id": "reno-nevada",
+  "name": "Reno",
+  "region": "Nevada",
+  "country": "United States",
+  "lat": 39.52963,
+  "lon": -119.8138,
+  "geocode": "geonames"
+ },
+ "riceville-tennessee": {
+  "id": "riceville-tennessee",
+  "name": "Riceville",
+  "region": "Tennessee",
+  "country": "United States",
+  "lat": 35.3848,
+  "lon": -84.69299,
+  "geocode": "geonames"
+ },
+ "richardton-north-dakota": {
+  "id": "richardton-north-dakota",
+  "name": "Richardton",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.8839,
+  "lon": -102.31573,
+  "geocode": "geonames"
+ },
+ "richmond-hill-new-york": {
+  "id": "richmond-hill-new-york",
+  "name": "Richmond Hill",
+  "region": "New York",
+  "country": "United States",
+  "lat": 40.69983,
+  "lon": -73.83125,
+  "geocode": "geonames"
+ },
+ "richmond-virginia": {
+  "id": "richmond-virginia",
+  "name": "Richmond",
+  "region": "Virginia",
+  "country": "United States",
+  "lat": 37.55376,
+  "lon": -77.46026,
+  "geocode": "geonames"
+ },
+ "rio-de-janeiro-brazil": {
+  "id": "rio-de-janeiro-brazil",
+  "name": "Rio de Janeiro",
+  "region": "Brazil",
+  "country": "Brazil",
+  "lat": -22.9068,
+  "lon": -43.1729,
+  "geocode": "manual"
+ },
+ "riverside-california": {
+  "id": "riverside-california",
+  "name": "Riverside",
+  "region": "California",
+  "country": "United States",
+  "lat": 33.95335,
+  "lon": -117.39616,
+  "geocode": "geonames"
+ },
+ "rochelle-illinois": {
+  "id": "rochelle-illinois",
+  "name": "Rochelle",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 41.92392,
+  "lon": -89.06871,
+  "geocode": "geonames"
+ },
+ "rockford-illinois": {
+  "id": "rockford-illinois",
+  "name": "Rockford",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 42.27113,
+  "lon": -89.094,
+  "geocode": "geonames"
+ },
+ "roosevelt-arizona": {
+  "id": "roosevelt-arizona",
+  "name": "Roosevelt",
+  "region": "Arizona",
+  "country": "United States",
+  "lat": 33.66755,
+  "lon": -111.13429,
+  "geocode": "geonames"
+ },
+ "roswell-georgia": {
+  "id": "roswell-georgia",
+  "name": "Roswell",
+  "region": "Georgia",
+  "country": "United States",
+  "lat": 34.02316,
+  "lon": -84.36159,
+  "geocode": "geonames"
+ },
+ "russell-kansas": {
+  "id": "russell-kansas",
+  "name": "Russell",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.89527,
+  "lon": -98.86103,
+  "geocode": "geonames"
+ },
+ "rutland-vermont": {
+  "id": "rutland-vermont",
+  "name": "Rutland",
+  "region": "Vermont",
+  "country": "United States",
+  "lat": 43.61062,
+  "lon": -72.97261,
+  "geocode": "geonames"
+ },
+ "sacramento-california": {
+  "id": "sacramento-california",
+  "name": "Sacramento",
+  "region": "California",
+  "country": "United States",
+  "lat": 38.58157,
+  "lon": -121.4944,
+  "geocode": "geonames"
+ },
+ "salem-oregon": {
+  "id": "salem-oregon",
+  "name": "Salem",
+  "region": "Oregon",
+  "country": "United States",
+  "lat": 44.9429,
+  "lon": -123.0351,
+  "geocode": "geonames"
+ },
+ "salina-kansas": {
+  "id": "salina-kansas",
+  "name": "Salina",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.84028,
+  "lon": -97.61142,
+  "geocode": "geonames"
+ },
+ "salisbury-north-carolina": {
+  "id": "salisbury-north-carolina",
+  "name": "Salisbury",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.67097,
+  "lon": -80.47423,
+  "geocode": "geonames"
+ },
+ "salt-lake-city-utah": {
+  "id": "salt-lake-city-utah",
+  "name": "Salt Lake City",
+  "region": "Utah",
+  "country": "United States",
+  "lat": 40.76078,
+  "lon": -111.89105,
+  "geocode": "geonames"
+ },
+ "san-antonio-texas": {
+  "id": "san-antonio-texas",
+  "name": "San Antonio",
+  "region": "Texas",
+  "country": "United States",
+  "lat": 29.42412,
+  "lon": -98.49363,
+  "geocode": "geonames"
+ },
+ "san-bernardino-california": {
+  "id": "san-bernardino-california",
+  "name": "San Bernardino",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.10834,
+  "lon": -117.28977,
+  "geocode": "geonames"
+ },
+ "san-francisco-california": {
+  "id": "san-francisco-california",
+  "name": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.77493,
+  "lon": -122.41942,
+  "geocode": "geonames"
+ },
+ "san-jose-california": {
+  "id": "san-jose-california",
+  "name": "San Jose",
+  "region": "California",
+  "country": "United States",
+  "lat": 37.33939,
+  "lon": -121.89496,
+  "geocode": "geonames"
+ },
+ "san-luis-obispo-california": {
+  "id": "san-luis-obispo-california",
+  "name": "San Luis Obispo",
+  "region": "California",
+  "country": "United States",
+  "lat": 35.28275,
+  "lon": -120.65962,
+  "geocode": "geonames"
+ },
+ "santa-barbara-california": {
+  "id": "santa-barbara-california",
+  "name": "Santa Barbara",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.42083,
+  "lon": -119.69819,
+  "geocode": "geonames"
+ },
+ "santa-cruz-california": {
+  "id": "santa-cruz-california",
+  "name": "Santa Cruz",
+  "region": "California",
+  "country": "United States",
+  "lat": 36.97412,
+  "lon": -122.0308,
+  "geocode": "geonames"
+ },
+ "santa-fe-new-mexico": {
+  "id": "santa-fe-new-mexico",
+  "name": "Santa Fe",
+  "region": "New Mexico",
+  "country": "United States",
+  "lat": 35.68698,
+  "lon": -105.9378,
+  "geocode": "geonames"
+ },
+ "saratoga-new-york": {
+  "id": "saratoga-new-york",
+  "name": "Saratoga",
+  "region": "New York",
+  "country": "United States",
+  "lat": 43.0831,
+  "lon": -73.7846,
+  "geocode": "manual"
+ },
+ "scotland-south-dakota": {
+  "id": "scotland-south-dakota",
+  "name": "Scotland",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 43.14972,
+  "lon": -97.71757,
+  "geocode": "geonames"
+ },
+ "seattle-washington": {
+  "id": "seattle-washington",
+  "name": "Seattle",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.60621,
+  "lon": -122.33207,
+  "geocode": "geonames"
+ },
+ "sharon-springs-kansas": {
+  "id": "sharon-springs-kansas",
+  "name": "Sharon Springs",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.89779,
+  "lon": -101.75212,
+  "geocode": "geonames"
+ },
+ "sharpsburg-iowa": {
+  "id": "sharpsburg-iowa",
+  "name": "Sharpsburg",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 40.80249,
+  "lon": -94.64247,
+  "geocode": "geonames"
+ },
+ "shenandoah-iowa": {
+  "id": "shenandoah-iowa",
+  "name": "Shenandoah",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 40.76555,
+  "lon": -95.37221,
+  "geocode": "geonames"
+ },
+ "shoshone-idaho": {
+  "id": "shoshone-idaho",
+  "name": "Shoshone",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 42.93602,
+  "lon": -114.40588,
+  "geocode": "geonames"
+ },
+ "sidney-nebraska": {
+  "id": "sidney-nebraska",
+  "name": "Sidney",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 41.14276,
+  "lon": -102.97798,
+  "geocode": "geonames"
+ },
+ "sioux-falls-south-dakota": {
+  "id": "sioux-falls-south-dakota",
+  "name": "Sioux Falls",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 43.54369,
+  "lon": -96.72796,
+  "geocode": "geonames"
+ },
+ "sisson-california": {
+  "id": "sisson-california",
+  "name": "Sisson (now Mount Shasta)",
+  "region": "California",
+  "country": "United States",
+  "lat": 41.3099,
+  "lon": -122.3106,
+  "geocode": "manual"
+ },
+ "smedes-mississippi": {
+  "id": "smedes-mississippi",
+  "name": "Smedes",
+  "region": "Mississippi",
+  "country": "United States",
+  "lat": 32.69374,
+  "lon": -90.92066,
+  "geocode": "geonames"
+ },
+ "south-bend-indiana": {
+  "id": "south-bend-indiana",
+  "name": "South Bend",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 41.68338,
+  "lon": -86.25001,
+  "geocode": "geonames"
+ },
+ "spokane-washington": {
+  "id": "spokane-washington",
+  "name": "Spokane",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.65966,
+  "lon": -117.42908,
+  "geocode": "geonames"
+ },
+ "springfield-illinois": {
+  "id": "springfield-illinois",
+  "name": "Springfield",
+  "region": "Illinois",
+  "country": "United States",
+  "lat": 39.80172,
+  "lon": -89.64371,
+  "geocode": "geonames"
+ },
+ "springfield-massachusetts": {
+  "id": "springfield-massachusetts",
+  "name": "Springfield",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.10148,
+  "lon": -72.58981,
+  "geocode": "geonames"
+ },
+ "springfield-ohio": {
+  "id": "springfield-ohio",
+  "name": "Springfield",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 39.92423,
+  "lon": -83.80882,
+  "geocode": "geonames"
+ },
+ "st-louis-missouri": {
+  "id": "st-louis-missouri",
+  "name": "St. Louis",
+  "region": "Missouri",
+  "country": "United States",
+  "lat": 38.62727,
+  "lon": -90.19789,
+  "geocode": "geonames"
+ },
+ "st-marys-kansas": {
+  "id": "st-marys-kansas",
+  "name": "St. Marys",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.19416,
+  "lon": -96.0711,
+  "geocode": "geonames"
+ },
+ "st-paul-minnesota": {
+  "id": "st-paul-minnesota",
+  "name": "St. Paul",
+  "region": "Minnesota",
+  "country": "United States",
+  "lat": 44.94441,
+  "lon": -93.09327,
+  "geocode": "geonames"
+ },
+ "statesville-north-carolina": {
+  "id": "statesville-north-carolina",
+  "name": "Statesville",
+  "region": "North Carolina",
+  "country": "United States",
+  "lat": 35.78264,
+  "lon": -80.8873,
+  "geocode": "geonames"
+ },
+ "stockbridge-massachusetts": {
+  "id": "stockbridge-massachusetts",
+  "name": "Stockbridge",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.28759,
+  "lon": -73.32039,
+  "geocode": "geonames"
+ },
+ "summerville-south-carolina": {
+  "id": "summerville-south-carolina",
+  "name": "Summerville",
+  "region": "South Carolina",
+  "country": "United States",
+  "lat": 33.0185,
+  "lon": -80.17565,
+  "geocode": "geonames"
+ },
+ "surf-california": {
+  "id": "surf-california",
+  "name": "Surf",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.68443,
+  "lon": -120.6035,
+  "geocode": "geonames"
+ },
+ "syracuse-new-york": {
+  "id": "syracuse-new-york",
+  "name": "Syracuse",
+  "region": "New York",
+  "country": "United States",
+  "lat": 43.04812,
+  "lon": -76.14742,
+  "geocode": "geonames"
+ },
+ "tacoma-washington": {
+  "id": "tacoma-washington",
+  "name": "Tacoma",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.25288,
+  "lon": -122.44429,
+  "geocode": "geonames"
+ },
+ "tekoa-washington": {
+  "id": "tekoa-washington",
+  "name": "Tekoa",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 47.22323,
+  "lon": -117.07212,
+  "geocode": "geonames"
+ },
+ "tipton-indiana": {
+  "id": "tipton-indiana",
+  "name": "Tipton",
+  "region": "Indiana",
+  "country": "United States",
+  "lat": 40.28226,
+  "lon": -86.0411,
+  "geocode": "geonames"
+ },
+ "topeka-kansas": {
+  "id": "topeka-kansas",
+  "name": "Topeka",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.04833,
+  "lon": -95.67804,
+  "geocode": "geonames"
+ },
+ "toronto-canada": {
+  "id": "toronto-canada",
+  "name": "Toronto",
+  "region": "Canada",
+  "country": "Canada",
+  "lat": 43.6532,
+  "lon": -79.3832,
+  "geocode": "manual"
+ },
+ "tower-city-north-dakota": {
+  "id": "tower-city-north-dakota",
+  "name": "Tower City",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.92275,
+  "lon": -97.67399,
+  "geocode": "geonames"
+ },
+ "trinidad-colorado": {
+  "id": "trinidad-colorado",
+  "name": "Trinidad",
+  "region": "Colorado",
+  "country": "United States",
+  "lat": 37.16946,
+  "lon": -104.50054,
+  "geocode": "geonames"
+ },
+ "tripp-south-dakota": {
+  "id": "tripp-south-dakota",
+  "name": "Tripp",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 43.22555,
+  "lon": -97.96591,
+  "geocode": "geonames"
+ },
+ "truckee-california": {
+  "id": "truckee-california",
+  "name": "Truckee",
+  "region": "California",
+  "country": "United States",
+  "lat": 39.32796,
+  "lon": -120.18325,
+  "geocode": "geonames"
+ },
+ "tulare-south-dakota": {
+  "id": "tulare-south-dakota",
+  "name": "Tulare",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 44.73803,
+  "lon": -98.50982,
+  "geocode": "geonames"
+ },
+ "tuskegee-alabama": {
+  "id": "tuskegee-alabama",
+  "name": "Tuskegee",
+  "region": "Alabama",
+  "country": "United States",
+  "lat": 32.42415,
+  "lon": -85.69096,
+  "geocode": "geonames"
+ },
+ "vallejo-california": {
+  "id": "vallejo-california",
+  "name": "Vallejo",
+  "region": "California",
+  "country": "United States",
+  "lat": 38.10409,
+  "lon": -122.25664,
+  "geocode": "geonames"
+ },
+ "valley-city-north-dakota": {
+  "id": "valley-city-north-dakota",
+  "name": "Valley City",
+  "region": "North Dakota",
+  "country": "United States",
+  "lat": 46.92331,
+  "lon": -98.00315,
+  "geocode": "geonames"
+ },
+ "valley-forge-pennsylvania": {
+  "id": "valley-forge-pennsylvania",
+  "name": "Valley Forge",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 40.097,
+  "lon": -75.44,
+  "geocode": "manual"
+ },
+ "van-wert-iowa": {
+  "id": "van-wert-iowa",
+  "name": "Van Wert",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 40.86972,
+  "lon": -93.793,
+  "geocode": "geonames"
+ },
+ "ventura-california": {
+  "id": "ventura-california",
+  "name": "Ventura",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.27834,
+  "lon": -119.29317,
+  "geocode": "geonames"
+ },
+ "vicksburg-mississippi": {
+  "id": "vicksburg-mississippi",
+  "name": "Vicksburg",
+  "region": "Mississippi",
+  "country": "United States",
+  "lat": 32.35265,
+  "lon": -90.87788,
+  "geocode": "geonames"
+ },
+ "victoria-kansas": {
+  "id": "victoria-kansas",
+  "name": "Victoria",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 38.85279,
+  "lon": -99.1476,
+  "geocode": "geonames"
+ },
+ "victorville-california": {
+  "id": "victorville-california",
+  "name": "Victorville",
+  "region": "California",
+  "country": "United States",
+  "lat": 34.53611,
+  "lon": -117.29116,
+  "geocode": "geonames"
+ },
+ "wahoo-nebraska": {
+  "id": "wahoo-nebraska",
+  "name": "Wahoo",
+  "region": "Nebraska",
+  "country": "United States",
+  "lat": 41.21139,
+  "lon": -96.6203,
+  "geocode": "geonames"
+ },
+ "wakeeney-kansas": {
+  "id": "wakeeney-kansas",
+  "name": "Wakeeney",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.02501,
+  "lon": -99.87957,
+  "geocode": "geonames"
+ },
+ "walla-walla-washington": {
+  "id": "walla-walla-washington",
+  "name": "Walla Walla",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.06458,
+  "lon": -118.34302,
+  "geocode": "geonames"
+ },
+ "wallace-idaho": {
+  "id": "wallace-idaho",
+  "name": "Wallace",
+  "region": "Idaho",
+  "country": "United States",
+  "lat": 47.47409,
+  "lon": -115.92794,
+  "geocode": "geonames"
+ },
+ "wallula-washington": {
+  "id": "wallula-washington",
+  "name": "Wallula",
+  "region": "Washington",
+  "country": "United States",
+  "lat": 46.08541,
+  "lon": -118.90528,
+  "geocode": "geonames"
+ },
+ "wamego-kansas": {
+  "id": "wamego-kansas",
+  "name": "Wamego",
+  "region": "Kansas",
+  "country": "United States",
+  "lat": 39.20194,
+  "lon": -96.305,
+  "geocode": "geonames"
+ },
+ "washington-court-house-ohio": {
+  "id": "washington-court-house-ohio",
+  "name": "Washington Court House",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 39.53645,
+  "lon": -83.43908,
+  "geocode": "geonames"
+ },
+ "washington-d-c": {
+  "id": "washington-d-c",
+  "name": "Washington",
+  "region": "D.C.",
+  "country": "United States",
+  "lat": 38.89511,
+  "lon": -77.03637,
+  "geocode": "geonames"
+ },
+ "waterloo-iowa": {
+  "id": "waterloo-iowa",
+  "name": "Waterloo",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.49276,
+  "lon": -92.34296,
+  "geocode": "geonames"
+ },
+ "watsonville-california": {
+  "id": "watsonville-california",
+  "name": "Watsonville",
+  "region": "California",
+  "country": "United States",
+  "lat": 36.91023,
+  "lon": -121.75689,
+  "geocode": "geonames"
+ },
+ "waukesha-wisconsin": {
+  "id": "waukesha-wisconsin",
+  "name": "Waukesha",
+  "region": "Wisconsin",
+  "country": "United States",
+  "lat": 43.01168,
+  "lon": -88.23148,
+  "geocode": "geonames"
+ },
+ "webster-city-iowa": {
+  "id": "webster-city-iowa",
+  "name": "Webster City",
+  "region": "Iowa",
+  "country": "United States",
+  "lat": 42.46942,
+  "lon": -93.81605,
+  "geocode": "geonames"
+ },
+ "weirs-new-hampshire": {
+  "id": "weirs-new-hampshire",
+  "name": "Weirs",
+  "region": "New Hampshire",
+  "country": "United States",
+  "lat": 43.6087,
+  "lon": -71.4614,
+  "geocode": "manual"
+ },
+ "west-point-new-york": {
+  "id": "west-point-new-york",
+  "name": "West Point",
+  "region": "New York",
+  "country": "United States",
+  "lat": 41.39148,
+  "lon": -73.95597,
+  "geocode": "geonames"
+ },
+ "westfield-massachusetts": {
+  "id": "westfield-massachusetts",
+  "name": "Westfield",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.12509,
+  "lon": -72.74954,
+  "geocode": "geonames"
+ },
+ "wheeling-west-virginia": {
+  "id": "wheeling-west-virginia",
+  "name": "Wheeling",
+  "region": "West Virginia",
+  "country": "United States",
+  "lat": 40.06396,
+  "lon": -80.72091,
+  "geocode": "geonames"
+ },
+ "wilkesbarre-pennsylvania": {
+  "id": "wilkesbarre-pennsylvania",
+  "name": "Wilkesbarre",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 41.24591,
+  "lon": -75.88131,
+  "geocode": "geonames"
+ },
+ "williams-arizona": {
+  "id": "williams-arizona",
+  "name": "Williams",
+  "region": "Arizona",
+  "country": "United States",
+  "lat": 35.24946,
+  "lon": -112.191,
+  "geocode": "geonames"
+ },
+ "williamstown-massachusetts": {
+  "id": "williamstown-massachusetts",
+  "name": "Williamstown",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.71202,
+  "lon": -73.20372,
+  "geocode": "geonames"
+ },
+ "winona-minnesota": {
+  "id": "winona-minnesota",
+  "name": "Winona",
+  "region": "Minnesota",
+  "country": "United States",
+  "lat": 44.04996,
+  "lon": -91.63932,
+  "geocode": "geonames"
+ },
+ "woodville-oregon": {
+  "id": "woodville-oregon",
+  "name": "Woodville (now Rogue River)",
+  "region": "Oregon",
+  "country": "United States",
+  "lat": 42.4337,
+  "lon": -123.0478,
+  "geocode": "manual"
+ },
+ "woonsocket-south-dakota": {
+  "id": "woonsocket-south-dakota",
+  "name": "Woonsocket",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 44.0536,
+  "lon": -98.27564,
+  "geocode": "geonames"
+ },
+ "worcester-massachusetts": {
+  "id": "worcester-massachusetts",
+  "name": "Worcester",
+  "region": "Massachusetts",
+  "country": "United States",
+  "lat": 42.26259,
+  "lon": -71.80229,
+  "geocode": "geonames"
+ },
+ "worthville-kentucky": {
+  "id": "worthville-kentucky",
+  "name": "Worthville",
+  "region": "Kentucky",
+  "country": "United States",
+  "lat": 38.60979,
+  "lon": -85.06745,
+  "geocode": "geonames"
+ },
+ "xenia-ohio": {
+  "id": "xenia-ohio",
+  "name": "Xenia",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 39.68478,
+  "lon": -83.92965,
+  "geocode": "geonames"
+ },
+ "yankton-south-dakota": {
+  "id": "yankton-south-dakota",
+  "name": "Yankton",
+  "region": "South Dakota",
+  "country": "United States",
+  "lat": 42.87111,
+  "lon": -97.39728,
+  "geocode": "geonames"
+ },
+ "yellowstone-national-park-wyoming": {
+  "id": "yellowstone-national-park-wyoming",
+  "name": "Yellowstone National Park",
+  "region": "Wyoming",
+  "country": "United States",
+  "lat": 44.9772,
+  "lon": -110.696,
+  "geocode": "manual"
+ },
+ "york-pennsylvania": {
+  "id": "york-pennsylvania",
+  "name": "York",
+  "region": "Pennsylvania",
+  "country": "United States",
+  "lat": 39.9626,
+  "lon": -76.72774,
+  "geocode": "geonames"
+ },
+ "zanesville-ohio": {
+  "id": "zanesville-ohio",
+  "name": "Zanesville",
+  "region": "Ohio",
+  "country": "United States",
+  "lat": 39.94035,
+  "lon": -82.01319,
+  "geocode": "geonames"
+ }
+}

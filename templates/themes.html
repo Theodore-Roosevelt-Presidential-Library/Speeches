@@ -1,0 +1,28 @@
+<!-- title: Themes -->
+<!-- desc: The subjects Theodore Roosevelt returned to in his speeches, from conservation and labor to the Navy and the duties of citizenship, and how they rose and fell over the years. -->
+
+<!--BODY-->
+<section class="pagehero">
+  <div class="wrap">
+    <h1>What he talked about</h1>
+    <p class="lede">Conservation, the trusts, the Navy, the home, the good citizen. Each topic shows the years it came up most. Click a topic to see its speeches.</p>
+  </div>
+</section>
+<div class="wrapmain">
+  <div class="grid2" id="cards"></div>
+  <div class="panel" style="margin-top:24px">
+    <h2>How topics are found</h2>
+    <p>Each topic has a short list of key words. A speech is tagged with a topic when those words come up often enough for its length, and a speech carries at most four topics. This is a reading aid, not a librarian's catalog: a short speech can be missed, and a word like “game” can mean a hunt or a football match. The word lists are published with the data so anyone can check them.</p>
+  </div>
+</div>
+<!--SCRIPT-->
+<script>
+(async () => {
+  const th = await SP.get("themes.json");
+  const yrs = []; for (let y = 1899; y <= 1918; y++) yrs.push(String(y));
+  document.getElementById("cards").innerHTML = th.themes.filter(t => t.count).sort((a, b) => b.count - a.count).map(t =>
+    `<div class="themecard"><h3><a href="index.html?theme=${t.id}">${SP.esc(t.name)}</a></h3><p>${SP.esc(t.blurb)}</p>` +
+    SP.barChart(yrs.map(y => [y, t.by_year[y] || 0]), { label: t.name + " by year", height: 70, width: 300, every: 5 }) +
+    `<p class="small" style="margin-top:6px">${t.count} speeches. <a href="index.html?theme=${t.id}">See them</a></p></div>`).join("");
+})();
+</script>

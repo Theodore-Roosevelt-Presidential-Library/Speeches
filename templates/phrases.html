@@ -1,0 +1,84 @@
+<!-- title: Phrases -->
+<!-- desc: Track any word or phrase through Theodore Roosevelt's speeches, year by year, and read every passage where he used it. -->
+
+<!--BODY-->
+<section class="pagehero">
+  <div class="wrap">
+    <h1>Follow a phrase</h1>
+    <p class="lede">Type a word or phrase to see how often he reached for it, year by year, and read every passage where it turns up. Try “square deal,” “righteousness” or “worth his salt.”</p>
+    <div class="filters">
+      <input type="search" id="q" placeholder="A word or phrase" autocomplete="off" aria-label="Word or phrase">
+      <span id="chips"></span>
+    </div>
+  </div>
+</section>
+<div class="wrapmain">
+  <div class="panel" id="result"><p class="small" id="status">Loading the speeches. This is the whole collection of texts, so it takes a moment on a slow connection.</p></div>
+  <div class="panel">
+    <h2>Phrases he kept coming back to</h2>
+    <p class="small">Three- to five-word phrases found in the most speeches. Click one to follow it.</p>
+    <ul class="wordlist" id="common"></ul>
+  </div>
+</div>
+<!--SCRIPT-->
+<script>
+(async () => {
+  const ph = await SP.get("phrases.json");
+  const chips = document.getElementById("chips");
+  chips.innerHTML = ph.signature.map(p => `<button class="chip" data-p="${SP.esc(p)}">${SP.esc(p)}</button>`).join(" ");
+  const common = ph.common.filter(p => p.phrase.split(" ").length >= 3 && !/united states|house of representatives|senate and house|president of the|department of|secretary of|sincerely yours|theodore roosevelt|white house|state papers|presidential addresses|interstate commerce commission|district of columbia|state of new/.test(p.phrase)).slice(0, 80);
+  document.getElementById("common").innerHTML = common.map(p => `<li><a href="#" data-p="${SP.esc(p.phrase)}">${SP.esc(p.phrase)} <span class="small">${p.speeches}</span></a></li>`).join("");
+  const corpus = await SP.get("corpus.json");    // [id, date, title, paragraphs]
+  const docs = corpus.map(([id, date, title, paras]) => ({ id, date, title, paras, low: paras.join("\n").toLowerCase(), words: paras.join(" ").split(/\s+/).length }));
+  const yearWords = {};
+  docs.forEach(d => { const y = (d.date || "").slice(0, 4); if (y) yearWords[y] = (yearWords[y] || 0) + d.words; });
+  const YEARS = Object.keys(yearWords).sort();
+  document.getElementById("status").textContent = "Type a word or phrase above.";
+
+  function run(term) {
+    term = term.trim().toLowerCase();
+    const out = document.getElementById("result");
+    if (term.length < 2) { out.innerHTML = `<p class="small">Type a word or phrase above.</p>`; return; }
+    history.replaceState(null, "", `?q=${encodeURIComponent(term)}`);
+    const re = new RegExp(`\\b${SP.escRe(term).replace(/\\ /g, "\\s+").replace(/-/g, "[-\\s]?")}\\b`, "gi");
+    const perYear = {}, hits = [];
+    let total = 0;
+    for (const d of docs) {
+      const m = d.low.match(re);
+      if (!m) continue;
+      total += m.length;
+      const y = (d.date || "").slice(0, 4);
+      if (y) perYear[y] = (perYear[y] || 0) + m.length;
+      hits.push({ d, n: m.length });
+    }
+    if (!hits.length) { out.innerHTML = `<h2>“${SP.esc(term)}”</h2><p>Not found in any of the ${SP.num(docs.length)} speeches with full text.</p>`; return; }
+    const series = YEARS.map(y => [y, Math.round(((perYear[y] || 0) / yearWords[y]) * 100000 * 10) / 10]);
+    let h = `<h2>“${SP.esc(term)}”</h2><p>${SP.num(total)} time${total === 1 ? "" : "s"} in ${SP.num(hits.length)} speech${hits.length === 1 ? "" : "es"}. The chart shows uses per 100,000 words he spoke that year, so busy years and quiet years compare fairly.</p>`;
+    h += SP.barChart(series, { label: "Uses per 100,000 words by year", every: 2, fmt: v => v.toLocaleString("en-US") });
+    hits.sort((a, b) => (a.d.date || "").localeCompare(b.d.date || ""));
+    h += `<h3 style="margin-top:18px">Where he said it</h3><ul class="kwic">`;
+    let shown = 0;
+    for (const { d, n } of hits) {
+      if (shown >= 150) break;
+      const para = d.paras.find(p => new RegExp(re.source, "i").test(p));
+      if (!para) continue;
+      const m = para.match(new RegExp(re.source, "i"));
+      const i = m.index, a = Math.max(0, i - 220), b = Math.min(para.length, i + m[0].length + 220);
+      const snip = (a > 0 ? "… " : "") + SP.esc(para.slice(a, i)) + `<mark>${SP.esc(m[0])}</mark>` + SP.esc(para.slice(i + m[0].length, b)) + (b < para.length ? " …" : "");
+      h += `<li>${snip}<div class="src">${SP.esc(SP.fmtDate(d.date))}: <a href="speech.html?id=${encodeURIComponent(d.id)}&find=${encodeURIComponent(term)}">${SP.esc(d.title)}</a>${n > 1 ? ` (${n} times)` : ""}</div></li>`;
+      shown++;
+    }
+    h += `</ul>`;
+    if (hits.length > shown) h += `<p class="small">Showing the first ${shown} speeches.</p>`;
+    out.innerHTML = h;
+  }
+  const q = document.getElementById("q");
+  let t; q.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => run(q.value), 300); });
+  document.body.addEventListener("click", e => {
+    const b = e.target.closest("[data-p]"); if (!b) return;
+    e.preventDefault(); q.value = b.dataset.p; run(q.value); window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+  const start = SP.param("q") || "square deal";
+  q.value = start; run(start);
+})();
+</script>

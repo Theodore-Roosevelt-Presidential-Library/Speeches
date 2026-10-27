@@ -1,0 +1,9 @@
+{
+  "_about": "Hand corrections applied by scripts/build_dataset.py to items parsed from the printed editions. 'match' is text found in the printed heading. Each correction says why.",
+  "items": [
+    {"match": "SEMICENTENNIAL CELEBRATION OF THE FOUNDING OF AGRICULTURAL COLLEGES", "date": "1907-05-31", "date_source": "dbd",
+     "title": "The Man Who Works with His Hands", "occasion": "Semicentennial of the founding of agricultural colleges in the United States, Michigan Agricultural College",
+     "place": ["Lansing", "MI"], "why": "The machine-read heading lost the month and day; Day by Day places the college address on May 31, 1907."},
+    {"match": "INVALIDES", "drop": true, "why": "A photograph caption read as text, not an address."}
+  ]
+}

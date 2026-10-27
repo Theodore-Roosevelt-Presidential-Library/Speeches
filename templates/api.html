@@ -1,0 +1,32 @@
+<!-- title: API and data -->
+<!-- desc: Free JSON data for every Theodore Roosevelt speech in the collection, with texts, dates, places, topics and links to the original documents. -->
+
+<!--BODY-->
+<section class="pagehero">
+  <div class="wrap">
+    <h1>Use the data</h1>
+    <p class="lede">Everything on this site is plain JSON files you can read from your own pages and tools. No key, no sign-up. The source code and the full dataset are on GitHub.</p>
+  </div>
+</section>
+<div class="wrapmain" style="max-width:900px">
+  <h2>Endpoints</h2>
+  <p>Base address: <code>https://speeches.labs.trlibrary.com/api/v1/</code></p>
+  <table class="list-table">
+    <tr><th>File</th><th>What it holds</th></tr>
+    <tr><td><code>speeches.json</code></td><td>One row per speech: id, date, title, place id, kind, topics, word count, and whether it has full text or an archive record.</td></tr>
+    <tr><td><code>speeches/{id}.json</code></td><td>One speech in full: text by paragraph, sources (Theodore Roosevelt Center, Library of Congress, printed edition), place with coordinates, topics, people and places he named, and word statistics.</td></tr>
+    <tr><td><code>on-this-day/{MM-DD}.json</code></td><td>Speeches given on a calendar date, in every year.</td></tr>
+    <tr><td><code>places.json</code></td><td>Each place he spoke, with coordinates and the ids of its speeches.</td></tr>
+    <tr><td><code>themes.json</code></td><td>Topics, their descriptions, and counts by year.</td></tr>
+    <tr><td><code>phrases.json</code></td><td>Phrases found in many speeches.</td></tr>
+    <tr><td><code>words.json</code></td><td>Most-used words overall and by year, and words spoken per year.</td></tr>
+    <tr><td><code>people.json</code>, <code>mentioned-places.json</code></td><td>People and places he named, with the speeches that name them.</td></tr>
+    <tr><td><code>corpus.json</code></td><td>Every full text in one file (about 5 MB), for search tools.</td></tr>
+  </table>
+  <h2 style="margin-top:24px">Example</h2>
+<pre>fetch("https://speeches.labs.trlibrary.com/api/v1/on-this-day/10-14.json")
+  .then(r =&gt; r.json())
+  .then(d =&gt; d.speeches.forEach(s =&gt; console.log(s.date, s.title)));</pre>
+  <h2>Terms</h2>
+  <p>The speech texts are in the public domain. The links, dates, places and topics are free to use; please credit the Theodore Roosevelt Presidential Library and link back. Catalog descriptions written by the Theodore Roosevelt Center are not copied here; follow the links to read them on its site.</p>
+</div>

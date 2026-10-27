@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>API and data | Theodore Roosevelt Presidential Library</title>
+<meta name="description" content="Free JSON data for every Theodore Roosevelt speech in the collection, with texts, dates, places, topics and links to the original documents.">
+<meta property="og:title" content="API and data">
+<meta property="og:description" content="Free JSON data for every Theodore Roosevelt speech in the collection, with texts, dates, places, topics and links to the original documents.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://speeches.labs.trlibrary.com/api.html">
+<meta property="og:site_name" content="Theodore Roosevelt Presidential Library">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&family=Lora:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="bar">
+  <a class="brand" href="index.html"><b>Speeches</b>Theodore Roosevelt Presidential Library</a>
+  <nav><a href="index.html">Explore</a><a href="phrases.html">Phrases</a><a href="words.html">Words</a><a href="map.html">Map</a><a href="themes.html">Themes</a><a href="about.html">About</a><a href="api.html" aria-current="page">API &amp; data</a></nav>
+</header>
+<section class="pagehero">
+  <div class="wrap">
+    <h1>Use the data</h1>
+    <p class="lede">Everything on this site is plain JSON files you can read from your own pages and tools. No key, no sign-up. The source code and the full dataset are on GitHub.</p>
+  </div>
+</section>
+<div class="wrapmain" style="max-width:900px">
+  <h2>Endpoints</h2>
+  <p>Base address: <code>https://speeches.labs.trlibrary.com/api/v1/</code></p>
+  <table class="list-table">
+    <tr><th>File</th><th>What it holds</th></tr>
+    <tr><td><code>speeches.json</code></td><td>One row per speech: id, date, title, place id, kind, topics, word count, and whether it has full text or an archive record.</td></tr>
+    <tr><td><code>speeches/{id}.json</code></td><td>One speech in full: text by paragraph, sources (Theodore Roosevelt Center, Library of Congress, printed edition), place with coordinates, topics, people and places he named, and word statistics.</td></tr>
+    <tr><td><code>on-this-day/{MM-DD}.json</code></td><td>Speeches given on a calendar date, in every year.</td></tr>
+    <tr><td><code>places.json</code></td><td>Each place he spoke, with coordinates and the ids of its speeches.</td></tr>
+    <tr><td><code>themes.json</code></td><td>Topics, their descriptions, and counts by year.</td></tr>
+    <tr><td><code>phrases.json</code></td><td>Phrases found in many speeches.</td></tr>
+    <tr><td><code>words.json</code></td><td>Most-used words overall and by year, and words spoken per year.</td></tr>
+    <tr><td><code>people.json</code>, <code>mentioned-places.json</code></td><td>People and places he named, with the speeches that name them.</td></tr>
+    <tr><td><code>corpus.json</code></td><td>Every full text in one file (about 5 MB), for search tools.</td></tr>
+  </table>
+  <h2 style="margin-top:24px">Example</h2>
+<pre>fetch("https://speeches.labs.trlibrary.com/api/v1/on-this-day/10-14.json")
+  .then(r =&gt; r.json())
+  .then(d =&gt; d.speeches.forEach(s =&gt; console.log(s.date, s.title)));</pre>
+  <h2>Terms</h2>
+  <p>The speech texts are in the public domain. The links, dates, places and topics are free to use; please credit the Theodore Roosevelt Presidential Library and link back. Catalog descriptions written by the Theodore Roosevelt Center are not copied here; follow the links to read them on its site.</p>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    Texts come from editions printed in Roosevelt's lifetime and are shown as printed. Every speech links to the original document at the Theodore Roosevelt Center at Dickinson State University or the Library of Congress where one is known. Check the original before quoting.
+    <a href="about.html">About the sources</a> &nbsp;|&nbsp; <a href="https://daybyday.labs.trlibrary.com/">Theodore Roosevelt Day by Day</a> &nbsp;|&nbsp; <a href="https://www.trlibrary.com/visit">Plan your visit to the Library in Medora</a>
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+
+</body>
+</html>

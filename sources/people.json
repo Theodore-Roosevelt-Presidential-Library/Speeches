@@ -1,0 +1,288 @@
+[
+ {
+  "id": "abraham-lincoln",
+  "name": "Abraham Lincoln",
+  "patterns": [
+   "Lincoln"
+  ]
+ },
+ {
+  "id": "george-washington",
+  "name": "George Washington",
+  "patterns": [
+   "George Washington",
+   "Washington(?=[^,]*\\b(?:and Lincoln|said|wrote|was|himself|'s day|\u2019s day))",
+   "Washington and Lincoln",
+   "Lincoln and Washington"
+  ]
+ },
+ {
+  "id": "ulysses-s-grant",
+  "name": "Ulysses S. Grant",
+  "patterns": [
+   "Grant"
+  ]
+ },
+ {
+  "id": "william-mckinley",
+  "name": "William McKinley",
+  "patterns": [
+   "McKinley"
+  ]
+ },
+ {
+  "id": "thomas-jefferson",
+  "name": "Thomas Jefferson",
+  "patterns": [
+   "Jefferson(?! Davis)"
+  ]
+ },
+ {
+  "id": "alexander-hamilton",
+  "name": "Alexander Hamilton",
+  "patterns": [
+   "Hamilton(?! Club)"
+  ]
+ },
+ {
+  "id": "andrew-jackson",
+  "name": "Andrew Jackson",
+  "patterns": [
+   "Andrew Jackson",
+   "Jackson(?=[^.]{0,40}(?:Hermitage|Old Hickory|President))",
+   "Stonewall Jackson"
+  ]
+ },
+ {
+  "id": "benjamin-franklin",
+  "name": "Benjamin Franklin",
+  "patterns": [
+   "Franklin(?! D)"
+  ]
+ },
+ {
+  "id": "john-marshall",
+  "name": "John Marshall",
+  "patterns": [
+   "John Marshall",
+   "Chief Justice Marshall"
+  ]
+ },
+ {
+  "id": "daniel-webster",
+  "name": "Daniel Webster",
+  "patterns": [
+   "Webster"
+  ]
+ },
+ {
+  "id": "robert-e-lee",
+  "name": "Robert E. Lee",
+  "patterns": [
+   "Robert E\\. Lee",
+   "General Lee",
+   "Lee and Jackson"
+  ]
+ },
+ {
+  "id": "william-t-sherman",
+  "name": "William T. Sherman",
+  "patterns": [
+   "Sherman"
+  ]
+ },
+ {
+  "id": "philip-sheridan",
+  "name": "Philip Sheridan",
+  "patterns": [
+   "Sheridan"
+  ]
+ },
+ {
+  "id": "david-farragut",
+  "name": "David Farragut",
+  "patterns": [
+   "Farragut"
+  ]
+ },
+ {
+  "id": "george-dewey",
+  "name": "George Dewey",
+  "patterns": [
+   "Dewey"
+  ]
+ },
+ {
+  "id": "john-paul-jones",
+  "name": "John Paul Jones",
+  "patterns": [
+   "Paul Jones"
+  ]
+ },
+ {
+  "id": "william-h-taft",
+  "name": "William Howard Taft",
+  "patterns": [
+   "Taft"
+  ]
+ },
+ {
+  "id": "elihu-root",
+  "name": "Elihu Root",
+  "patterns": [
+   "Elihu Root",
+   "Secretary Root",
+   "Senator Root",
+   "Mr\\. Root"
+  ]
+ },
+ {
+  "id": "john-hay",
+  "name": "John Hay",
+  "patterns": [
+   "John Hay",
+   "Secretary Hay",
+   "Mr\\. Hay"
+  ]
+ },
+ {
+  "id": "william-jennings-bryan",
+  "name": "William Jennings Bryan",
+  "patterns": [
+   "Bryan"
+  ]
+ },
+ {
+  "id": "woodrow-wilson",
+  "name": "Woodrow Wilson",
+  "patterns": [
+   "Wilson(?=[^.]{0,30}(?:President|Administration))",
+   "President Wilson",
+   "Mr\\. Wilson"
+  ]
+ },
+ {
+  "id": "oliver-cromwell",
+  "name": "Oliver Cromwell",
+  "patterns": [
+   "Cromwell"
+  ]
+ },
+ {
+  "id": "napoleon",
+  "name": "Napoleon",
+  "patterns": [
+   "Napoleon"
+  ]
+ },
+ {
+  "id": "john-wesley",
+  "name": "John Wesley",
+  "patterns": [
+   "Wesley"
+  ]
+ },
+ {
+  "id": "martin-luther",
+  "name": "Martin Luther",
+  "patterns": [
+   "Martin Luther",
+   "Luther(?! Place)"
+  ]
+ },
+ {
+  "id": "daniel-boone",
+  "name": "Daniel Boone",
+  "patterns": [
+   "Boone"
+  ]
+ },
+ {
+  "id": "davy-crockett",
+  "name": "Davy Crockett",
+  "patterns": [
+   "Crockett"
+  ]
+ },
+ {
+  "id": "john-brown",
+  "name": "John Brown",
+  "patterns": [
+   "John Brown"
+  ]
+ },
+ {
+  "id": "gifford-pinchot",
+  "name": "Gifford Pinchot",
+  "patterns": [
+   "Pinchot"
+  ]
+ },
+ {
+  "id": "lewis-and-clark",
+  "name": "Lewis and Clark",
+  "patterns": [
+   "Lewis and Clark"
+  ]
+ },
+ {
+  "id": "christopher-columbus",
+  "name": "Christopher Columbus",
+  "patterns": [
+   "Columbus(?=[^,]{0,30}(?:discover|sailed|voyage))",
+   "Christopher Columbus"
+  ]
+ },
+ {
+  "id": "julius-caesar",
+  "name": "Julius Caesar",
+  "patterns": [
+   "C\u00e6sar",
+   "Caesar"
+  ]
+ },
+ {
+  "id": "james-madison",
+  "name": "James Madison",
+  "patterns": [
+   "Madison(?=[^,]{0,25}(?:Jefferson|President|Hamilton))",
+   "James Madison"
+  ]
+ },
+ {
+  "id": "john-quincy-adams",
+  "name": "John Quincy Adams",
+  "patterns": [
+   "John Quincy Adams"
+  ]
+ },
+ {
+  "id": "henry-clay",
+  "name": "Henry Clay",
+  "patterns": [
+   "Henry Clay"
+  ]
+ },
+ {
+  "id": "james-monroe",
+  "name": "James Monroe",
+  "patterns": [
+   "Monroe(?! Doctrine)"
+  ]
+ },
+ {
+  "id": "booker-t-washington",
+  "name": "Booker T. Washington",
+  "patterns": [
+   "Booker T\\. Washington",
+   "Booker Washington"
+  ]
+ },
+ {
+  "id": "edith-roosevelt",
+  "name": "Edith Roosevelt",
+  "patterns": [
+   "Mrs\\. Roosevelt"
+  ]
+ }
+]

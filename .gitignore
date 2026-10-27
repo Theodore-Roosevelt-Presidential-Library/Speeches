@@ -1,0 +1,5 @@
+build/
+.venv/
+__pycache__/
+sources/trc/pages/
+.DS_Store

@@ -1,0 +1,58 @@
+<!-- title: Words -->
+<!-- desc: The words Theodore Roosevelt used most in his speeches, how they changed over the years, and how long his speeches and sentences ran. -->
+
+<!--BODY-->
+<section class="pagehero">
+  <div class="wrap">
+    <h1>His words</h1>
+    <p class="lede">The words he leaned on, year by year. Common words like “the” and “people” are left out so the ones that carry his meaning rise to the top.</p>
+  </div>
+</section>
+<div class="wrapmain">
+  <div class="panel">
+    <h2>His favorite words</h2>
+    <div class="toolbar"><label for="yr">Show</label><select id="yr"><option value="">All years</option></select></div>
+    <ul class="bars" id="top"></ul>
+  </div>
+  <div class="panel">
+    <h2>How much he said, year by year</h2>
+    <p class="small">Words in the speeches with full text in this collection. A tall bar means a busy year on the road, or a year with long messages to Congress.</p>
+    <div id="volume"></div>
+  </div>
+  <div class="panel">
+    <h2>I and we</h2>
+    <p class="small">How often he said “I” for every “we,” by year. Above 1, he spoke more about himself; below 1, more about the shared “we.”</p>
+    <div id="iwe"></div>
+  </div>
+  <div class="panel">
+    <h2>The longest and the shortest</h2>
+    <p class="small">Spoken addresses only. Messages to Congress, written to be read, ran far longer.</p>
+    <div class="grid2">
+      <div><h3>Longest</h3><ul class="otd" id="longest"></ul></div>
+      <div><h3>Shortest</h3><ul class="otd" id="shortest"></ul></div>
+    </div>
+  </div>
+</div>
+<!--SCRIPT-->
+<script>
+(async () => {
+  const [w, st] = await Promise.all([SP.get("words.json"), SP.get("stats.json")]);  // stats rows: id,date,title,words,avgSentence,i,we,unique
+  const sel = document.getElementById("yr");
+  Object.keys(w.by_year_top).forEach(y => sel.insertAdjacentHTML("beforeend", `<option>${y}</option>`));
+  function bars() {
+    const list = sel.value ? w.by_year_top[sel.value] : w.top_words.slice(0, 40);
+    const max = list[0][1];
+    document.getElementById("top").innerHTML = list.slice(0, 40).map(([word, c]) => `<li><a href="phrases.html?q=${encodeURIComponent(word)}">${SP.esc(word)}</a><span class="bar" style="width:${(c / max) * 100}%"></span><span class="n">${SP.num(c)}</span></li>`).join("");
+  }
+  sel.addEventListener("change", bars); bars();
+  const years = Object.keys(w.by_year_total);
+  document.getElementById("volume").innerHTML = SP.barChart(years.map(y => [y, w.by_year_total[y]]), { label: "Words per year", every: 2, color: "#3B5F86", fmt: v => SP.num(v) });
+  const iw = {};
+  st.forEach(r => { const y = (r[1] || "").slice(0, 4); if (!y) return; iw[y] = iw[y] || [0, 0]; iw[y][0] += r[5]; iw[y][1] += r[6]; });
+  document.getElementById("iwe").innerHTML = SP.barChart(Object.keys(iw).sort().filter(y => iw[y][1] > 20).map(y => [y, Math.round(iw[y][0] / iw[y][1] * 100) / 100]), { label: "I per we", every: 2, color: "#1B4532", fmt: v => v });
+  const spoken = st.filter(r => r[3] > 40 && (r[8] === "speech" || r[8] === "lecture"));
+  const li = r => `<li class="sig3"><span class="yr">${(r[1] || "").slice(0, 4)}</span>${SP.speechLink(r[0], SP.esc(r[2]))}<div class="small">${SP.num(r[3])} words</div></li>`;
+  document.getElementById("longest").innerHTML = [...spoken].sort((a, b) => b[3] - a[3]).slice(0, 6).map(li).join("");
+  document.getElementById("shortest").innerHTML = [...spoken].sort((a, b) => a[3] - b[3]).slice(0, 6).map(li).join("");
+})();
+</script>

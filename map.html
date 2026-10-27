@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Map | Theodore Roosevelt Presidential Library</title>
+<meta name="description" content="Every town and city where Theodore Roosevelt gave a speech in this collection, on a map you can move through year by year.">
+<meta property="og:title" content="Map">
+<meta property="og:description" content="Every town and city where Theodore Roosevelt gave a speech in this collection, on a map you can move through year by year.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://speeches.labs.trlibrary.com/map.html">
+<meta property="og:site_name" content="Theodore Roosevelt Presidential Library">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&family=Lora:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+</head>
+<body>
+<header class="bar">
+  <a class="brand" href="index.html"><b>Speeches</b>Theodore Roosevelt Presidential Library</a>
+  <nav><a href="index.html">Explore</a><a href="phrases.html">Phrases</a><a href="words.html">Words</a><a href="map.html" aria-current="page">Map</a><a href="themes.html">Themes</a><a href="about.html">About</a><a href="api.html">API &amp; data</a></nav>
+</header>
+<section class="pagehero">
+  <div class="wrap">
+    <h1>Where he spoke</h1>
+    <p class="lede">From the back of a train in a Dakota town to the Guildhall in London. Drag the slider to move through the years, or turn on the route to follow a tour stop by stop.</p>
+  </div>
+</section>
+<div class="wrapmain">
+  <div class="mapctl">
+    <label for="yr">Year</label>
+    <input type="range" id="yr" min="0" max="1" value="0" step="1" aria-label="Year">
+    <b id="yrlab">All years</b>
+    <button class="btn" id="all">All years</button>
+    <label><input type="checkbox" id="route"> Connect stops in date order</label>
+  </div>
+  <div id="map" role="region" aria-label="Map of speech locations"></div>
+  <div class="panel" style="margin-top:20px">
+    <h2 id="plTitle">Places</h2>
+    <div id="plList"></div>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    Texts come from editions printed in Roosevelt's lifetime and are shown as printed. Every speech links to the original document at the Theodore Roosevelt Center at Dickinson State University or the Library of Congress where one is known. Check the original before quoting.
+    <a href="about.html">About the sources</a> &nbsp;|&nbsp; <a href="https://daybyday.labs.trlibrary.com/">Theodore Roosevelt Day by Day</a> &nbsp;|&nbsp; <a href="https://www.trlibrary.com/visit">Plan your visit to the Library in Medora</a>
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+(async () => {
+  const [pl, idx] = await Promise.all([SP.get("places.json"), SP.get("speeches.json")]);
+  const S = {}; idx.speeches.forEach(s => S[s.id] = s);
+  const map = L.map("map", { scrollWheelZoom: false }).setView([39.5, -96], 4);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 12, attribution: "&copy; OpenStreetMap contributors" }).addTo(map);
+  const layer = L.layerGroup().addTo(map);
+  const places = pl.places.filter(p => p.lat != null);
+  const years = [...new Set(idx.speeches.filter(s => s.place && s.date).map(s => s.date.slice(0, 4)))].sort();
+  const slider = document.getElementById("yr");
+  slider.max = years.length; slider.value = 0;
+  let year = null;
+  function draw() {
+    layer.clearLayers();
+    const pts = [];
+    for (const p of places) {
+      const ids = p.speeches.filter(id => !year || (S[id].date || "").startsWith(year));
+      if (!ids.length) continue;
+      const r = Math.min(18, 4 + Math.sqrt(ids.length) * 2.5);
+      const m = L.circleMarker([p.lat, p.lon], { radius: r, color: "#092A4D", weight: 1, fillColor: "#FC924E", fillOpacity: .85 });
+      m.bindPopup(`<b>${SP.esc(SP.placeName(p))}</b><br>` + ids.slice(0, 12).map(id => `${SP.esc(SP.fmtDate(S[id].date, true))}: <a href="speech.html?id=${encodeURIComponent(id)}">${SP.esc(S[id].title)}</a>`).join("<br>") + (ids.length > 12 ? `<br><a href="index.html?place=${encodeURIComponent(p.id)}">and ${ids.length - 12} more</a>` : ""));
+      m.addTo(layer);
+      ids.forEach(id => pts.push([S[id].date, p.lat, p.lon]));
+    }
+    if (document.getElementById("route").checked && year) {
+      pts.sort((a, b) => (a[0] || "").localeCompare(b[0] || ""));
+      L.polyline(pts.map(x => [x[1], x[2]]), { color: "#1B4532", weight: 2, opacity: .7 }).addTo(layer);
+    }
+    document.getElementById("yrlab").textContent = year || "All years";
+    const list = places.map(p => [p, p.speeches.filter(id => !year || (S[id].date || "").startsWith(year)).length]).filter(x => x[1]).sort((a, b) => b[1] - a[1]);
+    document.getElementById("plTitle").textContent = `${list.length} place${list.length === 1 ? "" : "s"}${year ? " in " + year : ""}`;
+    document.getElementById("plList").innerHTML = `<ul class="wordlist">` + list.slice(0, 200).map(([p, n]) => `<li><a href="index.html?place=${encodeURIComponent(p.id)}">${SP.esc(SP.placeName(p))} ${n > 1 ? n : ""}</a></li>`).join("") + `</ul>`;
+  }
+  slider.addEventListener("input", () => { const i = +slider.value; year = i ? years[i - 1] : null; draw(); });
+  document.getElementById("all").addEventListener("click", () => { slider.value = 0; year = null; draw(); });
+  document.getElementById("route").addEventListener("change", () => { if (!year) { const i = years.indexOf("1903") + 1; slider.value = i; year = "1903"; } draw(); });
+  const want = SP.param("place");
+  draw();
+  if (want) { const p = places.find(x => x.id === want); if (p) { map.setView([p.lat, p.lon], 8); } }
+})();
+</script>
+</body>
+</html>
