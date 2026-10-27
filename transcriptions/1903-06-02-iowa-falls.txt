@@ -1,0 +1,18 @@
+---
+speech: 1903-06-02-iowa-falls
+title: Remarks of President Roosevelt at Iowa Falls, Iowa, June 2, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0530
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0530
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 13 425:0530]
+
+Mr. Congressman; My Friends and Fellow Citizens:
+
+It has been a great pleasure to come through your beautiful state to-day and to see your people. In traveling through this country as I have now been doing for the past two months, impressed though I have been with the natural features, with the scenery, with the wonderful fertility of the soil in many places, yet the thing that is driven home to me is the capacity of the average American, the average man and the average woman. After all it is the men and women who make the [-xxxxxx-] country . California, from which [+I+] returned but two or three weeks ago, had been for seventy-five years in the hands of [-xxx xxxxx-] another race and it had hardly developed at all. Our people took hold of it and in a decade it was one of the great commonwealths of the world. So it has been with the states in the Mississippi valley and on Puget Sound. We have gone forward as a nation because we have had the right type of citizenship. I am proud of you and glad to be your fellow American. (Cheers and applause)
+
+[note: Page as listed: frame 0530 left half, folio 13.]
+[note: "I" is typed above the line, with a caret added by hand. A hand blot after "returned" covers no legible change. A hand close-up mark joins "common" and "wealths". A hand slash stands after "woman" before the period.]
+[note: Overtyped letters with clear final readings are given without marks ("President" in the heading, "Fellow", "beautiful", "natural", "valley", "Puget").]

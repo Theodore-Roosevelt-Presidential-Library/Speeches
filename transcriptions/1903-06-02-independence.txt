@@ -1,0 +1,17 @@
+---
+speech: 1903-06-02-independence
+title: Remarks of President Roosevelt at Independence, Iowa, June 2, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0532
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0532
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 18 425:0532]
+
+My Fellow Countrymen:
+
+It is a great pleasure to stop and see you even for a moment. I have enjoyed to the full going through your great and beautiful state. I enjoy seeing its wonderful {feritility|fertility} of soil; and above all seeing what your sons and daughters have made of it; and going through this country from one ocean to the other, that is fundamentally what must strike [-xxxxx-] any man, he must come back a better American because of the quality of the average man, the average woman, whom he sees. All natural resources in the territory are wasted if we have not the right type of man and woman to take {ad vatage|advantage} of them. I believe in the future of this country. I believe in what we as a whole will be, because I believe in the quality of the men and women composing it. (Cheers and applause)
+
+[note: Page as listed: frame 0532 right half, folio 18. In the heading the R of "Roosevelt" is typed low.]
+[note: The u of "must" and the g of "advatage" are overtyped; final readings given.]

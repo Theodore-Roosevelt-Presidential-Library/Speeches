@@ -1,0 +1,25 @@
+---
+speech: 1903-06-02-dubuque
+title: Remarks of President Roosevelt at the Banquet, Dubuque, Iowa, June 2, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0537
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0537
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 27 425:0537]
+
+Senator Allison; and Gentlemen;
+
+[+I can say, and not merely in a diplomatic spirit, that+] I have thoroughly enjoyed this evening. It has been a great pleasure to visit your beautiful city.
+
+I would like now to bear testimony to the way in which I have found the representatives of Iowa at the national capital approach questions of public interest. I have been able to ask both your Senators and Representatives for their aid in dealing with matters of moment to the nation. As a [-x-] whole I have found them interested in questions of public [-xxxxxx-][+policy+]; and I have found that they could guide, and counsel, and aid me in the matters that I deemed of moment to the nation at large, and that they were not merely bound by fourth class post offices. How I have felt toward your people I think it hardly nee[+d+]ful for me to say. When I came to choose that member of my Cabinet who occupies the position which taken year in and year out is of most vital consequence to the [-xxxxxx-] welfare of the nation, I felt that although I should not ordinarily care to take two men from the same state, yet that Mr. Shaw's qualifications for the position were so preeminent that in justice to the nation I could not pass him by. (Cheers and applause)
+
+As for Secretary Wilson, (Cheers and applause) after having been with him for twenty-one months, and after having been intimately associated with various different national administrations and knowing many members of the Cabinet, I wish to state without reserve that in point of loyalty, of that pro[-[?v?]-][+b+]ity which makes one feel that one is better for being associated with him, that in point of sound common sense, not always a common quality, and [-x-] in capacity to handle his office in the way that one would wish all offices of the government to be handled, if one could have ideal conditions, I have never met any man in public life who I feel quite came up to Secretary Wilson. (Cheers and applause) I cannot overstate the degree [-[illegible]-][+[?to?]+] which I lean on him and the personal affection that I feel for him. (Applause)
+
+In thanking {youfor|you for} the reception accorded me here in your city, let me also say how much I have enjoyed the dinner.
+
+[note: Page as listed: frame 0537 left half, folio 27. The right half (folio 28) holds the separate remarks to the National Guard at Dubuque and is not part of this speech.]
+[note: The line "I can say, and not merely in a diplomatic spirit, that" is typed in between the salutation and the first line of text, apparently added after the page was typed. "policy" is typed above an x-ed word.]
+[note: The "d" in "needful" (with caret) and the "b" in "probity" (over a typed letter, probably v) are handwritten. After "degree" a typed word is overwritten by hand with what appears to be "to".]
+[note: A hand mark under the space between "class" and "post" does not change the words. Overtyped letters with clear final readings are given without marks ("testimony", "questions", "choose", "point").]

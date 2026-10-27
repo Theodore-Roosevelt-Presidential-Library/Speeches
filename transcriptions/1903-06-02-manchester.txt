@@ -1,0 +1,20 @@
+---
+speech: 1903-06-02-manchester
+title: Remarks of President Roosevelt at Manchester, Iowa, June 2, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0533
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0533
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 19 425:0533]
+
+My Fellow Citizens:
+
+It has been a great pleasure to-day to greet you people of Iowa. I do not want to flatter you, yet I do want to say that it is very comfortable to feel that you and I are in the same country. I am very proud of you and very pleased to be here.
+
+Captain Merry has introduced me and I am going to retaliate on him. I am going to say that he is about the type of citizen that I preach every man ought to be. He has been a good man in war, and he has been a good man in peace. He went through the war; he took his part in rendering that literally inestimable service; (for if it had not been for what the men of the civil war did there would be no country or President to-day) and having done that he quit the hero business and went into civil life. Instead of treating what he had done in the civil war as excusing him from doing any further duty, he turn[+ed+] in, as the average soldier of the civil war turned in, to be a good, everyday {ciiizen|citizen} right along afterwards. The debt that in consequence we owe to the men of the civil war is doubled and quadrupled because they taught us not merely how the right type of American fights when he has to, but how that same right type behaves in peace, once the {needof|need of} fighting is over. Just exactly as it is with [-s-]a citizen so it should be with a nation. Do not fight unless you have to, and if you have to let the other man know that there has been a fight. That is my whole doctrine {im|in} our foreign policy. The individual who is everlastingly blustering, threatening, brawling, and then fails to make good is a pretty poor creature. And so with a nation -- I want to see us {ac tcourteously|act courteously} and respectfully {towa rd|toward} all others,{mbut|but} to hold good to what {wesay|we say}. (Cheers and applause)
+
+[note: Page as listed: frame 0533 left half, folio 19.]
+[note: "ed" in "turned" (first occurrence) is typed above the line with a hand insertion mark. The "s" before "a citizen" is cancelled by a hand slash. A small hand tick stands above the period after "over".]
+[note: Several letters in the last lines are overtyped; "act courteously" is typed "ac tcourteously" with overtyped letters, and "respectfully" has an overtyped c.]
