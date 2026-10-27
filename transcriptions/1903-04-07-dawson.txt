@@ -1,0 +1,21 @@
+---
+speech: 1903-04-07-dawson
+title: Remarks of President Roosevelt at Dawson, N. D., April 7, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0270
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0270
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 89 425:0270]
+
+[margin: File]
+
+My Fellow Citizens:
+
+I want to say what a pleasure it is to see you here to-day, to be passing through North Dakota. It was twenty-three years ago that I first came over this line into what was then the territory of Dakota, and for a number of years afterward I lived out toward Medora. I used to ship cattle from Dickinson; and I used to come by here more than half the time on cattle trains. And any of you who have been in that business know what fun it was, especially, if cold at night. We would stop for a minute[+,+] run down and find a critter down, prick him with a stick to make him get up, and then have the train start before [-you-][+we+] could get back to the caboose.
+
+I have watched your career as a state,. I have seen you grow, and I am proud of you. I am glad to see you prosper with your crops, with your stock; but I am prouder of your men and women, of the type of citizens you are raising; but of all the crops here, the crop I take the most interest in is the children. As I believe in you and believe in your stock, I am mighty glad to see you keeping it up. (Cheers and applause)
+
+[note: "you" before "could get back" is struck through by hand and "we" written above; the comma after "minute" is added by hand.]
+[note: In "years" a hand stroke runs through a letter between "r" and "s" (probably deleting a stray typed letter); the word is given as "years". The "a" of "I am" at the end of the first line of the second paragraph prints faintly, and "raising" has an overtyped letter.]
