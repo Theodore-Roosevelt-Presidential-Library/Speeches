@@ -22,7 +22,8 @@
 </section>
 
 <main class="wrapmain home">
-  <section>
+  <section class="topicintro" id="topicintro" hidden></section>
+  <section id="famousBox">
     <h2>Famous speeches</h2>
     <div class="cards" id="famous"></div>
   </section>
@@ -141,6 +142,26 @@
     });
     const bits = [yearSel.value, theme.value ? theme.options[theme.selectedIndex].text : "", term.length > 1 ? `“${q.value.trim()}”` : ""].filter(Boolean);
     document.getElementById("browseTitle").textContent = bits.length ? `Browse: ${bits.join(", ")}` : "Browse";
+    // famous speeches only on the unfiltered page; a topic gets its own introduction instead
+    const filtered = Boolean(yearSel.value || theme.value || term.length > 1);
+    document.getElementById("famousBox").hidden = filtered;
+    const intro = document.getElementById("topicintro");
+    const T = th.themes.find(x => x.id === theme.value);
+    if (T) {
+      const top = current.filter(s => s.text).sort((a, b) => (a.themes.indexOf(T.id) - b.themes.indexOf(T.id)) || (b.words - a.words)).slice(0, 4);
+      intro.innerHTML = `<p class="small"><a href="index.html">All speeches</a> / <a href="themes.html">Topics</a></p><h2>${SP.esc(T.name)}</h2><p class="lede-dark">${SP.esc(T.blurb)}</p>` +
+        (top.length ? `<h3>Good places to start</h3><div class="cards">${top.map(s => { const p = s.place ? PM[s.place] : null; return `<a class="card" href="speech.html?id=${encodeURIComponent(s.id)}"><span class="cyr">${(s.date || "").slice(0, 4)}</span><b>${SP.esc(s.title)}</b><span class="cmeta">${SP.esc(p ? SP.placeName(p) : "")}</span><span class="cfind">${SP.num(s.words)} words</span></a>`; }).join("")}</div>` : "") +
+        `<p class="small">Topics are found by counting key words, so treat them as a guide. <a href="themes.html">How topics work</a></p>`;
+      intro.hidden = false;
+    } else {
+      intro.hidden = true;
+    }
+    const url = new URL(location.href);
+    ["theme", "year", "q"].forEach(k => url.searchParams.delete(k));
+    if (theme.value) url.searchParams.set("theme", theme.value);
+    if (yearSel.value) url.searchParams.set("year", yearSel.value);
+    if (term.length > 1) url.searchParams.set("q", q.value.trim());
+    history.replaceState(null, "", url);
     render();
   }
   function render() {
