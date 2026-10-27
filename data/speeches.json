@@ -1075,11 +1075,11 @@
 "labor",
 "groups",
 "expediency",
+"community",
 "statistics",
 "factory",
-"community",
-"separate",
-"work"
+"work",
+"separate"
 ],
 "stats": {
 "words": 4066,
@@ -2183,7 +2183,7 @@
 "lessons",
 "struggles",
 "ended",
-"fought"
+"occupations"
 ],
 "stats": {
 "words": 3084,
@@ -4356,8 +4356,8 @@
 "war",
 "battle",
 "duty",
-"citizenship",
-"nation"
+"nation",
+"citizenship"
 ],
 "stats": {
 "words": 830,
@@ -5145,8 +5145,8 @@
 "laws",
 "talent",
 "conditions",
-"cure",
 "power",
+"cure",
 "wealth",
 "harm",
 "legislation"
@@ -7118,8 +7118,8 @@
 "weapon",
 "lessons",
 "qualities",
-"applause",
 "constitution",
+"applause",
 "well-being",
 "guard",
 "material",
@@ -7693,8 +7693,8 @@
 "levees",
 "wheeling",
 "period",
-"dam",
 "change",
+"dam",
 "industrial",
 "advocating",
 "mississippi",
@@ -9400,8 +9400,8 @@
 "distinctive": [
 "tennessee",
 "chickamauga",
-"applause",
 "waters",
+"applause",
 "works",
 "care",
 "worth",
@@ -10384,8 +10384,8 @@
 "section",
 "advantage",
 "prosperity",
-"wise",
-"chance"
+"chance",
+"wise"
 ],
 "stats": {
 "words": 647,
@@ -10517,7 +10517,7 @@
 "forefathers",
 "government",
 "valiant",
-"followed"
+"honesty"
 ],
 "stats": {
 "words": 2337,
@@ -11481,8 +11481,8 @@
 "distinctive": [
 "indiana",
 "delivery",
-"resources",
 "change",
+"resources",
 "closer",
 "destroy",
 "industrial",
@@ -14119,8 +14119,8 @@
 "devotion",
 "intense",
 "stronger",
-"movements",
 "movement",
+"movements",
 "christian",
 "century",
 "young",
@@ -14905,8 +14905,8 @@
 },
 "distinctive": [
 "pennsylvania",
-"senate",
 "president",
+"senate",
 "fundamentally",
 "lesson",
 "house",
@@ -15525,8 +15525,8 @@
 "faults",
 "develop",
 "descended",
-"disinterestedness",
-"lines"
+"lines",
+"disinterestedness"
 ],
 "stats": {
 "words": 2268,
@@ -16327,8 +16327,8 @@
 "flag",
 "stock",
 "glad",
-"applause",
 "american",
+"applause",
 "world"
 ],
 "stats": {
@@ -16410,8 +16410,8 @@
 "economic",
 "interests",
 "trusts",
-"reduction",
 "treaty",
+"reduction",
 "market",
 "cuban"
 ],
@@ -16955,7 +16955,7 @@
 "man's",
 "form",
 "qualities",
-"women"
+"life"
 ],
 "stats": {
 "words": 858,
@@ -21315,8 +21315,8 @@
 "nebraska",
 "qualities",
 "cared",
-"congratulate",
 "shame",
+"congratulate",
 "help",
 "combination",
 "law",
@@ -24618,7 +24618,7 @@
 "representatives",
 "development",
 "mind",
-"glad"
+"service"
 ],
 "stats": {
 "words": 919,
@@ -26007,8 +26007,8 @@
 "win",
 "loyalty",
 "love",
-"applause",
 "virtue",
+"applause",
 "spirit",
 "decency",
 "victory",
@@ -27389,8 +27389,8 @@
 "decency",
 "fought",
 "forestry",
-"one's",
-"law"
+"law",
+"one's"
 ],
 "stats": {
 "words": 2439,
@@ -29691,8 +29691,8 @@
 },
 "distinctive": [
 "christian",
-"applause",
 "guided",
+"applause",
 "adherence",
 "young",
 "decency",
@@ -32827,10 +32827,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 103,
+"paragraphs": [
+"My friends:",
+"It is a great pleasure to see you and it is a great pleasure to be in Oregon. It has never been my good fortune to be in Oregon before. I know your people well and feel thoroughly at home here. I know Oregon's history, I know the men and women and what they have done, and I am as glad as I can be to be here to catch a glimpse of your great and beautiful state, and above all of the men and women.in it. I thank you for coming to greet me this evening. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -32852,13 +32855,43 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0447",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0447",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My friends:",
+"It is a great pleasure to see you and it is a great pleasure to be in Oregon. It has never been my good fortune to be in Oregon before. I know your people well and feel thoroughly at home here. I know Oregon's history, I know the men and women and what they have done, and I am as glad as I can be to be here to catch a glimpse of your great and beautiful state, and above all of the men and women.in it. I thank you for coming to greet me this evening. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 43 (frame 425:0447)</span>",
+"<span class=\"margin\">In the margin: not given out</span>",
+"My friends:",
+"It is a great pleasure to see you and it is a great pleasure to be in Oregon. It has never been my good fortune to be in Oregon before. I know your people well and <span class=\"sic\" title=\"reads: feel\">fell</span> thoroughly at home here. I know Oregon&#x27;s history, I know the men<del title=\"struck through\">x</del> and women and what they have done, and I am as glad as I can be to be here to catch <del title=\"struck through\">thx</del> a glimpse of your great and beautiful state, and above all of the men and women.in it. I thank you for coming to greet me this evening. (Cheers and applause.)",
+"<span class=\"tnote\">There is no typed heading; the title is the handwritten heading at the top of the page. &quot;not given out&quot; is written by hand in the left margin, set off by a slanted line. &quot;before&quot;, &quot;history&quot; and &quot;great&quot; show letters typed over other letters; the &quot;I&quot; beginning &quot;I know your people&quot; is typed below the line.</span>"
+],
+"notes": [
+"There is no typed heading; the title is the handwritten heading at the top of the page. \"not given out\" is written by hand in the left margin, set off by a slanted line. \"before\", \"history\" and \"great\" show letters typed over other letters; the \"I\" beginning \"I know your people\" is typed below the line."
+],
+"file": "transcriptions/1903-05-20-woodville.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 103,
+"unique_words": 59,
+"sentences": 5,
+"avg_sentence": 20.6,
+"minutes": 1,
+"i_count": 6,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-21-salem-2",
@@ -33007,8 +33040,8 @@
 "continent",
 "feat",
 "pacific",
-"children",
 "wrong",
+"children",
 "life"
 ],
 "stats": {
@@ -33078,10 +33111,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 161,
+"paragraphs": [
+"Mr. Governor; Mr. Mayor, and Gentlemen:",
+"I shall not try to make a speech. I just had to leave the room to make a speech to some of my fellow citizens in the street. I wish only to say what a genuine pleasure it has been to me to spend the last twenty-four hours in your wonderful and beautiful state, and what a pleasure it has been to me to come to this great state. I have never been in Oregon before, but however you may feel as to me, I have felt thoroughly at home with you. (Applause) I have felt that I knew you, that I felt as you felt, that my ambitions were yours, my ways of looking at things were your ways of looking at them, and I think the fundamental reason is that I hope I am a fairly good American myself and I know I am with Americans than whom none can be better. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -33103,13 +33139,43 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0453",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0453",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Governor; Mr. Mayor, and Gentlemen:",
+"I shall not try to make a speech. I just had to leave the room to make a speech to some of my fellow citizens in the street. I wish only to say what a genuine pleasure it has been to me to spend the last twenty-four hours in your wonderful and beautiful state, and what a pleasure it has been to me to come to this great state. I have never been in Oregon before, but however you may feel as to me, I have felt thoroughly at home with you. (Applause) I have felt that I knew you, that I felt as you felt, that my ambitions were yours, my ways of looking at things were your ways of looking at them, and I think the fundamental reason is that I hope I am a fairly good American myself and I know I am with Americans than whom none can be better. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 56 (frame 425:0453)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Governor; Mr. Mayor, and Gentlemen:",
+"I shall not try to make a speech. I just had to leave the room to make a speech to some of my fellow citizens in the street. I wish only to say what a genuine pleasure it has been to me to spend the last twenty-four hours in your wonderful and beautiful state, and what a pleasure it has been to me to come to this great state. I have never been in Oregon before, but however you may feel as to me, I have felt thoroughly at home with you. (Applause) I have felt that I knew you, that I felt as you felt, that my ambitions were yours, my ways of looking at things were your ways of looking at them, and I think the fundamental reason is that I hope I am a fairly good American myself and I know I am with Americans than whom none can be better. (Applause)",
+"<span class=\"tnote\">&quot;File&quot; is written by hand in the upper left margin. The &quot;D&quot; of &quot;Dinner&quot; in the heading is typed over another letter.</span>"
+],
+"notes": [
+"\"File\" is written by hand in the upper left margin. The \"D\" of \"Dinner\" in the heading is typed over another letter."
+],
+"file": "transcriptions/1903-05-21-given-by-the-citizens-of-portland.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 161,
+"unique_words": 89,
+"sentences": 4,
+"avg_sentence": 40.2,
+"minutes": 1,
+"i_count": 13,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-21-salem",
@@ -33258,10 +33324,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 635,
+"paragraphs": [
+"My fellow-citizens:",
+"I thank you all for your greeting. Let me say first a word of acknowledgment to the Grand Arm y, through the grand daughter of one of whose members I was presented with these flowers. It has been a delight to me this morning to get into the state of Washington. It is a state already great but with possibilities of growth such as I believe its own citizens hardly realize; for the state of Washington within the lifetime of the younger among those whom I am addressing, will rank as among the most populous and most wealthy in the entire union. Although I am glad to see already evidence of your material well-being, material prosperity, what I most congratulate you upon is the way in which you are providing for the growth without which material prosperity counts for so little -the growth of the higher life. Wherever I have been I have noticed the attention paid to your schools, paid to the education of the young; and that such a course is wise hardly needs mention. (Applaus e/) The greatest material resources will amount to nothing if you have not the right type of men to take advantage of them; just exactly as in the civil war, it made no difference as to the arms or the training you gave a man, if he did not have the right stuff in him you could not get it out of him. (Applause.) Our men became such matchless soldiers because they had in them the quality out of which heroes are made; so in our citizenship, great though our physical advantages are in the nation as a whole, peculiarly great though they are in this state, they would amount to nothing if you did not have the right kind of men and women to take advantage of them. I believe in your future, and am convinced of the future of the republic because I am confident that the average citizen of the republic has the right stuff in him, (Applause.) to make a soldier in war, to make a good citizen in time of peace; and in peace and in war the first consideration is doing the duty that comes to hand, and do ing it, not shirking it, not asking whether it is easy and pleasant, but doing it. You know that in the army the man that counted was the man that did whatever there was to do, and if he did not do it you did not want him as a neighbor in the army. So in civil life it is the constant performance of the duty that comes up day by day that makes the good citizen, that makes the man upon whom one can depend for help as a neighbor, for duty performed to the state and the nation. I am glad to have seen you; I am glad to have seen the men and women, and I am particularly glad to have seen the children. One thing that has impressed me particularly coming from the Atlantic to the Pacific is the essential unity of our people; the unity for which you fought, and your fellows died in the civil war. We can never afford in this country to permit any man to divide us section against section, creed against creed or class against class: We shall be false to the teachings and the deeds of our fathers if we do not act on the fundamental truth underlying our whole system of government and our national life, the truth that each man is entitled to be treated on his worth as a man without regard to aught else. Any division between man and man on the ground of wealth, occupation or locality, is false and un-American. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -33283,13 +33352,56 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0457",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0457",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow-citizens:",
+"I thank you all for your greeting. Let me say first a word of acknowledgment to the Grand Arm y, through the grand daughter of one of whose members I was presented with these flowers. It has been a delight to me this morning to get into the state of Washington. It is a state already great but with possibilities of growth such as I believe its own citizens hardly realize; for the state of Washington within the lifetime of the younger among those whom I am addressing, will rank as among the most populous and most wealthy in the entire union. Although I am glad to see already evidence of your material well-being, material prosperity, what I most congratulate you upon is the way in which you are providing for the growth without which material prosperity counts for so little -the growth of the higher life. Wherever I have been I have noticed the attention paid to your schools, paid to the education of the young; and that such a course is wise hardly needs mention. (Applaus e/) The greatest material resources will amount to nothing if you have not the right type of men to take advantage of them; just exactly as in the civil war, it made no difference as to the arms or the training you gave a man, if he did not have the right stuff in him you could not get it out of him. (Applause.) Our men became such matchless soldiers because they had in them the quality out of which heroes are made; so in our citizenship, great though our physical advantages are in the nation as a whole, peculiarly great though they are in this state, they would amount to nothing if you did not have the right kind of men and women to take advantage of them. I believe in your future, and am convinced of the future of the republic because I am confident that the average citizen of the republic has the right stuff in him, (Applause.) to make a soldier in war, to make a good citizen in time of peace; and in peace and in war the first consideration is doing the duty that comes to hand, and do ing it, not shirking it, not asking whether it is easy and pleasant, but doing it. You know that in the army the man that counted was the man that did whatever there was to do, and if he did not do it you did not want him as a neighbor in the army. So in civil life it is the constant performance of the duty that comes up day by day that makes the good citizen, that makes the man upon whom one can depend for help as a neighbor, for duty performed to the state and the nation. I am glad to have seen you; I am glad to have seen the men and women, and I am particularly glad to have seen the children. One thing that has impressed me particularly coming from the Atlantic to the Pacific is the essential unity of our people; the unity for which you fought, and your fellows died in the civil war. We can never afford in this country to permit any man to divide us section against section, creed against creed or class against class: We shall be false to the teachings and the deeds of our fathers if we do not act on the fundamental truth underlying our whole system of government and our national life, the truth that each man is entitled to be treated on his worth as a man without regard to aught else. Any division between man and man on the ground of wealth, occupation or locality, is false and un-American. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 63 (frame 425:0457)</span>",
+"My fellow-citizens:",
+"I thank you all for your greeting . Let me say first a word of acknowledgment to the Grand Arm y, through the grand daughter of one of whose members I was presented with these flowers. It has been a delight to me this morning to get into the state of Washington. It is a state already great but with possibilities of growth such as I believe its own citizens hardly realize; for the state of Washington within the lifetime of the younger among those whom I am addressing, will rank as among the <del title=\"struck through\">x</del> most populous and most wealthy <del title=\"struck through\">x</del> in the entire union. Although I am glad to see already evidence of your material well-being, material prosperity, what I most congratulate you upon is the way in which you are providing for the growth without which material prosperity counts for so little -<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del>the growth of the higher life. Wherever I have been I have noticed the attention paid to your schools, paid to the education of the young; and that such a course is wise hardly needs mention. (Applaus e/) The greatest material resources will amount to nothing if you have not the right type of men to take advantage of them; just exactly as in the civil war, it made no difference as to the arms or the training you gave a man, if he did not have the right stuff in him you could not get it out of him. (Applause.) Our <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">soldiers</span></del> men became such matchless soldiers because they had in them the quality out of which heroes are made; so in our citizenship, great though our physical advantages are in the nation as a whole, peculiarly great though they are in this state, they would amount to nothing if you did not have the right kind of men and women to take advantage of them. I believe in your future, and am convinced of the future of the republic because I am confident that the average <span class=\"sic\" title=\"reads: citizen\">ci izen</span> of the republic has the right stuff in him, (Applause.) to make a soldier in war, to make a good citizen in time of peace; and in peace and in war the first consideration is doing the duty that comes to hand, and do ing it, not shirking it, not asking whether it is easy and pleasant, but doing it. You know that in the army the man that counted was <ins title=\"added by hand\">the man</ins> that did whatever there was to do , and if he did not do it you did not want him as a neighbor in the <span class=\"sic\" title=\"reads: army\">amy</span>. So in civil life it is <span class=\"pb\">Page 64 (frame 425:0457)</span> the constant performance of the duty that comes up day by day that makes the good citizen, that makes the man upon whom one can depend for help as a neighbor, for duty performed to the state and the nation. I am glad to have seen you; I am glad to have seen the men and women, and I am particularly glad to have seen the children. One thing that has impressed me particularly coming from the Atlantic to the Pacific is the essential unity of our people; the unity for which you fought, and your fellows died in the civil war. We can never afford in this country to permit any man to divide us section against section, creed against creed or class against class: We shall be false to the teachings and the deeds of our fathers if we do not act on the fundamental truth underlying our whole system of government and our national life, the truth <del title=\"struck through\">x</del> that each man is entitled to be treated on his worth as a man without regard to aught else. Any division between man and man on the ground of wealth, occupation or locality, is false and un-American. (<span class=\"sic\" title=\"reads: Cheers\">Wheers</span> and applause.)",
+"<span class=\"tnote\">Folios 63 and 64 are the left and right halves of frame 0457. Typed page number &quot;-2-&quot; on folio 64 is omitted. On folio 63 the final &quot;3&quot; of the date in the heading is typed over another figure; an ink blot covers whatever followed the dash after &quot;little&quot;; the slash in &quot;(Applaus e/)&quot; may be a typed mark; a hand stroke stands through or beside the final &quot;e&quot; of &quot;became&quot;; &quot;already&quot;, &quot;noticed&quot;, &quot;republic&quot;, &quot;advantages&quot; and &quot;time&quot; show letters typed over other letters; &quot;the man&quot; above &quot;that did&quot; is typed between the lines with a caret. On folio 64 &quot;the&quot; (before &quot;man upon whom&quot;), &quot;I&quot; (second &quot;I am glad&quot;), &quot;the&quot; (before &quot;teachings&quot;) and &quot;division&quot; show overtyped letters; the first letter of &quot;Cheers&quot; appears to be W typed over C or the reverse.</span>"
+],
+"notes": [
+"Folios 63 and 64 are the left and right halves of frame 0457. Typed page number \"-2-\" on folio 64 is omitted. On folio 63 the final \"3\" of the date in the heading is typed over another figure; an ink blot covers whatever followed the dash after \"little\"; the slash in \"(Applaus e/)\" may be a typed mark; a hand stroke stands through or beside the final \"e\" of \"became\"; \"already\", \"noticed\", \"republic\", \"advantages\" and \"time\" show letters typed over other letters; \"the man\" above \"that did\" is typed between the lines with a caret. On folio 64 \"the\" (before \"man upon whom\"), \"I\" (second \"I am glad\"), \"the\" (before \"teachings\") and \"division\" show overtyped letters; the first letter of \"Cheers\" appears to be W typed over C or the reverse."
+],
+"file": "transcriptions/1903-05-22-centralia.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"military"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"material",
+"growth",
+"civil",
+"glad",
+"applause",
+"citizen",
+"war",
+"duty",
+"right",
+"state"
+],
+"stats": {
+"words": 635,
+"unique_words": 255,
+"sentences": 13,
+"avg_sentence": 48.8,
+"minutes": 5,
+"i_count": 13,
+"we_count": 3
+}
 },
 {
 "id": "1903-05-22-chehalis",
@@ -39246,8 +39358,8 @@
 "freedom",
 "produce",
 "therefore",
-"government",
 "responsibility",
+"government",
 "together"
 ],
 "stats": {
@@ -41675,7 +41787,7 @@
 "president",
 "end",
 "duty",
-"whatever"
+"brought"
 ],
 "stats": {
 "words": 1439,
@@ -42449,8 +42561,8 @@
 "wore",
 "fathers",
 "regiment",
-"arms",
 "deeds",
+"arms",
 "fought"
 ],
 "stats": {
@@ -42597,8 +42709,8 @@
 "affairs",
 "responsibility",
 "duties",
-"advantage",
-"proud"
+"proud",
+"advantage"
 ],
 "stats": {
 "words": 1169,
@@ -43364,8 +43476,8 @@
 "israel",
 "aggressive",
 "first-class",
-"warred",
 "qualities",
+"warred",
 "general",
 "devotion",
 "memories"
@@ -43510,8 +43622,8 @@
 "common-sense",
 "sake",
 "value",
-"comes",
-"president"
+"president",
+"comes"
 ],
 "stats": {
 "words": 1474,
@@ -43805,8 +43917,8 @@
 "wealth",
 "hay",
 "numbers",
-"cabinet",
 "service",
+"cabinet",
 "john",
 "rendering",
 "harm",
@@ -47377,8 +47489,8 @@
 "departments",
 "methods",
 "recommendations",
-"ink",
 "work",
+"ink",
 "bureaus",
 "department",
 "red",
@@ -47780,8 +47892,8 @@
 "fortunes",
 "shalt",
 "crown",
-"steal",
 "public",
+"steal",
 "attack",
 "sanity",
 "evils"
@@ -47922,8 +48034,8 @@
 "church",
 "questions",
 "afford",
-"rule",
 "honesty",
+"rule",
 "decent",
 "life"
 ],
@@ -49438,8 +49550,8 @@
 "work",
 "realize",
 "ages",
-"grand",
 "task",
+"grand",
 "army",
 "spirit",
 "enough"
@@ -51926,8 +52038,8 @@
 "ease",
 "glory",
 "disagreeable",
-"statue",
 "woman",
+"statue",
 "duty"
 ],
 "stats": {
@@ -53347,8 +53459,8 @@
 "movement",
 "honest",
 "well-being",
-"wealth",
 "policies",
+"wealth",
 "property",
 "business",
 "tennessee",
@@ -54662,8 +54774,8 @@
 "dam",
 "charge",
 "act",
-"navigable",
 "plans",
+"navigable",
 "breach",
 "rainy",
 "construction"
@@ -54913,8 +55025,8 @@
 "steel",
 "control",
 "legislation",
-"boston",
 "law",
+"boston",
 "abuses"
 ],
 "stats": {
@@ -55195,7 +55307,7 @@
 "condemn",
 "capitalists",
 "praise",
-"government"
+"foolish"
 ],
 "stats": {
 "words": 1346,
@@ -55442,8 +55554,8 @@
 "methodist",
 "woman",
 "spiritual",
-"tends",
 "evil",
+"tends",
 "mother",
 "national",
 "true",
@@ -55970,8 +56082,8 @@
 },
 "distinctive": [
 "colored",
-"town",
 "white",
+"town",
 "race",
 "color",
 "thriving",
@@ -58813,8 +58925,8 @@
 "distinctive": [
 "civilization",
 "movement",
-"roman",
 "centuries",
+"roman",
 "peoples",
 "conquests",
 "modern",
@@ -60047,8 +60159,8 @@
 "hours",
 "social",
 "progress",
-"earner",
-"conditions"
+"conditions",
+"earner"
 ],
 "stats": {
 "words": 3887,
@@ -61182,8 +61294,8 @@
 "magazine",
 "sugar",
 "magazines",
-"newspaper",
 "loyalty",
+"newspaper",
 "comrade",
 "servant",
 "penitentiary"
@@ -61602,8 +61714,8 @@
 "court",
 "popular",
 "justice",
-"courts",
 "business",
+"courts",
 "decisions"
 ],
 "stats": {
@@ -62589,8 +62701,8 @@
 },
 "distinctive": [
 "wilson",
-"shot",
 "party",
+"shot",
 "bullet",
 "applause",
 "friends",
