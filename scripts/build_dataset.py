@@ -53,6 +53,12 @@ def heading_parts(h):
     return title, p, occasion
 
 
+def tnorm_words(t):
+    t = re.sub(r"\b(draft|copy|copies|first|second|edited|colonel'?s|press release|with edits by .*)\b", "", t.lower())
+    t = re.sub(r"\(.*?\)", " ", DATE_STRIP.sub("", t))
+    return re.sub(r"[^a-z ]", " ", t)
+
+
 def clean_trc_title(t):
     t = t.replace("–", "-").replace("—", "-")
     return re.sub(r"\s+", " ", t).strip()
@@ -256,7 +262,15 @@ def main():
     for r, rp in unmatched:
         tnorm = re.sub(r"\b(draft|copy|copies|first|second|edited|colonel'?s|press release|with edits by .*)\b", "", r["title"].lower())
         tnorm = re.sub(r"[^a-z]", "", DATE_STRIP.sub("", tnorm))
-        key = (r["date"][:10], rp[0].lower() if rp else tnorm)
+        # what is left of the title once the speaker, kind of speech, place, state and date are taken out
+        # tells two different speeches at one place on one day apart (the Capitol steps and the Legislature)
+        resid = re.sub(r"\b(address|addresses|remarks|speech|of|by|the|president|roosevelt|theodore|colonel|governor|"
+                       r"delivered|prepared|given|at|in)\b", " ", tnorm_words(r["title"]))
+        if rp:
+            for w in re.findall(r"[a-z]+", (rp[0] + " " + STATE_NAME.get(rp[1], "") + " " + rp[1]).lower()):
+                resid = re.sub(rf"\b{w}\b", " ", resid)
+        resid = re.sub(r"[^a-z]", "", resid)
+        key = (r["date"][:10], rp[0].lower() if rp else tnorm, resid if rp else "")
         if key in grouped:
             grouped[key][0]["_more"].append(r)
         else:
@@ -282,6 +296,8 @@ def main():
             "paragraphs": [], "ocr": False, "editions": [], "trc": [r] + r.pop("_more"), "loc": [],
         }
         o = trc_over.get(r["id"])
+        if o and o.get("drop"):
+            continue
         if o:   # a correction from reading the document itself (see sources/overrides.json)
             item["title"] = o.get("title", item["title"])
             item["place"] = tuple(o["place"]) if o.get("place") else item["place"]
@@ -360,6 +376,15 @@ def main():
     # --- places, ids, final shape ---------------------------------------------------------------
     seen = Counter()
     out = []
+    # a transcription is named by the id of the speech it was made for; keep that id on the catalog record it transcribes
+    tmap = json.load(open(os.path.join(ROOT, "sources/transcription_trc.json")))
+    trc_to_id = {v: k for k, v in tmap.items()}
+    reserved = set(tmap)
+    for s in speeches:
+        if not s.get("_id") and not s["editions"]:
+            hit = [trc_to_id[r["id"]] for r in s["trc"] if r["id"] in trc_to_id]
+            if hit:
+                s["_id"] = hit[0]
     for s in sorted(speeches, key=lambda x: (x["date"] or "9999", x["title"])):
         pid = None
         if s["place"] and s["kind"] in ("message", "letter", "memorandum", "statement", "proclamation"):
@@ -371,8 +396,11 @@ def main():
         if s.get("_id"):
             sid = s["_id"]   # keep a stable id (transcription files are named by it) when a correction changes the place
         else:
-            seen[base] += 1
-            sid = base if seen[base] == 1 else f"{base}-{seen[base]}"
+            while True:
+                seen[base] += 1
+                sid = base if seen[base] == 1 else f"{base}-{seen[base]}"
+                if sid not in reserved:
+                    break
         text = s["paragraphs"]
         out.append({
             "id": sid, "date": s["date"], "date_precision": s["date_precision"], "date_source": s["date_source"],

@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Victoria, Kansas,May 2,1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 345
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0345
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 42 425:0345]
@@ -13,7 +13,8 @@ status: ok
 
 My fellow citizens:
 
-Let me thank you with all my heart for having come here to greet me. I have not [-xx-] enjoyed any meeting more than this. I congratulate you and I congratulate the United States {th at|that} we have such citizens in it! I congratulate you on what you have done here on the farms,in [-[illegible]-] [-[illegible]xx-] business, on all your work, and I congratulate you especially upon the children, upon the way they are being brought up, and upon the way they sing and the tunes they sing. It did me good to see such first class young American citizens here and I am pleased and proud to have [-[?th?]xx-] had the chance of [-[illegible]-]seeing you. [-I wish that: I could speak in German. I understand [illegible] and if you spoke to me in German I could understand [illegible] All I can say [illegible] [?glück?] [illegible] [?und?] leben Sie [?wohl?].-] (Cheers and {appause|applause}.)
+Let me thank you with all my heart for having come here to greet me. I have not [-xx-] enjoyed any meeting more than this. I congratulate you and I congratulate the United States {th at|that} we have such citizens in it[?!?] I congratulate you on what you have done here on the farms,in [-[illegible]-] [-[illegible]xx-] business, on all your work, and I congratulate you especially upon the children, upon the way they are being brought up, and upon the way they sing and the tunes they sing. It did me good to see such first class young American citizens here and I am pleased and proud to have [-[?th?]xx-] had the chance of [-[illegible]-]seeing you. [-I wish that: I could speak in German. I understand [illegible] and if you spoke to me in German I could understand [illegible] All I can say [illegible] [?glück?] [illegible] [?und?] leben Sie [?wohl?].-] (Cheers and {appause|applause}.)
 
 [note: Speech is on the left half of the frame. The year in the heading is overtyped but reads 1903. "are", "way" and "did" are typed over other letters; final readings given.]
 [note: After "farms,in" a word is blotted out in ink, followed by typed letters x-ed out on the typewriter. Before "seeing" a typed word is x-ed out on the typewriter. The passage about German (about two and a half lines) is struck through by hand; the readable words are given and the rest marked illegible. In "appause" the l of "applause" appears to have been typed as or over an a.]
+[note: Third look: the mark after "such citizens in it" is a typed dot with a heavier mark above it and a faint upward stroke, apparently by hand; it may be a period made into an exclamation mark, but the image does not settle it.]

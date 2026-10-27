@@ -324,8 +324,8 @@
 "subject",
 "new",
 "interests",
-"state",
 "national",
+"state",
 "war"
 ],
 "stats": {
@@ -470,8 +470,8 @@
 "navy",
 "ease",
 "fear",
-"ignoble",
 "ships",
+"ignoble",
 "undertake"
 ],
 "stats": {
@@ -915,8 +915,8 @@
 "war",
 "peace",
 "dead",
-"resistance",
-"islands"
+"islands",
+"resistance"
 ],
 "stats": {
 "words": 4369,
@@ -1507,21 +1507,49 @@
 "thumb": null
 },
 {
-"id": "o287068",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o287068/",
-"title": "Theodore Roosevelt’s reply to Mr. Bryan at Evansville, Indiana",
-"date": "1900-10-12",
-"pages": "20",
-"repository": "Harvard College Library",
-"thumb": null
-},
-{
 "id": "o268833",
 "url": "https://www.theodorerooseveltcenter.org/digital-library/o268833/",
 "title": "Speech at Evansville, Indiana",
 "date": "1900-10-12",
 "pages": "5",
 "repository": "Library of Congress Manuscript Division",
+"thumb": null
+}
+],
+"loc": [],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1900-10-12-evansville-2",
+"date": "1900-10-12",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Theodore Roosevelt’s reply to Mr. Bryan at Evansville, Indiana",
+"occasion": null,
+"place": "evansville-indiana",
+"kind": "speech",
+"period": "Governor of New York",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o287068",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o287068/",
+"title": "Theodore Roosevelt’s reply to Mr. Bryan at Evansville, Indiana",
+"date": "1900-10-12",
+"pages": "20",
+"repository": "Harvard College Library",
 "thumb": null
 }
 ],
@@ -1747,8 +1775,8 @@
 "commonwealths",
 "industrial",
 "commonplace",
-"manliness",
-"tendencies"
+"tendencies",
+"manliness"
 ],
 "stats": {
 "words": 2855,
@@ -1875,11 +1903,11 @@
 "commonwealths",
 "unity",
 "colorado",
-"alleghanies",
 "continent",
+"alleghanies",
 "union",
 "spread",
-"older"
+"strength"
 ],
 "stats": {
 "words": 3296,
@@ -2152,8 +2180,8 @@
 "taught",
 "brotherhood",
 "ranks",
-"struggles",
 "lessons",
+"struggles",
 "fought",
 "occupations"
 ],
@@ -4177,8 +4205,8 @@
 "shortcomings",
 "cuba",
 "wanted",
-"work",
-"hundred"
+"hundred",
+"work"
 ],
 "stats": {
 "words": 1569,
@@ -4328,8 +4356,8 @@
 "battle",
 "war",
 "citizenship",
-"duty",
-"nation"
+"nation",
+"duty"
 ],
 "stats": {
 "words": 830,
@@ -4944,8 +4972,8 @@
 "porto",
 "island",
 "hartford",
-"philippines",
 "cuba",
+"philippines",
 "philippine",
 "civil",
 "orient"
@@ -6184,7 +6212,7 @@
 "honesty",
 "citizen",
 "work",
-"citizenship"
+"law"
 ],
 "stats": {
 "words": 912,
@@ -6368,8 +6396,8 @@
 "solution",
 "corporation",
 "destroy",
-"rancor",
 "remedies",
+"rancor",
 "problems",
 "ignorance",
 "win"
@@ -6920,9 +6948,9 @@
 "richmond",
 "laughter",
 "applause",
-"school",
 "courage",
 "abraham",
+"school",
 "preaching",
 "decency",
 "lincoln"
@@ -7093,10 +7121,10 @@
 "qualities",
 "constitution",
 "well-being",
-"citizenship",
 "guard",
+"citizenship",
 "material",
-"soldier"
+"foundation"
 ],
 "stats": {
 "words": 1295,
@@ -7419,15 +7447,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0641/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o288779",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o288779/",
-"title": "Remarks of President Roosevelt at the Curtis Hotel, Lenox, Massachusetts",
-"date": "1902-09-03",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0641/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -7476,6 +7495,51 @@
 "i_count": 5,
 "we_count": 0
 }
+},
+{
+"id": "1902-09-03-lenox-2",
+"date": "1902-09-03",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks at the Curtis Hotel, Lenox, Massachusetts",
+"occasion": null,
+"place": "lenox-massachusetts",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o288779",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o288779/",
+"title": "Remarks of President Roosevelt at the Curtis Hotel, Lenox, Massachusetts",
+"date": "1902-09-03",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0641/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 2, 1902, Aug. 22-Sept. 3",
+"reel": 424,
+"frame": 641,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-424_0515_0680/?sp=127",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
 },
 {
 "id": "1902-09-04-riceville",
@@ -7629,8 +7693,8 @@
 "wheeling",
 "levees",
 "period",
-"dam",
 "change",
+"dam",
 "industrial",
 "advocating",
 "mississippi",
@@ -8485,8 +8549,8 @@
 ]
 },
 "distinctive": [
-"applause",
 "corporations",
+"applause",
 "change",
 "wheeling",
 "levees",
@@ -9535,7 +9599,7 @@
 "confederate",
 "general",
 "chickamauga",
-"generals"
+"served"
 ],
 "stats": {
 "words": 3078,
@@ -9885,8 +9949,8 @@
 "south",
 "somewhat",
 "industrial",
-"together",
-"prosperity"
+"prosperity",
+"together"
 ],
 "stats": {
 "words": 402,
@@ -10445,8 +10509,8 @@
 },
 "distinctive": [
 "applause",
-"laughter",
 "marion",
+"laughter",
 "patent",
 "weapon",
 "confederate",
@@ -10781,7 +10845,7 @@
 "business",
 "schedules",
 "cured",
-"damage"
+"control"
 ],
 "stats": {
 "words": 4357,
@@ -11304,8 +11368,8 @@
 "win",
 "cheers",
 "physical",
-"difficulties",
 "continent",
+"difficulties",
 "applause",
 "big"
 ],
@@ -11422,8 +11486,8 @@
 "change",
 "destroy",
 "industrial",
-"consequence",
 "evil",
+"consequence",
 "city"
 ],
 "stats": {
@@ -11534,15 +11598,15 @@
 },
 "distinctive": [
 "honesty",
-"citizenship",
 "courage",
+"citizenship",
 "weapon",
 "law",
 "revolutionary",
 "arms",
 "laws",
 "constitution",
-"citizen"
+"fundamental"
 ],
 "stats": {
 "words": 1164,
@@ -12875,8 +12939,8 @@
 "philippines",
 "general",
 "sons",
-"philippine",
 "governor",
+"philippine",
 "soldiers"
 ],
 "stats": {
@@ -13210,6 +13274,51 @@
 }
 },
 {
+"id": "1902-11-22-philadelphia-3",
+"date": "1902-11-22",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks to high school boys from balcony of high school building, Philadelphia, Pennsylvania",
+"occasion": null,
+"place": "philadelphia-pennsylvania",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o288873",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o288873/",
+"title": "Remarks to high school boys from balcony of high school building, Philadelphia, Pennsylvania",
+"date": "1902-11-22",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0871/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 5, 1902, Nov. 1-1903, Mar. 26",
+"reel": 424,
+"frame": 871,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-424_0759_1118/?sp=113",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1902-11-22-philadelphia-2",
 "date": "1902-11-22",
 "date_precision": "day",
@@ -13243,15 +13352,6 @@
 "pages": "3",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0870/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o288873",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o288873/",
-"title": "Remarks to high school boys from balcony of high school building, Philadelphia, Pennsylvania",
-"date": "1902-11-22",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0871/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -13260,13 +13360,6 @@
 "reel": 424,
 "frame": 870,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-424_0759_1118/?sp=112",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 5, 1902, Nov. 1-1903, Mar. 26",
-"reel": 424,
-"frame": 871,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-424_0759_1118/?sp=113",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -13622,7 +13715,7 @@
 "system",
 "islands",
 "conditions",
-"reciprocity"
+"law"
 ],
 "stats": {
 "words": 9756,
@@ -14452,8 +14545,8 @@
 "distinctive": [
 "objections",
 "army",
-"stride",
 "efficiency",
+"stride",
 "play",
 "theory",
 "applause",
@@ -14857,15 +14950,6 @@
 "pages": "35",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0011/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289666",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289666/",
-"title": "Address of President Roosevelt at the laying of the cornerstone of the new law building, University of Chicago, Chicago, Illinois, April 2, 1903",
-"date": "1903-04-02",
-"pages": "5",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0007/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -14874,13 +14958,6 @@
 "reel": 425,
 "frame": 11,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=11",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
-"reel": 425,
-"frame": 7,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=7",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -14922,15 +14999,6 @@
 "title": "Address of President Roosevelt at Northwestern University, Evanston, Illinois, April 2, 1903",
 "date": "1903-04-02",
 "pages": "2",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0006/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289664",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289664/",
-"title": "Remarks of the President at the depot at Evanston, Illinois, upon arrival there, April 2, 1903",
-"date": "1903-04-02",
-"pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0006/full/pct:6.25/0/default.jpg"
 }
@@ -15008,6 +15076,51 @@
 },
 {
 "id": "1903-04-02-chicago-2",
+"date": "1903-04-02",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at the laying of the cornerstone of the new law building, University of Chicago, Chicago, Illinois",
+"occasion": null,
+"place": "chicago-illinois",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289666",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289666/",
+"title": "Address of President Roosevelt at the laying of the cornerstone of the new law building, University of Chicago, Chicago, Illinois, April 2, 1903",
+"date": "1903-04-02",
+"pages": "5",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0007/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 7,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=7",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-04-02-chicago-3",
 "date": "1903-04-02",
 "date_precision": "day",
 "date_source": "text",
@@ -15116,6 +15229,186 @@
 }
 },
 {
+"id": "1903-04-02-evanston-2",
+"date": "1903-04-02",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks of the President at the depot at Evanston, Illinois, upon arrival there",
+"occasion": null,
+"place": "evanston-illinois",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289664",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289664/",
+"title": "Remarks of the President at the depot at Evanston, Illinois, upon arrival there, April 2, 1903",
+"date": "1903-04-02",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0006/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 6,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=6",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-04-03-milwaukee",
+"date": "1903-04-03",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at the Exposition Building, Milwaukee, Wisconsin",
+"occasion": null,
+"place": "milwaukee-wisconsin",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289674",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289674/",
+"title": "Address of President Roosevelt at the Exposition Building, Milwaukee, Wisconsin, April 3, 1903",
+"date": "1903-04-03",
+"pages": "4",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0055/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 55,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=55",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-04-03-milwaukee-3",
+"date": "1903-04-03",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at the Soldiers’ Home, Milwaukee, Wisconsin",
+"occasion": null,
+"place": "milwaukee-wisconsin",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289673",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289673/",
+"title": "Address of President Roosevelt at the Soldiers’ Home, Milwaukee, Wisconsin, April 3, 1903",
+"date": "1903-04-03",
+"pages": "4",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0053/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 53,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=53",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-04-03-madison-2",
+"date": "1903-04-03",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address from the Capitol steps, Madison, Wisconsin",
+"occasion": null,
+"place": "madison-wisconsin",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289669",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289669/",
+"title": "Address of President Roosevelt from the Capitol steps, Madison, Wisconsin, April 3, 1903",
+"date": "1903-04-03",
+"pages": "2",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0049/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 49,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=49",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-04-03-madison",
 "date": "1903-04-03",
 "date_precision": "day",
@@ -15152,15 +15445,6 @@
 "pages": "6",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0046/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289669",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289669/",
-"title": "Address of President Roosevelt from the Capitol steps, Madison, Wisconsin, April 3, 1903",
-"date": "1903-04-03",
-"pages": "2",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0049/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -15169,13 +15453,6 @@
 "reel": 425,
 "frame": 46,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=46",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
-"reel": 425,
-"frame": 49,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=49",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -15262,7 +15539,7 @@
 }
 },
 {
-"id": "1903-04-03-milwaukee",
+"id": "1903-04-03-milwaukee-4",
 "date": "1903-04-03",
 "date_precision": "day",
 "date_source": "text",
@@ -15374,8 +15651,8 @@
 "distinctive": [
 "attorney-general",
 "injunction",
-"salt",
 "law",
+"salt",
 "anti-trust",
 "shippers",
 "legislation",
@@ -15585,33 +15862,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0057/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289673",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289673/",
-"title": "Address of President Roosevelt at the Soldiers’ Home, Milwaukee, Wisconsin, April 3, 1903",
-"date": "1903-04-03",
-"pages": "4",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0053/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289674",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289674/",
-"title": "Address of President Roosevelt at the Exposition Building, Milwaukee, Wisconsin, April 3, 1903",
-"date": "1903-04-03",
-"pages": "4",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0055/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289675",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289675/",
-"title": "Remarks of President Roosevelt in response to the toast proposed by the President of the Deutscher Club, Milwaukee, Wisconsin. April 3, 1903",
-"date": "1903-04-03",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0057/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -15620,20 +15870,6 @@
 "reel": 425,
 "frame": 57,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=57",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
-"reel": 425,
-"frame": 53,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=53",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
-"reel": 425,
-"frame": 55,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=55",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -15679,6 +15915,51 @@
 "i_count": 21,
 "we_count": 1
 }
+},
+{
+"id": "1903-04-03-milwaukee-5",
+"date": "1903-04-03",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks in response to the toast proposed by the President of the Deutscher Club, Milwaukee, Wisconsin",
+"occasion": null,
+"place": "milwaukee-wisconsin",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289675",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289675/",
+"title": "Remarks of President Roosevelt in response to the toast proposed by the President of the Deutscher Club, Milwaukee, Wisconsin. April 3, 1903",
+"date": "1903-04-03",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0057/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 57,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=57",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
 },
 {
 "id": "1903-04-03-jefferson-junction",
@@ -15898,8 +16179,8 @@
 "trouble",
 "test",
 "big",
-"comrades",
 "play",
+"comrades",
 "taught"
 ],
 "stats": {
@@ -15938,24 +16219,6 @@
 "pages": "26",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0115/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289685",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289685/",
-"title": "Remarks of President Roosevelt in the hotel lobby, Minneapolis, Minnesota, April 4, 1903",
-"date": "1903-04-04",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": null
-},
-{
-"id": "o289683",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289683/",
-"title": "Remarks of President Roosevelt from the hotel balcony, Minneapolis, Minnesota, April 4, 1903",
-"date": "1903-04-04",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0112/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -15964,13 +16227,6 @@
 "reel": 425,
 "frame": 115,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=115",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
-"reel": 425,
-"frame": 112,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=112",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -16068,8 +16324,8 @@
 "distinctive": [
 "minnesota",
 "typical",
-"flag",
 "stock",
+"flag",
 "applause",
 "glad",
 "american",
@@ -16519,6 +16775,88 @@
 "stats": null
 },
 {
+"id": "1903-04-04-minneapolis-4",
+"date": "1903-04-04",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks from the hotel balcony, Minneapolis, Minnesota",
+"occasion": null,
+"place": "minneapolis-minnesota",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289683",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289683/",
+"title": "Remarks of President Roosevelt from the hotel balcony, Minneapolis, Minnesota, April 4, 1903",
+"date": "1903-04-04",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0112/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 112,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=112",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-04-04-minneapolis-5",
+"date": "1903-04-04",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks in the hotel lobby, Minneapolis, Minnesota",
+"occasion": null,
+"place": "minneapolis-minnesota",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289685",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289685/",
+"title": "Remarks of President Roosevelt in the hotel lobby, Minneapolis, Minnesota, April 4, 1903",
+"date": "1903-04-04",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": null
+}
+],
+"loc": [],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-04-04-winona",
 "date": "1903-04-04",
 "date_precision": "day",
@@ -16752,7 +17090,7 @@
 "virtues",
 "applause",
 "honesty",
-"courage"
+"strength"
 ],
 "stats": {
 "words": 1810,
@@ -16873,8 +17211,8 @@
 "law",
 "improvement",
 "help",
-"applause",
 "system",
+"applause",
 "easy",
 "cheers",
 "laws"
@@ -16888,6 +17226,51 @@
 "i_count": 10,
 "we_count": 12
 }
+},
+{
+"id": "1903-04-06-sioux-falls-2",
+"date": "1903-04-06",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at Sioux Falls, South Dakota, The wage-worker and the tiller of the soil",
+"occasion": null,
+"place": "sioux-falls-south-dakota",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289689",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289689/",
+"title": "Address of President Roosevelt at Sioux Falls, South Dakota April 6, 1903, The wage-worker and the tiller of the soil",
+"date": "1903-04-06",
+"pages": "28",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0168/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 168,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=168",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
 },
 {
 "id": "1903-04-06-yankton",
@@ -17058,15 +17441,6 @@
 "pages": "2",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0166/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289689",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289689/",
-"title": "Address of President Roosevelt at Sioux Falls, South Dakota April 6, 1903, The wage-worker and the tiller of the soil",
-"date": "1903-04-06",
-"pages": "28",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0168/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -17075,13 +17449,6 @@
 "reel": 425,
 "frame": 166,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=166",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
-"reel": 425,
-"frame": 168,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=168",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -17138,8 +17505,8 @@
 },
 "distinctive": [
 "football",
-"boys",
 "play",
+"boys",
 "girls",
 "count",
 "word",
@@ -17159,7 +17526,7 @@
 }
 },
 {
-"id": "1903-04-06-sioux-falls-2",
+"id": "1903-04-06-sioux-falls-3",
 "date": "1903-04-06",
 "date_precision": "day",
 "date_source": "text",
@@ -17219,8 +17586,8 @@
 "wage-worker",
 "growers",
 "million",
-"employer",
 "tiller",
+"employer",
 "wheat",
 "farm",
 "labor"
@@ -18250,6 +18617,51 @@
 "stats": null
 },
 {
+"id": "1903-04-07-fargo",
+"date": "1903-04-07",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at Fargo, North Dakota, The Philippine Islands and the army",
+"occasion": null,
+"place": "fargo-north-dakota",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289707",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289707/",
+"title": "Address of President Roosevelt at Fargo, North Dakota, April 7, 1903, The Philippine Islands and the army",
+"date": "1903-04-07",
+"pages": "32",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0235/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 235,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=235",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-04-07-bismarck",
 "date": "1903-04-07",
 "date_precision": "day",
@@ -18411,7 +18823,7 @@
 }
 },
 {
-"id": "1903-04-07-fargo",
+"id": "1903-04-07-fargo-3",
 "date": "1903-04-07",
 "date_precision": "day",
 "date_source": "text",
@@ -19411,15 +19823,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0235/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289707",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289707/",
-"title": "Address of President Roosevelt at Fargo, North Dakota, April 7, 1903, The Philippine Islands and the army",
-"date": "1903-04-07",
-"pages": "32",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0235/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -19626,11 +20029,11 @@
 "applause",
 "cattle",
 "missouri",
-"cheers",
 "pioneers",
+"cheers",
 "regions",
-"state",
 "water",
+"state",
 "agricultural"
 ],
 "stats": {
@@ -20057,7 +20460,7 @@
 "law",
 "courage",
 "qualities",
-"congratulate"
+"fundamentally"
 ],
 "stats": {
 "words": 1531,
@@ -20172,8 +20575,8 @@
 "irrigation",
 "fool",
 "weakling",
-"qualities",
 "brave",
+"qualities",
 "decent"
 ],
 "stats": {
@@ -20672,7 +21075,7 @@
 "pioneers",
 "valley",
 "cattle",
-"applause"
+"pioneer"
 ],
 "stats": {
 "words": 1141,
@@ -20917,8 +21320,8 @@
 "help",
 "combination",
 "applause",
-"honesty",
-"law"
+"law",
+"honesty"
 ],
 "stats": {
 "words": 1904,
@@ -21303,12 +21706,12 @@
 "planted",
 "trees",
 "library",
-"school",
 "saw",
+"school",
 "beyond",
 "trying",
 "prosperity",
-"applause"
+"children"
 ],
 "stats": {
 "words": 834,
@@ -21513,8 +21916,8 @@
 },
 "distinctive": [
 "cheers",
-"applause",
 "children",
+"applause",
 "believe"
 ],
 "stats": {
@@ -21750,8 +22153,8 @@
 "virtue",
 "softness",
 "congratulate",
-"applause",
 "building",
+"applause",
 "quality",
 "decent",
 "counts",
@@ -21883,8 +22286,8 @@
 "civil",
 "counts",
 "decency",
-"quality",
-"qualities"
+"qualities",
+"quality"
 ],
 "stats": {
 "words": 997,
@@ -21895,6 +22298,51 @@
 "i_count": 11,
 "we_count": 10
 }
+},
+{
+"id": "1903-04-28-des-moines-2",
+"date": "1903-04-28",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at the Capitol Grounds, Des Moines, Iowa",
+"occasion": null,
+"place": "des-moines-iowa",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289743",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289743/",
+"title": "Address of President Roosevelt at the Capitol Grounds, Des Moines, Iowa, April 28, 1903",
+"date": "1903-04-28",
+"pages": "3",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0303/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 303,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=303",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
 },
 {
 "id": "1903-04-28-des-moines",
@@ -21924,15 +22372,6 @@
 "title": "Address of President Roosevelt at the Opera House, Des Moines, Iowa, April 28, 1903",
 "date": "1903-04-28",
 "pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0303/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289743",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289743/",
-"title": "Address of President Roosevelt at the Capitol Grounds, Des Moines, Iowa, April 28, 1903",
-"date": "1903-04-28",
-"pages": "3",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0303/full/pct:6.25/0/default.jpg"
 }
@@ -22037,15 +22476,6 @@
 "pages": "4",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0306/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289746",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289746/",
-"title": "Remarks of President at luncheon, Ottumwa, Iowa, April 28, 1903",
-"date": "1903-04-28",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0308/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -22054,13 +22484,6 @@
 "reel": 425,
 "frame": 306,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=306",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
-"reel": 425,
-"frame": 308,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=308",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -22134,8 +22557,8 @@
 "preaching",
 "applause",
 "children",
-"congratulate",
 "secretary",
+"congratulate",
 "ease",
 "soil"
 ],
@@ -22424,6 +22847,51 @@
 }
 },
 {
+"id": "1903-04-28-ottumwa-2",
+"date": "1903-04-28",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks of President at luncheon, Ottumwa, Iowa",
+"occasion": null,
+"place": "ottumwa-iowa",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289746",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289746/",
+"title": "Remarks of President at luncheon, Ottumwa, Iowa, April 28, 1903",
+"date": "1903-04-28",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0308/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 6, 1903, Apr. 1-30",
+"reel": 425,
+"frame": 308,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0001_0320/?sp=308",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-04-29-keokuk",
 "date": "1903-04-29",
 "date_precision": "day",
@@ -22671,10 +23139,10 @@
 "applause",
 "win",
 "principle",
-"wanted",
 "evening",
-"left",
+"wanted",
 "general",
+"left",
 "brother",
 "class"
 ],
@@ -22775,8 +23243,8 @@
 "roman",
 "road",
 "districts",
-"bent",
 "electricity",
+"bent",
 "space",
 "existence",
 "steam"
@@ -23474,6 +23942,67 @@
 }
 },
 {
+"id": "1903-05-01-kansas-city-2",
+"date": "1903-05-01",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at Kansas City, Kansas",
+"occasion": null,
+"place": "kansas-city-kansas",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289759",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289759/",
+"title": "Address of President Roosevelt at Kansas City, Kansas, May 1, 1903",
+"date": "1903-05-01",
+"pages": "3",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0329/full/pct:6.25/0/default.jpg"
+},
+{
+"id": "o289757",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289757/",
+"title": "Address of President Roosevelt at Kansas City, Missouri, May 1, 1903",
+"date": "1903-05-01",
+"pages": "8",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0325/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 329,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=9",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+},
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 325,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=5",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-05-01-topeka",
 "date": "1903-05-01",
 "date_precision": "day",
@@ -23705,24 +24234,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0328/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289759",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289759/",
-"title": "Address of President Roosevelt at Kansas City, Kansas, May 1, 1903",
-"date": "1903-05-01",
-"pages": "3",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0329/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289757",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289757/",
-"title": "Address of President Roosevelt at Kansas City, Missouri, May 1, 1903",
-"date": "1903-05-01",
-"pages": "8",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0325/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -23731,20 +24242,6 @@
 "reel": 425,
 "frame": 328,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=8",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 329,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=9",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 325,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=5",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -23931,6 +24428,51 @@
 "stats": null
 },
 {
+"id": "1903-05-02-chapman-2",
+"date": "1903-05-02",
+"date_precision": "day",
+"date_source": "trc",
+"title": "At Chapman, Kansas, the President was presented with a football",
+"occasion": null,
+"place": "chapman-kansas",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289768",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289768/",
+"title": "At Chapman, Kansas, the President was presented with a football",
+"date": "1903-05-02",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0339/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 339,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=19",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-05-02-chapman",
 "date": "1903-05-02",
 "date_precision": "day",
@@ -23952,15 +24494,6 @@
 "id": "o289767",
 "url": "https://www.theodorerooseveltcenter.org/digital-library/o289767/",
 "title": "Remarks of President Roosevelt at Chapman, Kansas, May 2, 1903",
-"date": "1903-05-02",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0339/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289768",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289768/",
-"title": "At Chapman, Kansas, the President was presented with a football",
 "date": "1903-05-02",
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
@@ -24299,10 +24832,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 118,
+"paragraphs": [
+"My fellow citizens:",
+"Let me thank you with all my heart for having come here to greet me. I have not enjoyed any meeting more than this. I congratulate you and I congratulate the United States that we have such citizens in it! [?] I congratulate you on what you have done here on the farms, in business, on all your work, and I congratulate you especially upon the children, upon the way they are being brought up, and upon the way they sing and the tunes they sing. It did me good to see such first class young American citizens here and I am pleased and proud to have had the chance of seeing you. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -24324,13 +24860,48 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 345",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0345",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My fellow citizens:",
+"Let me thank you with all my heart for having come here to greet me. I have not enjoyed any meeting more than this. I congratulate you and I congratulate the United States that we have such citizens in it! [?] I congratulate you on what you have done here on the farms, in business, on all your work, and I congratulate you especially upon the children, upon the way they are being brought up, and upon the way they sing and the tunes they sing. It did me good to see such first class young American citizens here and I am pleased and proud to have had the chance of seeing you. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 42 (frame 425:0345)</span>",
+"<span class=\"margin\">In the margin: Corr</span>",
+"My fellow citizens:",
+"Let me thank you with all my heart for having come here to greet me. I have not <del title=\"struck through\">xx</del> enjoyed any meeting more than this. I congratulate you and I congratulate the United States <span class=\"sic\" title=\"reads: that\">th at</span> we have such citizens in it<span class=\"unc\" title=\"uncertain reading\">!</span> I congratulate you on what you have done here on the farms,in <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <del title=\"struck through\"><span class=\"illeg\">[illegible]</span>xx</del> business, on all your work, and I congratulate you especially upon the children, upon the way they are being brought up, and upon the way they sing and the tunes they sing. It did me good to see such first class young American citizens here and I am pleased and proud to have <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">th</span>xx</del> had the chance of <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del>seeing you. <del title=\"struck through\">I wish that: I could speak in German. I understand <span class=\"illeg\">[illegible]</span> and if you spoke to me in German I could understand <span class=\"illeg\">[illegible]</span> All I can say <span class=\"illeg\">[illegible]</span> <span class=\"unc\" title=\"uncertain reading\">glück</span> <span class=\"illeg\">[illegible]</span> <span class=\"unc\" title=\"uncertain reading\">und</span> leben Sie <span class=\"unc\" title=\"uncertain reading\">wohl</span>.</del> (Cheers and <span class=\"sic\" title=\"reads: applause\">appause</span>.)",
+"<span class=\"tnote\">Speech is on the left half of the frame. The year in the heading is overtyped but reads 1903. &quot;are&quot;, &quot;way&quot; and &quot;did&quot; are typed over other letters; final readings given.</span>\n<span class=\"tnote\">After &quot;farms,in&quot; a word is blotted out in ink, followed by typed letters x-ed out on the typewriter. Before &quot;seeing&quot; a typed word is x-ed out on the typewriter. The passage about German (about two and a half lines) is struck through by hand; the readable words are given and the rest marked illegible. In &quot;appause&quot; the l of &quot;applause&quot; appears to have been typed as or over an a.</span>\n<span class=\"tnote\">Third look: the mark after &quot;such citizens in it&quot; is a typed dot with a heavier mark above it and a faint upward stroke, apparently by hand; it may be a period made into an exclamation mark, but the image does not settle it.</span>"
+],
+"notes": [
+"Speech is on the left half of the frame. The year in the heading is overtyped but reads 1903. \"are\", \"way\" and \"did\" are typed over other letters; final readings given.",
+"After \"farms, in\" a word is blotted out in ink, followed by typed letters x-ed out on the typewriter. Before \"seeing\" a typed word is x-ed out on the typewriter. The passage about German (about two and a half lines) is struck through by hand; the readable words are given and the rest marked illegible. In \"appause\" the l of \"applause\" appears to have been typed as or over an a.",
+"Third look: the mark after \"such citizens in it\" is a typed dot with a heavier mark above it and a faint upward stroke, apparently by hand; it may be a period made into an exclamation mark, but the image does not settle it."
+],
+"file": "transcriptions/1903-05-02-victoria.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"congratulate",
+"citizens"
+],
+"stats": {
+"words": 118,
+"unique_words": 69,
+"sentences": 4,
+"avg_sentence": 29.5,
+"minutes": 1,
+"i_count": 6,
+"we_count": 1
+}
 },
 {
 "id": "1903-05-02-wakeeney",
@@ -24565,15 +25136,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0337/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289766",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289766/",
-"title": "Address of Secretary Root, at Junction City, Kansas, May 2, 1903",
-"date": "1903-05-02",
-"pages": "2",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0338/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -24582,13 +25144,6 @@
 "reel": 425,
 "frame": 337,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=17",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 338,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=18",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -24657,10 +25212,20 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1562,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to have the chance of being with you again. I know your state and I know your city well. (Applause) I am glad to have the chance of returning here to say a few words of greeting to you and to acknowledge your welcome. (Applause)",
+"And let me first thank the men of the Grand Army of the Republic (Applause) for having turned out to welcome me to-day. All of us owe a peculiar debt to them, for there would not be any country, nor any President to address you if it was not for what they did. And what they did must serve not merely as an example to us in time of war, but as an example to us in time of peace. For fundamentally, speaking from the standpoint of the whole, disregarding the exceptions, the same qualities that are necessary for the making of a good soldier are necessary for the making of a good citizen. (Applause) There are two sets of those qualities. In the first place we must have that spirit of decency, of honesty, of patriotism, which takes shape as love of country, as love of ones fellows, which makes a man good in the home, a good man to work with or to deal with, which gives him a spirit of devotion to the flag-- we must have all of that, and then in addition we must have the rugged manliness of quality which makes virtue and decency effective.",
+"In the civil war the first thing that you demanded of one of your own men was that he should love his country, that he should be capable of loyalty -- loyalty to his fellows, loyalty to his organization, loyalty to the regiment, the army, the flag. If he did not have that quality in him then his courage would avail nothing, for there was nothing in that case to make the courage show itself on the right side. But that quality was not enough. No matter how patriotic the man was, it did not help if he had a tendency to run away. In addition to patriotism the man had to have the spirit that made him do, and dare, and endure; that iron will that urged him on until out of trial, out of effort, out of temporary failure, the ultimate triumph came. He had to have that spirit in him or his love of country could not avail. So it is now in civic life. As the base, as the foundation, we must have honesty, decency, the spirit of fair dealing between man and man, the spirit that makes employer and wageworker, the",
+"dweller on the farm and the dweller in the towns, able each to understand the viewpoint of his brother; and while resolute to see that he himself receives justice, resolute also not to try to wrong that brother. We must have that first; but we need more than mere morality, than mere virtue. The virtue that is cloistered, the virtue that stays at home, that sits in its own parlor and wonders why the world is so bad, does not help anyone. Together with decency and honesty must go the spirit that impels a man, not merely to talk about the wrong in the world, but to go out and try to make things a little better in the world. (Applause)That you have got to have first. And in that struggle to make things better we have to recollect that there is no more room in civil life than in military life for all of us to be brigadier generals. (Laughter and applause)",
+"You remember, my comrades, in the days of the civil war how all the people that were not in it could tell you what to do to win; and that there were plenty of people who did not want to be privates because they thought the job was not big enough for them, and there did not seem to be an opening for them higher up. The victory was won, primarily, because together, of course, with the generalship of Grant, and Sherman, and Thomas, and Sheridan, together with the statesmanship of Lincoln, there was as the prime factor the fact that the average man in blue had the right spirit in him, that the man behind the gun had the spirit that drove him forward to victory.",
+"We will win to a higher standard of social and civic duty only by and through the spirit that makes the average citizen wish to do well the work of average citizenship, and you cannot do it by spurts. The world is pretty old now, and yet it is a long way from the millenium. Each victory we win as long as we live will of necessity open the way for a fresh struggle. We can win and will win only by making up our minds that life is not an easy thing, that life is a hard thing; and that the glory comes not in seeking to make it easy, but in seeking to do the hard task well; that is how the triumph comes (Applause.) You, men of the Civil War-what are the memories you have handed down to your children, and to all of us who have come after you,-the memories of your lives of which you are proud? The times of ease, the times when there was no effort? [?] No, the times when you knew what it was to walk with swollen feet and throbbing head under the midsummer sun of the south until it seemed as if you could not stay in the ranks any longer, and yet you did stay; or the times when in the ragged blanket you lay shivering in the frozen mud of the midwinter nights; shivered and shivered, and thought about home and thought about comfort, but you put through the job that you had in hand; the time when after months of weary inaction there came a battle, maybe a defeat, and those of little faith said that the war was over. Why, after the battle of Bull Run there were people who said the war was over, and it was not over for nearly four years and then it was over the other way.(Applause.) So it must be with us here in civil life. We must approach our duties, our life, with the firm determination to put through the task, to do all that there is to be done to win in the end, and if defeat comes first, to set our teeth and come up to win the next time.",
+"In greeting all of you I want to say just one word about something that impressed me so much to-day in Denver, and that I did not have a chance to speak of then. I was greeted by thousands of school children of Denver. I was very glad to see them. I want to say just one word upon the future of the country, the country as it",
+"will be twenty, thirty, forty years hence. A good deal depends upon how we handle business, upon how we do the great industrial work, upon how we handle the farms and the ranches; but the thing that counts most, the thing that will count most will be the kind of men and women that there are then in the country. No nation is sound if there are not in the average family plenty of healthy and happy children. Those children, if not brought up well are not merely a curse to themselves and to their parents, but mean the ruin of the state in the future. The schools can do much, but if the homes do not do their part the schools cannot entirely make good the deficiency. The fathers and mothers have got to do their full part in making the boys and girls such that there is a reasonable chance of getting good citizenship out of the future; or they are derelict in the most vital of all of the duties of citizenship. You can do nothing if you start with the idea that the first consideration is to save either yourself or the children from trouble or effort. There are a good many contemptible creatures in the world, but on the whole the most contemptible is the creature who wants to go through life bent only on having the easiest time that life can give, and next to him in point of folly comes the man or the woman who through weakness— for it is not real affection— tries not to make the child able to meet and to overcome difficulties, but to shirk them. That was not the way you did your work from '61 to '65. That is not the way you want to see those who come after you do their work in war or in peace. And I ask of all our people that they not only do their own duty, but that they train those who are to come after them that true happiness consists not of that most vapid of all pursuits, the pursuit of pleasure as a sufficient end in itself, but in the effort each to do his or her duty as that duty arises. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -24682,13 +25247,98 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 355, 356",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0355",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a great pleasure to have the chance of being with you again. I know your state and I know your city well. (Applause) I am glad to have the chance of returning here to say a few words of greeting to you and to acknowledge your welcome. (Applause)",
+"And let me first thank the men of the Grand Army of the Republic (Applause) for having turned out to welcome me to-day. All of us owe a peculiar debt to them, for there would not be any country, nor any President to address you if it was not for what they did. And what they did must serve not merely as an example to us in time of war, but as an example to us in time of peace. For fundamentally, speaking from the standpoint of the whole, disregarding the exceptions, the same qualities that are necessary for the making of a good soldier are necessary for the making of a good citizen. (Applause) There are two sets of those qualities. In the first place we must have that spirit of decency, of honesty, of patriotism, which takes shape as love of country, as love of ones fellows, which makes a man good in the home, a good man to work with or to deal with, which gives him a spirit of devotion to the flag-- we must have all of that, and then in addition we must have the rugged manliness of quality which makes virtue and decency effective.",
+"In the civil war the first thing that you demanded of one of your own men was that he should love his country, that he should be capable of loyalty -- loyalty to his fellows, loyalty to his organization, loyalty to the regiment, the army, the flag. If he did not have that quality in him then his courage would avail nothing, for there was nothing in that case to make the courage show itself on the right side. But that quality was not enough. No matter how patriotic the man was, it did not help if he had a tendency to run away. In addition to patriotism the man had to have the spirit that made him do, and dare, and endure; that iron will that urged him on until out of trial, out of effort, out of temporary failure, the ultimate triumph came. He had to have that spirit in him or his love of country could not avail. So it is now in civic life. As the base, as the foundation, we must have honesty, decency, the spirit of fair dealing between man and man, the spirit that makes employer and wageworker, the",
+"dweller on the farm and the dweller in the towns, able each to understand the viewpoint of his brother; and while resolute to see that he himself receives justice, resolute also not to try to wrong that brother. We must have that first; but we need more than mere morality, than mere virtue. The virtue that is cloistered, the virtue that stays at home, that sits in its own parlor and wonders why the world is so bad, does not help anyone. Together with decency and honesty must go the spirit that impels a man, not merely to talk about the wrong in the world, but to go out and try to make things a little better in the world. (Applause)That you have got to have first. And in that struggle to make things better we have to recollect that there is no more room in civil life than in military life for all of us to be brigadier generals. (Laughter and applause)",
+"You remember, my comrades, in the days of the civil war how all the people that were not in it could tell you what to do to win; and that there were plenty of people who did not want to be privates because they thought the job was not big enough for them, and there did not seem to be an opening for them higher up. The victory was won, primarily, because together, of course, with the generalship of Grant, and Sherman, and Thomas, and Sheridan, together with the statesmanship of Lincoln, there was as the prime factor the fact that the average man in blue had the right spirit in him, that the man behind the gun had the spirit that drove him forward to victory.",
+"We will win to a higher standard of social and civic duty only by and through the spirit that makes the average citizen wish to do well the work of average citizenship, and you cannot do it by spurts. The world is pretty old now, and yet it is a long way from the millenium. Each victory we win as long as we live will of necessity open the way for a fresh struggle. We can win and will win only by making up our minds that life is not an easy thing, that life is a hard thing; and that the glory comes not in seeking to make it easy, but in seeking to do the hard task well; that is how the triumph comes (Applause.) You, men of the Civil War-what are the memories you have handed down to your children, and to all of us who have come after you,-the memories of your lives of which you are proud? The times of ease, the times when there was no effort? [?] No, the times when you knew what it was to walk with swollen feet and throbbing head under the midsummer sun of the south until it seemed as if you could not stay in the ranks any longer, and yet you did stay; or the times when in the ragged blanket you lay shivering in the frozen mud of the midwinter nights; shivered and shivered, and thought about home and thought about comfort, but you put through the job that you had in hand; the time when after months of weary inaction there came a battle, maybe a defeat, and those of little faith said that the war was over. Why, after the battle of Bull Run there were people who said the war was over, and it was not over for nearly four years and then it was over the other way.(Applause.) So it must be with us here in civil life. We must approach our duties, our life, with the firm determination to put through the task, to do all that there is to be done to win in the end, and if defeat comes first, to set our teeth and come up to win the next time.",
+"In greeting all of you I want to say just one word about something that impressed me so much to-day in Denver, and that I did not have a chance to speak of then. I was greeted by thousands of school children of Denver. I was very glad to see them. I want to say just one word upon the future of the country, the country as it",
+"will be twenty, thirty, forty years hence. A good deal depends upon how we handle business, upon how we do the great industrial work, upon how we handle the farms and the ranches; but the thing that counts most, the thing that will count most will be the kind of men and women that there are then in the country. No nation is sound if there are not in the average family plenty of healthy and happy children. Those children, if not brought up well are not merely a curse to themselves and to their parents, but mean the ruin of the state in the future. The schools can do much, but if the homes do not do their part the schools cannot entirely make good the deficiency. The fathers and mothers have got to do their full part in making the boys and girls such that there is a reasonable chance of getting good citizenship out of the future; or they are derelict in the most vital of all of the duties of citizenship. You can do nothing if you start with the idea that the first consideration is to save either yourself or the children from trouble or effort. There are a good many contemptible creatures in the world, but on the whole the most contemptible is the creature who wants to go through life bent only on having the easiest time that life can give, and next to him in point of folly comes the man or the woman who through weakness— for it is not real affection— tries not to make the child able to meet and to overcome difficulties, but to shirk them. That was not the way you did your work from '61 to '65. That is not the way you want to see those who come after you do their work in war or in peace. And I ask of all our people that they not only do their own duty, but that they train those who are to come after them that true happiness consists not of that most vapid of all pursuits, the pursuit of pleasure as a sufficient end in itself, but in the effort each to do his or her duty as that duty arises. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 58 (frame 425:0355)</span>",
+"My Friends and Fellow Citizens:",
+"It is a great pleasure <del title=\"struck through\">xxxxxxxx xxx</del> to have the chance of being with you again. I know your state and I know your city well. (Applause) I am <span class=\"sic\" title=\"reads: glad to\">gladto</span> have the chance of returning here to say a few words of greeting to you and to acknowledge your welcome. (Applause)",
+"And let me first thank the men of the Grand Army of the Republic (Applause) for having <span class=\"sic\" title=\"reads: turned out\">turnedout</span> to welcome me to-day. All of us owe a peculiar debt to them,for there would not be any country,nor any President to address you if it was not for what they did. And what they did must serve not merely as an example to us in time of war, but as an example to us in time of peace. For fundamentally, speaking from the standpoint of the whole, disregarding the exceptions, the same qualities that are necessary for the making of a good soldier are necessary for the making of a good citizen. (Applause) There are two sets of those qualities. In the first place we must have that spirit of decency, of honesty, of patriotism, which takes shape as love of country, as love of ones fellows, which makes a man good in the home, a good man to work with or to deal with, which gives him a spirit of devotion to the flag-- we must have all of that, and then in addition we must have the rugged manliness of quality which makes virtue and decency effective.",
+"In the civil war the first thing that you demanded of one of your own men was that he should love his country, that he should be capable of loyalty -- loyalty to his fellows, loyalty to his organization, loyalty to the regiment, the army, the flag. If he did not have that quality in him then his courage would avail nothing, for there was nothing in that case to make the courage show itself on the right side. But that quality was not enough. No matter how patriotic the man was, it did not help if he had a tendency to run away. In addition to patriotism the man had to have the spirit that made him do, and dare, and endure; that iron will <ins title=\"added by hand\">that urged him on</ins> until out of trial, out of effort, out of temporary failure, the ultimate triumph came. He had to have that spirit in him or his love of country could not avail. So it is now in civic life. As the base, as the foundation, we must have honesty, decency, the spirit of fair dealing between man and man, the spirit that makes employer and wageworker, the",
+"<span class=\"pb\">Page 59 (frame 425:0355)</span>",
+"dweller on the farm and the dweller in the towns, able each to understand the viewpoint of his <span class=\"sic\" title=\"reads: brother\">br other</span>; and while resolute to see that he himself receives justice, resolute also not to try to wrong that brother. We must have that first ; but we need more than mere morality, than mere virtue. The virtue that is cloistered, the virtue that stays at home, that sits in its own parlor and wonders why the world is so bad, does not help anyone. Together with decency and honesty must go the spirit that impels a man, not merely to talk about the wrong in the world, but to go out and <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">fight to</span></del> try to make things a little better in the world. (Applause)That you have got to have first. And in that struggle to make things better we have to recollect that there is no more room in civil life than in military life for all of us to be brigadier generals. (Laughter and applause)",
+"You remember, my comrades, in the days of the civil war how all the people that <del title=\"struck through\">xx</del><ins title=\"added by hand\">were</ins> not in it could tell you what to do to win ; and that there were plenty of people who did not want to be privates because they thought the job was not big enough for them, and there did not seem to be an opening for them higher up. The <ins title=\"added by hand\">victory</ins> was won, primarily, because together, of course, with the generalship of Grant, and Sherman, and Thomas, and Sheridan, together with the statesmanship of Lincoln, there was as the prime factor the fact that the average man in blue had the right spirit in him, that the man behind the gun had the spirit that drove him forward to victory.",
+"<span class=\"pb\">Page 60 (frame 425:0356)</span>",
+"We will win to a higher standard of social and civic duty only by and through the spirit that makes the average citizen wish to do well the work of <span class=\"sic\" title=\"reads: average\">avera ge</span> citizenship, and you cannot do it by spurts. The world is pretty old now, and yet it is a long way <del title=\"struck through\">xx</del> from the millenium. Each victory we win as long as we live will of necessity open the way for <del title=\"struck through\">the</del><ins title=\"added by hand\">a</ins> fresh struggle. We can win and will win only by making up our minds that life is not an easy thing, that life is a hard thing; and that the glory comes not in seeking to make it easy, but in seeking to do the hard task well; that is how the triumph comes (Applause.) You<ins title=\"added by hand\">,</ins> men of the Civil War-what are the memories you have handed <del title=\"struck through\">on</del><ins title=\"added by hand\">down</ins> to your children, and <del title=\"struck through\">of</del><ins title=\"added by hand\">to</ins> all of us who have come after you,-the memories of your lives of which you are proud<del title=\"struck through\">.</del><ins title=\"added by hand\">?</ins> <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">t</span></del><ins title=\"added by hand\">T</ins>he times of ease, the times when there was no effort<span class=\"unc\" title=\"uncertain reading\">?</span> No, the times when you knew what it was to walk with swollen feet and throbbing head under the midsummer sun of the south until it seemed as if you could not stay in the ranks any longer, and yet you did stay; or the times when in the ragged blanket you lay shivering in the frozen mud of the midwinter nights; shivered and shivered<ins title=\"added by hand\">,</ins> and thought about home and thought about comfort, but you put through the job that you had in hand; the time when after months of weary inaction there came a battle,maybe a defeat, and those of little faith said that the war was over. Why, after the<del title=\"struck through\">x</del> battle of Bull Run there were <del title=\"struck through\">p<span class=\"illeg\">[illegible]</span>xx</del> people who said the war was over, and it was not over for nearly four years and then it was over the other way.(Applause.) So it must be with us here in civil life. We must approach our duties, our life, with the firm determination to put through the <del title=\"struck through\">xx</del> task, to do all that there is to be done to win in the end, and if defeat comes first<ins title=\"added by hand\">,</ins> to set our teeth and come up to win the next time.",
+"In greeting all of you I want to say just one word about something that impressed me so much to-day in Denver, and that I did not have a chance to speak of then. I was greeted by thousands of school children of Denver. I was very glad to see them. I want to say <del title=\"struck through\">x</del> just one word upon the future of the country, <del title=\"struck through\">xxThxxxxxx</del> the country as <ins title=\"added by hand\">it</ins>",
+"<span class=\"pb\">Page 61 (frame 425:0356)</span>",
+"<del title=\"struck through\">willxxxxx</del> will be twenty, thirty, forty years hence. A good deal depends upon how we handle business, upon how we do the great industrial work, upon how we handle the farms and the ranches; but the thing that counts most, the thing that will <del title=\"struck through\">x</del>count most will be the kind of men and women that there are then in the country. No nation is sound if there are not in the average family plenty of healthy and happy children. Those children, if not brought up well are not merely a curse to themselves and to their parents, but<del title=\"struck through\">x</del> mean the ruin of the state in the future. The schools can do much, but if the homes do not do their part the schools cannot entirely make good the deficiency. The fathers and mothers have got to do their full part in making the boys and girls such that there is a reasonable chance of getting good citizenship out of the future; or they are <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> derelict in the most vital of all of the duties of citizenship. You can do nothing if you start with the idea that the first consideration is to save either <del title=\"struck through\">you</del><ins title=\"added by hand\">yourself</ins> or the children from trouble or effort. There are a good many contemptible creatures in the world, but on the whole the most contemptible is the creature who wants to go through life bent only on having the easiest time that life can give, and next to him in point of folly comes the man or the woman who through weakness<ins title=\"added by hand\">—</ins> for it is not real affection<ins title=\"added by hand\">—</ins> tries <ins title=\"added by hand\">not</ins> to make the child able to meet and to overcome difficulties, but to shirk them. That was not the way you did your work from &#x27;61 to &#x27;65. That is not the way you want to see those who come after you do their work in war or in peace. And I ask of all our people that they not only do their own duty, but that they train those who are to come after them that true happiness consists not of that most vapid of all pursuits, the pursuit of pleasure as a sufficient end in itself, but in the effort each to do his or her duty as that duty arises. (Cheers and applause.)",
+"<span class=\"tnote\">The speech runs across both halves of frames 355 and 356 (four pages, folios 58-61; folios 60 and 61 also carry the page numbers 3 and 4 by hand). Many letters are typed over others (e.g. &quot;returning&quot;, &quot;whole&quot;, &quot;soldier&quot;, &quot;south&quot;, &quot;inaction&quot;, &quot;civil&quot;, &quot;the boys&quot;, &quot;derelict&quot;); final readings given.</span>\n<span class=\"tnote\">Typewriter x-outs: after &quot;pleasure&quot; (two x-ed words), before &quot;were&quot; on p. 59, after &quot;long way&quot;, after &quot;Bull Run there were&quot; (a word beginning p, apparently &quot;plenty&quot;), before &quot;task&quot;, after &quot;say&quot;, after &quot;country,&quot; and at the top of folio 61 (&quot;will&quot; followed by x&#x27;s, also struck by hand). On folio 59 &quot;were&quot; is typed above the line over an x-ed word; on folio 61 &quot;not&quot; (before &quot;to make the child&quot;) is typed above the line. All other insertions (&quot;that urged him on&quot;, &quot;victory&quot;, &quot;down&quot;, &quot;to&quot;, &quot;a&quot;, &quot;?&quot;, &quot;T&quot;, commas, &quot;yourself&quot;, the two dashes, &quot;it&quot;) are by hand.</span>\n<span class=\"tnote\">On folio 59 &quot;fight to&quot; (reading uncertain) is struck through by hand before &quot;try&quot;. On folio 61 a word at the end of the line before &quot;derelict&quot;, ending in a hyphen, is struck through by hand and cannot be read. Handwritten brackets mark the passage &quot;first ; but we need more ... brigadier generals.&quot; on folio 59; a vertical pencil line runs down the blank lower part of folio 59 and a vertical line stands in the right margin of folio 58; a circled mark (like &quot;2&quot;) is written above &quot;job&quot; on folio 60; a faint stray &quot;t&quot; follows &quot;go&quot; on folio 61.</span>\n<span class=\"tnote\">Third look: after &quot;no effort&quot; a question mark and a semicolon appear to be typed over each other (a hooked top and a comma tail); which was meant to stand cannot be told from the image.</span>"
+],
+"notes": [
+"The speech runs across both halves of frames 355 and 356 (four pages, folios 58-61; folios 60 and 61 also carry the page numbers 3 and 4 by hand). Many letters are typed over others (e.g. \"returning\", \"whole\", \"soldier\", \"south\", \"inaction\", \"civil\", \"the boys\", \"derelict\"); final readings given.",
+"Typewriter x-outs: after \"pleasure\" (two x-ed words), before \"were\" on p. 59, after \"long way\", after \"Bull Run there were\" (a word beginning p, apparently \"plenty\"), before \"task\", after \"say\", after \"country,\" and at the top of folio 61 (\"will\" followed by x's, also struck by hand). On folio 59 \"were\" is typed above the line over an x-ed word; on folio 61 \"not\" (before \"to make the child\") is typed above the line. All other insertions (\"that urged him on\", \"victory\", \"down\", \"to\", \"a\", \"?\", \"T\", commas, \"yourself\", the two dashes, \"it\") are by hand.",
+"On folio 59 \"fight to\" (reading uncertain) is struck through by hand before \"try\". On folio 61 a word at the end of the line before \"derelict\", ending in a hyphen, is struck through by hand and cannot be read. Handwritten brackets mark the passage \"first; but we need more... brigadier generals.\" on folio 59; a vertical pencil line runs down the blank lower part of folio 59 and a vertical line stands in the right margin of folio 58; a circled mark (like \"2\") is written above \"job\" on folio 60; a faint stray \"t\" follows \"go\" on folio 61.",
+"Third look: after \"no effort\" a question mark and a semicolon appear to be typed over each other (a hooked top and a comma tail); which was meant to stand cannot be told from the image."
+],
+"file": "transcriptions/1903-05-04-colorado-springs.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"home-family",
+"strenuous"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+},
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"win",
+"applause",
+"loyalty",
+"virtue",
+"love",
+"spirit",
+"decency",
+"victory",
+"civil",
+"makes"
+],
+"stats": {
+"words": 1562,
+"unique_words": 460,
+"sentences": 40,
+"avg_sentence": 39.0,
+"minutes": 12,
+"i_count": 9,
+"we_count": 15
+}
 },
 {
 "id": "1903-05-04-pueblo",
@@ -24702,10 +25352,18 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1203,
+"paragraphs": [
+"Mr. Mayor; [?] and you, My Fellow Citizens, Men and Women of Colorado:",
+"I thank you all for your greeting to-day. Most of all I thank the men of the Grand Army for having turned out to greet me. If any of their wives are present I wish to thank them, for the part of the women who waited at home was to the full as hard as that of the men who went to the war, and no soldier did a greater work than the woman who sent husband or son, lover or brother, and who often had to feel not only the agony of wonder as to the fate of the loved one who had gone, but the physical strain caused by the absence of the breadwinner. Let us not forget that. (Applause) I thank you, and I thank you in the name of my own immediate comrades of the lesser war as much as in my own. You were the men who, when the country called to arms, in '98, sprang forward hoping to show that you and I and those like us were not wholly unworthy of the men of the great days. (Applause) You did your duty in the Philippines, you did your duty in keeping unstained the honor of the flag which you men of the great war had made so precious to us. Then you copied again the example of the men of '61 to '65, for when your work was done, back you came to the ranch, the countinghouse, the factory, the mine, and took up your work as decent citizens in private life again. That is why I think we have a right to claim for the American soldier, be he regular or only enlisted for a given war as was the case with most of us and most of you, a certain meed of praise, for he comes forward when the country needs him and when the need is over he goes back to civil life to serve his country again in another way. (Applause)",
+"My fellow citizens, men and women of Colorado, the men of the great war taught us by their lives another lesson besides what they taught us in battle and campaign-- they taught us the lesson which we need to apply now in time of peace, at this stage of our industrial development at the outset of the twenti [?]eth century, the essential lesson of brotherhood and of treating each man on his merits as a man. You in the big war, and you and I in the lesser war, soon learned that each man has got to stand on his own feet, and that yet [?] he has got to work together with his fellows. Every man needs to be helped, and each ought to assist him when the chance comes. You know perfectly well that",
+"there were [?] some people in your own regiment that you could not help; [?] the [?] man that always turned up with an excuse for not having been at the right place [?] at the right time. We have all seen an occasional type of man like that. You can do nothing with that type of man. No organization, no training, nothing else will help him. You can help him temporarily. You have got to have the right quality of man then you have got to get him to work in combination with his fellows. You have got to have the quality that enables him to do good work by himself and then he has got to join with his fellows in doing good work. We cannot stand alone. We must work together; but if any man chooses to lie down, you cannot carry him. He is not worth carrying. That is one lesson.",
+"A second lesson was the treating of each man on his worth as a man. I do not suppose that there is any place where one learns more quickly to test a man for the quality there is in him than in the campaign; but you test him also for every kind of real work in civil life. You can find out the shirk, the weakling, the coward, the fool. You find them out, and find you cannot do good work with them, and then in varying degrees of capacity you find out the qualities of the other men until out of them you sift the natural leaders. In the battle or the campaign it is a mere truism to say that if you are going to do good work you have to measure the man by what he is, and not by anything adventitious connected with him. In the great campaigns, in the tremendous battles of the civil war, or in the Philippine Swamps and jungles fighting an unseen adversary, you cared nothing as to whether the man on your right hand or on your left was rich or poor, what his social position had been, where his birthplace was, what the creed was according to which he worshipped his Maker. All that you could afford to pay heed to was the man's quality as a man. [?] If he was the right type of man, if when the order was given to move he moved in the right direction, then you were for him, and if he was not you were against him. You would have been incapable of the baseness of looking down upon him because he was not as well off, or of envying him and hating him because he was better off. You would have been incapable of either vice, and the two vices are equally bad. It is easy enough for some people to see that one of the vices is bad. They are both bad. The arrogance that looks down upon those who are less well off is as contemptible as, but not one whit more contemptible, than, the envy, the rancor, the mean jealousy, of hating the man who is better off. Each spirit",
+"is utterly unworthy of the American citizen, utterly unworthy of the man brought up under our institutions. (Applause)",
+"I plead with you, my fellow countrymen, to show in very fact in all our social, in all our industrial relations that same spirit shown by the men of the great civil war in their great work, shown, my comrades, by you in the lesser work which nevertheless you did so well. I believe in you and your future. I believe in the future of this great state, of this typical American state, I believe in the future of the American republic, because I am confident that in the long run the American people will conduct their government and will shape their social and industrial systems along the plain, common sense, simple lines of seeing that no man wrongs his fellow, of treating each man on his worth as a man, and of seeing to it that no encouragement be given to those who would stir up any feeling of hostility between brother and brother, whether that feeling takes the shape of hostility between section and section, or between class and class. I wish you well, and I believe in you with all my heart. (Great applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -24716,15 +25374,6 @@
 "pages": "3",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0357/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289786",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289786/",
-"title": "Remarks of President Roosevelt to the school children at Pueblo, Colorado, May 4, 1903",
-"date": "1903-05-04",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0358/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -24734,22 +25383,80 @@
 "frame": 357,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=37",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 358,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=38",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 357, 358",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0357",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor; [?] and you, My Fellow Citizens, Men and Women of Colorado:",
+"I thank you all for your greeting to-day. Most of all I thank the men of the Grand Army for having turned out to greet me. If any of their wives are present I wish to thank them, for the part of the women who waited at home was to the full as hard as that of the men who went to the war, and no soldier did a greater work than the woman who sent husband or son, lover or brother, and who often had to feel not only the agony of wonder as to the fate of the loved one who had gone, but the physical strain caused by the absence of the breadwinner. Let us not forget that. (Applause) I thank you, and I thank you in the name of my own immediate comrades of the lesser war as much as in my own. You were the men who, when the country called to arms, in '98, sprang forward hoping to show that you and I and those like us were not wholly unworthy of the men of the great days. (Applause) You did your duty in the Philippines, you did your duty in keeping unstained the honor of the flag which you men of the great war had made so precious to us. Then you copied again the example of the men of '61 to '65, for when your work was done, back you came to the ranch, the countinghouse, the factory, the mine, and took up your work as decent citizens in private life again. That is why I think we have a right to claim for the American soldier, be he regular or only enlisted for a given war as was the case with most of us and most of you, a certain meed of praise, for he comes forward when the country needs him and when the need is over he goes back to civil life to serve his country again in another way. (Applause)",
+"My fellow citizens, men and women of Colorado, the men of the great war taught us by their lives another lesson besides what they taught us in battle and campaign-- they taught us the lesson which we need to apply now in time of peace, at this stage of our industrial development at the outset of the twenti [?]eth century, the essential lesson of brotherhood and of treating each man on his merits as a man. You in the big war, and you and I in the lesser war, soon learned that each man has got to stand on his own feet, and that yet [?] he has got to work together with his fellows. Every man needs to be helped, and each ought to assist him when the chance comes. You know perfectly well that",
+"there were [?] some people in your own regiment that you could not help; [?] the [?] man that always turned up with an excuse for not having been at the right place [?] at the right time. We have all seen an occasional type of man like that. You can do nothing with that type of man. No organization, no training, nothing else will help him. You can help him temporarily. You have got to have the right quality of man then you have got to get him to work in combination with his fellows. You have got to have the quality that enables him to do good work by himself and then he has got to join with his fellows in doing good work. We cannot stand alone. We must work together; but if any man chooses to lie down, you cannot carry him. He is not worth carrying. That is one lesson.",
+"A second lesson was the treating of each man on his worth as a man. I do not suppose that there is any place where one learns more quickly to test a man for the quality there is in him than in the campaign; but you test him also for every kind of real work in civil life. You can find out the shirk, the weakling, the coward, the fool. You find them out, and find you cannot do good work with them, and then in varying degrees of capacity you find out the qualities of the other men until out of them you sift the natural leaders. In the battle or the campaign it is a mere truism to say that if you are going to do good work you have to measure the man by what he is, and not by anything adventitious connected with him. In the great campaigns, in the tremendous battles of the civil war, or in the Philippine Swamps and jungles fighting an unseen adversary, you cared nothing as to whether the man on your right hand or on your left was rich or poor, what his social position had been, where his birthplace was, what the creed was according to which he worshipped his Maker. All that you could afford to pay heed to was the man's quality as a man. [?] If he was the right type of man, if when the order was given to move he moved in the right direction, then you were for him, and if he was not you were against him. You would have been incapable of the baseness of looking down upon him because he was not as well off, or of envying him and hating him because he was better off. You would have been incapable of either vice, and the two vices are equally bad. It is easy enough for some people to see that one of the vices is bad. They are both bad. The arrogance that looks down upon those who are less well off is as contemptible as, but not one whit more contemptible, than, the envy, the rancor, the mean jealousy, of hating the man who is better off. Each spirit",
+"is utterly unworthy of the American citizen, utterly unworthy of the man brought up under our institutions. (Applause)",
+"I plead with you, my fellow countrymen, to show in very fact in all our social, in all our industrial relations that same spirit shown by the men of the great civil war in their great work, shown, my comrades, by you in the lesser work which nevertheless you did so well. I believe in you and your future. I believe in the future of this great state, of this typical American state, I believe in the future of the American republic, because I am confident that in the long run the American people will conduct their government and will shape their social and industrial systems along the plain, common sense, simple lines of seeing that no man wrongs his fellow, of treating each man on his worth as a man, and of seeing to it that no encouragement be given to those who would stir up any feeling of hostility between brother and brother, whether that feeling takes the shape of hostility between section and section, or between class and class. I wish you well, and I believe in you with all my heart. (Great applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 62 (frame 425:0357)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Mr. Mayor<span class=\"unc\" title=\"uncertain reading\">;</span> and you, My Fellow Citizens, Men and Women of Colorado:",
+"I thank you all for your greeting to-day. Most of all I thank the men of the Grand Army for having turned out to greet me. If any of their wives are present I wish to thank them, for the part of the women who waited at home was to the full as hard as that of the men who went to the war, and no soldier did a greater work than the woman who sent husband or son, lover or brother, and who often had to feel not only the agony of wonder as to the fate of the loved one who had gone, but the physical strain caused by the absence of the breadwinner. Let us not forget that. (Applause) I thank you, and I thank you in the name of my own immediate comrades of the lesser war as much as in my own. You were the men who, when the country called to arms, in &#x27;98, sprang forward hoping to show that you and I and those like us were not wholly unworthy of the men of the great days. (Applause) You did your duty in the Philippines, you did your duty in keeping unstained the honor of the <del title=\"struck through\">fxx</del> flag which you men of the great war had made so precious to us. <span class=\"sic\" title=\"reads: Then\">Theh</span> you copied again the example of the men of &#x27;61 to &#x27;65, for <span class=\"sic\" title=\"reads: when\">whem</span> your work was done , back you came to the ranch,the countinghouse, the factory, the mine, and took up your work as decent citizens in private life again. That is why I think we have a right to claim for the American soldier, be he regular or only enlisted for a given war as was the case with most of us and most of you, a certain meed of praise, for he comes forward when the country needs him and when the need is over he goes back to civil life to serve his country again in another way. (Applause)",
+"My fellow citizens, men and women of Colorado, the men of the great war taught us by their lives another lesson besides what they taught us in battle and campaign-- they taught us the lesson which we need to apply now in time of peace, at this stage of our industrial development at the outset of the twent<span class=\"unc\" title=\"uncertain reading\">i</span>eth century, the essential lesson of brotherhood and of treating each man on his merits as a man. You in the big war, and you and I in <span class=\"sic\" title=\"reads: the lesser\">thelesser</span> war, soon learned that each man has got to stand on his own feet, and <span class=\"sic\" title=\"reads: that\">tha t</span> <span class=\"unc\" title=\"uncertain reading\">yet</span> he has got to work together with his fellows. Every man needs to be helped, and each ought to assist him when the chance comes. You know perfectly well that",
+"<span class=\"pb\">Page 63 (frame 425:0357)</span>",
+"<span class=\"unc\" title=\"uncertain reading\">there were</span> some people <span class=\"sic\" title=\"reads: in\">i n</span> your own regiment that you could not <span class=\"unc\" title=\"uncertain reading\">help;</span> <span class=\"unc\" title=\"uncertain reading\">the</span> man that always turned up with an excuse for not having been at the <span class=\"unc\" title=\"uncertain reading\">right place</span> at the right time. We have all seen an occasional type of man like that. You can do nothing with that type of man. No organization, no training, nothing else will help him. You can help him temporarily. You have got to have the right quality of man then you have got to get him to work in combination with his fellows. You have got to have the quality that enables him to <ins title=\"added by hand\">do</ins> good work by himself and then he has got to join with his fellows in doing good work. We cannot stand alone. We must work together; but if any man chooses to lie down, you cannot carry him. He is not worth carrying. That is one lesson.",
+"A second lesson was the treating of each man on his worth as a man. I do not suppose that there is any place where one learns <del title=\"struck through\">quicker</del><ins title=\"added by hand\">more quickly</ins> to test a man for the quality there is <del title=\"struck through\">x</del> in him than in the campaign; but you test him also for every kind of real work in civil life. You can find out the shirk, the weakling, the coward, the fool. You find them out, and find you cannot do good work with them, and then in varying degrees of capacity you find out the qualities of the other men until out of them you sift the natural leaders. In the battle or the campaign it is a mere truism to say that if you are going to do good work you have to measure the man by what he is, and not by anything adventitious connected with him. In the great campaigns, in the <del title=\"struck through\">gxxxx</del> tremendous battles of the civil war, or in the Philippine Swamps and jungles fighting an unseen adversary, you cared nothing as to whether the man on your right hand or on your left was rich or poor, what his social position had been, where his birthplace was, what the creed was according to which he worshipped his Maker. All that you could afford to pay heed to was the man&#x27;s quality as a man<span class=\"unc\" title=\"uncertain reading\">.</span> If he was the right type of man, if when the order was given to move he moved in the right direction, then you were for him, and if he was not you were against him. You would have been <span class=\"sic\" title=\"reads: incapable\">inc apable</span> of the baseness of looking down upon him because he was not as well off, or of envying him and hating him because he was better off. You would have been incapable of either vice, and the two vices are equally bad. It is easy enough for some people to see that one of the vices is bad. They are both bad. The arrogance that looks down upon those who are less well off is as contemptible as, but not one whit more contemptible<ins title=\"added by hand\">,</ins> than<ins title=\"added by hand\">,</ins> the envy, the rancor, the mean jealousy, of hating the man who is better off. Each spirit",
+"<span class=\"pb\">Page 64 (frame 425:0358)</span>",
+"is utterly unworthy of the American citizen, utterly unworthy of the man brought up under our institutions. (Applause)",
+"I plead with you, my fellow countrymen, to show in very fact in all our social, in all our industrial relations that same spirit shown by the men of the great civil war in their great work, shown, my comrades, by you in the lesser work which nevertheless you did so well. I believe in you and your future. I believe in the future of this great state, of this typical American state, I believe in the future of the American republic, because I am confident that in the long run the American people will conduct their government and will shape their social and <span class=\"sic\" title=\"reads: industrial\">indus trial</span> systems along the <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> plain, <span class=\"sic\" title=\"reads: common\">commonp</span> sense, simple lines of seeing that no man wrongs his fellow, of treating each man on his worth as a man, and of seeing to it that no encouragement be given to those who would stir up any feeling of hostility between brother and brother, whether that feeling takes the shape of hostility between section and section, or between class and class. I wish you well, and I believe in you with all my heart. (Great applause)",
+"<span class=\"tnote\">The speech runs over three pages (folios 62-64): both halves of frame 357 and the left half of frame 358; folios 63 and 64 also carry typed page numbers -2- and -3-. Many letters are typed over others (e.g. &quot;the honor&quot;, &quot;war had&quot;, &quot;your work&quot;, &quot;apply&quot;, &quot;outset&quot;, &quot;him&quot;, &quot;in the&quot;, &quot;civil&quot;, &quot;seeing&quot;); final readings given. In &quot;twent<span class=\"unc\" title=\"uncertain reading\">i</span>eth&quot; the letter after &quot;twent&quot; is overstruck.</span>\n<span class=\"tnote\">At the top of folio 63 several words (&quot;there were&quot;, &quot;that always&quot;, &quot;help; the man&quot;, &quot;right place&quot;, &quot;that&quot;) are smudged, not struck; the less certain readings are marked. The two lines &quot;quality of man then ... his fellows.&quot; are typed in between the regular lines, apparently typed in afterwards.</span>\n<span class=\"tnote\">Typewriter x-outs: before &quot;flag&quot;, after &quot;there is&quot;, before &quot;tremendous&quot; (apparently &quot;great&quot;), and before &quot;plain&quot; on folio 64 (two short words). By hand: &quot;do&quot;, &quot;more quickly&quot; replacing struck &quot;quicker&quot;, and the commas after &quot;contemptible&quot; and &quot;than&quot;. A hand loop is drawn over the s of &quot;worshipped&quot;.</span>\n<span class=\"tnote\">Third look: &quot;whem&quot; has its last letters typed heavily over others; read as a slip for &quot;when&quot;. The word after &quot;and that&quot; on folio 62 is heavily typed and crossed by a short hand stroke; it reads most like &quot;yet&quot; but is not certain. At the top of folio 63 the punctuation after &quot;help&quot; and the case of &quot;the&quot; are lost in the smudge. After &quot;a man&quot; on folio 63 a hand loop is drawn around the typed mark, which may be a period or a semicolon; &quot;If&quot; is typed with a capital.</span>"
+],
+"notes": [
+"The speech runs over three pages (folios 62-64): both halves of frame 357 and the left half of frame 358; folios 63 and 64 also carry typed page numbers -2- and -3-. Many letters are typed over others (e.g. \"the honor\", \"war had\", \"your work\", \"apply\", \"outset\", \"him\", \"in the\", \"civil\", \"seeing\"); final readings given. In \"twenti [?]eth\" the letter after \"twent\" is overstruck.",
+"At the top of folio 63 several words (\"there were\", \"that always\", \"help; the man\", \"right place\", \"that\") are smudged, not struck; the less certain readings are marked. The two lines \"quality of man then... his fellows.\" are typed in between the regular lines, apparently typed in afterwards.",
+"Typewriter x-outs: before \"flag\", after \"there is\", before \"tremendous\" (apparently \"great\"), and before \"plain\" on folio 64 (two short words). By hand: \"do\", \"more quickly\" replacing struck \"quicker\", and the commas after \"contemptible\" and \"than\". A hand loop is drawn over the s of \"worshipped\".",
+"Third look: \"whem\" has its last letters typed heavily over others; read as a slip for \"when\". The word after \"and that\" on folio 62 is heavily typed and crossed by a short hand stroke; it reads most like \"yet\" but is not certain. At the top of folio 63 the punctuation after \"help\" and the case of \"the\" are lost in the smudge. After \"a man\" on folio 63 a hand loop is drawn around the typed mark, which may be a period or a semicolon; \"If\" is typed with a capital."
+],
+"file": "transcriptions/1903-05-04-pueblo.txt"
+},
+"text_source": "typescript",
+"themes": [
+"military",
+"civil-war"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 2
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"lesson",
+"treating",
+"campaign",
+"unworthy",
+"lesser",
+"thank",
+"brother",
+"taught",
+"applause",
+"quality"
+],
+"stats": {
+"words": 1203,
+"unique_words": 383,
+"sentences": 36,
+"avg_sentence": 33.4,
+"minutes": 9,
+"i_count": 16,
+"we_count": 5
+}
 },
 {
 "id": "1903-05-04-denver",
@@ -25014,10 +25721,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 465,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"I have been travelling to-day through your great and beautiful state, and it has been the keenest pleasure to me to see it, and especially to see you, and I greet the men, the women and the children. I congratulate you not merely upon your great mineral resources, not merely upon what I believe will be the agricultural development that will follow especially upon the adaptation of irrigation throughout this country, but I congratulate you especially upon the type of manhood and womanhood you have developed in the state. That is what counts. You fought in the great war, my comrade there, and you know when all is said and done the fundamental factor in winning a battle was the type of soldier you had in it. That was what counted in the long run, and the best organization, the best management will not avail if you have not got the right type of man behind you. It is so in business; it is so in any affair of life, and as it is in business so it is in public affairs. It is the type of citizenship which we develop that in the long run must decide our success as a nation, and I believe in you and believe in the country of which you are a part, because I believe that the average American citizen has the right kind of material in him; and it behooves us not merely to say that but to act it. It is a good thing to feel pride of country and pride of ourselves. It is a better thing so to act as to justify that pride. We can so act only if each of us shows his power to shift for himself, his power to act in combination with others, and the same scrupulous respect for the rights of others that he exacts from them in return. The man who fails to show that respect is a wrong-doer to his neighbor and to the nation, and a bad citizen, no matter what his position in the community may be; and the good citizen is the type of man who while able to hold his own never forgets that his duty includes his neighbor as well as himself. You of the Civil War, your concern with the man on your right hand or your left was, not what kind his creed was, not what his social station was, not what his financial standing was, but [?] whether when the time came he would \"stay put.\" That was what you wanted to know. And it is the same thing in civil life, and the man who judges any of his fellows by any other standard than that man's worth is a poor citizen. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -25039,13 +25749,56 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 354",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0354",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Ladies and Gentlemen:",
+"I have been travelling to-day through your great and beautiful state, and it has been the keenest pleasure to me to see it, and especially to see you, and I greet the men, the women and the children. I congratulate you not merely upon your great mineral resources, not merely upon what I believe will be the agricultural development that will follow especially upon the adaptation of irrigation throughout this country, but I congratulate you especially upon the type of manhood and womanhood you have developed in the state. That is what counts. You fought in the great war, my comrade there, and you know when all is said and done the fundamental factor in winning a battle was the type of soldier you had in it. That was what counted in the long run, and the best organization, the best management will not avail if you have not got the right type of man behind you. It is so in business; it is so in any affair of life, and as it is in business so it is in public affairs. It is the type of citizenship which we develop that in the long run must decide our success as a nation, and I believe in you and believe in the country of which you are a part, because I believe that the average American citizen has the right kind of material in him; and it behooves us not merely to say that but to act it. It is a good thing to feel pride of country and pride of ourselves. It is a better thing so to act as to justify that pride. We can so act only if each of us shows his power to shift for himself, his power to act in combination with others, and the same scrupulous respect for the rights of others that he exacts from them in return. The man who fails to show that respect is a wrong-doer to his neighbor and to the nation, and a bad citizen, no matter what his position in the community may be; and the good citizen is the type of man who while able to hold his own never forgets that his duty includes his neighbor as well as himself. You of the Civil War, your concern with the man on your right hand or your left was, not what kind his creed was, not what his social station was, not what his financial standing was, but [?] whether when the time came he would \"stay put.\" That was what you wanted to know. And it is the same thing in civil life, and the man who judges any of his fellows by any other standard than that man's worth is a poor citizen. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 57 (frame 425:0354)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"Ladies and Gentlemen:",
+"I have been travelling to-day through your great and beautiful state, and it has been the keenest pleasure to me to see it, and especially to see you, and I greet the men, the women and the children. I congratulate you not merely upon your great mineral resources, not merely upon what I believe will be the agricultural development that will follow especially upon the adaptation of irrigation throughout this country, but I congratulate you especially upon the type of manhood and <span class=\"sic\" title=\"reads: womanhood\">wom anhood</span> you have developed in the state. That is what counts. You fought in the great war,my comrade there, and you know when all is said and done the fundamental factor in winning a battle was the type of soldier you had in it. That was what counted in the long run, and the best organization, the best management <del title=\"struck through\">xxxxxxxxxxxxxx</del> will not avail if you have not got the right type of man behind you. It is so in business; it is so in any affair of life, and as it is <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> in business so it is in <del title=\"struck through\">the</del><ins title=\"added by hand\">public</ins> affairs<ins title=\"added by hand\">.</ins> <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> <ins title=\"added by hand\">It is the type</ins> of citizenship which we develop that in the long run must decide our success as a nation, and I believe in you and believe in the country of which you are a part, because I believe that the average <del title=\"struck through\">c<span class=\"illeg\">[illegible]</span>xxxx</del> American citizen has the right kind of material in him; and <del title=\"struck through\">not</del> it behooves us not merely to say that but to act it. It is a good thing to feel pride of country and pride of ourselves. It is a better thing so to act as to justify that pride. We can so act only if each of us shows his power to shift for himself, his <span class=\"sic\" title=\"reads: power\">powe r</span> to act in combination with others, and the same scrupulous respect for the rights of others that he exacts from them in return. The man who fails to show that respect <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> is a wrong-doer to his neighbor and to the nation, and a bad citizen, no matter what <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> his position in the community may be; and the good<del title=\"struck through\">xxxx</del> citizen is the type of man who while able to hold his own never forgets that his duty includes his neighbor as well as himself. You of the Civil War, your concern with the man on your right hand or your left was<ins title=\"added by hand\">,</ins> not what kind his creed was, not what his social station was, not what his financial standing was, <ins title=\"added by hand\"><span class=\"unc\" title=\"uncertain reading\">but</span></ins> whether when the time came he would <ins title=\"added by hand\">&quot;</ins>stay put.<ins title=\"added by hand\">&quot;</ins> That was what you wanted to know. And it is the same thing in civil life, and the man who judges any of his fellows by any other standard than that man&#x27;s worth is a poor citizen. (Cheers and applause.)",
+"<span class=\"tnote\">Speech is on the right half of the frame. The year in the heading and several words are typed over other letters (e.g. &quot;and&quot; in the salutation, &quot;justify&quot;, &quot;his&quot;, &quot;others&quot;); final readings given. The last eight lines are typed with closer line spacing.</span>\n<span class=\"tnote\">Typewriter x-outs after &quot;management&quot;, in &quot;average c...xxx American&quot;, and after &quot;good&quot;. One whole typed line after &quot;no matter what&quot; is overtyped with x&#x27;s and other letters so that it cannot be read. Struck by hand: a short word after &quot;as it is&quot;, &quot;the&quot; before &quot;affairs&quot;, a few words after &quot;affairs&quot; (illegible; replaced above the line by &quot;It is the type&quot;), &quot;not&quot; after &quot;and&quot; (before &quot;it behooves&quot;), and a mark after &quot;respect&quot;. &quot;public&quot;, &quot;It is the type&quot;, the comma after &quot;was&quot;, the small word read as &quot;but&quot;, and the quotation marks around &quot;stay put.&quot; are by hand; a circled period (proofreading mark) follows &quot;affairs&quot;. The semicolon after &quot;him&quot; has a hand stroke on it.</span>"
+],
+"notes": [
+"Speech is on the right half of the frame. The year in the heading and several words are typed over other letters (e.g. \"and\" in the salutation, \"justify\", \"his\", \"others\"); final readings given. The last eight lines are typed with closer line spacing.",
+"Typewriter x-outs after \"management\", in \"average c...xxx American\", and after \"good\". One whole typed line after \"no matter what\" is overtyped with x's and other letters so that it cannot be read. Struck by hand: a short word after \"as it is\", \"the\" before \"affairs\", a few words after \"affairs\" (illegible; replaced above the line by \"It is the type\"), \"not\" after \"and\" (before \"it behooves\"), and a mark after \"respect\". \"public\", \"It is the type\", the comma after \"was\", the small word read as \"but\", and the quotation marks around \"stay put.\" are by hand; a circled period (proofreading mark) follows \"affairs\". The semicolon after \"him\" has a hand stroke on it."
+],
+"file": "transcriptions/1903-05-04-palmer-lake.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"type",
+"pride",
+"act",
+"citizen",
+"especially",
+"believe",
+"merely",
+"right",
+"country"
+],
+"stats": {
+"words": 465,
+"unique_words": 192,
+"sentences": 13,
+"avg_sentence": 35.8,
+"minutes": 4,
+"i_count": 7,
+"we_count": 2
+}
 },
 {
 "id": "1903-05-04-trinidad",
@@ -25126,6 +25879,51 @@
 "i_count": 8,
 "we_count": 0
 }
+},
+{
+"id": "1903-05-04-pueblo-2",
+"date": "1903-05-04",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks to the school children at Pueblo, Colorado",
+"occasion": null,
+"place": "pueblo-colorado",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289786",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289786/",
+"title": "Remarks of President Roosevelt to the school children at Pueblo, Colorado, May 4, 1903",
+"date": "1903-05-04",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0358/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 358,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=38",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
 },
 {
 "id": "1903-05-05-santa-fe",
@@ -25416,10 +26214,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 470,
+"paragraphs": [
+"It is the greatest pleasure to me to see all the children here to-day. I want to greet all the schools, including the United States Government Indian School, and to say that nothing has pleased me more at Santa Fe than to see the care being taken for the education of the next generation; to train them in mind and body, and above all in moral character; to make them fit to do the best work as men and women. The future of New Mexico, its position and importance in the Union, depend upon the way in which the next generation handles itself; upon the attitude of the men and women of the future, the boys and girls of to-day toward the family, the home, toward their life-work, socially; their attitude in reference to the state.",
+"I cannot pretend to make any elaborate address upon education. To the teachers, I can only say Godspeed. You are doing a work which is literally of vital consequence to the state, the nation, and upon the training you give these children will largely depend the future of the commonwealth. If you can bring them up, boys and girls alike, so that as men and women they shall tell the truth, be fearless, be able to hold their own, and yet scorn to wrong a neighbor; if they shall be fearless each in asserting his or her own rights against oppression, and yet scrupulously each above all things do his or her duty and try to bear to some extent the brother's or sister's burden, if you can do that you will have done something, you will have rendered a service such as no other people in the country can have rendered. To the boys and girls, all I can say is, I believe in work and I believe in play. Play hard while you play, and while you work do not play at all.(Applause.)",
+"I congratulate the people of New Mexico upon what after all is the very best product you can have-the children. As I like your stock I want to see it kept up, and I want to see it kept up worthily and faithfully. Let each father, each mother remember that they cannot put off education wholly upon the school and the church; that education must",
+"come in the family also, and that no father, no mother, is a good citizen unless he or she does all that is possible to make the boys and girls good in the family, to give them sound bodies, sound minds, and what counts for more than mind or body-character, the character that will make them in the future good husbands, good wives, good sons, good daughters, good fathers and mothers, good friends and neighbors, good citizens of the state. (Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -25441,13 +26244,72 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 362",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0362",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)",
+"reading": [
+"It is the greatest pleasure to me to see all the children here to-day. I want to greet all the schools, including the United States Government Indian School, and to say that nothing has pleased me more at Santa Fe than to see the care being taken for the education of the next generation; to train them in mind and body, and above all in moral character; to make them fit to do the best work as men and women. The future of New Mexico, its position and importance in the Union, depend upon the way in which the next generation handles itself; upon the attitude of the men and women of the future, the boys and girls of to-day toward the family, the home, toward their life-work, socially; their attitude in reference to the state.",
+"I cannot pretend to make any elaborate address upon education. To the teachers, I can only say Godspeed. You are doing a work which is literally of vital consequence to the state, the nation, and upon the training you give these children will largely depend the future of the commonwealth. If you can bring them up, boys and girls alike, so that as men and women they shall tell the truth, be fearless, be able to hold their own, and yet scorn to wrong a neighbor; if they shall be fearless each in asserting his or her own rights against oppression, and yet scrupulously each above all things do his or her duty and try to bear to some extent the brother's or sister's burden, if you can do that you will have done something, you will have rendered a service such as no other people in the country can have rendered. To the boys and girls, all I can say is, I believe in work and I believe in play. Play hard while you play, and while you work do not play at all.(Applause.)",
+"I congratulate the people of New Mexico upon what after all is the very best product you can have-the children. As I like your stock I want to see it kept up, and I want to see it kept up worthily and faithfully. Let each father, each mother remember that they cannot put off education wholly upon the school and the church; that education must",
+"come in the family also, and that no father, no mother, is a good citizen unless he or she does all that is possible to make the boys and girls good in the family, to give them sound bodies, sound minds, and what counts for more than mind or body-character, the character that will make them in the future good husbands, good wives, good sons, good daughters, good fathers and mothers, good friends and neighbors, good citizens of the state. (Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 72 (frame 425:0362)</span>",
+"<span class=\"margin\">In the margin: <span class=\"unc\" title=\"uncertain reading\">For Mr. Latta</span> -</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"It is the greatest pleasure to me to see all the children here to-day. I want to greet all the schools, including the United States Government Indian School, and to say that nothing has pleased me more at Santa Fe than to see the care being taken for the education of the next generation; to train them in mind and body, and above all in moral character; to make them fit to do the best work as men and women. The future of New Mexico, its position and importance in the Union, depend<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">s</span></del> upon the way in which the next generation handles itself; upon the attitude of the men and women of the future, the boys and girls of to-day toward the family,the home, toward their life-work<ins title=\"added by hand\">,</ins> socially; their attitude in reference to the state.",
+"I cannot pretend to make any elaborate address upon education. To the teachers, I can only say Godspeed . You are doing a work which is literally of vital consequence to the state, the nation, and upon the training you give these children will largely depend the future of the commonwealth. If you can bring them up, boys and girls alike, so that as men and women they shall tell the truth, be fearless,be able to hold their own, and yet scorn to wrong a neighbor; if they shall be fearless each in asserting his or her own rights against <del title=\"struck through\">xx</del> oppression, and yet scrupulously each above all things <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> do his or her duty and <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> try to bear to some extent the <del title=\"struck through\">xxxxxxxxxxxxxxx</del> brother&#x27;s or sister&#x27;s burden, if you can do that you will have done something, you will have rendered a service such as no other people in the country can have rendered. To the boys and girls, all I can say is,I believe in work and I believe in play. Play hard while you play, and while you work do not play at all.(Applause.)",
+"I congratulate the people of New Mexico upon what after all is the very best product you can have-the children. As I like your stock I want to see it kept up, and I want to see it kept up worthily and faithfully. Let each father , each mother remember that they cannot put off education wholly upon the school and the church; that education must <span class=\"sic\" title=\"reads: \">c</span>",
+"<span class=\"pb\">Page 73 (frame 425:0362)</span>",
+"come in the family also, and that no father, no mother, is a good citizen unless he or she does all that is possible to make the boys and girls good in the family, to give them sound bodies, sound minds, and what counts for more than mind or body-character, the character that will make them in the future good husbands, good wives, good <span class=\"sic\" title=\"reads: sons\">aons</span>, good daughters, good fathers and mothers, good friends and neighbors, good citizens of the <span class=\"sic\" title=\"reads: state\">sate</span>. (Cheers and applause.)",
+"<span class=\"tnote\">The speech is on both halves of frame 362 (folios 72 and 73; folio 73 also has the typed page number -2-). There is no salutation. The top-margin note in pencil reads apparently &quot;For Mr. Latta&quot;, with the folio number 72 written over it. Several letters are typed over others (e.g. &quot;taken&quot;, &quot;Godspeed&quot;, &quot;To&quot;, &quot;up&quot;, &quot;mind or&quot;); final readings given. Folio 72 ends with a stray &quot;c&quot; (&quot;must c&quot;) and folio 73 begins &quot;come&quot;.</span>\n<span class=\"tnote\">Typewriter x-outs after &quot;against&quot;, and after &quot;to some extent the&quot; (a long x-ed run). Two short words after &quot;above all things&quot; and after &quot;her duty and&quot; are blotted out in ink. The comma after &quot;life-work&quot; and a heavy vertical stroke after &quot;depend&quot; are by hand.</span>\n<span class=\"tnote\">Third look: the comma after &quot;schools&quot; is typed over another letter. The heavy hand stroke after &quot;depend&quot; covers a typed letter, probably &quot;s&quot;, which it appears to delete. The stray &quot;c&quot; at the foot of folio 72 is marked as a typing slip.</span>"
+],
+"notes": [
+"The speech is on both halves of frame 362 (folios 72 and 73; folio 73 also has the typed page number -2-). There is no salutation. The top-margin note in pencil reads apparently \"For Mr. Latta\", with the folio number 72 written over it. Several letters are typed over others (e.g. \"taken\", \"Godspeed\", \"To\", \"up\", \"mind or\"); final readings given. Folio 72 ends with a stray \"c\" (\"must c\") and folio 73 begins \"come\".",
+"Typewriter x-outs after \"against\", and after \"to some extent the\" (a long x-ed run). Two short words after \"above all things\" and after \"her duty and\" are blotted out in ink. The comma after \"life-work\" and a heavy vertical stroke after \"depend\" are by hand.",
+"Third look: the comma after \"schools\" is typed over another letter. The heavy hand stroke after \"depend\" covers a typed letter, probably \"s\", which it appears to delete. The stray \"c\" at the foot of folio 72 is marked as a typing slip."
+],
+"file": "transcriptions/1903-05-05-santa-fe-2.txt"
+},
+"text_source": "typescript",
+"themes": [
+"home-family",
+"education",
+"citizenship"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "mexico",
+"name": "Mexico",
+"count": 2
+}
+]
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"girls",
+"boys",
+"education",
+"play",
+"family",
+"future",
+"women",
+"children",
+"work",
+"state"
+],
+"stats": {
+"words": 470,
+"unique_words": 201,
+"sentences": 11,
+"avg_sentence": 42.7,
+"minutes": 4,
+"i_count": 10,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-06-grand-canyon",
@@ -25550,6 +26412,43 @@
 "date": "1903-05-06",
 "date_precision": "day",
 "date_source": "trc",
+"title": "President Theodore Roosevelt Speaks at the Grand Canyon 1903",
+"occasion": null,
+"place": "grand-canyon-arizona",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o308137",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o308137/",
+"title": "President Theodore Roosevelt Speaks at the Grand Canyon 1903",
+"date": "1903-05-06",
+"pages": "1",
+"repository": null,
+"thumb": null
+}
+],
+"loc": [],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-06-grand-canyon-3",
+"date": "1903-05-06",
+"date_precision": "day",
+"date_source": "trc",
 "title": "Presidential address at Grand Canyon",
 "occasion": null,
 "place": "grand-canyon-arizona",
@@ -25569,15 +26468,6 @@
 "title": "Presidential address at Grand Canyon",
 "date": "1903-05-06",
 "pages": "4",
-"repository": null,
-"thumb": null
-},
-{
-"id": "o308137",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o308137/",
-"title": "President Theodore Roosevelt Speaks at the Grand Canyon 1903",
-"date": "1903-05-06",
-"pages": "1",
 "repository": null,
 "thumb": null
 }
@@ -25686,8 +26576,8 @@
 "arizona",
 "applause",
 "stuff",
-"citizenship",
 "law",
+"citizenship",
 "average",
 "believe",
 "national"
@@ -26325,6 +27215,60 @@
 "stats": null
 },
 {
+"id": "1903-05-09-santa-barbara-2",
+"date": "1903-05-09",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at Santa Barbara, California",
+"occasion": null,
+"place": "santa-barbara-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o305517",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o305517/",
+"title": "Address of President Roosevelt at Santa Barbara, California",
+"date": "1903-05-09",
+"pages": "3",
+"repository": null,
+"thumb": null
+},
+{
+"id": "o289810",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289810/",
+"title": "Address of President Roosevelt at Santa Barbara, California, May 9, 1903",
+"date": "1903-05-09",
+"pages": "6",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0384/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 384,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=64",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-05-09-ventura",
 "date": "1903-05-09",
 "date_precision": "day",
@@ -26550,15 +27494,6 @@
 "thumb": null
 },
 {
-"id": "o305517",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o305517/",
-"title": "Address of President Roosevelt at Santa Barbara, California",
-"date": "1903-05-09",
-"pages": "3",
-"repository": null,
-"thumb": null
-},
-{
 "id": "o289811",
 "url": "https://www.theodorerooseveltcenter.org/digital-library/o289811/",
 "title": "Remarks of President Roosevelt to the forest rangers, at Santa Barbara, California, May 9, 1903",
@@ -26566,15 +27501,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0387/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289810",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289810/",
-"title": "Address of President Roosevelt at Santa Barbara, California, May 9, 1903",
-"date": "1903-05-09",
-"pages": "6",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0384/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -26583,13 +27509,6 @@
 "reel": 425,
 "frame": 387,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=67",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 384,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=64",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -26909,7 +27828,7 @@
 "stats": null
 },
 {
-"id": "1903-05-12-san-francisco",
+"id": "1903-05-12-san-francisco-2",
 "date": "1903-05-12",
 "date_precision": "day",
 "date_source": "trc",
@@ -26934,51 +27853,9 @@
 "pages": "2",
 "repository": null,
 "thumb": null
-},
-{
-"id": "o289822",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289822/",
-"title": "Address of President Roosevelt at the dedication of the building of the Young Men’s Christian Association, San Francisco, California, May 12, 1903",
-"date": "1903-05-12",
-"pages": "4",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0400/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289823",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289823/",
-"title": "Remarks of President Roosevelt at the Press Club, San Francisco, California, May 12, 1903",
-"date": "1903-05-12",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0402/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o268867",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o268867/",
-"title": "Speech at San Francisco, California",
-"date": "1903-05-12",
-"pages": "10",
-"repository": "Library of Congress Manuscript Division",
-"thumb": null
 }
 ],
-"loc": [
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 400,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=80",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 402,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=82",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-}
-],
+"loc": [],
 "themes": [],
 "mentions": {
 "people": [],
@@ -27061,6 +27938,51 @@
 }
 ],
 "loc": [],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-12-san-francisco",
+"date": "1903-05-12",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at the dedication of the building of the Young Men’s Christian Association, San Francisco, California",
+"occasion": null,
+"place": "san-francisco-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289822",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289822/",
+"title": "Address of President Roosevelt at the dedication of the building of the Young Men’s Christian Association, San Francisco, California, May 12, 1903",
+"date": "1903-05-12",
+"pages": "4",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0400/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 400,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=80",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
 "themes": [],
 "mentions": {
 "people": [],
@@ -27214,6 +28136,88 @@
 "title": "Remarks of President Roosevelt at Burlingame, California, May 12, 1903",
 "date": "1903-05-12",
 "pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": null
+}
+],
+"loc": [],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-12-san-francisco-3",
+"date": "1903-05-12",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks at the Press Club, San Francisco, California",
+"occasion": null,
+"place": "san-francisco-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289823",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289823/",
+"title": "Remarks of President Roosevelt at the Press Club, San Francisco, California, May 12, 1903",
+"date": "1903-05-12",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0402/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 402,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=82",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-12-san-francisco-4",
+"date": "1903-05-12",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Speech at San Francisco, California",
+"occasion": null,
+"place": "san-francisco-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o268867",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o268867/",
+"title": "Speech at San Francisco, California",
+"date": "1903-05-12",
+"pages": "10",
 "repository": "Library of Congress Manuscript Division",
 "thumb": null
 }
@@ -27610,6 +28614,51 @@
 }
 },
 {
+"id": "1903-05-14-oakland",
+"date": "1903-05-14",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at Oakland, California",
+"occasion": null,
+"place": "oakland-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289832",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289832/",
+"title": "Address of President Roosevelt at Oakland, California, May 14, 1903",
+"date": "1903-05-14",
+"pages": "2",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0421/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 421,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=101",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-05-14-vallejo",
 "date": "1903-05-14",
 "date_precision": "day",
@@ -27999,6 +29048,51 @@
 }
 },
 {
+"id": "1903-05-14-oakland-2",
+"date": "1903-05-14",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks to the service men of the Spanish War, who acted as his escort at Oakland, California",
+"occasion": null,
+"place": "oakland-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289833",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289833/",
+"title": "Remarks of President Roosevelt to the service men of the Spanish War, who acted as his escort at Oakland, California, May 14, 1903",
+"date": "1903-05-14",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0422/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 422,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=102",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-05-14-remarks-to-the-service-men-of-the-spanis",
 "date": "1903-05-14",
 "date_precision": "day",
@@ -28036,7 +29130,52 @@
 "stats": null
 },
 {
-"id": "1903-05-14-oakland",
+"id": "1903-05-14-oakland-3",
+"date": "1903-05-14",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks to the veterans who escorted him to the deck at Oakland, California",
+"occasion": null,
+"place": "oakland-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289834",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289834/",
+"title": "Remarks of President Roosevelt to the veterans who escorted him to the deck at Oakland, California, May 14, 1903",
+"date": "1903-05-14",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0422/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
+"reel": 425,
+"frame": 422,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=102",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-14-oakland-4",
 "date": "1903-05-14",
 "date_precision": "day",
 "date_source": "trc",
@@ -28061,51 +29200,9 @@
 "pages": "1",
 "repository": null,
 "thumb": null
-},
-{
-"id": "o289832",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289832/",
-"title": "Address of President Roosevelt at Oakland, California, May 14, 1903",
-"date": "1903-05-14",
-"pages": "2",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0421/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289833",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289833/",
-"title": "Remarks of President Roosevelt to the service men of the Spanish War, who acted as his escort at Oakland, California, May 14, 1903",
-"date": "1903-05-14",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0422/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289834",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289834/",
-"title": "Remarks of President Roosevelt to the veterans who escorted him to the deck at Oakland, California, May 14, 1903",
-"date": "1903-05-14",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0422/full/pct:6.25/0/default.jpg"
 }
 ],
-"loc": [
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 421,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=101",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 7, 1903, May 1-14",
-"reel": 425,
-"frame": 422,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0321_0423/?sp=102",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-}
-],
+"loc": [],
 "themes": [],
 "mentions": {
 "people": [],
@@ -28358,15 +29455,6 @@
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0433/full/pct:6.25/0/default.jpg"
 },
 {
-"id": "o289845",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289845/",
-"title": "Remarks of President Roosevelt at the University, Reno, Nevada, May 19, 1903",
-"date": "1903-05-19",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0435/full/pct:6.25/0/default.jpg"
-},
-{
 "id": "o289842",
 "url": "https://www.theodorerooseveltcenter.org/digital-library/o289842/",
 "title": "Remarks of President Roosevelt at Reno, Nevada, May 19, 1903",
@@ -28382,13 +29470,6 @@
 "reel": 425,
 "frame": 433,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=10",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
-"reel": 425,
-"frame": 435,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=12",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -28455,7 +29536,7 @@
 "stats": null
 },
 {
-"id": "1903-05-19-sacramento",
+"id": "1903-05-19-sacramento-2",
 "date": "1903-05-19",
 "date_precision": "day",
 "date_source": "trc",
@@ -28482,24 +29563,6 @@
 "thumb": null
 },
 {
-"id": "o305543",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o305543/",
-"title": "Remarks of President Roosevelt at the park, Sacramento, California",
-"date": "1903-05-19",
-"pages": "2",
-"repository": null,
-"thumb": null
-},
-{
-"id": "o289850",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289850/",
-"title": "Remarks of President Roosevelt to the Sacramento Society of California Pioneers, Sacramento, California, May 19, 1903",
-"date": "1903-05-19",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0438/full/pct:6.25/0/default.jpg"
-},
-{
 "id": "o289852",
 "url": "https://www.theodorerooseveltcenter.org/digital-library/o289852/",
 "title": "Address of President Roosevelt at the capitol building, Sacramento, California, May 19, 1903",
@@ -28507,25 +29570,9 @@
 "pages": "4",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0439/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289849",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289849/",
-"title": "Remarks of President Roosevelt at the park, Sacramento, California, May 19, 1903",
-"date": "1903-05-19",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0438/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
-"reel": 425,
-"frame": 438,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=15",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
 {
 "title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
 "reel": 425,
@@ -28776,6 +29823,105 @@
 "stats": null
 },
 {
+"id": "1903-05-19-reno-2",
+"date": "1903-05-19",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks at the University, Reno, Nevada",
+"occasion": null,
+"place": "reno-nevada",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289845",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289845/",
+"title": "Remarks of President Roosevelt at the University, Reno, Nevada, May 19, 1903",
+"date": "1903-05-19",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0435/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
+"reel": 425,
+"frame": 435,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=12",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-19-sacramento-3",
+"date": "1903-05-19",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks at the park, Sacramento, California",
+"occasion": null,
+"place": "sacramento-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o305543",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o305543/",
+"title": "Remarks of President Roosevelt at the park, Sacramento, California",
+"date": "1903-05-19",
+"pages": "2",
+"repository": null,
+"thumb": null
+},
+{
+"id": "o289849",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289849/",
+"title": "Remarks of President Roosevelt at the park, Sacramento, California, May 19, 1903",
+"date": "1903-05-19",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0438/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
+"reel": 425,
+"frame": 438,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=15",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-05-19-accepting-a-claret-urn-presented-by-the",
 "date": "1903-05-19",
 "date_precision": "day",
@@ -28804,6 +29950,51 @@
 }
 ],
 "loc": [],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-19-sacramento",
+"date": "1903-05-19",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks to the Sacramento Society of California Pioneers, Sacramento, California",
+"occasion": null,
+"place": "sacramento-california",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289850",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289850/",
+"title": "Remarks of President Roosevelt to the Sacramento Society of California Pioneers, Sacramento, California, May 19, 1903",
+"date": "1903-05-19",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0438/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
+"reel": 425,
+"frame": 438,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=15",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
 "themes": [],
 "mentions": {
 "people": [],
@@ -29165,6 +30356,51 @@
 "stats": null
 },
 {
+"id": "1903-05-21-salem-2",
+"date": "1903-05-21",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at the Capitol, Salem, Oregon",
+"occasion": null,
+"place": "salem-oregon",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289896",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289896/",
+"title": "Address of President Roosevelt at the Capitol, Salem, Oregon, May 21, 1903",
+"date": "1903-05-21",
+"pages": "7",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0448/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
+"reel": 425,
+"frame": 448,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=25",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-05-21-portland",
 "date": "1903-05-21",
 "date_precision": "day",
@@ -29396,15 +30632,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0447/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289896",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289896/",
-"title": "Address of President Roosevelt at the Capitol, Salem, Oregon, May 21, 1903",
-"date": "1903-05-21",
-"pages": "7",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0448/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -29413,13 +30640,6 @@
 "reel": 425,
 "frame": 447,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=24",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
-"reel": 425,
-"frame": 448,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=25",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -29502,15 +30722,6 @@
 "pages": "4",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0460/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289906",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289906/",
-"title": "Remarks of President Roosevelt at the laying of the cornerstone of the Masonic Temple, Tacoma, Washington, May 22, 1903",
-"date": "1903-05-22",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0462/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -29519,13 +30730,6 @@
 "reel": 425,
 "frame": 460,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=37",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
-"reel": 425,
-"frame": 462,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=39",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -29661,6 +30865,51 @@
 "reel": 425,
 "frame": 454,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=31",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-22-tacoma-2",
+"date": "1903-05-22",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks at the laying of the cornerstone of the Masonic Temple, Tacoma, Washington",
+"occasion": null,
+"place": "tacoma-washington",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289906",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289906/",
+"title": "Remarks of President Roosevelt at the laying of the cornerstone of the Masonic Temple, Tacoma, Washington, May 22, 1903",
+"date": "1903-05-22",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0462/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
+"reel": 425,
+"frame": 462,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=39",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -30416,6 +31665,51 @@
 "id": "1903-05-26-spokane",
 "date": "1903-05-26",
 "date_precision": "day",
+"date_source": "trc",
+"title": "Address in the public square at Spokane, Washington",
+"occasion": null,
+"place": "spokane-washington",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289922",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289922/",
+"title": "Address of President Roosevelt in the public square at Spokane, Washington, May 26, 1903",
+"date": "1903-05-26",
+"pages": "5",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0482/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
+"reel": 425,
+"frame": 482,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=59",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-26-spokane-3",
+"date": "1903-05-26",
+"date_precision": "day",
 "date_source": "text",
 "title": "At Spokane, Wash",
 "occasion": null,
@@ -30636,15 +31930,6 @@
 "title": "Remarks of President Roosevelt in receiving flowers from Gonzaga College, Spokane, Washington, May 26, 1903",
 "date": "1903-05-26",
 "pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0482/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289922",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289922/",
-"title": "Address of President Roosevelt in the public square at Spokane, Washington, May 26, 1903",
-"date": "1903-05-26",
-"pages": "5",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0482/full/pct:6.25/0/default.jpg"
 }
@@ -30925,7 +32210,43 @@
 "pages": "2",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0495/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
+"reel": 425,
+"frame": 495,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=72",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
 },
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-27-butte-3",
+"date": "1903-05-27",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks in accepting the memento presented by the citizens of Anaconda, Montana, at Butte, Montana",
+"occasion": null,
+"place": "butte-montana",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
 {
 "id": "o289926",
 "url": "https://www.theodorerooseveltcenter.org/digital-library/o289926/",
@@ -30940,15 +32261,53 @@
 {
 "title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
 "reel": 425,
-"frame": 495,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=72",
+"frame": 488,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=65",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
 },
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-05-28-boise-2",
+"date": "1903-05-28",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at Boise, Idaho",
+"occasion": null,
+"place": "boise-idaho",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o289938",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o289938/",
+"title": "Address of President Roosevelt at Boise, Idaho, May 28, 1903",
+"date": "1903-05-28",
+"pages": "6",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0501/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
 {
 "title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
 "reel": 425,
-"frame": 488,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=65",
+"frame": 501,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=78",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -31256,15 +32615,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0504/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o289938",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o289938/",
-"title": "Address of President Roosevelt at Boise, Idaho, May 28, 1903",
-"date": "1903-05-28",
-"pages": "6",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0501/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -31273,13 +32623,6 @@
 "reel": 425,
 "frame": 504,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=81",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 8, 1903, May 14-June 1",
-"reel": 425,
-"frame": 501,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0424_0522/?sp=78",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -31972,6 +33315,51 @@
 "stats": null
 },
 {
+"id": "1903-06-02-dubuque-2",
+"date": "1903-06-02",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Address at Dubuque, Iowa",
+"occasion": null,
+"place": "dubuque-iowa",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o288690",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o288690/",
+"title": "Address of President Roosevelt at Dubuque, Iowa, June 2, 1903",
+"date": "1903-06-02",
+"pages": "7",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0533/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 9, 1903, June 1-5",
+"reel": 425,
+"frame": 533,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=11",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
 "id": "1903-06-02-fort-dodge",
 "date": "1903-06-02",
 "date_precision": "day",
@@ -32312,24 +33700,6 @@
 "pages": "1",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0537/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o288692",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o288692/",
-"title": "Remarks of President Roosevelt to the National Guard at Dubuque, Iowa, June 2, 1903",
-"date": "1903-06-02",
-"pages": "1",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0537/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o288690",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o288690/",
-"title": "Address of President Roosevelt at Dubuque, Iowa, June 2, 1903",
-"date": "1903-06-02",
-"pages": "7",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0533/full/pct:6.25/0/default.jpg"
 }
 ],
 "loc": [
@@ -32339,12 +33709,50 @@
 "frame": 537,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=15",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
 },
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-06-02-dubuque-3",
+"date": "1903-06-02",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks to the National Guard at Dubuque, Iowa",
+"occasion": null,
+"place": "dubuque-iowa",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o288692",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o288692/",
+"title": "Remarks of President Roosevelt to the National Guard at Dubuque, Iowa, June 2, 1903",
+"date": "1903-06-02",
+"pages": "1",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0537/full/pct:6.25/0/default.jpg"
+}
+],
+"loc": [
 {
 "title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 9, 1903, June 1-5",
 "reel": 425,
-"frame": 533,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=11",
+"frame": 537,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=15",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -32832,24 +34240,6 @@
 "pages": "3",
 "repository": "Library of Congress Manuscript Division",
 "thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0553/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o288705",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o288705/",
-"title": "Remarks of President Roosevelt at the depot, Decatur, Illinois, June 4, 1903",
-"date": "1903-06-04",
-"pages": "4",
-"repository": "Library of Congress Manuscript Division",
-"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0555/full/pct:6.25/0/default.jpg"
-},
-{
-"id": "o268870",
-"url": "https://www.theodorerooseveltcenter.org/digital-library/o268870/",
-"title": "Remarks of President Roosevelt at the depot, Decatur, Illinois",
-"date": "1903-06-04",
-"pages": "4",
-"repository": "Library of Congress Manuscript Division",
-"thumb": null
 }
 ],
 "loc": [
@@ -32858,13 +34248,6 @@
 "reel": 425,
 "frame": 553,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=31",
-"series": "Subseries 5B: “White House Volumes,” 1901-1909"
-},
-{
-"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 9, 1903, June 1-5",
-"reel": 425,
-"frame": 555,
-"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=33",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -33057,6 +34440,60 @@
 "reel": 425,
 "frame": 558,
 "url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=36",
+"series": "Subseries 5B: “White House Volumes,” 1901-1909"
+}
+],
+"themes": [],
+"mentions": {
+"people": [],
+"places": []
+},
+"distinctive": [],
+"stats": null
+},
+{
+"id": "1903-06-04-decatur-2",
+"date": "1903-06-04",
+"date_precision": "day",
+"date_source": "trc",
+"title": "Remarks at the depot, Decatur, Illinois",
+"occasion": null,
+"place": "decatur-illinois",
+"kind": "speech",
+"period": "President, first term",
+"note": null,
+"checks": [],
+"has_text": false,
+"ocr": false,
+"word_count": 0,
+"paragraphs": [],
+"editions": [],
+"trc": [
+{
+"id": "o288705",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o288705/",
+"title": "Remarks of President Roosevelt at the depot, Decatur, Illinois, June 4, 1903",
+"date": "1903-06-04",
+"pages": "4",
+"repository": "Library of Congress Manuscript Division",
+"thumb": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0555/full/pct:6.25/0/default.jpg"
+},
+{
+"id": "o268870",
+"url": "https://www.theodorerooseveltcenter.org/digital-library/o268870/",
+"title": "Remarks of President Roosevelt at the depot, Decatur, Illinois",
+"date": "1903-06-04",
+"pages": "4",
+"repository": "Library of Congress Manuscript Division",
+"thumb": null
+}
+],
+"loc": [
+{
+"title": "Theodore Roosevelt Papers, Subseries 5B: “White House Volumes,” 1901-1909; Vol. 9, 1903, June 1-5",
+"reel": 425,
+"frame": 555,
+"url": "https://www.loc.gov/resource/mss38299.mss38299-425_0523_0559/?sp=33",
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
@@ -33616,12 +35053,12 @@
 "distinctive": [
 "fitter",
 "clean",
-"example",
 "younger",
+"example",
 "society",
 "preaching",
-"boys",
 "admire",
+"boys",
 "young",
 "expect"
 ],
@@ -35673,8 +37110,8 @@
 "freedom",
 "rare",
 "war",
-"battle",
 "armies",
+"battle",
 "civil"
 ],
 "stats": {
@@ -36968,8 +38405,8 @@
 "naturalization",
 "forest",
 "reserves",
-"indian",
 "congress",
+"indian",
 "labor",
 "islands",
 "government",
@@ -37733,7 +39170,7 @@
 "president",
 "end",
 "children",
-"duty"
+"whatever"
 ],
 "stats": {
 "words": 1439,
@@ -38135,10 +39572,10 @@
 "children",
 "family",
 "self-indulgence",
-"mother",
 "self-sacrifice",
-"mothers",
+"mother",
 "woman's",
+"mothers",
 "wife",
 "primary"
 ],
@@ -39009,8 +40446,8 @@
 "horse",
 "colorado",
 "regulatory",
-"rates",
 "corporations",
+"rates",
 "morgan",
 "commerce",
 "justice",
@@ -39339,8 +40776,8 @@
 "navy",
 "target",
 "turret",
-"gun",
 "ship",
+"gun",
 "shooting",
 "ships",
 "enlisted",
@@ -39665,8 +41102,8 @@
 "fantastic",
 "choose",
 "debts",
-"peace",
-"ideal"
+"ideal",
+"peace"
 ],
 "stats": {
 "words": 2670,
@@ -40017,9 +41454,9 @@
 "distinctive": [
 "sober",
 "wage-worker",
-"help",
-"wages",
 "movement",
+"wages",
+"help",
 "self-respect",
 "welfare",
 "increase",
@@ -41159,7 +42596,7 @@
 "accomplished",
 "benefit",
 "faith",
-"south"
+"cause"
 ],
 "stats": {
 "words": 1264,
@@ -41514,8 +42951,8 @@
 "ordinary",
 "citizen",
 "life",
-"children",
 "duty",
+"children",
 "nation",
 "national"
 ],
@@ -41723,8 +43160,8 @@
 "rich",
 "crooked",
 "negro",
-"loyalty",
 "questions",
+"loyalty",
 "criminal",
 "substitute",
 "compared"
@@ -42771,8 +44208,8 @@
 },
 "distinctive": [
 "ships",
-"enlisted",
 "officers",
+"enlisted",
 "petty",
 "navy",
 "speed",
@@ -43371,8 +44808,8 @@
 "lower",
 "getting",
 "department",
-"business",
-"law"
+"law",
+"business"
 ],
 "stats": {
 "words": 655,
@@ -44392,8 +45829,8 @@
 "white",
 "negro",
 "average",
-"farm",
 "color",
+"farm",
 "smooth",
 "intelligent"
 ],
@@ -44490,7 +45927,7 @@
 "ashore",
 "civil",
 "everyday",
-"average"
+"francisco"
 ],
 "stats": {
 "words": 1843,
@@ -44774,8 +46211,8 @@
 "happiness",
 "admiral",
 "ideal",
-"family",
 "mother",
+"family",
 "selfish",
 "self-respect",
 "bishop"
@@ -47158,8 +48595,8 @@
 "consular",
 "aboard",
 "ships",
-"australia",
-"pacific"
+"pacific",
+"australia"
 ],
 "stats": {
 "words": 3873,
@@ -47723,8 +49160,8 @@
 "army",
 "lesson",
 "admiration",
-"war",
 "served",
+"war",
 "lot",
 "killed"
 ],
@@ -48403,10 +49840,10 @@
 "accidents",
 "georgia",
 "employer",
-"workmen",
 "federal",
-"children",
+"workmen",
 "negligence",
+"children",
 "workman",
 "compensation",
 "ordinary"
@@ -48691,7 +50128,7 @@
 "criminally",
 "business",
 "legislation",
-"ease"
+"law"
 ],
 "stats": {
 "words": 5092,
@@ -48792,7 +50229,7 @@
 "wrongdoing",
 "poverty",
 "wheeler",
-"hostility"
+"envy"
 ],
 "stats": {
 "words": 2247,
@@ -48897,8 +50334,8 @@
 "commodities",
 "settlers",
 "range",
-"homesteaders",
-"correspondent"
+"farmer",
+"homesteaders"
 ],
 "stats": {
 "words": 4864,
@@ -50359,8 +51796,8 @@
 "girl",
 "idleness",
 "boy",
-"training",
 "labor",
+"training",
 "relation",
 "educated",
 "family",
@@ -50723,7 +52160,7 @@
 "plans",
 "breach",
 "rainy",
-"dams"
+"construction"
 ],
 "stats": {
 "words": 1432,
@@ -50818,7 +52255,7 @@
 "military",
 "measures",
 "treaties",
-"oppression"
+"wrong-doing"
 ],
 "stats": {
 "words": 1727,
@@ -52329,8 +53766,8 @@
 "control",
 "corporations",
 "fisheries",
-"deforestation",
 "mountains",
+"deforestation",
 "employees"
 ],
 "stats": {
@@ -53597,7 +55034,7 @@
 "brother",
 "devotion",
 "mankind",
-"struggle"
+"lived"
 ],
 "stats": {
 "words": 1535,
@@ -54519,8 +55956,8 @@
 "weakness",
 "inequality",
 "individualism",
-"orator",
 "intellect",
+"orator",
 "reward",
 "force"
 ],
@@ -55792,8 +57229,8 @@
 "corruption",
 "crooked",
 "dishonesty",
-"politician",
 "corporation",
+"politician",
 "party",
 "honest",
 "falsely",
@@ -56007,7 +57444,7 @@
 "maverick",
 "exceptional",
 "dishonestly",
-"square"
+"protection"
 ],
 "stats": {
 "words": 4194,
@@ -56103,8 +57540,8 @@
 "hours",
 "earners",
 "social",
-"employer",
 "earner",
+"employer",
 "progress"
 ],
 "stats": {
@@ -57023,8 +58460,8 @@
 },
 "distinctive": [
 "bible",
-"church",
 "testament",
+"church",
 "book",
 "teachings",
 "grandfather",
@@ -57237,8 +58674,8 @@
 "herald",
 "public",
 "magazine",
-"comrade",
 "magazines",
+"comrade",
 "loyalty",
 "sugar",
 "newspaper",
@@ -57659,8 +59096,8 @@
 "court",
 "popular",
 "business",
-"justice",
 "courts",
+"justice",
 "decisions"
 ],
 "stats": {
@@ -58653,8 +60090,8 @@
 "friends",
 "republican",
 "wisconsin",
-"roosevelt",
-"movement"
+"movement",
+"roosevelt"
 ],
 "stats": {
 "words": 5177,
