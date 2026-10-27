@@ -1,0 +1,25 @@
+---
+speech: 1903-04-04-st-paul
+title: Address of President Roosevelt from a stand at the Capitol, St. Paul, Minnesota, April 4, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0112
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0112
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 51 425:0112]
+
+[+Mr.+] Governor; Mr. Mayor; and you, My Fellow {Citizehs|Citizens}:
+
+I am deeply touched by your greeting to-day; and it is fitting that Minnesota should greet the President, for the President stands as the representative of no party, but of the nation; and Minnesota stands, herself, in the heart of this nation, as one of those states of the upper Mississippi and the Great Lakes, which typify in a peculiar [-xxxxx-] degree all that there is most American in the American character. Coming through the Capitol here I have passed by the glass case in which is preserved the tattered battle flag of the 1st Minnesota, the flag which it carried at Gettysburg, when that regiment won for your state the [-[?the?]-] high and dreadful honor of having sent to the civil war the regiment which, in a single fight, lost a greater proportion of its men, killed and wounded, than any other, and yet [-[?whose?]-] the remnant [+of which+] held the ground and the flag which it had taken. (Cheers and applause)
+
+You of the northwest, [-you-] men and women represent a stock peculiarly and typically American; typical in its [-xxxxxxxx-] robust strength; typical in its ability and willingness to do well alike in war and in peace; typical of our country, moreover, because it is made of so many race strains. The American of to-day has, the American of the future will have, in his veins the blood of many Old World races. He will be akin to all, and yet different from all. For out of the mixture of this Old World stock, a mixture representing all the peoples of western and central Europe, is developing here in this new world a new world type , the American which we intend to see stand as a higher and finer type than any that has hitherto been developed since the days when history dawned. (Applause)
+
+{1|I} greet you. I welcome you. I thank you for your welcome to me. I am glad to see the men. I am glad to see the women. I am glad to see the children, and I am glad to see that they are not only all right as regards quality, but as regards [-xxxxxxxx-] quantity, for I think highly of your stock and I want to see it kept up. (Cheers and applause)
+
+[note: "Mr." before "Governor" is handwritten above the line with a caret.]
+[note: The words "of the northwest, you men and women" are enclosed in a hand-drawn loop, with an ink blot on "of"; "you" inside the loop is struck through by hand. The purpose of the loop is unclear.]
+[note: The word after "your state the" is overtyped into a blot; it appears to be a repeated "the". The struck word after "and yet" appears to be "whose", struck by hand.]
+[note: A small stray mark (like a comma) stands before "the flag which it had taken"; not transcribed as punctuation.]
+[note: In "I am glad to see that they", "am" is typed in a single character space, letters overlaid.]
+[note: The first character of "I greet you" is typed like the numeral 1.]

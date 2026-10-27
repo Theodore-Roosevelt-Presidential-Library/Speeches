@@ -1,0 +1,37 @@
+---
+speech: 1903-04-01-harrisburg
+title: Remarks of President Roosevelt at Harrisburg, Pa., April 1,1903
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0005
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0005
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 1 425:0005]
+
+The {Predident|President} of the Senate said:
+
+Mr. President, representing the Senate I desire to express our regret that we cannot escort you to our capitol; but there is significance and sentiment in the fact that we can come here in the  shadow of that old church where was nominated the first Harrison. We wish to express to you  our greeting for the labor interests of Pennsylvania, and to assure you that we are resting very happy and contented, [-[illegible]-] [-[?assurances that?] [illegible] [?reelected President?] [illegible] with that [illegible]-][+and hope that the+] happiness and prosperity  which has so long blessed [-[illegible]-]land [+will continue+].
+
+The Speaker of the Lower House of the Pennsylvania Legislature said:
+
+Mr. President: I have the honor to present to you the members of the [?lower house of?] legislation of Pennsylvania. We adjourned  under a [?resolution to assemble?] here upon the arrival of this train  to greet you [?and to wish you godspeed?] on your journey and a safe return to your [?home. We regret, sir, exceedingly,?] that time would not permit us to [?pass?] a resolution requesting your presence in the House to-day, your [?honor, but in the absence of that we have done?] that which we [?thought was best under the?] [illegible] circumstances; we come down  to be [?present and greet you in this way.?] (Applause.)
+
+The President said:
+
+Congressman, Mr. Speaker, Mr. President, [-ladix-] and Mr. Mayor, and [-Ladiex-] Gentlemen and Ladies:
+
+I am [-xx-] very greatly touched and pleased by this greeting- {awholly|a wholly} unexpected one. I had not supposed that my speech-making would begin before to-morrow. There is not much for me to say to you. I feel rather when I come here , like sitting at the feet of Gamaliel and learning. (Laughter.)
+
+The prosperity in which you of this state, you of this city , have so abundantly shared must come {pr imarily|primarily} from two sources, the individual skill and efficiency of the individual man, capitalist or wage worker, working for himself as a foundation, but with upon it the super-[pb 2 425:0005]structure of the men who, working not merely for  themselves but [-for-] for one another. (Cheers and applause)
+
+The President of the Senate was kind enough to speak of what has been done for the wage worker, and therefore the citizens as a whole, in this State. I go away from Washington with a light heart, very largely because of the admirable work done by the gentlemen in the Anthracite Strike Commission. (Applause.) And surely no publication by any association  designed purely to teach a moral lesson to our people can  be better worth scanning and learning than the document containing the conclusions of those men; and if as a people [?we will take to heart?] the lessons taught therein, it will be the better for [?all of us.?]
+
+Fundamentally our interests are the same. Fundamentally you hurt or help some of  our people and inevitably you hurt or [-xxxx-] help others. Fundamentally the most important lesson to be learned in our national life is the lesson of our solidarity of interests[+,+] [+[illegible]+] [-[?You, my comrades,?] [?you who have?] [illegible] [?war (Applause.),?] [illegible] [?in battle?] [illegible] [?a man you had?] [illegible] [?right; but it was not of any consequence whether?] [illegible] [?a brick?] [illegible] [?that is what?] [illegible] [?(Applause.)?] [illegible] [?taught?] [illegible] [?the lesson vital?] [illegible] [?xx?]-] Every man of us, if he is fit to be a citizen  of this republic, must pull his own weight, and [-[illegible]-] must also do his best  to help his brother at the same time.   ( Cheers and applause.)
+
+[note: Both pages are on frame 0005 (left half folio 1, right half folio 2 with typed "-2-"), as listed. The pencilled "4" at the upper left of folio 2 is not transcribed.]
+[note: The document includes the remarks of the President of the Pennsylvania Senate and of the Speaker of the House before Roosevelt's reply; they are transcribed as typed.]
+[note: The lower part of folio 1 (the Speaker's remarks and the line "The President said:") is heavily smudged or blotted across most lines; the words are not struck through with a pen but are partly obscured, so obscured stretches are given as uncertain readings.]
+[note: Folio 1: two typed lines after "contented," are struck through by hand and mostly illegible; "and hope that the" is written above them and "will continue" after "land". The word before "land" is overtyped or blotted.]
+[note: Folio 2: about ten typed lines after "interests," are struck through by hand with heavy wavy lines; only scattered words show through. A small handwritten addition above "interests," is not legible. "will take to heart" and "all of us." are partly smudged. The first letter of "Every" is overwritten by hand.]
+[note: "workingfor" is typed as one word with a hand mark separating it; "oursolidarity" likewise has a hand mark between "our" and "solidarity". Many letters are overtyped (e.g. "surely", "teach", "admirable", "inevitably", "learned"); final readings given.]

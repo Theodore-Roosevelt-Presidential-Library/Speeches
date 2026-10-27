@@ -1,0 +1,16 @@
+---
+speech: 1902-09-07-lookout-mountain
+title: Remarks of President Roosevelt to the Hotel Guests on Lookout Mountain, September 7,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0693
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0693
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 23 424:0693]
+
+Ladies and Gentlemen:
+
+If I had known whom I was to meet here I should have come prepared to take the bath I so urgently need . As it is I shall thank you greatly for giving me this [+chance+] of greeting you. I have enjoyed to the full all of today. I became lured into taking a ride with the cavalry regiment, which accounts for part of my appearance. I did not expect to have the chance of meeting such a gathering, and I shall simply thank you and say how pleased I am to have seen you. I wish you could see me under circumstances more favorable.
+
+[note: In the heading the "d" of "President" is typed over another letter and the "G" of "Guests" is faint. "say", "could" and "favorable" each have a letter typed over another; the final readings are given.]
