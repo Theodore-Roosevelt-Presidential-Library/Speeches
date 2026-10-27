@@ -4,7 +4,7 @@ title: Address of President Roosevelt from the portico at the Capitol, Bismarck,
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0270, 0271, 0272
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0270
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 90 425:0270]
@@ -19,8 +19,6 @@ To you, my fellow citizens, the people of this state, I have watched your growth
 
 [pb 91 425:0271]
 
--2-
-
 prosperity in this state, to see you growing steadily, growing into greatness; this great prairie state with its wheat and its cattle[+,+] with its products of the farm and the stock ranch. I am proud of you. I am proud of your products; and your best products is your men and women. I have been glad to see them all along. I have been very glad to see the children; and to see that they are all right in quality and all right in quantity; because the stock is a good one and I do not want to see it fail to increase. (Applause)
 
 Now just one word about our prosperity. Something can be done for that by law and the administration of the law. Much more can be done to harm it by bad laws. It is easy enough to pass a bad law that will give us no chance for it. All that a good law can do, if administered well, is to secure squ[+a+]re dealing, so far as the law can, between man and man, and give each man a chance to exercise [-[?his?]-] the best qualities he has. In the long run a man must rise or fall according to the stuff there is in him. It is just as it is in war. We need such a militia law as we have just had passed by Congress. We need good weapons-- the best weapons-- for our troops. We need a good administration of the War Department. But no administration in the War Department, no weapons, nothing that can be done from the outside, will be of any avail unless the officer and the enlisted man have already in them the stuff to make of themselves soldiers in every sense of the word. If they have not got the stuff in them, it is not there to get out of them; that is all. (Applause) You men of the great war won imperishable glory in the old days from '61 to '65; and you, my comrades of the lesser war, did your work so well in the Philippines, because you had the stuff in you, had the fighting edge, the resolute and firm determination to do your duty when the time came.
@@ -29,8 +27,6 @@ As it is with the soldiers, so it is in civil life. I am standing in the [-xxxxx
 
 [pb 92 425:0271]
 
--3-
-
 qualities. In the first place, honesty, decency, the spirit of square dealing between man and man. You had to have that, just as you had to have the spirit of patriotism in the soldier. In addition to that you had to have the courage and the strength to make it good; and {fina.lly|finally}, the common sense, the hard intelligence, without which the [-xxx-] other qualities would fail.
 
 There is another lesson to apply in civil life which was taught by you, men of the civil war, when you went to war, when you had to endure the heart-breaking weariness of the long marches under [-xxxx-] the southern sun, the misery of the freezing nights in winter on guard in the trenches, the risk of fever, the risk of death by bullet or shell, when you had to do all that you wanted to know the [-[?material?]-] [-metal-][+mettle+] that there was in your comrades. You could do nothing if they did not have the [-metal-][+mettle+] in them. You wanted to know as to the man on your right hand and the man on your left, not the non-essentials, you did not care how he worshipped his Maker; his creed was an affair for himself. You did not care for his social standing or wealth, whether he was a banker or bricklayer, a farmer or a mechanic. That did not make any difference. What you wanted to know was, if when the time came he would stay put; If when the time came to move, he would move the right way. That is what you were concerned with. In other words you had to judge him on his worth as a man, And in the grim sifting out of war the generals who were developed to lead you were [-xxx-] the men who came to the front because they could do the job best -- Grant, Sherman, Thomas, Sheridan, Farragut on the ocean, came to the front because they were the fighting men who could handle best the fighting men under {t hem|them}. In placing reliance upon your comrades you could not afford to pay heed to anything except the worth of the man himself.
@@ -38,8 +34,6 @@ There is another lesson to apply in civil life which was taught by you, men of t
 It is just so in our civil life of to-day. If we pay heed to the accidents and not to the essentials of the man's character, we by just so much prove false to our traditions and our principles and by just so much mar the chance of getting an honest government. What you want to {kno w|know} of a man in public life is what you would want to know of him in private life. Does he keep his word? Does he treat a promise made on the stump as being as sacred as if made off the stump? Does he deal {squarelywith|squarely with} his neighbors? Does he try to shape the laws so that they shall be in the {interestneither|interest neither} of the rich man as such nor of the poor man as
 
 [pb 93 425:0272]
-
--4-
 
 such, but of every honest man, be he rich or [-xxxx-] be he poor. {(A;pplause)|(Applause)} That is what we have a right to ask. Let the man's station be what it will[+,+] let his occupation be what it will, if he has got those qualities in him we are for him. And if he has {npt|not}, we are against him, because he has no place in the American body politic. (Applause)
 
@@ -50,3 +44,4 @@ That is the doctrine we should preach -- the doctrine of a man's worth as a man.
 [note: Hand corrections: "metal" is struck through twice on p. 92 and "mettle" written above; the comma after "cattle" (p. 91) and after "will" (p. 93), and the "a" in "square" (p. 91) are added by hand. On p. 93 "and I greet you" is struck through by hand and a circled period put after "union".]
 [note: Hand marks that do not change words: an ink touch on the "o" of "proud" (p. 91), a slash after "Congress" (p. 91), a close-up mark in "himse lf" (p. 91, given as "himself"), and vertical strokes after "an" in "getting an honest", and through the run-together "squarelywith" and "interestneither" (p. 92).]
 [note: The first word of the salutation is read as "Fellow"; its initial letter is faintly printed and looks like a lower-case "r" or "y". Several letters are typed over others ("in this state", "freight", "endure", "nights", "farmer", "worth", "could", "heart", "possibly") and read as given.]
+[note: Third look: typed page numbers "-2-", "-3-" and "-4-" head pp. 91-93 and are not transcribed in the body.]

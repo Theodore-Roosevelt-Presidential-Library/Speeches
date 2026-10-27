@@ -4,7 +4,7 @@ title: Address of President Roosevelt at Livingston, Montana, April 8, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0275, 0276
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0275
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 2 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 99 425:0275]
@@ -19,8 +19,6 @@ Coming here to see you I do not come as a stranger, at least I do not feel so, I
 
 [pb 100 425:0275]
 
--2-
-
 And there is no single act of legislation of the past Congress upon which I look back with greater satisfaction , or which I feel is of better augury for the future of our country than the irrigation law enacted by that Congress. (Applause)
 
 More than[+that+], gentlemen and ladies, it was the {ex perience|experience} that I had out here that was the [-[illegible]-][+main+] factor[-s-] in putting me into touch with men and events so that I got my regiment. (Cheers and applause) I wanted to have in that regiment the same type of man I had met on the plains, and in the mountains, and {inthe|in the} cow camps, because I knew him. I feel bound to[-[illegible]-] you by many ties -- to all the western people -- and in a sense particularly in this state which I know so well; this state with its literally boundless possibilities -- a state great now but to be infinitely greater in the future; with its mines, its cattle ranches, its agricultural regions and its extraordinary water power, a water power which will as the day follows the night make this state a great manufacturing state as well as a pastoral, and agricultural, and mining state. The diversification of your industries is great. Your products are many, of the mine, the cattle range, agriculture and to be of manufacturing; but the best product any state can have is the product of men and women. (Applause) I believe in you, not for what you produce, but for what you are. I am glad to see the men and women, and especially the children. (Applause)
@@ -31,8 +29,6 @@ The reason that the pioneers were able to make of this state what it is -- and I
 
 [pb 101 425:0276]
 
--3-
-
 Law can help, law can do something, but the man's individual character, his power of working for himself, his power of working in conjunction with his fellows,[-[illegible]-] that is fundamentally the chief factor in the upbuilding of this nation, and must remain so. Our [-x-] constitution, our system of free government, have done much for us. But there are other countries with constitutions modeled on ours which yet have lagged far, far behind in the race of progress, of civilization, of stable and orderly government and industrial development, and they have done it because, though the weapons were the same, the man that wielded them was different. It is the man behind the gun that counts in a battle. It is the man behind the law that counts in civil life. Nothing will take the place of strength, honesty, and courage in the individual man. You have won and have made this state what it is, and you will make it far greater than even your fondest dreams now teach you it may be made, because of the stuff there is in you, because of the character you have.
 
 I am glad to be here. I am glad to greet you. I am on my way to try to get a fortnight's holiday. [-For the last eighteen months I have taken everything as it came, from coal strikes to [?trolley cars?], and [?I feel I am?] entitled to a fortnight to myself. [illegible] [?glad to greet you?]-]. I shall be back in your state later on. This is the first time I have visited it since I have become President. I have been here at intervals for the past twenty years, and I have known your citizens in many different relations. I congratulate you upon what you have done with your state. I thank you for your greeting, and I wish you well with all my heart. (Cheers and applause)
@@ -41,3 +37,4 @@ I am glad to be here. I am glad to greet you. I am on my way to try to get a for
 [note: On p. 101 three typed lines, from "For the last eighteen months" to "glad to greet you", are struck through by hand with heavy lines and the start of the last line is further blotted; the words are given as far as they can be made out. A short mark after "fellows," is also blotted by hand.]
 [note: On p. 99 a hand slash follows "well", then a typed period and an x-ed out word that looks like "and". Other x-ed out typing: "[?my cattle rang?]" and "[-xxxxxxx-]" before "causes" (p. 99), "[-x-]" before "constitution" (p. 101).]
 [note: The last letter of "than" in "country than the irrigation law" (p. 100) is marked by hand. Letters are typed or inked over in "that the executive", "visits", "morning", "could", "more", "Cheers", "was for the humid", "does", "make", "remain", "civilization", "wielded", "strength" and "glad"; all read as given.]
+[note: Third look: typed page numbers "-2-" and "-3-" head pp. 100 and 101 and are not transcribed in the body.]

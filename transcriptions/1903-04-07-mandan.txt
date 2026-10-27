@@ -4,7 +4,7 @@ title: Remarks of President Roosevelt at Mandan, N.D., April 7,1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0272, 0273
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0272
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 94 425:0272]
@@ -21,11 +21,10 @@ But when is all said and done, the chief factor in any man's success must be tha
 
 [pb 95 425:0273]
 
--2-
-
 state because you have had the stuff in you to do it; because you have not been discouraged by adversity and hardship; because you have had the spirit that dares , the spirit that does; you have had endurance and physical hardihood and [-xx-] resolution, strength of mind, strength of body, strength of soul. If it had not been for those {qualitiesyou|qualities you} could not have won out in the contest with nature; you could not have made this state what it is. It has been a hard struggle-in many ways the work of the frontiersman always is hard; but then,gentlemen, I think that you will find that in the long run whatever is worth doing is hard. If it is an easy job it is not usually worth having. {Th e|The} men that win out are the men who are able and willing to work.
 
 I am very glad to see you, men, women and children. I am proud of you and I wish you well. (Cheers and applause.)
 
 [note: "d" is added by hand after "live" (p. 94). In "But when is all said and done" (p. 94) "is" and "all" are each marked by hand with transposition loops, meaning "when all is said and done"; the words are given in their typed order.]
 [note: Several letters are typed over others and read as given (e.g. "where", "twenty", "is" in "That is the thing", "schools", "normal", "from", "character", "you", "not", "hardihood", "made", "gentlemen", "am"). "[-xx-]" before "resolution" (p. 95) is x-ed out on the typewriter.]
+[note: Third look: typed page number "-2-" heads p. 95 and is not transcribed in the body.]

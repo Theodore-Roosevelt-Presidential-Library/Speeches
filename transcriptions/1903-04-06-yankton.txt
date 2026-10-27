@@ -4,7 +4,7 @@ title: Addressof Presidnt Roosevelt at Yankton, S. D. April 6, 1903.
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0223, 0224
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0223
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read; 4 difference(s) settled by a third look at the image)
 status: ok
 ---
 [pb 61 425:0223]
@@ -17,11 +17,9 @@ I am glad to have the chance of being here in South Dakota , and I feel at home.
 
 Now a word to you here in this state, whose leading industries are agriculture, and in {t e|the} west mining[+--+] a state of farmers and miners. I do not have to speak of the prosperity we have enjoyed, because you have shared in it to an unusual degree. I understand that South Dakota stands highest of all the states of the union in the aggregate productiveness of wealth per head during the year. That prosperity is due to many causes, not to any one. Mere legislation, mere governmental work, never can make it. If the rain does not fall or if it falls too much, ther[+e+] is not any way of making a law about it. If the hand of the Lord is heavy upon us, in flood or in drought, in disease or pestilence so far as these cannot be controlled, then the wit of man cannot devise a perfect remedy.
 
-Furthermore in addition to dealing with the elements outside of the control of man, only under the Control of Providence, we must ever keep in mind that the {fundemental|fundamental} factor in any man's success is the man's own qualities his strength, his courage, his hard[+i+]hood, his thrift, his wisdom. Here in our own experience in this state during the days of its statehood and the days when it was a territory, we have seen the effort made to grow what could not be grown in certain localities, ruin follow, the locality {woudd|would} apparently be abandoned[+,+] and then occupied again when men had the sense to take[+[?up?]+] an industry that was adapted to it. You can grow cattle where you cannot grow wheat.
+Furthermore in addition to dealing with the elements outside of the control of man, only under the Control of Providence, we must ever keep in mind that the {fundemental|fundamental} factor in any man's success is the man's own qualities[+[?,?]+] his strength, his courage, his hard[+i+]hood, his thrift, his wisdom. Here in our own experience in this state during the days of its statehood and the days when it was a territory, we have seen the effort made to grow what could not be grown in certain localities, ruin follow, the locality {woudd|would} apparently be abandoned[+,+] and then occupied again when men had the sense to take[+[?up?]+] an industry that was adapted to it. You can grow cattle where you cannot grow wheat.
 
 [pb 62 425:0223]
-
--2-
 
 We will win out primarily according to the way in which the average American does his work. I spoke to the men of the Grand Army, I can draw the lesson that I am now drawing from their experience as well as from our own in civil life. [-In the army-], In the civil war , you won. To win you needed good leaders, you needed the genius of Lincoln, you needed the backing of the people, but what you needed most was the {co urage|courage} and hardihood of the individual fighting man. You {carriedthe|carried the} banner of the {rppublic|republic} in triumph to Appomattox, because the average man had in him the stuff out of which soldiers are made.
 
@@ -31,8 +29,6 @@ It is difficult to get prosperity by law, but good laws can help in getting it, 
 
 [pb 63 425:0224]
 
--3-
-
 it, and that when the {whange|change} is made it {shoud|should} be a change in the application of details of the scheme, and not a change in the scheme of the policy under and through which we have attained to our present pitch of prosperity.
 
 I have but a moment. It has been a real pleasure to see you, and I can sum up all I have to say to you in just a couple of phrases. {Yoy|You} need wise laws. See that you get them. You need honest administration of the laws. See that you have it. But do not make the mistake of thinking that any law, or any administration of the law, can take the place of the fundamental qualities that make a good individual citizen and make a good nation[+--+] the qualities of honesty, of courage, and of common sense.
@@ -41,6 +37,7 @@ I have but a moment. It has been a real pleasure to see you, and I can sum up al
 [note: Hand strokes that separate or mark words without changing them: a slash after "object" (p. 61), a vertical stroke through the "s" of the run-together "citizenscan" (p. 61), a stroke between "it" and "too" (p. 62), a slash after "do it;" (p. 62), and a close-up mark joining "under stand" (p. 61, given here as "understand").]
 [note: The dashes after "mining" (p. 61) and "nation" (p. 63) are added by hand with a caret. "have" before "turned" (p. 62) and the word after "You have" (p. 62, read as "it" but uncertain) are handwritten with carets. The word inserted after "take" (p. 61) is handwritten with a caret and looks like "up".]
 [note: "to" above the caret after "details" (p. 62) appears to be typed in afterwards, not handwritten.]
-[note: On p. 61 a handwritten letter after "ther" corrects it to "there"; "hardihood" has a handwritten "i"; the first letter of "Control" (in "under the Control of Providence") is marked over by hand and is given as typed; "qualities" before "his strength" has a hand mark on its final s, possibly punctuation; the "t" of "the sense" has a hand stroke over it whose meaning is unclear.]
+[note: On p. 61 a handwritten letter after "ther" corrects it to "there"; "hardihood" has a handwritten "i"; the first letter of "Control" (in "under the Control of Providence") is marked over by hand and is given as typed; "qualities" before "his strength" has a hand mark on its final s with a tail below the line, read as a doubtful hand comma; the "t" of "the sense" has a hand stroke over it whose meaning is unclear.]
 [note: "[-xxh-]" (p. 61), "[-In the army-]" (p. 62, x-ed out but legible) and "[-xxx-]" before "Remember" (p. 62) are x-ed out on the typewriter. Several letters are typed over others (e.g. "times", "considered", "takes", "Fundamentally", "nation") and read as given.]
 [note: Faint mirror-image offset type from the facing page shows between some lines on pp. 61-62; it is not part of the text.]
+[note: Third look: typed page numbers "-2-" and "-3-" head pp. 62 and 63 and are not transcribed in the body. The mark after "Senator" shows a dot with the caret drawn through the lower half, so colon or semicolon cannot be told apart; kept as [?;?]. The hand mark on the s of "qualities" has a comma-like tail and is given as a doubtful added comma.]
