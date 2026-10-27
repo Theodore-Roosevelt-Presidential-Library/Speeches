@@ -1075,9 +1075,9 @@
 "labor",
 "groups",
 "expediency",
+"factory",
 "community",
 "statistics",
-"factory",
 "work",
 "separate"
 ],
@@ -2183,7 +2183,7 @@
 "lessons",
 "struggles",
 "ended",
-"occupations"
+"fought"
 ],
 "stats": {
 "words": 3084,
@@ -2995,8 +2995,8 @@
 "south",
 "wright",
 "prosperity",
-"philippines",
 "general",
+"philippines",
 "events"
 ],
 "stats": {
@@ -3687,8 +3687,8 @@
 "past",
 "republic",
 "navy",
-"flag",
 "honor",
+"flag",
 "army",
 "americans",
 "justice"
@@ -4204,8 +4204,8 @@
 "island",
 "shortcomings",
 "cuba",
-"wanted",
 "work",
+"wanted",
 "hundred"
 ],
 "stats": {
@@ -4641,10 +4641,10 @@
 },
 "distinctive": [
 "mills",
+"colonel",
 "shipp",
 "pointer",
 "parade-ground",
-"colonel",
 "west",
 "regiment",
 "institution",
@@ -10379,13 +10379,13 @@
 "carolina",
 "laws",
 "develop",
-"building",
 "north",
+"building",
 "section",
 "advantage",
 "prosperity",
-"chance",
-"wise"
+"wise",
+"chance"
 ],
 "stats": {
 "words": 647,
@@ -11370,8 +11370,8 @@
 "difficulties",
 "continent",
 "big",
-"cheers",
-"hope"
+"hope",
+"cheers"
 ],
 "stats": {
 "words": 749,
@@ -14121,8 +14121,8 @@
 "stronger",
 "movement",
 "movements",
-"christian",
 "century",
+"christian",
 "young",
 "associations"
 ],
@@ -14905,8 +14905,8 @@
 },
 "distinctive": [
 "pennsylvania",
-"president",
 "senate",
+"president",
 "fundamentally",
 "lesson",
 "house",
@@ -15520,8 +15520,8 @@
 "university",
 "wisconsin",
 "scholarship",
-"applause",
 "crew",
+"applause",
 "faults",
 "develop",
 "descended",
@@ -16324,12 +16324,12 @@
 "distinctive": [
 "minnesota",
 "typical",
-"flag",
 "stock",
+"flag",
 "glad",
 "american",
-"applause",
-"world"
+"world",
+"applause"
 ],
 "stats": {
 "words": 383,
@@ -16407,8 +16407,8 @@
 "tariff",
 "change",
 "schedules",
-"economic",
 "interests",
+"economic",
 "trusts",
 "treaty",
 "reduction",
@@ -17213,8 +17213,8 @@
 "help",
 "system",
 "easy",
-"applause",
 "laws",
+"applause",
 "legislation"
 ],
 "stats": {
@@ -17586,8 +17586,8 @@
 "wage-worker",
 "growers",
 "million",
-"tiller",
 "employer",
+"tiller",
 "wheat",
 "labor",
 "farm"
@@ -18939,7 +18939,7 @@
 "government",
 "militia",
 "civil",
-"philippines"
+"regular"
 ],
 "stats": {
 "words": 2603,
@@ -20221,10 +20221,10 @@
 "park",
 "montana",
 "yellowstone",
-"idaho",
 "preservation",
 "wilderness",
 "beauties",
+"idaho",
 "wyoming",
 "enjoyment",
 "preserved"
@@ -20572,12 +20572,12 @@
 "laws",
 "congressman",
 "irrigation",
-"applause",
 "qualities",
 "decent",
+"applause",
 "brave",
 "fool",
-"pretty"
+"weakling"
 ],
 "stats": {
 "words": 1903,
@@ -22149,8 +22149,8 @@
 "places": []
 },
 "distinctive": [
-"virtue",
 "decency",
+"virtue",
 "softness",
 "congratulate",
 "building",
@@ -28015,8 +28015,8 @@
 "traits",
 "scholarship",
 "virtue",
-"applause",
 "body",
+"applause",
 "bear"
 ],
 "stats": {
@@ -28501,8 +28501,8 @@
 "brotherhood",
 "world's",
 "soil",
-"applause",
-"fail"
+"fail",
+"applause"
 ],
 "stats": {
 "words": 2465,
@@ -29152,8 +29152,8 @@
 "trees",
 "preserve",
 "navy",
-"pleased",
 "california",
+"pleased",
 "individuals",
 "children",
 "nation",
@@ -29592,8 +29592,8 @@
 "distinctive": [
 "applause",
 "california",
-"currency",
 "system",
+"currency",
 "cheers",
 "law",
 "legislation",
@@ -31872,9 +31872,9 @@
 "decency",
 "needed",
 "honesty",
-"water",
 "preservation",
-"loyalty"
+"loyalty",
+"water"
 ],
 "stats": {
 "words": 1919,
@@ -33906,7 +33906,7 @@
 "river",
 "mines",
 "settlers",
-"mississippi"
+"secure"
 ],
 "stats": {
 "words": 1390,
@@ -34735,16 +34735,16 @@
 "places": []
 },
 "distinctive": [
-"creed",
+"butte",
 "law",
+"creed",
 "section",
 "class",
 "follow",
 "capital",
 "entitled",
 "line",
-"rich",
-"fought"
+"rich"
 ],
 "stats": {
 "words": 1064,
@@ -34813,10 +34813,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 52,
+"paragraphs": [
+"Mr. Gillis; and you, Gentlemen and Ladies:",
+"I thank you heartily for this unexpected gift. I am deeply pleased at receiving it; and I accept it as one who tries to be an American President, acting upon the principle of giving a square deal to each and every man. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -34838,13 +34841,43 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0495",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0495",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Mr. Gillis; and you, Gentlemen and Ladies:",
+"I thank you heartily for this unexpected gift. I am deeply pleased at receiving it; and I accept it as one who tries to be an American President, acting upon the principle of giving a square deal to each and every man. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 139 (frame 425:0495)</span>",
+"Mr. Gillis;  and you, Gentlemen and Ladies:",
+"I thank you heartily for this unexpected gift. I am deeply pleased at receiving it; and I accept it as one who tries to be an American President, acting upon the principle of giving a square deal to each and every man. (Cheers and applause)",
+"<span class=\"tnote\">In the typed heading, &quot;accepting&quot; reads &quot;accppting&quot; and &quot;presented&quot; has a p struck over its second e on the typewriter; &quot;Roosevelt&quot; is typed with a gap (&quot;Roo sevelt&quot;). The title line gives the intended words.</span>\n<span class=\"tnote\">The second listed page (right half of frame 0495) is not typescript: it holds a handwritten note explaining that at the conclusion of the President&#x27;s address at Columbia Gardens, Butte, a souvenir was presented on behalf of the Silver Bow Trades and Labor Assembly by Malcolm Gillis, with a pasted newspaper clipping of Gillis&#x27;s presentation and the reply. Not transcribed here.</span>"
+],
+"notes": [
+"In the typed heading, \"accepting\" reads \"accppting\" and \"presented\" has a p struck over its second e on the typewriter; \"Roosevelt\" is typed with a gap (\"Roo sevelt\"). The title line gives the intended words.",
+"The second listed page (right half of frame 0495) is not typescript: it holds a handwritten note explaining that at the conclusion of the President's address at Columbia Gardens, Butte, a souvenir was presented on behalf of the Silver Bow Trades and Labor Assembly by Malcolm Gillis, with a pasted newspaper clipping of Gillis's presentation and the reply. Not transcribed here."
+],
+"file": "transcriptions/1903-05-27-butte-2.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 52,
+"unique_words": 43,
+"sentences": 2,
+"avg_sentence": 26.0,
+"minutes": 1,
+"i_count": 3,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-27-butte-3",
@@ -34993,10 +35026,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 200,
+"paragraphs": [
+"My friends and fellow citizens:",
+"It is a very great pleasure to be traveling through Idaho. to-day and to have the chance of meeting the men and women of this state. When I get here to the plains and the mountains I feel as if I had come home, for I used to know this country well twenty years ago when I had a cow ranch myself. Yesterday when I went into Butte I met one of the mountain men with whom I had been in there fifteen years ago, when we were traveling pretty roughand went to a two-bit restaurant, and I never got a better meal in my life; so I had known the people and had experienced their hospitality and had worked with them and played with them. Naturally I like having the chance to be back here again. I do not think that most of our people understand the great possibilities that there are in this country. The possibilities are great, notably here where we have a chance for irrigation. But the thing that makes me believe in the country is not so much the physical chance as the character of the men and women, (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35018,13 +35054,47 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0498",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0498",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My friends and fellow citizens:",
+"It is a very great pleasure to be traveling through Idaho. to-day and to have the chance of meeting the men and women of this state. When I get here to the plains and the mountains I feel as if I had come home, for I used to know this country well twenty years ago when I had a cow ranch myself. Yesterday when I went into Butte I met one of the mountain men with whom I had been in there fifteen years ago, when we were traveling pretty roughand went to a two-bit restaurant, and I never got a better meal in my life; so I had known the people and had experienced their hospitality and had worked with them and played with them. Naturally I like having the chance to be back here again. I do not think that most of our people understand the great possibilities that there are in this country. The possibilities are great, notably here where we have a chance for irrigation. But the thing that makes me believe in the country is not so much the physical chance as the character of the men and women, (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 144 (frame 425:0498)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My friends and fellow citizens:",
+"It is a very great pleasure to be  traveling through Idaho . to-day and to have the chance of meeting the men and women of this state. When I get here to the plains and the mountains I feel as if I had come home, for I used to know this country well twenty years ago when I had a cow ranch myself. Yesterday when I went into Butte I <del title=\"struck through\">could<span class=\"illeg\">[illegible]</span> help <span class=\"illeg\">[illegible]</span> with</del><ins title=\"added by hand\">met</ins> one of the mountain men with whom I had been in there fifteen years ago, when we were traveling pretty rough<del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">and</ins> went to a two-bit restaurant, and I never got a better meal in my life; so I had known the people and had experienced their hospitality and had worked with them and played with them. Naturally I like having the chance <del title=\"struck through\">xxx</del> to be back here again. I do not think that most of <del title=\"struck through\">x</del> our people understand the  great possibilities that there are in this country. The possibilities are great, notably here where we have a chance for irrigation. But the thing that <del title=\"struck through\">xxxx</del> makes me believe in the country is not so much the physical chance as the character of the men and women, <ins title=\"added by hand\">(Applause)</ins>",
+"<span class=\"tnote\">The words struck by hand after &quot;I&quot; and replaced by &quot;met&quot; are heavily cancelled; only &quot;could&quot;, &quot;help&quot; and &quot;with&quot; can be partly made out. The word struck after &quot;rough&quot; is illegible.</span>\n<span class=\"tnote\">&quot;(Applause)&quot; is handwritten.</span>"
+],
+"notes": [
+"The words struck by hand after \"I\" and replaced by \"met\" are heavily cancelled; only \"could\", \"help\" and \"with\" can be partly made out. The word struck after \"rough\" is illegible.",
+"\"(Applause)\" is handwritten."
+],
+"file": "transcriptions/1903-05-28-kimama.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"chance",
+"country"
+],
+"stats": {
+"words": 200,
+"unique_words": 108,
+"sentences": 7,
+"avg_sentence": 28.6,
+"minutes": 2,
+"i_count": 12,
+"we_count": 2
+}
 },
 {
 "id": "1903-05-28-mountain-home",
@@ -35083,10 +35153,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 438,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a very great pleasure to have the chance of greeting you to-day. Let me say a special word of greeting to the members of the national guard. For the first time in our history Congress has enacted a measure to provide for an adequately armed national guard in each of the states; and Idaho is the first state to be taking advantage of the terms of the act. I congratulate Idaho upon this typical instance of progress. (Cheers and applause)",
+"I wish to say what pleasure it has given me to come here and be witnessing with my own eyes what you are doing in this state with irrigation. Idaho, will, I firmly believe, and I base it not merely upon my own observation but upon what I am told by men of judgment dealing within the state, grow with peculiar rapidity and with a peculiar stability of growth during the years now immediately opening. While a great part of that growth will surely be due to the development of her unexplored mineral resources, I think the most permanent and the most useful part of that growth will be the development of her irrigated agriculture. (Applause) I do not have to tell you here that when you get irrigation fairly applied, rain is a poor substitute for it. With irrigation the wonderful fertility of your soil will be given full play, and we shall see a development in fruit and grain products in this state which would have seemed literally incredible even as late as twenty-five years ago. I have passed through some of the great grazing regions of the state, the regions where cattle and sheep flourish. I congratulate you upon the chances of diversifying your industries; and I earnestly hope that in the development and application of irrigation as in the development of all your other industries so far as the Federal and state laws affect them, the one great object ever kept in mind will be the building up of the home maker, the building up of the man who takes a given quantity of land -- a large quantity if it is unirrigated; a much smaller quantity if it is irrigable, -- and out of that makes a home upon which he intends himself to live, and living to bring up his children. The citizen who counts in the development of the state is the man or women who makes this his or her home; for it is upon the quality of the average man, the average woman, that the future of the state really depends. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35108,13 +35182,57 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0501",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0501",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a very great pleasure to have the chance of greeting you to-day. Let me say a special word of greeting to the members of the national guard. For the first time in our history Congress has enacted a measure to provide for an adequately armed national guard in each of the states; and Idaho is the first state to be taking advantage of the terms of the act. I congratulate Idaho upon this typical instance of progress. (Cheers and applause)",
+"I wish to say what pleasure it has given me to come here and be witnessing with my own eyes what you are doing in this state with irrigation. Idaho, will, I firmly believe, and I base it not merely upon my own observation but upon what I am told by men of judgment dealing within the state, grow with peculiar rapidity and with a peculiar stability of growth during the years now immediately opening. While a great part of that growth will surely be due to the development of her unexplored mineral resources, I think the most permanent and the most useful part of that growth will be the development of her irrigated agriculture. (Applause) I do not have to tell you here that when you get irrigation fairly applied, rain is a poor substitute for it. With irrigation the wonderful fertility of your soil will be given full play, and we shall see a development in fruit and grain products in this state which would have seemed literally incredible even as late as twenty-five years ago. I have passed through some of the great grazing regions of the state, the regions where cattle and sheep flourish. I congratulate you upon the chances of diversifying your industries; and I earnestly hope that in the development and application of irrigation as in the development of all your other industries so far as the Federal and state laws affect them, the one great object ever kept in mind will be the building up of the home maker, the building up of the man who takes a given quantity of land -- a large quantity if it is unirrigated; a much smaller quantity if it is irrigable, -- and out of that makes a home upon which he intends himself to live, and living to bring up his children. The citizen who counts in the development of the state is the man or women who makes this his or her home; for it is upon the quality of the average man, the average woman, that the future of the state really depends. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 149 (frame 425:0501)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Friends and Fellow Citizens:",
+"It is a very great pleasure to have the chance of greeting you to-day. Let me say a special word of greeting to the members of the national guard. For the first time in our history Congress has enacted a measure to provide for an adequately armed national guard in each of the states; and Idaho is the first state to be taking advantage of the terms of the act. I congratulate Idaho upon this typical instance of progress. (Cheers and applause)",
+"I wish to say what <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> pleasure it has given me to come here and be witnessing with my own eyes what you are doing in this state with irrigation. Idaho <del title=\"struck through\">xxx</del>,will, I firmly believe, and I base it not merely upon my own observation but upon what I am told by men of judgment dealing within the state, grow with peculiar rapidity and with a peculiar stability of growth during the years now immediately opening. While a great part of that growth will surely be due to the development of her unexplored mineral resources, I think the  most permanent and the most useful <del title=\"struck through\">xx</del> part of that growth will be the development of her <span class=\"sic\" title=\"reads: irrigated agriculture\">irrigatedagriculture</span>. (Applause ) I do not have to tell you here that when you get irrigation fairly applied, rain is a poor substitute for it. With irrigation the wonderful fertility of your soil will be given full play , and we shall see a development in fruit and grain products in this state which would have seemed literally incredible even as late as twenty-five years ago. I have passed <del title=\"struck through\">xxx</del> through some of the great grazing regions of the state, the regions where cattle and sheep flourish. I congratulate you upon the chances of diversifying your industries;  and I earnestly hope that in the development and application of irrigation as in the development of all your other industries so far as the Federal and state laws affect them,  the one great object ever kept in mind will be the building up of the home maker, the building up of the man who takes a given quantity of land -- a large quantity if it is unirrigated;  a much smaller quantity if it is <del title=\"struck through\">irrigx</del> <del title=\"struck through\">xxxx</del> irrigable, <del title=\"struck through\">x</del> -- and out of that makes a home upon which he intends himself to live, and living to bring up his children. The citizen who counts in the development of the state is the man or women who makes this his or her home;  for it is upon the quality of the average man, the average woman, that the future of the state really depends. (<span class=\"sic\" title=\"reads: Cheers and\">Cheersand</span> applause)",
+"<span class=\"tnote\">The word struck after &quot;what&quot; is covered by a hand blot. In &quot;in this&quot; a hand mark separates the two words, typed run together. Several letters are struck over on the typewriter (e.g. &quot;Fellow&quot;, &quot;of&quot; in &quot;chance of greeting&quot;, &quot;progress&quot;, &quot;my own eyes&quot;, &quot;first&quot;, &quot;of growth&quot;, &quot;flourish&quot;, &quot;development&quot;, &quot;that the future&quot;); the final reading is given.</span>"
+],
+"notes": [
+"The word struck after \"what\" is covered by a hand blot. In \"in this\" a hand mark separates the two words, typed run together. Several letters are struck over on the typewriter (e.g. \"Fellow\", \"of\" in \"chance of greeting\", \"progress\", \"my own eyes\", \"first\", \"of growth\", \"flourish\", \"development\", \"that the future\"); the final reading is given."
+],
+"file": "transcriptions/1903-05-28-nampa.txt"
+},
+"text_source": "typescript",
+"themes": [
+"conservation",
+"home-family"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"idaho",
+"irrigation",
+"quantity",
+"development",
+"growth",
+"state",
+"applause",
+"home"
+],
+"stats": {
+"words": 438,
+"unique_words": 206,
+"sentences": 10,
+"avg_sentence": 43.8,
+"minutes": 3,
+"i_count": 10,
+"we_count": 1
+}
 },
 {
 "id": "1903-05-28-pocatello",
@@ -35218,10 +35336,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 250,
+"paragraphs": [
+"I have already spoken about that flag which was the only flag carried in the fight for a fortnight in the Philippines, and have already said how pleased I was to see the building of the G. A. R. In congratulating this community I congratulated it especially upon having such examples of what American citizenship should be, as you of the Grand Army, the men who in every walk of life are entitled to the right of the line, have given us the example for all time to try to emulate what you have done. And you, my comrades, I speak for you when I say that you and I had the desire to show in our lesser war that we were not wholly unworthy of the men of the great war; to show that the lessons of the victors at Shiloh, Gettysburg and Appomattox had not been wasted upon us of the younger generation. Another thing, in speaking to the Grand Army I find that the place of all others where I can best pay tribute to the valor of the men who wore the gray is in addressing a group of the men who wore the blue. We of the younger generation are proud of the memories of the great war, of the memories of valor shown by all Americans who took part on either side; and we shall try to uphold the honor of the flag as you upheld it in the great days. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35243,13 +35363,58 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0504",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0504",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"I have already spoken about that flag which was the only flag carried in the fight for a fortnight in the Philippines, and have already said how pleased I was to see the building of the G. A. R. In congratulating this community I congratulated it especially upon having such examples of what American citizenship should be, as you of the Grand Army, the men who in every walk of life are entitled to the right of the line, have given us the example for all time to try to emulate what you have done. And you, my comrades, I speak for you when I say that you and I had the desire to show in our lesser war that we were not wholly unworthy of the men of the great war; to show that the lessons of the victors at Shiloh, Gettysburg and Appomattox had not been wasted upon us of the younger generation. Another thing, in speaking to the Grand Army I find that the place of all others where I can best pay tribute to the valor of the men who wore the gray is in addressing a group of the men who wore the blue. We of the younger generation are proud of the memories of the great war, of the memories of valor shown by all Americans who took part on either side; and we shall try to uphold the honor of the flag as you upheld it in the great days. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 156 (frame 425:0504)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"I have already spoken about that flag which was the only flag carried in the fight for a fortnight <del title=\"struck through\">there</del> in the Philippines, and have already said how pleased I was to see the building<del title=\"struck through\">s</del> of the G. A. R. In congratulating this community I congratulated <ins title=\"added by hand\">it</ins> especially upon having such examples of what American <del title=\"struck through\">x x</del> citizenship should be, as you of the Grand Army, the men who in every walk of life are entitled to the right of the line, have given us the example for all time to try to emulate what you have done. And you, my comrades, I speak for you when I say that you and I <del title=\"struck through\">have</del><ins title=\"added by hand\">had the</ins> desire<del title=\"struck through\">d</del> to show in our lesser war that we were not wholly unworthy of the men of the great war;  to show that the lessons of the victors at Shiloh, Gettysburg and Appomattox had not been wasted upon us of the younger generation. Another thing, in speaking to the Grand Army I <del title=\"struck through\">xxx</del> <del title=\"struck through\">xxxxxxxxxx</del> find that the place of all others where I can best pay tribute to the valor of the men who wore the gray is in addressing a group of the men who wore the blue. We of the younger generation are proud of the memories of the great war, of the memories of valor shown by all Americans who took part on either side;  and we shall try to uphold the honor of the flag as you upheld it in the great days. (Cheers and applause)",
+"<span class=\"tnote\">&quot;for a fortnight&quot; is circled by hand with a line running up to a hand stroke after &quot;which&quot;, marking it to be moved there (to read &quot;that flag which for a fortnight was the only flag carried in the fight&quot;). &quot;there&quot; is struck by hand; the s of &quot;buildings&quot; and the d of &quot;desired&quot; are struck by hand; &quot;had the&quot; is written by hand over the struck &quot;have&quot;. &quot;it&quot; is typed between the lines with a hand caret.</span>\n<span class=\"tnote\">Several letters are struck over on the typewriter (e.g. &quot;of the&quot; in the heading, &quot;Philippines&quot;, &quot;should&quot;, &quot;Grand&quot;, &quot;having&quot;); the final reading is given. The heading reads &quot;w ar&quot; with a gap, kept as typed.</span>"
+],
+"notes": [
+"\"for a fortnight\" is circled by hand with a line running up to a hand stroke after \"which\", marking it to be moved there (to read \"that flag which for a fortnight was the only flag carried in the fight\"). \"there\" is struck by hand; the s of \"buildings\" and the d of \"desired\" are struck by hand; \"had the\" is written by hand over the struck \"have\". \"it\" is typed between the lines with a hand caret.",
+"Several letters are struck over on the typewriter (e.g. \"of the\" in the heading, \"Philippines\", \"should\", \"Grand\", \"having\"); the final reading is given. The heading reads \"w ar\" with a gap, kept as typed."
+],
+"file": "transcriptions/1903-05-28-boise.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war"
+],
 "mentions": {
 "people": [],
-"places": []
+"places": [
+{
+"id": "philippines",
+"name": "The Philippines",
+"count": 1
 },
-"distinctive": [],
-"stats": null
+{
+"id": "gettysburg",
+"name": "Gettysburg",
+"count": 1
+}
+]
+},
+"distinctive": [
+"flag",
+"war"
+],
+"stats": {
+"words": 250,
+"unique_words": 126,
+"sentences": 5,
+"avg_sentence": 50.0,
+"minutes": 2,
+"i_count": 8,
+"we_count": 3
+}
 },
 {
 "id": "1903-05-29-evanston",
@@ -35419,8 +35584,8 @@
 "ranges",
 "forest",
 "land",
-"irrigation",
 "reserves",
+"irrigation",
 "over-grazing",
 "agriculture",
 "forests",
@@ -35448,10 +35613,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 218,
+"paragraphs": [
+"My Friends and Fellow Citizens:",
+"It is a very great pleasure to meet all of you to-day. And as I am going home to my own family, I want to pay a special word of greeting to the men and women who came here with the babies in their arms. I have enjoyed to the full my trip through Utah to-day. I am struck whenever I come into your state with your prosperity and with the evidence that it has been won primarily because of the character of your men and women. (Applause) Utah was not a country to which people afraid to work would ever have come. You did not here come in to take possession of rich, well watered valley bottoms where the hand of man has but little to do. All of the prosperity you have had has been won b y the men and women who did the work; because you applied thrift, intelligence, and water to the soil,— all three qualities. Water would not have amounted to anything without the thrift and intelligence. Because you did that you have made of this state what it is and put it upon a footing of stable and assured prosperity. I congratulate you upon the state, but I congratulate you most upon yourselves. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -35473,13 +35641,47 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0512",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0512",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My Friends and Fellow Citizens:",
+"It is a very great pleasure to meet all of you to-day. And as I am going home to my own family, I want to pay a special word of greeting to the men and women who came here with the babies in their arms. I have enjoyed to the full my trip through Utah to-day. I am struck whenever I come into your state with your prosperity and with the evidence that it has been won primarily because of the character of your men and women. (Applause) Utah was not a country to which people afraid to work would ever have come. You did not here come in to take possession of rich, well watered valley bottoms where the hand of man has but little to do. All of the prosperity you have had has been won b y the men and women who did the work; because you applied thrift, intelligence, and water to the soil,— all three qualities. Water would not have amounted to anything without the thrift and intelligence. Because you did that you have made of this state what it is and put it upon a footing of stable and assured prosperity. I congratulate you upon the state, but I congratulate you most upon yourselves. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 171 (frame 425:0512)</span>",
+"<span class=\"margin\">In the margin: File</span>",
+"My Friends and Fellow Citizens:",
+"It is a very great pleasure to meet all of you to-day. And as I am going home to my own family, I want to pay a special word of greeting to the men and women who came here with the babies in their arms. I have enjoyed to the full my trip through Utah to-day. I am struck whenever I come into your state with your prosperity and with the evidence that it has been <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del><ins title=\"added by hand\">won</ins> primarily because of the character of your men and women. (Applause) Utah was not a country to which people afraid to work would ever have come. You did not here come in to take possession of rich, well watered valley bottoms where the hand of man has but little to do. All of the prosperity you have had has been won b y the men and women who did the work; because you <span class=\"sic\" title=\"reads: applied thrift\">appliedthrift</span>, intelligence, and water to the <span class=\"sic\" title=\"reads: soil\">spil</span>,<ins title=\"added by hand\">—</ins> all three qualities. Water would not have amounted to anything without the thrift and intelligence. Because you did that you have made of this state what it is and put it upon a footing of stable and assured prosperity. I congratulate you upon the state, but I <span class=\"sic\" title=\"reads: congratulate\">congratuate</span> you most upon yourselves. (Cheers <span class=\"sic\" title=\"reads: and applause\">andapplause</span>)",
+"<span class=\"tnote\">&quot;won&quot; is written by hand above a short struck word that cannot be read. A hand stroke follows &quot;watered&quot; (no word change). The dash after &quot;soil,&quot; appears to be added by hand. Letters struck over on the typewriter (&quot;work&quot;, &quot;prosperity&quot; on the sixth line, &quot;bottoms&quot;, &quot;men&quot;) are given in their final reading.</span>"
+],
+"notes": [
+"\"won\" is written by hand above a short struck word that cannot be read. A hand stroke follows \"watered\" (no word change). The dash after \"soil,\" appears to be added by hand. Letters struck over on the typewriter (\"work\", \"prosperity\" on the sixth line, \"bottoms\", \"men\") are given in their final reading."
+],
+"file": "transcriptions/1903-05-29-echo.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"prosperity",
+"women",
+"state"
+],
+"stats": {
+"words": 218,
+"unique_words": 110,
+"sentences": 9,
+"avg_sentence": 24.2,
+"minutes": 2,
+"i_count": 7,
+"we_count": 0
+}
 },
 {
 "id": "1903-05-29-salt-lake-city-2",
@@ -37279,8 +37481,8 @@
 "churches",
 "anxious",
 "lives",
-"serve",
 "new",
+"serve",
 "cause"
 ],
 "stats": {
@@ -38203,8 +38405,8 @@
 "loyalty",
 "average",
 "deeds",
-"memories",
-"capital"
+"public",
+"memories"
 ],
 "stats": {
 "words": 1728,
@@ -39358,8 +39560,8 @@
 "freedom",
 "produce",
 "therefore",
-"responsibility",
 "government",
+"responsibility",
 "together"
 ],
 "stats": {
@@ -39726,8 +39928,8 @@
 "chiefs",
 "freedom",
 "rare",
-"armies",
 "war",
+"armies",
 "battle",
 "civil"
 ],
@@ -39924,8 +40126,8 @@
 ]
 },
 "distinctive": [
-"gettysburg",
 "forge",
+"gettysburg",
 "valley",
 "saved",
 "effort",
@@ -41323,8 +41525,8 @@
 },
 "distinctive": [
 "shipper",
-"form",
 "government",
+"form",
 "commerce",
 "supervision",
 "governmental",
@@ -41401,8 +41603,8 @@
 "baseless",
 "lacked",
 "arbitration",
-"step",
 "courage",
+"step",
 "position",
 "ships",
 "prepare"
@@ -42636,8 +42838,8 @@
 "panama",
 "square",
 "injustice",
-"pretty",
 "rich",
+"pretty",
 "poor",
 "trouble"
 ],
@@ -42889,7 +43091,7 @@
 "commander",
 "day's",
 "wanted",
-"weapon"
+"care"
 ],
 "stats": {
 "words": 3426,
@@ -43062,8 +43264,8 @@
 "distinctive": [
 "horse",
 "colorado",
-"regulatory",
 "corporations",
+"regulatory",
 "rates",
 "morgan",
 "commerce",
@@ -43622,8 +43824,8 @@
 "common-sense",
 "sake",
 "value",
-"president",
-"comes"
+"comes",
+"president"
 ],
 "stats": {
 "words": 1474,
@@ -49209,10 +49411,10 @@
 "corporations",
 "wilson",
 "law",
-"constitution",
 "government",
-"judicial",
+"constitution",
 "national",
+"judicial",
 "marshall",
 "epoch"
 ],
@@ -49546,14 +49748,14 @@
 },
 "distinctive": [
 "isthmus",
-"engineer",
 "work",
+"engineer",
 "realize",
 "ages",
 "task",
 "grand",
-"army",
 "spirit",
+"army",
 "enough"
 ],
 "stats": {
@@ -50833,7 +51035,7 @@
 "raiders",
 "murderous",
 "shot",
-"criminals"
+"conduct"
 ],
 "stats": {
 "words": 4663,
@@ -52038,9 +52240,9 @@
 "ease",
 "glory",
 "disagreeable",
-"woman",
+"duty",
 "statue",
-"duty"
+"woman"
 ],
 "stats": {
 "words": 2780,
@@ -53177,9 +53379,9 @@
 "democracy",
 "insult",
 "regards",
-"affairs",
 "conditions",
-"fleet"
+"affairs",
+"control"
 ],
 "stats": {
 "words": 3861,
@@ -53459,8 +53661,8 @@
 "movement",
 "honest",
 "well-being",
-"policies",
 "wealth",
+"policies",
 "property",
 "business",
 "tennessee",
@@ -53972,15 +54174,15 @@
 ]
 },
 "distinctive": [
-"interstate",
 "government",
+"interstate",
 "law",
 "tax",
 "congress",
 "public",
 "commerce",
-"conference",
 "legislation",
+"conference",
 "department"
 ],
 "stats": {
@@ -55307,7 +55509,7 @@
 "condemn",
 "capitalists",
 "praise",
-"foolish"
+"government"
 ],
 "stats": {
 "words": 1346,
@@ -55487,12 +55689,12 @@
 },
 "distinctive": [
 "act",
-"sovereign",
 "grant",
+"sovereign",
 "corporation",
 "reward",
-"federal",
 "ample",
+"federal",
 "carried",
 "privilege",
 "power"
@@ -57320,8 +57522,8 @@
 "home",
 "mother",
 "governmental",
-"provide",
 "possible",
+"provide",
 "permanent",
 "government",
 "interests"
@@ -58202,8 +58404,8 @@
 "naval",
 "division",
 "supplies",
-"bureau",
 "military",
+"bureau",
 "navy",
 "personnel",
 "reorganization",
@@ -59457,7 +59659,7 @@
 "water",
 "east",
 "sites",
-"national"
+"government"
 ],
 "stats": {
 "words": 5962,
@@ -60158,8 +60360,8 @@
 "earners",
 "hours",
 "social",
-"progress",
 "conditions",
+"progress",
 "earner"
 ],
 "stats": {
@@ -60382,9 +60584,9 @@
 "milwaukee",
 "pubhc",
 "schools",
+"public",
 "profession",
 "skilled",
-"public",
 "girls",
 "editor",
 "wields"
@@ -60503,8 +60705,8 @@
 "york",
 "dinner",
 "illinois",
-"sake",
-"face"
+"face",
+"sake"
 ],
 "stats": {
 "words": 2682,
@@ -60671,8 +60873,8 @@
 "decision",
 "decisions",
 "boss",
-"nationalism",
 "judicial",
+"nationalism",
 "rights",
 "dissenting",
 "court",
@@ -60882,8 +61084,8 @@
 "money",
 "lectures",
 "ideal",
-"multi-millionaire",
 "preach",
+"multi-millionaire",
 "ideals",
 "scoundrel",
 "knave"
@@ -62704,8 +62906,8 @@
 "party",
 "shot",
 "bullet",
-"applause",
 "friends",
+"applause",
 "republican",
 "wisconsin",
 "movement",

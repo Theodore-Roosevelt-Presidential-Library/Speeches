@@ -1,0 +1,16 @@
+---
+speech: 1903-05-29-salt-lake-city-2
+title: Remarks of President Roosevelt to the School Children, Salt Lake City, Idaho, May 29, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0505
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0505
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 157 425:0505]
+
+[margin: File -- not given out]
+
+I have but one word to say to you. I am very glad to see you. I believe in work and I believe in play. Play hard while you play; and when you work don't play at all. That is good advice for children, and it is good advice for grown folks too. It is a great pleasure to see you. (Cheers and applause)
+
+[note: The typed heading gives the state as "Idaho" for Salt Lake City. The handwritten margin note at the top left reads "File" and "not given out", with a diagonal stroke. The remainder of the page is blank.]
