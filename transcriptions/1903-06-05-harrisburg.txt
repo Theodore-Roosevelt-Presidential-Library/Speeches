@@ -1,0 +1,16 @@
+---
+speech: 1903-06-05-harrisburg
+title: Remarks of President Roosevelt at Harrisburg,Pa.,June 5,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 559
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0559
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 72 425:0559]
+
+It is a great pleasure to see you, and I am much obliged to you for coming to greet me. [-I have just come back,-] I passed through here two months and four days ago[+.+] [-and-] I have had a thoroughly enjoyable trip, and I come back in entire safety owing to the railroadmen. There has not been a day and hardly an hour that I have not owed my safety to them, and it is something I appreciate to the full,
+
+I am very glad to see you all. The thing that has struck me most , going from the Atlantic to the Pacific, is the substantial unity of our people, for wherever I have been I have been able to simply speak as one American to his fellow-Americans, and I am among first class Americans now. Good bye and good luck. ( Cheers and applause.)
+
+[note: Second item on folio 72 (right half of frame 559), below the Altoona remarks; a hand check mark is beside the heading. Hand corrections: the struck words before "I passed" are partly blotted ([?I have just come back,?]); after "ago" a circled period is added, "and" is struck through and the following "I" is double-underlined as a capital. A hand slash divides "railroad/men", and "to" and "simply" are marked with a transposition loop (to read "simply to speak"); the typed order is kept above. Faint hand marks over "been" and "I" in the last paragraph.]

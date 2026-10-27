@@ -1,0 +1,18 @@
+---
+speech: 1906-12-nobel-peace-prize-acceptance-speech
+title: [no typed heading]
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 428, frame 203
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_428:0203
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb ? 428:0203]
+
+Minister Peirce was directed by the President to read the following message to the Storthing:
+
+I am profoundly moved and touched by the signal honor shown me thru your body in conferring upon me the Nobel peace prize. There is no gift I could appreciate more; and I wish it were in my power fully to express my gratitude. I thank you for myself, and I thank you on behalf of the United States; for what I did I was able to accomplish only as the representative of the nation of which for the time being I am President. After much thought I have concluded that the best and most fitting way to apply the amount of the prize is by using it as a foundation to establish at Washington a permanent Industrial Peace Committee. The [illegible] object will be to strive for better and more equitable relations among my countrymen who are engaged, whether as capitalists or wage workers, in industrial and agricultural pursuits. This will carry out the purpose of the founder of the prize; for in modern life it is as important to work for the cause of just and righteous peace in the industrial world as in the world of nations. I again express to you the assurance of my deep and lasting gratitude and appreciation.
+
+Theodore Roosevelt.
+
+[note: A typed copy (typescript, not printed) of a written message, not a delivered speech: the first sentence, in the third person, says Minister Peirce was directed by the President to read it to the Storthing; the signature "Theodore Roosevelt." is typed. The word before "object" is a three-letter word typed over another and cannot be read with confidence. The frame is a single page (the listed left half cut the text off), so the whole frame was used. Above the message, on a separate sheet, is a mirror-image offset of a telegram dated Christiania, December 1, 1906, from the chairman of the Nobel Committee of the Norwegian Parliament to the President; it is not part of the message and is not transcribed. The handwritten folio number is written sideways in the left margin and may read 376; it is not certain.]

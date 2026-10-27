@@ -1,0 +1,16 @@
+---
+speech: 1903-06-05-altoona
+title: Remarks of President Roosevelt at Altoona,Pa.,June 5,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 559
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0559
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 72 425:0559]
+
+[margin: File]
+
+It is a great pleasure to see you,gentlemen. I have just come from a trip across the continent, first to the Pacific, now back again; and the thing that has pleased me most is to find everywhere the substantial unity of Americans. Wherever he goes the President of the United States is at home among his fellow-Americans, east or west, north or south. (Cheers and applause.)
+
+[note: The listed page (left half of frame 559, folio 71) is blank; the speech is on the right half of frame 559 (folio 72), above the Harrisburg remarks. "File" with a check and a slash is written by hand beside the heading. The s of "west" and the t of "States" are retouched by hand.]
