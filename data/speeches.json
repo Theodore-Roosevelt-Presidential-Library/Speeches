@@ -553,8 +553,8 @@
 "assessment",
 "estate",
 "taxing",
-"value",
 "taxation",
+"value",
 "taxes"
 ],
 "stats": {
@@ -915,8 +915,8 @@
 "war",
 "peace",
 "dead",
-"resistance",
-"islands"
+"islands",
+"resistance"
 ],
 "stats": {
 "words": 4369,
@@ -1645,7 +1645,7 @@
 "brotherhood",
 "young",
 "sentimentality",
-"men's"
+"self-respect"
 ],
 "stats": {
 "words": 2699,
@@ -1876,8 +1876,8 @@
 "commonwealths",
 "unity",
 "alleghanies",
-"union",
 "continent",
+"union",
 "spread",
 "older"
 ],
@@ -2742,10 +2742,10 @@
 "distinctive": [
 "tasks",
 "lesson",
-"lincoln",
 "afford",
-"love",
+"lincoln",
 "leave",
+"love",
 "taught",
 "ideal",
 "duty",
@@ -4175,8 +4175,8 @@
 "reformed",
 "island",
 "shortcomings",
-"wanted",
 "cuba",
+"wanted",
 "work",
 "hundred"
 ],
@@ -5117,8 +5117,8 @@
 "laws",
 "talent",
 "cure",
-"conditions",
 "power",
+"conditions",
 "wealth",
 "harm",
 "community"
@@ -5235,8 +5235,8 @@
 "corporation",
 "evils",
 "deal",
-"publicity",
 "laws",
+"publicity",
 "cure"
 ],
 "stats": {
@@ -5307,7 +5307,7 @@
 "nations",
 "true",
 "power",
-"nation"
+"work"
 ],
 "stats": {
 "words": 698,
@@ -5472,8 +5472,8 @@
 "distinctive": [
 "reed",
 "speaker",
-"congress",
 "government",
+"congress",
 "work"
 ],
 "stats": {
@@ -6184,7 +6184,7 @@
 "labor",
 "citizen",
 "citizenship",
-"courage"
+"work"
 ],
 "stats": {
 "words": 912,
@@ -6641,13 +6641,13 @@
 "distinctive": [
 "weapons",
 "richmond",
-"applause",
 "laughter",
+"applause",
 "patent",
 "defeat",
 "victory",
-"simple",
 "citizenship",
+"simple",
 "civil"
 ],
 "stats": {
@@ -6805,8 +6805,8 @@
 "distinctive": [
 "massachusetts",
 "philippines",
-"applause",
 "play",
+"applause",
 "troops",
 "help",
 "wherever",
@@ -6918,10 +6918,10 @@
 "distinctive": [
 "education",
 "richmond",
-"applause",
 "laughter",
-"courage",
+"applause",
 "school",
+"courage",
 "abraham",
 "preaching",
 "decency",
@@ -7096,7 +7096,7 @@
 "citizenship",
 "guard",
 "material",
-"soldier"
+"foundation"
 ],
 "stats": {
 "words": 1295,
@@ -13738,8 +13738,8 @@
 "homage",
 "supreme",
 "fought",
-"father",
-"justice"
+"justice",
+"father"
 ],
 "stats": {
 "words": 1194,
@@ -14027,8 +14027,8 @@
 "intense",
 "stronger",
 "movements",
-"christian",
 "movement",
+"christian",
 "century",
 "young",
 "associations"
@@ -14289,7 +14289,7 @@
 "islands",
 "candidate",
 "leader",
-"result"
+"history"
 ],
 "stats": {
 "words": 2784,
@@ -14459,7 +14459,7 @@
 "theory",
 "peace",
 "building",
-"highest"
+"mere"
 ],
 "stats": {
 "words": 996,
@@ -14990,8 +14990,8 @@
 "applause",
 "universities",
 "manly",
-"training",
 "college",
+"training",
 "woman",
 "strength",
 "special"
@@ -16152,8 +16152,8 @@
 "change",
 "schedules",
 "economic",
-"trusts",
 "interests",
+"trusts",
 "reduction",
 "treaty",
 "market",
@@ -16259,8 +16259,8 @@
 "freedom",
 "genius",
 "ages",
-"body",
 "woman",
+"body",
 "nations"
 ],
 "stats": {
@@ -16873,8 +16873,8 @@
 "law",
 "applause",
 "improvement",
-"cheers",
 "help",
+"cheers",
 "system",
 "easy",
 "laws"
@@ -18397,8 +18397,8 @@
 "products",
 "stuff",
 "fighting",
-"wanted",
-"law"
+"law",
+"wanted"
 ],
 "stats": {
 "words": 1626,
@@ -18525,8 +18525,8 @@
 "army",
 "taft",
 "militia",
-"civil",
 "government",
+"civil",
 "philippines"
 ],
 "stats": {
@@ -19088,8 +19088,8 @@
 "schools",
 "dakota",
 "north",
-"applause",
 "strength",
+"applause",
 "hard",
 "women",
 "glad",
@@ -19628,8 +19628,8 @@
 "cheers",
 "missouri",
 "pioneers",
-"regions",
 "state",
+"regions",
 "water",
 "agricultural"
 ],
@@ -21046,10 +21046,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 997,
+"paragraphs": [
+"Mr. Mayor; and you my Fellow Citizens:",
+"It is a very great pleasure to greet you this morning and to say a word of appreciation to you for coming here to welcome me. In thanking all of you, I know the others will not object to my saying a special word of greeting to the men who from '61 to '65 did the great deed because of which we now have a country, because of which there is a President to come and speak to you. (Applause) It has always seemed to me that after all in civil life what we have to do is merely to apply practically the principles which you and your comrades applied in the civil war. It was not, in the last resort, genius or brilliancy that won in the civil war. You needed that; you had to develop it in a sense; you had to develop finally as the years went by men like Grant, and Sherman, and Thomas, and Sheridan, and Farragut; but the factor that was decisive in the war was the fighting quality of the individual soldier. That is what counted; that is what you were concerned with knowing. You needed the uniform, the training, the rifle; you needed a good rifle; but the best rifle if in the hands of a poor man would mean that he would be beaten by a good man with a club. It is the man that counts in the long run. We won because our people from '61 to '65 had in them the stuff that made them see to it that the policy of Lincoln was upheld, that the course which he sought for most should be traveled undeviatingly. So it is in civil life now. We need all that there is at the command of the nation in special training to meet the problems that arise from time to time; and yet, in their ultimate analysis, these problems must be solved by just the same qualities which each man brings to solving the problem of his own life, which the soldiers of the civil war brought to the solving of the problem that was ahead of them. In the first place we need honesty(and I use the word in its broadest acceptation), decency, the spirit that makes a man behave well in his family, that makes him a good husband [?] neighbor, a good friend, the spirit that makes one man love another, that makes both love and serve the state. In the civil war the fundamental quality that you had to have was the quality that made you willing at need [?] to lay down your lives for the flag, the spirit of patriotism, the spirit of love of country. And by itself that is not enough. You have got to have virtue; and you have got to have something more. In '65 to '65 it did not make any difference how patriotic a man was, if he did not have in him the stuff out of which you could make a fighting man you could do but little with him. I do not care how patriotic he was, if he was timid there was nothing to be done with him. Besides virtue, decency, honesty, you must have the qualities which we speak of when we say of a man that he is not only a good man, but emphatically a man. You must have hardihood, courage, strength, the desire not to sit at home in ease and say how wrong the world has gone, but the desire to go out and do your part to right it. You remember in '61 [?] to '65 there were plenty of [?] to stay at home and say how poorly the war was being carried on, but the fellow that did the job was the man who went out and did his duty on the field of battle. That is the man that counts; and so it is now. The man that counts in life is the man who goes out and tries to do the thing. The man who makes his way in private life is not the man who dreams golden dreams, but the man who tries to put them into practice, who works at his profession, who tries to count in the world.",
+"So it is in public life, and so it is in doing all the work of the nation that has got to be done. In addition to virtue, in addition to the spirit of loving kindness, to the love that each man should have for his fellows, you must have the strong virile qualities, the qualities of hardihood, of manliness, of courage. And finally, in addition to these two sets of qualities you must have another also. It makes but little difference how brave a man is, or how honest he is, if the man is a fool you can do but little with him. We need courage, we need decency, and we need the saving grace of common sense.",
+"I come here in your great state, your singularly prosperous state, and I find the state has prospered as it has just exactly because you, my fellow citizens, and those like you, have developed those qualities in your ordinary dealings. I come here to a state rich and great, a state which has done well materially in so many lines, and it has done well because its best product has been its men and women. That is the product that counts in the long run.",
+"In concluding, my fellow citizens, after having thanked all of you, and thanked especially the men and the women, I shall just say one word of [?] congratulation upon the fact of meeting so many children. (Applause) I am mighty glad of all your products, and of your children especially. I am glad to see that they are all right in quality and all right in quantity. I believe in the stock and I want to see it keep up. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -21071,13 +21077,91 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0298, 0299",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0298",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 3 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor; and you my Fellow Citizens:",
+"It is a very great pleasure to greet you this morning and to say a word of appreciation to you for coming here to welcome me. In thanking all of you, I know the others will not object to my saying a special word of greeting to the men who from '61 to '65 did the great deed because of which we now have a country, because of which there is a President to come and speak to you. (Applause) It has always seemed to me that after all in civil life what we have to do is merely to apply practically the principles which you and your comrades applied in the civil war. It was not, in the last resort, genius or brilliancy that won in the civil war. You needed that; you had to develop it in a sense; you had to develop finally as the years went by men like Grant, and Sherman, and Thomas, and Sheridan, and Farragut; but the factor that was decisive in the war was the fighting quality of the individual soldier. That is what counted; that is what you were concerned with knowing. You needed the uniform, the training, the rifle; you needed a good rifle; but the best rifle if in the hands of a poor man would mean that he would be beaten by a good man with a club. It is the man that counts in the long run. We won because our people from '61 to '65 had in them the stuff that made them see to it that the policy of Lincoln was upheld, that the course which he sought for most should be traveled undeviatingly. So it is in civil life now. We need all that there is at the command of the nation in special training to meet the problems that arise from time to time; and yet, in their ultimate analysis, these problems must be solved by just the same qualities which each man brings to solving the problem of his own life, which the soldiers of the civil war brought to the solving of the problem that was ahead of them. In the first place we need honesty(and I use the word in its broadest acceptation), decency, the spirit that makes a man behave well in his family, that makes him a good husband [?] neighbor, a good friend, the spirit that makes one man love another, that makes both love and serve the state. In the civil war the fundamental quality that you had to have was the quality that made you willing at need [?] to lay down your lives for the flag, the spirit of patriotism, the spirit of love of country. And by itself that is not enough. You have got to have virtue; and you have got to have something more. In '65 to '65 it did not make any difference how patriotic a man was, if he did not have in him the stuff out of which you could make a fighting man you could do but little with him. I do not care how patriotic he was, if he was timid there was nothing to be done with him. Besides virtue, decency, honesty, you must have the qualities which we speak of when we say of a man that he is not only a good man, but emphatically a man. You must have hardihood, courage, strength, the desire not to sit at home in ease and say how wrong the world has gone, but the desire to go out and do your part to right it. You remember in '61 [?] to '65 there were plenty of [?] to stay at home and say how poorly the war was being carried on, but the fellow that did the job was the man who went out and did his duty on the field of battle. That is the man that counts; and so it is now. The man that counts in life is the man who goes out and tries to do the thing. The man who makes his way in private life is not the man who dreams golden dreams, but the man who tries to put them into practice, who works at his profession, who tries to count in the world.",
+"So it is in public life, and so it is in doing all the work of the nation that has got to be done. In addition to virtue, in addition to the spirit of loving kindness, to the love that each man should have for his fellows, you must have the strong virile qualities, the qualities of hardihood, of manliness, of courage. And finally, in addition to these two sets of qualities you must have another also. It makes but little difference how brave a man is, or how honest he is, if the man is a fool you can do but little with him. We need courage, we need decency, and we need the saving grace of common sense.",
+"I come here in your great state, your singularly prosperous state, and I find the state has prospered as it has just exactly because you, my fellow citizens, and those like you, have developed those qualities in your ordinary dealings. I come here to a state rich and great, a state which has done well materially in so many lines, and it has done well because its best product has been its men and women. That is the product that counts in the long run.",
+"In concluding, my fellow citizens, after having thanked all of you, and thanked especially the men and the women, I shall just say one word of [?] congratulation upon the fact of meeting so many children. (Applause) I am mighty glad of all your products, and of your children especially. I am glad to see that they are all right in quality and all right in quantity. I believe in the stock and I want to see it keep up. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 146 (frame 425:0298)</span>",
+"Mr. Mayor; and you my Fellow Citizens:",
+"It is a very great pleasure to greet you this morning and to say a word of appreciation to you for coming here to welcome me. In thanking all of you, I know the others will not object to my saying a special word of greeting to the men who from &#x27;61 to &#x27;65 did the great deed because of which we now have a country, because of which there is a President to come and speak to you. (Applause) It has always <span class=\"sic\" title=\"reads: seemed to\">seemedto</span> me that after all in civil life what we have to do is merely to apply practically the principles which you and your comrades applied in the civil war. It was not, in the last resort, genius or brilliancy that won in the civil war. You needed that; you had to develop it in a sense; you had to develop finally as the years went by men like Grant, and Sherman, and Thomas, and Sheridan, and Farragut; but the factor that was decisive in the war was the fighting quality of the individual soldier. That is what counted; that is what you were concerned with <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> knowing. You needed the uniform, the training, the rifle; you needed a good rifle; but the best rifle if in the hands of a poor man would mean that he would be beaten by a good man with a club. It is the man that counts in the long run. We won because our people from &#x27;61 to &#x27;65 had in them the stuff that made them see to it that the policy of Lincoln was upheld, that the course which he sought for most should be traveled undeviatingly. So it is in civil life now. We need all that there is at the command of the nation in special training to meet the problems that arise from time to time; and yet, in their ultimate analysis, these problems must be solved by just the same qualities which each man brings to solving the problem of his own life, which the soldiers of the civil war brought to the solving of the problem that was ahead of them. In the first place we need honesty<ins title=\"added by hand\">(</ins> and I use the word in its broadest acceptation<ins title=\"added by hand\">)</ins>, decency, the spirit that makes a man behave well in his family, that makes him a good <span class=\"unc\" title=\"uncertain reading\">husband</span> neighbor, a good friend, the spirit that makes one man love another, that makes both love and serve the state. In the civil war the fundamental quality that you had to have was the quality that made you willing at <span class=\"unc\" title=\"uncertain reading\">need</span> to lay down your lives for the flag, the spirit of patriotism, the spirit of love of country<ins title=\"added by hand\">.</ins> <del title=\"struck through\">and</del><ins title=\"added by hand\">And</ins> by itself that is not enough. You have got to have virtue; <span class=\"pb\">Page 147 (frame 425:0299)</span> and you have got to have something more. In &#x27;65 to &#x27;65 it did not make any difference how patriotic a man was, if he did not have in him the stuff out of which you could make a fighting man you could do but little with him. I do not care how patriotic he was, if he was timid there was nothing to be done with him. Besides virtue, decency, honesty, you must have the qualities which we speak of when we say of a man that he is not only a good man, but emphatically a man. You must have hardihood, courage, strength, the desire not to sit at home in ease and say how wrong the world has gone, but the desire to go out and do your part to right it. You remember in &#x27;6<span class=\"unc\" title=\"uncertain reading\">1</span> to &#x27;65 there were plenty <span class=\"unc\" title=\"uncertain reading\">of</span> to stay at home and say how poorly the war was being carried on, but the fellow that did the job was the man who went out and did his duty on the field of battle. That is the man that counts; and so it is now. The man that counts in life is the man who goes out and tries to do the thing. The man who makes his way in private life is not the man who dreams golden dreams, but the man who tries to put them into practice, who works at his profession, who tries to count in the world.",
+"So it is in public life, and so it is in doing all the work of the nation that has got to be done. In addition to virtue, in addition to the spirit of loving kindness, to the love that each man should have for his fellows, you must have the strong virile qualities , the qualities of hardihood, of manliness, of courage. And finally, in addition to these two sets of qualities you must have another also. It makes but little difference how brave a man is, or how honest he is, if the man is a fool you can do but little with him. We need courage, we need decency, and we <span class=\"sic\" title=\"reads: need the\">needthe</span> saving grace of common sense.",
+"I come here in your great state, your singularly prosperous state, and I find the state <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">that</span></del> has prospered as it has just exactly because you, my fellow citizens, and those like you, have developed those qualities in your ordinary dealings. I come here to a state rich and great, a <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> state which has done well materially in so many lines, and it has done well because<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">x</span></del> its best product has been its men and women. That is the product that counts in the long run.",
+"In concluding, my fellow citizens, after having thanked all of you, and thanked especially the men and the women, I shall just say one word <span class=\"unc\" title=\"uncertain reading\">of</span> congratulation upon the fact of meeting so many children. (Applause) I am mighty glad of all your products, and of your children especially. I am glad to see that they are all right in quality and all right in quantity. I believe in the stock and I want to <span class=\"sic\" title=\"reads: see it\">seeit</span> keep up. (Applause)",
+"<span class=\"tnote\">Page 146: the parentheses around &quot;and I use the word in its broadest acceptation&quot; are added by hand in ink (the closing one written over the typed comma). A short vertical pen stroke separates &quot;civil&quot; and &quot;war&quot; (second &quot;civil war&quot; in that sentence) and another touches &quot;you&quot; in &quot;made you willing&quot;; proofreading marks only. &quot;<span class=\"illeg\">[illegible]</span>&quot; after &quot;concerned with&quot; is a short word blotted out on the typewriter. &quot;were&quot; there is typed over another letter. &quot;husband&quot; before &quot;neighbor&quot; and &quot;need&quot; in &quot;at need&quot; are heavily inked and blurred. Handwritten &quot;2e/&quot; (or similar) in the left margin of p. 146 is a filing mark.</span>\n<span class=\"tnote\">Page 147: the first date reads &quot;&#x27;65 to &#x27;65&quot; as typed (first figure clear, second heavily inked); the second date has its last digit of &quot;&#x27;6_&quot; overwritten by a hand stroke, apparently making &quot;&#x27;61&quot;. &quot;that&quot; after &quot;the state&quot; and the word after &quot;a&quot; in &quot;a ___ state&quot; are x-ed out on the typewriter. &quot;because&quot; is followed by an overstruck letter. The last paragraph is single-spaced and heavily inked; &quot;word of&quot; is run together and dark. Page heading &quot;-2-&quot;.</span>\n<span class=\"tnote\">Third look: after &quot;love of country&quot; the typed comma is circled in ink (proofreader&#x27;s full stop) and the &quot;a&quot; of &quot;and&quot; is written over by hand as a capital with a triple underline (capitalize), so the hand makes it &quot;. And&quot;. &quot;In &#x27;65 to &#x27;65&quot; is typed so (the figure after &quot;In&quot; is a clear &#x27;65 in the image); it looks like a slip for &#x27;61 but is left as typed, with no hand correction. The word after &quot;plenty&quot; is two heavily inked letters, apparently &quot;of&quot; (as dark as other words in that line, not visibly x-ed out), but too blotted to read with confidence.</span>"
+],
+"notes": [
+"Page 146: the parentheses around \"and I use the word in its broadest acceptation\" are added by hand in ink (the closing one written over the typed comma). A short vertical pen stroke separates \"civil\" and \"war\" (second \"civil war\" in that sentence) and another touches \"you\" in \"made you willing\"; proofreading marks only. \"[illegible]\" after \"concerned with\" is a short word blotted out on the typewriter. \"were\" there is typed over another letter. \"husband\" before \"neighbor\" and \"need\" in \"at need\" are heavily inked and blurred. Handwritten \"2e/\" (or similar) in the left margin of p. 146 is a filing mark.",
+"Page 147: the first date reads \"'65 to '65\" as typed (first figure clear, second heavily inked); the second date has its last digit of \"'6_\" overwritten by a hand stroke, apparently making \"'61\". \"that\" after \"the state\" and the word after \"a\" in \"a ___ state\" are x-ed out on the typewriter. \"because\" is followed by an overstruck letter. The last paragraph is single-spaced and heavily inked; \"word of\" is run together and dark. Page heading \"-2-\".",
+"Third look: after \"love of country\" the typed comma is circled in ink (proofreader's full stop) and the \"a\" of \"and\" is written over by hand as a capital with a triple underline (capitalize), so the hand makes it \". And\". \"In '65 to '65\" is typed so (the figure after \"In\" is a clear '65 in the image); it looks like a slip for '61 but is left as typed, with no hand correction. The word after \"plenty\" is two heavily inked letters, apparently \"of\" (as dark as other words in that line, not visibly x-ed out), but too blotted to read with confidence."
+],
+"file": "transcriptions/1903-04-28-shenandoah.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"home-family",
+"civil-war"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+},
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+},
+{
+"id": "david-farragut",
+"name": "David Farragut",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"rifle",
+"love",
+"tries",
+"makes",
+"virtue",
+"counts",
+"civil",
+"decency",
+"quality",
+"qualities"
+],
+"stats": {
+"words": 997,
+"unique_words": 314,
+"sentences": 33,
+"avg_sentence": 30.2,
+"minutes": 8,
+"i_count": 11,
+"we_count": 10
+}
 },
 {
 "id": "1903-04-28-des-moines",
@@ -21568,10 +21652,16 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 1073,
+"paragraphs": [
+"Mr. Chairman, and you, my fellow-Americans, my fellow-citizens:",
+"I could not deny myself the pleasure of coming here this evening to say a word or two of respect and greeting and appreciation for the memory of General Sigel, and of the cause which he typifies. It was my good fortune at the last session of Congress to sign a bill for General Sigel's widow, which you, Mr. Bartholdt, were instrumental in passing.(Applause.) I wish this evening to bear testimony by a word to his services, and to point out what those services meant and symbolized to the republic. General Sigel was one of the foremost among the men, some of whom are present here this evening, who saved Missouri to the Union, and who fought in that great army which has left us not merely a heritage of honor, but which has left us a standard to which we must rise, for to that standard in war we in turn must rise in peace. There are many lessons for us to learn from what General Sigel and his fellows did in the iron days that tried men's souls. In the first place, the great lesson of brotherhood. We were thrice fortunate in the Civil War, in spite of all the sadness and the bitterness and the heartburning, for that contest left us the right as a reunited nation to take pride, not merely in the valor shown by the men who wore the blue, but in the valor shown by the men who wore the gray.(Applause.) The very victory won by the men like General Sigel left the victors the right of claiming their share in the renown of the valient vanquished, and so with the sons of the south the men of the north and south alike have a right to feel proud of all the deeds of prowess done on either side of the contest. Another lesson, oh, my friends and fellow-countrymen, we are here a new nation, different from any old world nation, because we come of many different strains. The American of to-day, the American of the past, the American of the future does not represent any one strain. In our composite nationality flows the blood of the majority of the nations of western Europe. In the Civil War our heroes numbered men like Sigel and Sheridan, Grant, Sherman, men of different race origin; men who themselves or whose fathers had come from different lands, but who all alike were ready to pour out their blood like water in defense of the flag that symbolized their ideals.",
+"My fellow-citizens, we can win in the fields of civic life, we can do our duty in peace as they did their duty in war, only by keeping true to the principle which they represented; only by treating every American Citizen on his worth as a man and disregarding all else.(Applause.) On the platform with me, there in the audience I see men wearing the button which shows that in the iron times they proved their manhood. (Applause.)Each one of you on the march or in battle were immensely concerned about certain things in regard to your comrades, and there were others about which you cared nothing. It was of small consequence indeed what the way was in which the man on your right hand or on your left worshipped his maker; it was of small consequence from what land he or his forefathers had come; it was of small consequence what his social position had been, or what his means; that was not what concerned you. What you wanted to know about the man who went forward beside you in battle was as to whether when the time of stress came his mettle would ring true.(Applause.) If it did he was your brother. You wanted to know that when the time came to move he would move in the right direction.(Applause.) You wanted in other words, to judge him on his worth as a man. If he had courage, honesty, and sincerity of, purpose, stalwart and determined to battle to the end for the cause to which he had sworn fealty then you held him as a worthy comrade, and all else was as nothing in the balance compared to it. (Applause.)",
+"In the field of social and civic effort we can win only precisely on those terms. The man who seeks to stir up one class of our citizens against another, or to divide one class of our citizens against another on any other line of cleavage save the line of cleavage which separates right from wrong does to all of us a foul injustice.(Applause.)To try to array class against class, section against section, any body of our citizens against any other body for an artificial or improper reason is to do evil to the entire body politic. We can win, as we will win, and make this republic during the century that has opened the brightest, the greatest, the most orderly and the freeest republic upon which the sun has ever shone, only if we approach our task to-day in the spirit with which General Sigel and his colleagues and his comrades approached their's in the Civil War; the spirit that cares nothing for the accidental differences of social position or means, the spirit that scorns to dwell upon the difference in origin, in birth place, the spirit that says of every other American, are they true, courageous, sincere, honest, if so, I challenge them as my brother; the spirit of Abraham Lincoln, the spirit of national brotherhood in its deepest and broadest significance, if we are true to that ideal we shall win out; if we are false to it we shall fail, and shame to us for the failure.",
+"I have said that many race strains join to make American citizenship. From each strain something of value can be gotten for the good of our common country; from all of them we can get the highest citizenship on one condition, and that condition is the frank acceptance on our part of the underlying principle to which we cannot afford to be recreant, the principle of American citizenship, the principle of judging each man on his worth as a man, and if he does his part well, hail him as our brother in truth and in fact.(Cheers and applause.)"
+],
 "editions": [],
 "trc": [
 {
@@ -21593,13 +21683,88 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0318, 0319",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0318",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman, and you, my fellow-Americans, my fellow-citizens:",
+"I could not deny myself the pleasure of coming here this evening to say a word or two of respect and greeting and appreciation for the memory of General Sigel, and of the cause which he typifies. It was my good fortune at the last session of Congress to sign a bill for General Sigel's widow, which you, Mr. Bartholdt, were instrumental in passing.(Applause.) I wish this evening to bear testimony by a word to his services, and to point out what those services meant and symbolized to the republic. General Sigel was one of the foremost among the men, some of whom are present here this evening, who saved Missouri to the Union, and who fought in that great army which has left us not merely a heritage of honor, but which has left us a standard to which we must rise, for to that standard in war we in turn must rise in peace. There are many lessons for us to learn from what General Sigel and his fellows did in the iron days that tried men's souls. In the first place, the great lesson of brotherhood. We were thrice fortunate in the Civil War, in spite of all the sadness and the bitterness and the heartburning, for that contest left us the right as a reunited nation to take pride, not merely in the valor shown by the men who wore the blue, but in the valor shown by the men who wore the gray.(Applause.) The very victory won by the men like General Sigel left the victors the right of claiming their share in the renown of the valient vanquished, and so with the sons of the south the men of the north and south alike have a right to feel proud of all the deeds of prowess done on either side of the contest. Another lesson, oh, my friends and fellow-countrymen, we are here a new nation, different from any old world nation, because we come of many different strains. The American of to-day, the American of the past, the American of the future does not represent any one strain. In our composite nationality flows the blood of the majority of the nations of western Europe. In the Civil War our heroes numbered men like Sigel and Sheridan, Grant, Sherman, men of different race origin; men who themselves or whose fathers had come from different lands, but who all alike were ready to pour out their blood like water in defense of the flag that symbolized their ideals.",
+"My fellow-citizens, we can win in the fields of civic life, we can do our duty in peace as they did their duty in war, only by keeping true to the principle which they represented; only by treating every American Citizen on his worth as a man and disregarding all else.(Applause.) On the platform with me, there in the audience I see men wearing the button which shows that in the iron times they proved their manhood. (Applause.)Each one of you on the march or in battle were immensely concerned about certain things in regard to your comrades, and there were others about which you cared nothing. It was of small consequence indeed what the way was in which the man on your right hand or on your left worshipped his maker; it was of small consequence from what land he or his forefathers had come; it was of small consequence what his social position had been, or what his means; that was not what concerned you. What you wanted to know about the man who went forward beside you in battle was as to whether when the time of stress came his mettle would ring true.(Applause.) If it did he was your brother. You wanted to know that when the time came to move he would move in the right direction.(Applause.) You wanted in other words, to judge him on his worth as a man. If he had courage, honesty, and sincerity of, purpose, stalwart and determined to battle to the end for the cause to which he had sworn fealty then you held him as a worthy comrade, and all else was as nothing in the balance compared to it. (Applause.)",
+"In the field of social and civic effort we can win only precisely on those terms. The man who seeks to stir up one class of our citizens against another, or to divide one class of our citizens against another on any other line of cleavage save the line of cleavage which separates right from wrong does to all of us a foul injustice.(Applause.)To try to array class against class, section against section, any body of our citizens against any other body for an artificial or improper reason is to do evil to the entire body politic. We can win, as we will win, and make this republic during the century that has opened the brightest, the greatest, the most orderly and the freeest republic upon which the sun has ever shone, only if we approach our task to-day in the spirit with which General Sigel and his colleagues and his comrades approached their's in the Civil War; the spirit that cares nothing for the accidental differences of social position or means, the spirit that scorns to dwell upon the difference in origin, in birth place, the spirit that says of every other American, are they true, courageous, sincere, honest, if so, I challenge them as my brother; the spirit of Abraham Lincoln, the spirit of national brotherhood in its deepest and broadest significance, if we are true to that ideal we shall win out; if we are false to it we shall fail, and shame to us for the failure.",
+"I have said that many race strains join to make American citizenship. From each strain something of value can be gotten for the good of our common country; from all of them we can get the highest citizenship on one condition, and that condition is the frank acceptance on our part of the underlying principle to which we cannot afford to be recreant, the principle of American citizenship, the principle of judging each man on his worth as a man, and if he does his part well, hail him as our brother in truth and in fact.(Cheers and applause.)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 185 (frame 425:0318)</span>",
+"<span class=\"margin\">In the margin: not corrected</span>",
+"Mr. Chairman, and you, my fellow-Americans, my fellow-citizens:",
+"I could not deny myself the pleasure of coming here this evening to say a word or two of respect and greeting and appreciation for the memory of General Sigel, and of the cause which he typifies. It was my good fortune at the last session of Congress to sign a bill <span class=\"sic\" title=\"reads: for\">f for</span> General Sigel&#x27;s widow, which you, Mr. Bartholdt, were instrumental in passing.(Applause.) I wish this evening to bear testimony by a word to his services, and to point out what those services meant and symbolized to the republic. General Sigel was one of the foremost among the men, some of whom are present here this evening, who saved Missouri to the Union, and who fought in that great army which has left us not merely a heritage of honor, but which has left us a standard to which we must rise, for to that standard <del title=\"struck through\">xx</del> in war we in turn must rise in peace. There are many lessons for us to <span class=\"sic\" title=\"reads: learn from\">learnfrom</span> what General Sigel and his fellows did in the iron days that tried men&#x27;s souls. In the first place, the great lesson of brotherhood. We were thrice fortunate in the Civil War, in spite of all the sadness and the bitterness and the <del title=\"struck through\">xxxxx</del> heartburning, for that contest left us the right as a reunited nation to take <del title=\"struck through\">xxxxxx</del> pride, not merely in the valor <del title=\"struck through\">xx</del> shown by the men who wore the blue, but in the valor shown by the men who wore the gray.(Applause.) The very victory won by the men like General Sigel left the victors the right of claiming their share in the renown of the valient <del title=\"struck through\">xxxxx</del> vanquished, and so with the sons of the south the men of the north and south alike have a right to feel proud of all the deeds of prowess done on either side of the contest. Another lesson , oh, my friends and fellow-countrymen, we are here a new nation, different from any <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> old world nation, because we come of many different strains. <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> The American of to-day, the American of the past, the American of the future does not represent any one strain. In our composite nationality flows the blood of the majority of the <span class=\"sic\" title=\"reads: nations\">natuons</span> of western Europe. In the Civil War our <span class=\"pb\">Page 186 (frame 425:0318)</span> heroes numbered men like Sigel and Sheridan, Grant, Sherman, men of different race origin; men who themselves or whose fathers had come from different lands, but who all alike were ready to pour out their blood like water in defense of the flag that symbolized their ideals.",
+"My fellow-citizens, we can win in the fields of civic life, we can do our duty in peace as they did their duty in war, only by keeping true to the principle which they represented; only by treating every American Citizen on his worth as <del title=\"struck through\">xx</del> a man and disregarding all else.(Applause.) On the platform with me, there in the audience I see men wearing the button which shows that in the iron times they proved their manhood. (Applause.)Each one of you on the march or in battle were immensely concerned about certain things in regard to your comrades, and there were others about which you cared nothing. It was of small consequence <span class=\"sic\" title=\"reads: indeed\">i indeed</span> what the way <span class=\"sic\" title=\"reads: was\">w s</span> in which the man on your right hand or on your left worshipped his maker; it was of small consequence from what land he <del title=\"struck through\">xxxxxxxxxx</del> or his forefathers had come; it was of small consequence what his social position had been, or what his means; that was not what concerned you. What you wanted to know about the man who went forward beside you in battle was as to whether when the time of stress came his <span class=\"sic\" title=\"reads: mettle\">bettle</span> would ring true.(Applause.) If it did he was your brother. You wanted to know that when the time came to move he would move in the right direction.(Applause.) You wanted <del title=\"struck through\">xxxxxxx</del> in other words , to judge him on his worth as a man. If he had courage, honesty, and sincerity of, purpose, stalwart and determined to battle to the end for the cause to which he had sworn fealty then you held him as <ins title=\"added by hand\">a</ins> worthy comrade, and all else was as nothing in the balance compared to it. (Applause.)",
+"In the field of social and civic effort we can win only precisely on those terms. The man who seeks to stir up one class of our citizens against another, or to divide one class of our citizens against another on any other line of cleavage save the line of cleavage which separates right from wrong does to all of us a foul injustice.(Applause.)To try to array class against class, section against section, any body of our citizens against any other body for an artificial or improper reason <span class=\"pb\">Page 187 (frame 425:0319)</span> is to do evil to the entire body politic. We can win,<del title=\"struck through\">xxx</del> as we will win, and make this republic during the century that has opened the brightest, the greatest, the most orderly and the freeest republic upon which the sun has ever shone,only if we approach our task to-day in the spirit with which General Sigel <del title=\"struck through\">xxxx</del> and his colleagues and his comrades approached their&#x27;s in the Civil War; the spirit that cares nothing for the accidental differences of social position or means, the spirit that scorns to dwell upon the difference in origin , in <span class=\"sic\" title=\"reads: birth\">borth</span> place, the spirit that says of every other American, are they true, courageous, sincere, honest, if so, I challenge them as my brother; the spirit <del title=\"struck through\">thatxxxxxx</del> of Abraham Lincoln, the spirit of national brotherhood in its deepest and broadest <span class=\"sic\" title=\"reads: significance\">signigicance</span>, if we are true to that ideal we shall win out; if we are false to it we shall fail, and shame to us for the failure.",
+"I have said that many race strains join to make American citizenship. From each strain something of value can be gotten for the good of our common country; from all of them we can get the highest citizenship on one condition, and that <del title=\"struck through\">xx</del> condition is the frank acceptance on our part of the underlying principle to which we cannot afford to be recreant, the principle of American citizenship, the principle of judging each man on his worth as a man, and if he does his part well, hail him as our brother in truth and in fact.(Cheers and applause.)",
+"<span class=\"margin\">In the margin: No. 1064</span>",
+"<span class=\"tnote\">Folios 185 and 186 are the left and right pages of frame 0318; 187 is the left page of frame 0319. &quot;not corrected&quot; is written by hand diagonally in the top left margin of p. 185. &quot;No. 1064&quot; is a stamped number at the foot of p. 187.</span>\n<span class=\"tnote\">Page 185: a stray &quot;f&quot; is typed at the end of the line after &quot;sign a bill&quot;, before &quot;for&quot; on the next line. A pen stroke divides &quot;learn&quot; from &quot;from&quot;. The long x-ed out runs after &quot;different from any&quot; and after &quot;different strains.&quot; are typewriter strikeouts whose letters cannot be read with confidence; the shorter x-ed out runs after &quot;standard&quot;, &quot;the&quot;, &quot;take&quot;, &quot;valor&quot; and &quot;valient&quot; are also typewriter strikeouts. A stray mark stands before &quot;with the sons&quot;. &quot;Sheridan&quot; (p. 186) has its first letter typed over another.</span>\n<span class=\"tnote\">Page 186: a typed &quot;0&quot; stands in the right margin after &quot;(Applause.)&quot; and a stray &quot;i&quot; at the end of the line before &quot;indeed&quot;; both look like typing slips. &quot;it was&quot; is typed &quot;i t was&quot;, &quot;consequence&quot; (third) &quot;consequen ce&quot;, &quot;civic&quot; &quot;civ ic&quot;; closed up. &quot;a&quot; above &quot;as worthy&quot; is written by hand; a pen mark stands after &quot;all&quot; in &quot;all else&quot;. &quot;in&quot; (&quot;move in the right&quot;) and &quot;improper&quot; have overstruck letters. &quot;bettle&quot; is typed so; read as a slip for &quot;mettle&quot;. Page heading &quot;-2-&quot;.</span>\n<span class=\"tnote\">Page 187: &quot;and&quot; after &quot;We can win,&quot; is x-ed out on the typewriter, as are the runs after &quot;General Sigel&quot; and in &quot;that[xxxxxx]&quot; (the whole word &quot;that&quot; is overtyped) and the short run before &quot;condition&quot;. &quot;spirit&quot; is typed &quot;spi rit&quot;, closed up. &quot;highest&quot;, &quot;condition&quot; and &quot;frank&quot; have overstruck letters. Page heading &quot;-3-&quot;.</span>"
+],
+"notes": [
+"Folios 185 and 186 are the left and right pages of frame 0318; 187 is the left page of frame 0319. \"not corrected\" is written by hand diagonally in the top left margin of p. 185. \"No. 1064\" is a stamped number at the foot of p. 187.",
+"Page 185: a stray \"f\" is typed at the end of the line after \"sign a bill\", before \"for\" on the next line. A pen stroke divides \"learn\" from \"from\". The long x-ed out runs after \"different from any\" and after \"different strains.\" are typewriter strikeouts whose letters cannot be read with confidence; the shorter x-ed out runs after \"standard\", \"the\", \"take\", \"valor\" and \"valient\" are also typewriter strikeouts. A stray mark stands before \"with the sons\". \"Sheridan\" (p. 186) has its first letter typed over another.",
+"Page 186: a typed \"0\" stands in the right margin after \"(Applause.)\" and a stray \"i\" at the end of the line before \"indeed\"; both look like typing slips. \"it was\" is typed \"i t was\", \"consequence\" (third) \"consequen ce\", \"civic\" \"civ ic\"; closed up. \"a\" above \"as worthy\" is written by hand; a pen mark stands after \"all\" in \"all else\". \"in\" (\"move in the right\") and \"improper\" have overstruck letters. \"bettle\" is typed so; read as a slip for \"mettle\". Page heading \"-2-\".",
+"Page 187: \"and\" after \"We can win,\" is x-ed out on the typewriter, as are the runs after \"General Sigel\" and in \"that[xxxxxx]\" (the whole word \"that\" is overtyped) and the short run before \"condition\". \"spirit\" is typed \"spi rit\", closed up. \"highest\", \"condition\" and \"frank\" have overstruck letters. Page heading \"-3-\"."
+],
+"file": "transcriptions/1903-04-29-st-louis.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war",
+"citizenship"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "abraham-lincoln",
+"name": "Abraham Lincoln",
+"count": 1
+},
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+},
+{
+"id": "william-t-sherman",
+"name": "William T. Sherman",
+"count": 1
+},
+{
+"id": "philip-sheridan",
+"name": "Philip Sheridan",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"sigel",
+"applause",
+"win",
+"principle",
+"evening",
+"wanted",
+"left",
+"brother",
+"general",
+"class"
+],
+"stats": {
+"words": 1073,
+"unique_words": 399,
+"sentences": 20,
+"avg_sentence": 53.6,
+"minutes": 8,
+"i_count": 5,
+"we_count": 17
+}
 },
 {
 "id": "1903-04-29-st-louis-2",
@@ -21981,10 +22146,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 978,
+"paragraphs": [
+"Mr. Mayor; and you, My Fellow Americans; My Fellow Citizens:",
+"It is indeed a pleasure to be here to-day, to have entered your mighty and beautiful state, and to make my first stop in this city. Like everyone else I feel as though I had an intimate acquaintance with this city as it was half a century ago, for I am a good reader of Mark Twain. I rejoice in coming here to be a witness of your growth, a witness of the prosperity which you have so abundantly enjoyed with the rest of our common country. And in thanking you, let me say a word of special thanks to the men of the National Guard who have turned out as a escort. I am glad to see you, and I am glad to see you in service uniform. I always like to see a guardsman when he looks like business; and among the things recently done in Congress I have felt like specially congratulating us upon at last having a militia law which will do much for us, and among other things enable us to furnish the National Guard with proper arms. I do not want to see any American soldier with a black powder rifle, just exactly as I do not want to see him with a crossbow. I believe that any man who wears or may in time of emergency wear Uncle Sam's uniform is entitled to the best that we can give him; (Applause) and having given him the arms I have got confidence enough in our people and in the soldier-like spirit of the officers and enlisted men of the national guard to be sure that by training and exercise he will see that he fits himself to get the best use out of it. As an old- national guardsman myself let me say that I hope you will keep steadily in mind in time of peace to prepare yourselves efficiently should trouble arise. I want to see the marksmanship of the guard get steadily above even its present standard. In a battle the shots that count are the shots that hit; and the man who is worth his weight is the man who is grown to handle his rifle so that it natural for him to handle it well. I want to see the officer and the enlisted man shoot. In battle the officer is not going to carry his sword in case he is being put against a serious foe. I want to see the officer and the enlisted man both shoot well, and I want to see the officer impressed with the fact that the shooting of the enlisted man, if he does it well, reflects credit upon him; that he must supervise it and be responsible for it. As I say, I have been in the national guard, I have served in it, and therefore I take a peculiar interest in all things pertaining thereto.",
+"I want to congratulate you, my fellow citizens, men and women of Missouri, upon the way your city has grown. Missouri is fortunate in being a state of great and diversified resources, great in agriculture, with a good deal of manufacturing, a great deal of commerce, and, here I am in one of the typical railway centers of the country. I would like to say a special word partly to and partly in connection with the railway men; the men who handle the traffic of the country, who carry on the transportation business of the country show and need qualities which it is particularly desirable for us in our highly civilized life to see that our people retain. The man who is a good railroad man has got to be willing to take risks, to suffer exposure, to know what it is to face irregular hours, and finally, to combine the ability to obey orders and obey them quick with the ability to act on his own initiative, his own responsibility, in time of need. At the present day when life is so easy for many of us, when there tends to be, owing to the growth of civilization, of comfort, and indeed of luxury, a certain softening of the fibers, it is a good thing to have certain professions in which the utmost possible demand is made upon all that is virile and manly in those that follow them. I believe emphatically in honesty, decency, cleanliness, morality as a basis for life; but it is not enough. I do not care how virtuous a man is, if he is afraid, he is no good. The cloistered virtue does not count in this world. The man who is a nice fellow and never wrongs anybody and sits at home in his own parlor and says how sorry he is the world is so bad, is of scant use to the body politic. What we need is the man who is a square man, who deals rightly with his neighbors, who deals rightly with the state, who is a good husband, a good father, a good man to deal with, a good man to work with, and who in addition to being a good man, is a man plain and simple. (Applause) In other words, besides decency, honesty, morality, all of which are indispensable, we need the rough qualities, the quality of courage, the quality of strength, the quality of hardihood. You need decency, and that is not enough. You need courage, and that is not enough. For I do not care how decent and how brave a man is if he is a natural born fool you can do nothing with him. You need decency, courage, and finally, the saving grace of common sense. Missouri has gone on and will go on because its men and women possess all three qualities. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -22006,13 +22175,62 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0313",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0313",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Mayor; and you, My Fellow Americans; My Fellow Citizens:",
+"It is indeed a pleasure to be here to-day, to have entered your mighty and beautiful state, and to make my first stop in this city. Like everyone else I feel as though I had an intimate acquaintance with this city as it was half a century ago, for I am a good reader of Mark Twain. I rejoice in coming here to be a witness of your growth, a witness of the prosperity which you have so abundantly enjoyed with the rest of our common country. And in thanking you, let me say a word of special thanks to the men of the National Guard who have turned out as a escort. I am glad to see you, and I am glad to see you in service uniform. I always like to see a guardsman when he looks like business; and among the things recently done in Congress I have felt like specially congratulating us upon at last having a militia law which will do much for us, and among other things enable us to furnish the National Guard with proper arms. I do not want to see any American soldier with a black powder rifle, just exactly as I do not want to see him with a crossbow. I believe that any man who wears or may in time of emergency wear Uncle Sam's uniform is entitled to the best that we can give him; (Applause) and having given him the arms I have got confidence enough in our people and in the soldier-like spirit of the officers and enlisted men of the national guard to be sure that by training and exercise he will see that he fits himself to get the best use out of it. As an old- national guardsman myself let me say that I hope you will keep steadily in mind in time of peace to prepare yourselves efficiently should trouble arise. I want to see the marksmanship of the guard get steadily above even its present standard. In a battle the shots that count are the shots that hit; and the man who is worth his weight is the man who is grown to handle his rifle so that it natural for him to handle it well. I want to see the officer and the enlisted man shoot. In battle the officer is not going to carry his sword in case he is being put against a serious foe. I want to see the officer and the enlisted man both shoot well, and I want to see the officer impressed with the fact that the shooting of the enlisted man, if he does it well, reflects credit upon him; that he must supervise it and be responsible for it. As I say, I have been in the national guard, I have served in it, and therefore I take a peculiar interest in all things pertaining thereto.",
+"I want to congratulate you, my fellow citizens, men and women of Missouri, upon the way your city has grown. Missouri is fortunate in being a state of great and diversified resources, great in agriculture, with a good deal of manufacturing, a great deal of commerce, and, here I am in one of the typical railway centers of the country. I would like to say a special word partly to and partly in connection with the railway men; the men who handle the traffic of the country, who carry on the transportation business of the country show and need qualities which it is particularly desirable for us in our highly civilized life to see that our people retain. The man who is a good railroad man has got to be willing to take risks, to suffer exposure, to know what it is to face irregular hours, and finally, to combine the ability to obey orders and obey them quick with the ability to act on his own initiative, his own responsibility, in time of need. At the present day when life is so easy for many of us, when there tends to be, owing to the growth of civilization, of comfort, and indeed of luxury, a certain softening of the fibers, it is a good thing to have certain professions in which the utmost possible demand is made upon all that is virile and manly in those that follow them. I believe emphatically in honesty, decency, cleanliness, morality as a basis for life; but it is not enough. I do not care how virtuous a man is, if he is afraid, he is no good. The cloistered virtue does not count in this world. The man who is a nice fellow and never wrongs anybody and sits at home in his own parlor and says how sorry he is the world is so bad, is of scant use to the body politic. What we need is the man who is a square man, who deals rightly with his neighbors, who deals rightly with the state, who is a good husband, a good father, a good man to deal with, a good man to work with, and who in addition to being a good man, is a man plain and simple. (Applause) In other words, besides decency, honesty, morality, all of which are indispensable, we need the rough qualities, the quality of courage, the quality of strength, the quality of hardihood. You need decency, and that is not enough. You need courage, and that is not enough. For I do not care how decent and how brave a man is if he is a natural born fool you can do nothing with him. You need decency, courage, and finally, the saving grace of common sense. Missouri has gone on and will go on because its men and women possess all three qualities. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 175 (frame 425:0313)</span>",
+"<span class=\"margin\">In the margin: Not corrected</span>",
+"Mr. Mayor; and you, My Fellow Americans; My Fellow Citizens:",
+"<span class=\"sic\" title=\"reads: It is\">Itis</span> indeed a pleasure to be here to-day, to have entered your mighty and beautiful state, and to make my first stop in this city. Like everyone else I feel as though I had an intimate acquaintance with this city as it was half a century ago, for I am a good reader of Mark Twain. I rejoice in coming here to be a witness of your growth, a witness of the prosperity which you have so abundantly enjoyed with the rest of our common country. And in thanking you , let me say a word of special thanks to the men of the National Guard who have turned out as a escort. I am glad <span class=\"sic\" title=\"reads: to see\">tosee</span> you, and I am glad to see you in service uniform. I always like to see a guardsman when he looks like business; and among the things recently done in Congress I have felt like specially congratulating us upon at last having a militia law which will do much for us, <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">and</span></del> and among other things enable us to furnish the National Guard with proper arms. I do not want to see any American soldier with a black powder rifle, just exactly as I do not want to see him with a crossbow. I believe that any man who wears or <del title=\"struck through\">xxx</del> may in time of emergency wear Uncle Sam&#x27;s uniform is entitled to the best that we can give him; (Applause) and having given him the arms I have got confidence enough in our people and in the soldier-like spirit of the officers and enlisted men of the national guard to be sure that by training and exercise he will see that he fits himself to get the best use out of it. As an old- <span class=\"sic\" title=\"reads: national\">natonal</span> guardsman myself let me say that I hope you will keep steadily in mind in time of peace to prepare yourselves efficiently should trouble arise. I want to see the marksmanship of the guard get steadily above even its present standard. In a battle the shots that count are the shots that hit; and the man who is worth his weight is the man who is grown to handle his rifle so that it natural for him to handle it well. I want to see the officer and the enlisted man shoot. In battle the officer is not going to carry his sword in case he is being put against a serious foe . I <span class=\"sic\" title=\"reads: want to\">wantto</span> see the <span class=\"sic\" title=\"reads: officer\">office</span> and the enlisted man both shoot well, and I want to see the officer impressed with the fact that the shooting of the enlisted man , if he does it well, reflects credit upon him; that he must supervise it and be responsible for it. As I say, I have been in the national guard, I have served in it, and therefore I take a peculiar interest in all things pertaining thereto.",
+"<span class=\"pb\">Page 176 (frame 425:0313)</span>",
+"I want to congratulate you, my fellow citizens, men and women of Missouri, upon the way your city has grown. Missouri is fortunate in being a state of great and diversified resources, <span class=\"sic\" title=\"reads: great\">gret</span> in agriculture, with a good deal of manufacturing, a great deal of commerce, and, here I am in one of the typical railway centers of the country. I would like to say a special word partly to and partly in connection with the railway men; the men who handle the <del title=\"struck through\">xxxxx</del> traffic of the country, who carry on the transportation business of the country show and need qualities which it is particularly desirable for us in our highly civilized life to see that our people retain. The man who is a good railroad man has got to be willing to take risks, to suffer exposure, to know what it is to face irregular hours, and finally,to combine the ability to obey orders and obey them quick with the ability to act on his own initiative, his own responsibility, <span class=\"sic\" title=\"reads: in time\">intime</span> of need. At the present day when life is so easy for many <span class=\"sic\" title=\"reads: of us\">os uf</span>, when there tends to be , owing to the growth of civilization, of comfort, and indeed of luxury, a certain softening of the fibers, it is a good thing to have certain professions in which the utmost possible demand is made upon all that is virile and manly in those that follow them. I believe emphatically in honesty, decency, cleanliness, morality as a basis for life; but it is not enough. I do not care how virtuous a man is, if he is afraid, he is no good. The <span class=\"sic\" title=\"reads: cloistered\">clpistered</span> virtue does not count in this world. The man who is a nice fellow and never wrongs anybody and <span class=\"sic\" title=\"reads: sits\">sists</span> at home in his own parlor and says how sorry he is the world is so bad, <del title=\"struck through\">xxxx</del> is of scant use to the body politic. What we need is the man who is a square man, who deals rightly with his neighbors, who deals rightly with the state, who is a good husband, a good father, a good man to deal with, a <del title=\"struck through\">x</del>good man to work with, and who in addition to being a good man, is a man plain and simple. (Applause) In other words, besides decency, honesty, morality, all of which are indispensable, we need the rough qualities , the quality of courage, the quality of strength, the quality of hardihood. You need decency, and that is not enough. You <span class=\"sic\" title=\"reads: need courage\">needcourage</span>, and that is not enough. For I do not care how decent and how brave a man is if he is a natural born fool you can do nothing with him. You need decency, courage, and finally, the saving grace of common sense. Missouri has gone on and will go on because its men and women <span class=\"sic\" title=\"reads: possess all\">possessall</span> three qualities. (Cheers and applause)",
+"<span class=\"tnote\">Folios 175 and 176 are the left and right pages of frame 0313. &quot;Not corrected&quot; is written by hand diagonally in the top left margin of p. 175.</span>\n<span class=\"tnote\">Page 175: a pen slash stands after &quot;this city&quot; (no word change). &quot;As an old-&quot; ends a line with a hyphen before &quot;national guardsman&quot;; the hyphen is kept as typed. Typed gaps closed up: &quot;speci ally&quot;, &quot;nat onal&quot; (the &quot;i&quot; is missing, marked as a slip), &quot;ab ove&quot;, &quot;guard sman&quot;. Overstruck letters in &quot;century&quot;, &quot;entitled&quot;, &quot;and exercise&quot;, &quot;guardsman&quot; (second), &quot;trouble&quot;, &quot;standard&quot;, &quot;shots&quot;, &quot;Uncle&quot;. The x-ed out word after &quot;for us,&quot; looks like &quot;and&quot; typed over; the x-ed out word after &quot;wears or&quot; is a typewriter strikeout. &quot;the office and the enlisted man&quot; is typed so (&quot;office&quot;, not &quot;officer&quot;).</span>\n<span class=\"tnote\">Page 176: a pen stroke divides &quot;in&quot; from &quot;time&quot; in &quot;intime of need&quot;. &quot;desirable&quot;, &quot;which&quot; and &quot;congratulate&quot; have gaps or overstruck letters, closed up. &quot;afraid&quot; is typed &quot;a fraid&quot;, closed up. &quot;clpistered&quot; is hyphenated at the line end (&quot;clpis-tered&quot;). The x-ed out words after &quot;handle the&quot; and after &quot;so bad,&quot; and the letter before &quot;good man to work with&quot; are typewriter strikeouts. Page heading &quot;-2-&quot;.</span>"
+],
+"notes": [
+"Folios 175 and 176 are the left and right pages of frame 0313. \"Not corrected\" is written by hand diagonally in the top left margin of p. 175.",
+"Page 175: a pen slash stands after \"this city\" (no word change). \"As an old-\" ends a line with a hyphen before \"national guardsman\"; the hyphen is kept as typed. Typed gaps closed up: \"speci ally\", \"nat onal\" (the \"i\" is missing, marked as a slip), \"ab ove\", \"guard sman\". Overstruck letters in \"century\", \"entitled\", \"and exercise\", \"guardsman\" (second), \"trouble\", \"standard\", \"shots\", \"Uncle\". The x-ed out word after \"for us,\" looks like \"and\" typed over; the x-ed out word after \"wears or\" is a typewriter strikeout. \"the office and the enlisted man\" is typed so (\"office\", not \"officer\").",
+"Page 176: a pen stroke divides \"in\" from \"time\" in \"intime of need\". \"desirable\", \"which\" and \"congratulate\" have gaps or overstruck letters, closed up. \"afraid\" is typed \"a fraid\", closed up. \"clpistered\" is hyphenated at the line end (\"clpis-tered\"). The x-ed out words after \"handle the\" and after \"so bad,\" and the letter before \"good man to work with\" are typewriter strikeouts. Page heading \"-2-\"."
+],
+"file": "transcriptions/1903-04-29-hannibal.txt"
+},
+"text_source": "typescript",
+"themes": [
+"citizenship",
+"military"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"guard",
+"enlisted",
+"decency",
+"missouri",
+"officer",
+"handle",
+"fellow",
+"quality",
+"enough",
+"applause"
+],
+"stats": {
+"words": 978,
+"unique_words": 356,
+"sentences": 30,
+"avg_sentence": 32.6,
+"minutes": 8,
+"i_count": 27,
+"we_count": 3
+}
 },
 {
 "id": "1903-04-29-louisiana",
@@ -22515,14 +22733,14 @@
 "distinctive": [
 "love",
 "quality",
-"hardihood",
 "charity",
+"hardihood",
 "miserable",
 "preacher",
 "embody",
 "tendencies",
-"qualities",
-"christian"
+"christian",
+"qualities"
 ],
 "stats": {
 "words": 2356,
@@ -22546,10 +22764,15 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 271,
+"paragraphs": [
+"Mr. Chairman and Gentlemen:",
+"I wish to thank you most cordially not only for the beautiful token by which I shall always remember, if anything were necessary to make me remember, the pleasant lunch I have had with you to-day; but also I want to thank you for the distinguished kindness and hospitality with which I have been treated here. It is indeed a pleasure to come here. I am the eighth generation born in New York City of my people, so I think I am entitled to say that I am indeed in the heart of the country here; for I feel that here in what used to be the west, but now is so near the middle that I am sure it is not far from the effete east, is where our people develop those characteristics which we naturally associate with the name American. (Applause)",
+"The west is so purely a relative term that you have to locate the man's individual abode before you know what he means by it. I remember that when I was in the cow country, one of the cow hands working for me came to me at the end of the season and said he would like his time as he was going away. I said \" Where are you going?\" He replied \"I am going to spend the winter in the far east.\" \"Well\" I said\" what do you mean by that, Norway or Nubia?\" He said, \"No, Duluth.\"",
+"So to-day, in this country, we know no east or west, north or south, we merely know good Americans wherever.they may be. (Great applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -22603,13 +22826,52 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0328",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0328",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read; 1 difference(s) settled by a third look at the image)",
+"reading": [
+"Mr. Chairman and Gentlemen:",
+"I wish to thank you most cordially not only for the beautiful token by which I shall always remember, if anything were necessary to make me remember, the pleasant lunch I have had with you to-day; but also I want to thank you for the distinguished kindness and hospitality with which I have been treated here. It is indeed a pleasure to come here. I am the eighth generation born in New York City of my people, so I think I am entitled to say that I am indeed in the heart of the country here; for I feel that here in what used to be the west, but now is so near the middle that I am sure it is not far from the effete east, is where our people develop those characteristics which we naturally associate with the name American. (Applause)",
+"The west is so purely a relative term that you have to locate the man's individual abode before you know what he means by it. I remember that when I was in the cow country, one of the cow hands working for me came to me at the end of the season and said he would like his time as he was going away. I said \" Where are you going?\" He replied \"I am going to spend the winter in the far east.\" \"Well\" I said\" what do you mean by that, Norway or Nubia?\" He said, \"No, Duluth.\"",
+"So to-day, in this country, we know no east or west, north or south, we merely know good Americans wherever.they may be. (Great applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 9 (frame 425:0328)</span>",
+"<span class=\"margin\">In the margin: File / Not given out.</span>",
+"Mr. Chairman and Gentlemen:",
+"I wish to thank you most cordially not only for the beautiful token by which I shall always remember, if anything were necessary to make me remember, the pleasant lunch I have had with you to-day; but also I <del title=\"struck through\">wish</del><ins title=\"added by hand\">want</ins> to thank you for the distinguished kindness and hospitality with which I have been treated here. It is indeed a pleasure to come here. I am the eighth generation born in New York City of my people, so I think I am entitled to say that I am indeed in the heart of the country here; for I feel that here in what used to be the west, but now is so near the middle that I am sure it is not far from the effete east, is where our people develop those characteristics which we naturally associate with the name American. (Applause)",
+"The west is so purely a relative <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del> term that you have to locate the man&#x27;s individual abode before you know what he means by it. I remember that when I was in the cow country , one of the cow hands working for me came to me at the end of the season and said he would like his time as he was going away. I said &quot; Where are you going?&quot; He replied &quot;I am going to spend the winter in the far east.&quot; &quot;Well&quot; I said&quot; what do you mean by that, Norway or Nubia?&quot; He said, &quot;No, Duluth.&quot;",
+"So to-day, in this country, we know no east or west, north or south, we merely know good Americans<del title=\"struck through\">xxxxx</del> wherever <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">we meet it</span></del>.they may be. (Great applause)",
+"<span class=\"tnote\">&quot;File&quot; and &quot;Not given out.&quot; are written by hand in the top left corner, and two long diagonal pen strokes run across the upper left of the page, through the start of the heading, the salutation and the first lines; they look like a cancel or filing mark for the whole item, not a deletion of particular words, so the words under them are transcribed. The handwritten &quot;9&quot; at the top is the folio as written. &quot;want&quot; is typed between the lines above the x-ed out &quot;wish&quot; (second occurrence). The word after &quot;relative&quot; is blotted out by a heavy pen stroke. &quot;abode&quot; has an overstruck letter. The x-ed out runs after &quot;Americans&quot; and after &quot;wherever&quot; are typewriter strikeouts; the second appears to cover &quot;we meet it&quot;; the full stop after it is not x-ed out &quot;pleasure&quot; is typed &quot;ple asure&quot;, closed up.</span>"
+],
+"notes": [
+"\"File\" and \"Not given out.\" are written by hand in the top left corner, and two long diagonal pen strokes run across the upper left of the page, through the start of the heading, the salutation and the first lines; they look like a cancel or filing mark for the whole item, not a deletion of particular words, so the words under them are transcribed. The handwritten \"9\" at the top is the folio as written. \"want\" is typed between the lines above the x-ed out \"wish\" (second occurrence). The word after \"relative\" is blotted out by a heavy pen stroke. \"abode\" has an overstruck letter. The x-ed out runs after \"Americans\" and after \"wherever\" are typewriter strikeouts; the second appears to cover \"we meet it\"; the full stop after it is not x-ed out \"pleasure\" is typed \"ple asure\", closed up."
+],
+"file": "transcriptions/1903-05-01-kansas-city.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"east",
+"west",
+"remember",
+"country"
+],
+"stats": {
+"words": 271,
+"unique_words": 142,
+"sentences": 5,
+"avg_sentence": 54.2,
+"minutes": 2,
+"i_count": 16,
+"we_count": 3
+}
 },
 {
 "id": "1903-05-02-ellis",
@@ -28311,8 +28573,8 @@
 "distinctive": [
 "forestry",
 "lumbering",
-"forests",
 "industry",
+"forests",
 "question",
 "forest",
 "washington",
@@ -33330,9 +33592,9 @@
 "colombian",
 "canal",
 "congress",
-"revolution",
 "united",
-"granada"
+"revolution",
+"states"
 ],
 "stats": {
 "words": 14771,
@@ -34032,7 +34294,7 @@
 "eleven",
 "physical",
 "athletics",
-"ideals"
+"scorn"
 ],
 "stats": {
 "words": 3529,
@@ -34197,8 +34459,8 @@
 "chiefs",
 "freedom",
 "rare",
-"battle",
 "war",
+"battle",
 "armies",
 "civil"
 ],
@@ -34402,8 +34664,8 @@
 "effort",
 "commemorate",
 "crises",
-"crisis",
 "history",
+"crisis",
 "washington"
 ],
 "stats": {
@@ -36566,8 +36828,8 @@
 ]
 },
 "distinctive": [
-"immigrant",
 "society",
+"immigrant",
 "dangers",
 "societies",
 "farragut",
@@ -36660,8 +36922,8 @@
 "children",
 "family",
 "self-indulgence",
-"self-sacrifice",
 "mother",
+"self-sacrifice",
 "mothers",
 "woman's",
 "wife",
@@ -36947,8 +37209,8 @@
 "distinctive": [
 "doctor",
 "medical",
-"profession",
 "navy",
+"profession",
 "preparation",
 "relation",
 "army",
@@ -37538,8 +37800,8 @@
 "corporations",
 "morgan",
 "commerce",
-"highways",
 "justice",
+"highways",
 "railroads"
 ],
 "stats": {
@@ -37786,9 +38048,9 @@
 "situation",
 "federal",
 "employers",
+"mob",
 "mayor",
 "obey",
-"mob",
 "statement",
 "president"
 ],
@@ -39684,7 +39946,7 @@
 "accomplished",
 "benefit",
 "faith",
-"south"
+"cause"
 ],
 "stats": {
 "words": 1264,
@@ -39754,8 +40016,8 @@
 "clean",
 "education",
 "white",
-"race",
 "interested",
+"race",
 "true",
 "fellow-citizens"
 ],
@@ -40661,8 +40923,8 @@
 "injustice",
 "exercised",
 "valor",
-"improper",
 "wage-worker",
+"improper",
 "railroads"
 ],
 "stats": {
@@ -41184,8 +41446,8 @@
 "measures",
 "wealth",
 "action",
-"wrong",
 "opposition",
+"wrong",
 "evils",
 "organization",
 "twisted"
@@ -42436,8 +42698,8 @@
 "garfield",
 "evidence",
 "judge",
-"commerce",
 "offence",
+"commerce",
 "code",
 "corporations"
 ],
@@ -42503,8 +42765,8 @@
 "differ",
 "church",
 "questions",
-"honesty",
 "afford",
+"honesty",
 "rule",
 "decent",
 "life"
@@ -42919,8 +43181,8 @@
 "average",
 "farm",
 "color",
-"smooth",
-"intelligent"
+"intelligent",
+"smooth"
 ],
 "stats": {
 "words": 2410,
@@ -43078,8 +43340,8 @@
 "criticism",
 "supreme",
 "names",
-"bench",
 "justice",
+"bench",
 "weight",
 "fortune",
 "body",
@@ -43374,10 +43636,10 @@
 "intellect",
 "learning",
 "boy",
-"prowess",
 "condemn",
+"prowess",
 "students",
-"count"
+"dishonest"
 ],
 "stats": {
 "words": 1597,
@@ -43542,7 +43804,7 @@
 "government",
 "city",
 "help",
-"injustice"
+"success"
 ],
 "stats": {
 "words": 1536,
@@ -44600,8 +44862,8 @@
 "distinctive": [
 "rivers",
 "plan",
-"transportation",
 "water",
+"transportation",
 "connection",
 "country"
 ],
@@ -46250,8 +46512,8 @@
 "admiration",
 "war",
 "served",
-"honesty",
-"lot"
+"lot",
+"honesty"
 ],
 "stats": {
 "words": 2822,
@@ -46790,8 +47052,8 @@
 "distinctive": [
 "farm",
 "agricultural",
-"agriculture",
 "farmers",
+"agriculture",
 "colleges",
 "farming",
 "social",
@@ -47216,7 +47478,7 @@
 "criminally",
 "business",
 "legislation",
-"ease"
+"law"
 ],
 "stats": {
 "words": 5092,
@@ -47419,11 +47681,11 @@
 "fencing",
 "master",
 "actual",
-"commodities",
 "range",
+"commodities",
 "farmer",
-"homesteaders",
-"correspondent"
+"settlers",
+"homesteaders"
 ],
 "stats": {
 "words": 4864,
@@ -47855,8 +48117,8 @@
 "policy",
 "river",
 "reactionary",
-"fought",
 "demagogues",
+"fought",
 "clamor"
 ],
 "stats": {
@@ -47931,8 +48193,8 @@
 "well-being",
 "policies",
 "wealth",
-"business",
 "property",
+"business",
 "tennessee",
 "crimes",
 "dishonesty"
@@ -48007,8 +48269,8 @@
 "tennessee",
 "change",
 "blue",
-"gray",
-"changed"
+"changed",
+"gray"
 ],
 "stats": {
 "words": 1310,
@@ -48612,7 +48874,7 @@
 "law",
 "public",
 "securities",
-"judge"
+"company"
 ],
 "stats": {
 "words": 10501,
@@ -48817,8 +49079,8 @@
 "inland",
 "water",
 "rivers",
-"traffic",
 "report",
+"traffic",
 "river",
 "plan",
 "waterway",
@@ -50025,8 +50287,8 @@
 "woman",
 "spiritual",
 "tends",
-"evil",
 "mother",
+"evil",
 "grown",
 "true",
 "national",
@@ -50477,8 +50739,8 @@
 "general",
 "nation's",
 "grant",
-"indeed",
 "new",
+"indeed",
 "army"
 ],
 "stats": {
@@ -51786,8 +52048,8 @@
 },
 "distinctive": [
 "child",
-"home",
 "goal",
+"home",
 "mother",
 "governmental",
 "provide",
@@ -54074,7 +54336,7 @@
 "insist",
 "men's",
 "ahead",
-"honesty"
+"forest"
 ],
 "stats": {
 "words": 1246,
@@ -54624,12 +54886,12 @@
 "wage",
 "labor",
 "organized",
-"hours",
 "workers",
+"hours",
 "earners",
 "social",
-"earner",
 "employer",
+"earner",
 "progress"
 ],
 "stats": {
@@ -54761,8 +55023,8 @@
 "resources",
 "forests",
 "development",
-"water",
 "control",
+"water",
 "natural",
 "kansas"
 ],
@@ -55457,8 +55719,8 @@
 "suffrage",
 "ideals",
 "woman's",
-"sit",
-"daughter"
+"daughter",
+"sit"
 ],
 "stats": {
 "words": 4960,
@@ -56838,8 +57100,8 @@
 "tariff",
 "business",
 "consumer",
-"platform",
 "control",
+"platform",
 "commission",
 "trusts",
 "industrial",

@@ -1,0 +1,19 @@
+---
+speech: 1903-05-07-san-bernardino-2
+title: Remarks of President Roosevelt to the school children, San Bernardino, California, May 7, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0375
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0375
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 99 425:0375]
+
+Childre[?n:?]
+
+I wish to say how glad I [?am?] to see you. I wish to congratulate the men and women of this city upon the children. You seem to be all right in quality and in quantity. (Applause)
+
+I wish to say a [-[?special?]-] word of special acknowledgment to the teachers. There is no body of men and women in the country to whom more is owing than to that body of men and women upon whose efforts so much of the cleanliness and efficiency of our government twenty years hence depends, because on their training largely depends the kind of citizenship of the next generation. There is no duty [-xxxx-][+as+] important as the duty of taking care that the boys and girls are so trained as to make the highest type of men and women in the future. It is a duty that cannot be shirked by the home. The fathers and mothers must remember that it is the duty that comes before everything else after the getting of mere subsistence. The first duty after the duty of self-support is the training of the children as they should be trained. That comes upon the fathers and mothers. They cannot put it off entirely upon the teachers; but much depends upon the teachers also, and the fact that they have done and are doing their duty so well entitles them in a peculiar degree to the gratitude of all Americans who understand the prime needs of the republic. I am glad to see you, I believe in you, and I thank you. (Cheers and applause)
+
+[margin: "Fil" with a stroke at upper left; handwritten at upper right: "This speech should appear before other speech at San Bernardino"]
+[note: The first letters of the heading ("Rema" of "Remarks", "San Bernar" of "San Bernardino") are heavily overtyped/blotted; the heading is read from the visible "rks" and "dino" and the context. The end of the salutation ("n:" of "Children:") is also blotted. In "I am to see you" the word after "I" is a single overtyped blot read as "am". The x-ed out word before "word of special" looks like "special" overtyped with x's. The "as" before "important" is typed above the line with a caret. "country", "government", "depends", "teach ers" and "republic" have stray spacing or overtyped letters; the final readings are given. The lower part of the page holds the start of the Riverside address of the same day, not transcribed here.]

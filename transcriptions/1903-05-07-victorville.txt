@@ -1,0 +1,17 @@
+---
+speech: 1903-05-07-victorville
+title: Remarks of President Roosevelt at Victorville, Cal., May [?7,?] 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0373
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0373
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 94 425:0373]
+
+My fellow-citizens:
+
+I want to say what a pleasure it is to see you. I am enjoying so much coming into California. I have looked forward toward visiting your wonderful and beautiful state for years, and I am so glad of having the chance of being here. I welcome you all. I am glad to see the men, the women, and especially the children, for I believe {innyour|in your} stock and I am glad it is being kept up. (Cheers and applause.)
+
+[margin: "File" with a stroke at upper left; below the text, between two hand-drawn lines: "This speech should precede the Redlands speech."]
+[note: The listed page (reel 418, frame 0712, left half) is a printed galley of these remarks followed by the Redlands address, not the typescript. The typescript was found at reel 425, frame 0373, left half (folio 94), and is what is transcribed here. In the heading, "President" has an overtyped letter and the day of the month is blotted by overtyping; it may be 7 but cannot be read with certainty.]
