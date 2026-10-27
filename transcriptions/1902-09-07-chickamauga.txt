@@ -1,0 +1,15 @@
+---
+speech: 1902-09-07-chickamauga
+title: REMARKS OF PRESIDENT ROOSEVELT TO THE SOLDIERS AT CHICKAMAUGA PARK, SUNDAY, SEPTEMBER 7, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0693
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0693
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 22 424:0693]
+
+Colonel, you have already introduced me to the officers of your regiment, two of whom for my good fortune served once in my regiment with me. [-[?With?]-] the others I served beside. I now wish through you to tell the enlisted men of the regiment what a pleasure it has been to see them this morning, and to say that I am glad to think as I look at them that they can be accepted as fair samples of the regular army (Applause). As you know, Colonel, I swear by the regulars (applause), and it made me feel proud to look at you. I enjoyed my ride with you and I wish it might have been longer (Laughter and applause). I want to add that the setting up exercises that I saw were the only setting up exercises in which I should [+have+] like[+d+] to [-[?have?]-] take[-[?n?]-] part (Applause). [-[?Colonel?]-], at the same time I want to make one remark in reference to the troop of state cavalry who were my escort down at Chattanooga. I looked at those and I felt that they were my men whom I had under me in the old days, and it was a pleasure to me to hear that they had just been taking a ten-days' march that was a real march, where they did the real work. I do not think very much of the soldiering that is gained only in the barracks and on the parade ground. I want to see a man able to take care of himself and able to handle himself under conditions somewhat akin to actual service. I wish to congratulate the officers and men of that troop of [+the+] state guard of Tennessee for the kind of work that they have been doing. And now good luck and Godspeed (Great applause).
+
+[note: The heading has typed gaps ("SOLD IERS", "SEPTE MBER"). The struck words before "the others", before "take" and before ", at the same time" are inked out and only partly legible. "the" after the first deletion and "at" after the third are underlined three times by hand, marking them to be capitalized (The, At).]
+[note: Above "should" a caret and "have" are written by hand, and a "d" is added by hand after "like", giving "should have liked"; the ending of "take" is inked over.]
