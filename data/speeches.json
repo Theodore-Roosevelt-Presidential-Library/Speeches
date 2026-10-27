@@ -554,8 +554,8 @@
 "estate",
 "taxing",
 "taxation",
-"taxes",
-"value"
+"value",
+"taxes"
 ],
 "stats": {
 "words": 2433,
@@ -908,8 +908,8 @@
 },
 "distinctive": [
 "grant",
-"grant's",
 "greatness",
+"grant's",
 "dangers",
 "crises",
 "war",
@@ -1074,8 +1074,8 @@
 "promise",
 "labor",
 "groups",
-"expediency",
 "factory",
+"expediency",
 "statistics",
 "community",
 "separate",
@@ -1644,8 +1644,8 @@
 "charity",
 "brotherhood",
 "men's",
-"sentimentality",
-"young"
+"young",
+"sentimentality"
 ],
 "stats": {
 "words": 2699,
@@ -1740,8 +1740,8 @@
 },
 "distinctive": [
 "exposition",
-"hemisphere",
 "western",
+"hemisphere",
 "continent",
 "century",
 "commonwealths",
@@ -1875,8 +1875,8 @@
 "colorado",
 "commonwealths",
 "unity",
-"alleghanies",
 "spread",
+"alleghanies",
 "continent",
 "union",
 "older"
@@ -2029,8 +2029,8 @@
 "distinctive": [
 "pioneers",
 "barbarism",
-"blunders",
 "law",
+"blunders",
 "wilfully",
 "civilization",
 "aggrandizement",
@@ -2152,8 +2152,8 @@
 "taught",
 "brotherhood",
 "lessons",
-"struggles",
 "ranks",
+"struggles",
 "fought",
 "ended"
 ],
@@ -2552,7 +2552,7 @@
 "anarchist",
 "forest",
 "congress",
-"islands"
+"law"
 ],
 "stats": {
 "words": 19600,
@@ -3218,8 +3218,8 @@
 "places": []
 },
 "distinctive": [
-"applause",
-"declaration"
+"declaration",
+"applause"
 ],
 "stats": {
 "words": 253,
@@ -3791,8 +3791,8 @@
 "guns",
 "shots",
 "renown",
-"skill",
 "navy",
+"skill",
 "officers",
 "ships",
 "actual",
@@ -4613,10 +4613,10 @@
 },
 "distinctive": [
 "mills",
-"colonel",
 "shipp",
 "pointer",
 "parade-ground",
+"colonel",
 "west",
 "regiment",
 "institution",
@@ -5120,8 +5120,8 @@
 "wealth",
 "harm",
 "conditions",
-"community",
-"power"
+"power",
+"community"
 ],
 "stats": {
 "words": 2587,
@@ -5631,8 +5631,8 @@
 },
 "distinctive": [
 "one's",
-"districts",
 "farm",
+"districts",
 "farmers",
 "self-help",
 "help",
@@ -7576,10 +7576,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 124,
+"paragraphs": [
+"Gentlemen and Ladies:",
+"I thank you very much for coming here to meet me, and I appreciate your greeting greatly. I shall not try to make any extended speech. I am on my way to the Railroad Firemen's Association meeting at Chattanooga, because I like the railroad men and like to go down to their meetings. I shall not try now to speak to you. I thank you again, and I am sure the rest of you will not grudge my saying that always in these meetings I am peculiarly pleased by the presence of the men who wear the button which shows that they were in the great war. They did the big things; we did the little things. Good luck to you."
+],
 "editions": [],
 "trc": [
 {
@@ -7601,13 +7604,42 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0689",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0689",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Gentlemen and Ladies:",
+"I thank you very much for coming here to meet me, and I appreciate your greeting greatly. I shall not try to make any extended speech. I am on my way to the Railroad Firemen's Association meeting at Chattanooga, because I like the railroad men and like to go down to their meetings. I shall not try now to speak to you. I thank you again, and I am sure the rest of you will not grudge my saying that always in these meetings I am peculiarly pleased by the presence of the men who wear the button which shows that they were in the great war. They did the big things; we did the little things. Good luck to you."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 14 (frame 424:0689)</span>",
+"<span class=\"sic\" title=\"reads: Gentlemen and\">Gentlemenand</span> Ladies:",
+"I thank you very much for coming here to meet me, and I appreciate your greeting greatly. I shall not try to make any extended speech. I am on my way to the Railroad Firemen&#x27;s Association meeting at Chattanooga, because I like the railroad men and like to go down to their meetings. I shall not try now to speak to you. I thank you again, and I am sure the rest of you will not grudge my saying that always in these meetings I am <span class=\"sic\" title=\"reads: peculiarly\">pecul iarly</span> pleased by the presence of the men who wear the button which shows that they were in the great war. <span class=\"sic\" title=\"reads: They\">Tey</span> did the big things; we did the <span class=\"sic\" title=\"reads: little\">li tle</span> things. Good <span class=\"sic\" title=\"reads: luck\">luek</span> to you.",
+"<span class=\"margin\">In the margin: 6</span>\n<span class=\"tnote\">The sheet also carries the handwritten number 6 at the top; the [pb] folio is the volume page number 14. &quot;Sept.&quot; in the heading has a letter typed over another. The &quot;y&quot; of &quot;my&quot; before &quot;saying&quot; is blotted.</span>"
+],
+"notes": [
+"The sheet also carries the handwritten number 6 at the top; the [pb] folio is the volume page number 14. \"Sept.\" in the heading has a letter typed over another. The \"y\" of \"my\" before \"saying\" is blotted."
+],
+"file": "transcriptions/1902-09-06-washington-court-house.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 124,
+"unique_words": 76,
+"sentences": 7,
+"avg_sentence": 17.7,
+"minutes": 1,
+"i_count": 9,
+"we_count": 1
+}
 },
 {
 "id": "1902-09-06-zanesville",
@@ -7621,10 +7653,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 96,
+"paragraphs": [
+"I shan't make a speech I am coming back to see Ohio later, and this time I am simply going down to the Firemen's Convention at Chattanooga. I have a pretty good opinion of railway men, and I believe most of you have. All I shall do will be to thank you warmly for coming here to greet me, and I know you will not grudge my [?] saying that I prize it most of all in the men who wear the button that shows that they fought in the great war. Good luck to you. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -7646,25 +7680,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0687",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0687",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"I shan't make a speech I am coming back to see Ohio later, and this time I am simply going down to the Firemen's Convention at Chattanooga. I have a pretty good opinion of railway men, and I believe most of you have. All I shall do will be to thank you warmly for coming here to greet me, and I know you will not grudge my [?] saying that I prize it most of all in the men who wear the button that shows that they fought in the great war. Good luck to you. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 11 (frame 424:0687)</span>",
+"I shan&#x27;t make a speech  I am coming back to see Ohio later, <span class=\"sic\" title=\"reads: and this\">andthis</span> time I am simply going down to the Firemen&#x27;s Convention at Chattanooga. I have a pretty good opinion of railway men, and I believe most of you have. All I shall do will be to thank you <span class=\"sic\" title=\"reads: warmly\">wamm ly</span> <span class=\"sic\" title=\"reads: for\">fw</span> coming here to greet <span class=\"sic\" title=\"reads: me,\">mep</span> and I know you will  not grudge <span class=\"unc\" title=\"uncertain reading\">my</span> saying that I prize it most of all in the men who wear the button that shows that they fought  in the great war. Good luck to you. (Applause)",
+"<span class=\"margin\">In the margin: 3</span>\n<span class=\"tnote\">The sheet also carries the handwritten number 3 at the top; the [pb] folio is the volume page number 11 in the corner. No stop is typed after &quot;speech&quot;.</span>\n<span class=\"tnote\">&quot;wamm ly&quot;, &quot;fw&quot;, &quot;mep&quot; and the word before &quot;saying&quot; are struck over or mistyped; &quot;my&quot; before &quot;saying&quot; looks like &quot;mp&quot; with a blotted letter, so it is marked uncertain.</span>"
+],
+"notes": [
+"The sheet also carries the handwritten number 3 at the top; the [pb] folio is the volume page number 11 in the corner. No stop is typed after \"speech\".",
+"\"wamm ly\", \"fw\", \"mep\" and the word before \"saying\" are struck over or mistyped; \"my\" before \"saying\" looks like \"mp\" with a blotted letter, so it is marked uncertain."
+],
+"file": "transcriptions/1902-09-06-zanesville.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 96,
+"unique_words": 63,
+"sentences": 4,
+"avg_sentence": 24.0,
+"minutes": 1,
+"i_count": 8,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-06-the-industrial-problems",
 "date": "1902-09-06",
 "date_precision": "day",
 "date_source": "trc",
-"title": "The industrial problems",
+"title": "The Industrial Problems, Wheeling",
 "occasion": null,
-"place": null,
+"place": "wheeling-west-virginia",
 "kind": "speech",
 "period": "President, first term",
-"note": null,
+"note": "The document is pages 29 to 34 of a printed pamphlet pasted into the volume, not a typescript. Its text of the Wheeling address is longer than the one printed in Presidential Addresses and State Papers, which is listed separately.",
 "checks": [],
 "has_text": false,
 "ocr": false,
@@ -7756,10 +7818,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 108,
+"paragraphs": [
+"Ladies and Gentlemen:",
+"If I had known whom I was to meet here I should have come prepared to take the bath I so urgently need. As it is I shall thank you greatly for giving me this chance of greeting you. I have enjoyed to the full all of today. I became lured into taking a ride with the cavalry regiment, which accounts for part of my appearance. I did not expect to have the chance of meeting such a gathering, and I shall simply thank you and say how pleased I am to have seen you. I wish you could see me under circumstances more favorable."
+],
 "editions": [],
 "trc": [
 {
@@ -7781,13 +7846,42 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0693",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0693",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Ladies and Gentlemen:",
+"If I had known whom I was to meet here I should have come prepared to take the bath I so urgently need. As it is I shall thank you greatly for giving me this chance of greeting you. I have enjoyed to the full all of today. I became lured into taking a ride with the cavalry regiment, which accounts for part of my appearance. I did not expect to have the chance of meeting such a gathering, and I shall simply thank you and say how pleased I am to have seen you. I wish you could see me under circumstances more favorable."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 23 (frame 424:0693)</span>",
+"Ladies and Gentlemen:",
+"If I had known whom I was to meet here I should have come prepared to take the bath I so urgently need . As it is I shall thank you greatly for giving me this <ins title=\"added by hand\">chance</ins> of greeting you. I have enjoyed to the full all of today. I became lured into taking a ride with the cavalry regiment, which accounts for part of my appearance. I did not expect to have the chance of meeting such a gathering, and I shall simply thank you and say how pleased I am to have seen you. I wish you could see me under circumstances more favorable.",
+"<span class=\"tnote\">In the heading the &quot;d&quot; of &quot;President&quot; is typed over another letter and the &quot;G&quot; of &quot;Guests&quot; is faint. &quot;say&quot;, &quot;could&quot; and &quot;favorable&quot; each have a letter typed over another; the final readings are given.</span>"
+],
+"notes": [
+"In the heading the \"d\" of \"President\" is typed over another letter and the \"G\" of \"Guests\" is faint. \"say\", \"could\" and \"favorable\" each have a letter typed over another; the final readings are given."
+],
+"file": "transcriptions/1902-09-07-lookout-mountain.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 108,
+"unique_words": 73,
+"sentences": 6,
+"avg_sentence": 18.0,
+"minutes": 1,
+"i_count": 11,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-07-chickamauga",
@@ -7801,10 +7895,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 302,
+"paragraphs": [
+"Colonel, you have already introduced me to the officers of your regiment, two of whom for my good fortune served once in my regiment with me. the others I served beside. I now wish through you to tell the enlisted men of the regiment what a pleasure it has been to see them this morning, and to say that I am glad to think as I look at them that they can be accepted as fair samples of the regular army (Applause). As you know, Colonel, I swear by the regulars (applause), and it made me feel proud to look at you. I enjoyed my ride with you and I wish it might have been longer (Laughter and applause). I want to add that the setting up exercises that I saw were the only setting up exercises in which I should have liked to take part (Applause)., at the same time I want to make one remark in reference to the troop of state cavalry who were my escort down at Chattanooga. I looked at those and I felt that they were my men whom I had under me in the old days, and it was a pleasure to me to hear that they had just been taking a ten-days' march that was a real march, where they did the real work. I do not think very much of the soldiering that is gained only in the barracks and on the parade ground. I want to see a man able to take care of himself and able to handle himself under conditions somewhat akin to actual service. I wish to congratulate the officers and men of that troop of the state guard of Tennessee for the kind of work that they have been doing. And now good luck and Godspeed (Great applause)."
+],
 "editions": [],
 "trc": [
 {
@@ -7826,13 +7922,46 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0693",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0693",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Colonel, you have already introduced me to the officers of your regiment, two of whom for my good fortune served once in my regiment with me. the others I served beside. I now wish through you to tell the enlisted men of the regiment what a pleasure it has been to see them this morning, and to say that I am glad to think as I look at them that they can be accepted as fair samples of the regular army (Applause). As you know, Colonel, I swear by the regulars (applause), and it made me feel proud to look at you. I enjoyed my ride with you and I wish it might have been longer (Laughter and applause). I want to add that the setting up exercises that I saw were the only setting up exercises in which I should have liked to take part (Applause)., at the same time I want to make one remark in reference to the troop of state cavalry who were my escort down at Chattanooga. I looked at those and I felt that they were my men whom I had under me in the old days, and it was a pleasure to me to hear that they had just been taking a ten-days' march that was a real march, where they did the real work. I do not think very much of the soldiering that is gained only in the barracks and on the parade ground. I want to see a man able to take care of himself and able to handle himself under conditions somewhat akin to actual service. I wish to congratulate the officers and men of that troop of the state guard of Tennessee for the kind of work that they have been doing. And now good luck and Godspeed (Great applause)."
+],
+"diplomatic": [
+"<span class=\"pb\">Page 22 (frame 424:0693)</span>",
+"Colonel, you have already introduced me to the officers of your regiment, two of whom for my good fortune served once in my regiment with me. <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">With</span></del> the others I served beside. I now wish through you to tell the enlisted men of the regiment what a pleasure it has been to see them this morning, and to say that I am glad to think as I look at them that they can be accepted as fair samples of the regular army (Applause). As you know, Colonel, I swear by the regulars (applause), and it made me feel proud to look at you. I enjoyed my ride with you and I wish it might have been longer (Laughter and applause). I want to add that the setting up exercises that I saw were the only setting up exercises in which I should <ins title=\"added by hand\">have</ins> like<ins title=\"added by hand\">d</ins> to <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">have</span></del> take<del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">n</span></del> part (Applause). <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">Colonel</span></del>, at the same time I want to make one remark in reference to the troop of state cavalry who were my escort down at Chattanooga. I looked at those and I felt that they were my men whom I had under me in the old days, and it was a pleasure to me to hear that they had just been taking a ten-days&#x27; march that was a real march, where they did the real work. I do not think very much of the soldiering that is gained only in the barracks and on the parade ground. I want to see a man able to take care of himself and able to handle himself under conditions somewhat akin to actual service. I wish to congratulate the officers and men of that troop of <ins title=\"added by hand\">the</ins> state guard of Tennessee for the kind of work that they have been doing. And now good luck and Godspeed (Great applause).",
+"<span class=\"tnote\">The heading has typed gaps (&quot;SOLD IERS&quot;, &quot;SEPTE MBER&quot;). The struck words before &quot;the others&quot;, before &quot;take&quot; and before &quot;, at the same time&quot; are inked out and only partly legible. &quot;the&quot; after the first deletion and &quot;at&quot; after the third are underlined three times by hand, marking them to be capitalized (The, At).</span>\n<span class=\"tnote\">Above &quot;should&quot; a caret and &quot;have&quot; are written by hand, and a &quot;d&quot; is added by hand after &quot;like&quot;, giving &quot;should have liked&quot;; the ending of &quot;take&quot; is inked over.</span>"
+],
+"notes": [
+"The heading has typed gaps (\"SOLD IERS\", \"SEPTE MBER\"). The struck words before \"the others\", before \"take\" and before \", at the same time\" are inked out and only partly legible. \"the\" after the first deletion and \"at\" after the third are underlined three times by hand, marking them to be capitalized (The, At).",
+"Above \"should\" a caret and \"have\" are written by hand, and a \"d\" is added by hand after \"like\", giving \"should have liked\"; the ending of \"take\" is inked over."
+],
+"file": "transcriptions/1902-09-07-chickamauga.txt"
+},
+"text_source": "typescript",
+"themes": [
+"military"
+],
 "mentions": {
 "people": [],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"applause",
+"regiment"
+],
+"stats": {
+"words": 302,
+"unique_words": 143,
+"sentences": 10,
+"avg_sentence": 30.2,
+"minutes": 2,
+"i_count": 17,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-08-athens",
@@ -7846,10 +7975,14 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 152,
+"paragraphs": [
+"My fellow citizens:",
+"I wish to thank you for giving me this opportunity of saying a word of greeting to you. I am glad to stop here at the seat of the Grant University; a university from which so many men have gone into public life. It has been the most genuine pleasure to be here in your beautiful country of East Tennessee. I have been glad to see your growing cities. It is a mighty good thing to have manufactories and railroads. It is a better thing to have good men and good women. I am glad to see your universities. It is a great thing to have training, intelligence. There is something still more important and that is character/ it is a fine thing to have intellect; it is a finer thing to have character in private and in public, just as you have honesty between neighbor and neighbor.",
+"(Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -7871,13 +8004,56 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0701",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0701",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My fellow citizens:",
+"I wish to thank you for giving me this opportunity of saying a word of greeting to you. I am glad to stop here at the seat of the Grant University; a university from which so many men have gone into public life. It has been the most genuine pleasure to be here in your beautiful country of East Tennessee. I have been glad to see your growing cities. It is a mighty good thing to have manufactories and railroads. It is a better thing to have good men and good women. I am glad to see your universities. It is a great thing to have training, intelligence. There is something still more important and that is character/ it is a fine thing to have intellect; it is a finer thing to have character in private and in public, just as you have honesty between neighbor and neighbor.",
+"(Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 39 (frame 424:0701)</span>",
+"My fellow citizens:",
+"I wish to thank you for giving me this opportunity of saying a word of greeting to you. I am glad to stop here at the seat of the Grant University; <del title=\"struck through\">the</del> <ins title=\"added by hand\">a</ins> university from which so many men have gone into public  life. It has been the most genuine pleasure to be here in your beautiful country of East Tennessee. I have <span class=\"sic\" title=\"reads: been\">bem</span>  glad to see your growing cities. It is a mighty good thing to have manufactories and railroads <del title=\"struck through\"><span class=\"illeg\">[illegible]</span></del>. It is a better <ins title=\"added by hand\">t</ins>hing to have good men and good women. I am glad to see your universities. It is a great thing to have training, intelligence. There is something still more important <del title=\"struck through\">thanxxxxxx</del> and that is character/ <del title=\"struck through\">Itxxx</del> it is a fine thing to have intellect; it is a finer thing to have character in private and in public, just as you have <del title=\"struck through\">it</del> honesty between neighbor and  <span class=\"sic\" title=\"reads: neighbor\">neigbor</span>.",
+"(Applause)",
+"<span class=\"tnote\">The heading has a letter typed over another in &quot;President&quot;. &quot;the&quot; before &quot;university&quot; is struck through by hand and &quot;a&quot; written above. The &quot;E&quot; of &quot;East&quot; is typed over another letter. The word after &quot;railroads&quot; is inked out and cannot be read. A &quot;t&quot; is written by hand before &quot;hing&quot; to make &quot;thing&quot;.</span>\n<span class=\"tnote\">After &quot;character&quot; a slash is drawn by hand; the x-ed out run after it begins with a capital I, and &quot;it&quot; that follows is underlined three times by hand, marking it as a capital (It), starting a new sentence. &quot;honesty&quot; is typed above the x-ed out &quot;it&quot;.</span>"
+],
+"notes": [
+"The heading has a letter typed over another in \"President\". \"the\" before \"university\" is struck through by hand and \"a\" written above. The \"E\" of \"East\" is typed over another letter. The word after \"railroads\" is inked out and cannot be read. A \"t\" is written by hand before \"hing\" to make \"thing\".",
+"After \"character\" a slash is drawn by hand; the x-ed out run after it begins with a capital I, and \"it\" that follows is underlined three times by hand, marking it as a capital (It), starting a new sentence. \"honesty\" is typed above the x-ed out \"it\"."
+],
+"file": "transcriptions/1902-09-08-athens.txt"
+},
+"text_source": "typescript",
+"themes": [
+"education",
+"citizenship"
+],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "ulysses-s-grant",
+"name": "Ulysses S. Grant",
+"count": 1
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"glad"
+],
+"stats": {
+"words": 152,
+"unique_words": 83,
+"sentences": 9,
+"avg_sentence": 16.9,
+"minutes": 1,
+"i_count": 4,
+"we_count": 0
+}
 },
 {
 "id": "1902-09-08-cleveland",
@@ -7981,10 +8157,13 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 222,
+"paragraphs": [
+"Judge Moon; and you my fellow American citizens:",
+"I have but a moment in which to speak to you, for we are already behind on the schedule, but I must express my pleasure at being here in your beautiful city, to speak to the men and women of this great state. For sixteen years the Presidency of the United States has been filled by Tennesseeans. Tennessee has always borne its part in the leadership of the nation, in peace and in war. I shan't keep you but just sixty seconds more. The state of \"Old Hickory\" is a state of the entire American republic, because everywhere throughout the Union we claim the greatest of Tennesseans, Andrew Jackson, as one of the greatest of Americans, and an American whom all Americans delight to honor. (Cheers and applause) There were differences as to Andrew Jackson's policies, but the character of the man, his rugged honesty, his absolute fearlessness, his devotion to the right as he saw the right, are the qualities which we never can afford to lose sight of in this republic. I am glad to be here to accept your greeting, to bid you welcome and to say that there is always a lesson and an inspiration to come to Tennessee, to come to the home of Andrew Jackson. (Cheers and applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8006,13 +8185,53 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0699",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0699",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"Judge Moon; and you my fellow American citizens:",
+"I have but a moment in which to speak to you, for we are already behind on the schedule, but I must express my pleasure at being here in your beautiful city, to speak to the men and women of this great state. For sixteen years the Presidency of the United States has been filled by Tennesseeans. Tennessee has always borne its part in the leadership of the nation, in peace and in war. I shan't keep you but just sixty seconds more. The state of \"Old Hickory\" is a state of the entire American republic, because everywhere throughout the Union we claim the greatest of Tennesseans, Andrew Jackson, as one of the greatest of Americans, and an American whom all Americans delight to honor. (Cheers and applause) There were differences as to Andrew Jackson's policies, but the character of the man, his rugged honesty, his absolute fearlessness, his devotion to the right as he saw the right, are the qualities which we never can afford to lose sight of in this republic. I am glad to be here to accept your greeting, to bid you welcome and to say that there is always a lesson and an inspiration to come to Tennessee, to come to the home of Andrew Jackson. (Cheers and applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 35 (frame 424:0699)</span>",
+"Judge Moon; and you my fellow American citizens:",
+"I have  but a moment in which to speak to you, for we are already behind on the schedule, but I must express my pleasure at being here in your beautiful city, to speak to the men and women  of this great state. For sixteen years the <span class=\"sic\" title=\"reads: Presidency\">Pr sidency</span> of the United States <del title=\"struck through\">xxx</del> has been filled by Tennesseeans. Tennessee has always borne its part in the leadership of the nation, in peace and in war. I shan&#x27;t keep you but just sixty <span class=\"sic\" title=\"reads: seconds\">secohds</span> more. The state of &quot;Old Hickory&quot; is a state of the entire American republic, because everywhere throughout the Union <del title=\"struck through\">xxxxx</del> we <span class=\"sic\" title=\"reads: claim\">clai</span> the greatest of Tennesseans, Andrew Jackson, as one of the greatest of Americans, and an American whom all Americans delight to honor. (Cheers and applause) There were differences as to Andrew Jackson&#x27;s policies, but the character of the man, his rugged honesty, his absolute fearlessness, <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">man his rugged honesty his</span> xxxxx</del> <del title=\"struck through\"><span class=\"unc\" title=\"uncertain reading\">absolute fearlessness</span> xxxxx</del>, his devotion to the right as he saw the right, are the qualities  which we never can afford to lose sight of in this republic. I am glad to be here to accept your greeting, to bid you welcome and to say that there is always  a lesson and an <span class=\"sic\" title=\"reads: inspiration\">inspára-tion</span> to come to Tennessee, to come to the home of Andrew Jackson. (Cheers and applause)",
+"<span class=\"tnote\">&quot;man, his rugged honesty, his absolute&quot; is typed between the lines above the x-ed out words, with a caret after &quot;the&quot;, and &quot;fearlessness,&quot; is typed above the second x-ed out line; they are given in their place in the sentence. The x-ed out words underneath are only partly legible and appear to be the same words typed first.</span>\n<span class=\"tnote\">The typed heading has &quot;court&quot; in lower case and a gap in &quot;Presid ent&quot;. There is a wide blank space on the page between &quot;sixty&quot; and &quot;seconds&quot;. &quot;Union&quot; is followed by a short x-ed out run; &quot;clai&quot; ends a line without the m.</span>"
+],
+"notes": [
+"\"man, his rugged honesty, his absolute\" is typed between the lines above the x-ed out words, with a caret after \"the\", and \"fearlessness,\" is typed above the second x-ed out line; they are given in their place in the sentence. The x-ed out words underneath are only partly legible and appear to be the same words typed first.",
+"The typed heading has \"court\" in lower case and a gap in \"Presid ent\". There is a wide blank space on the page between \"sixty\" and \"seconds\". \"Union\" is followed by a short x-ed out run; \"clai\" ends a line without the m."
+],
+"file": "transcriptions/1902-09-08-remarks-at-the-court-house.txt"
+},
+"text_source": "typescript",
 "themes": [],
 "mentions": {
-"people": [],
+"people": [
+{
+"id": "andrew-jackson",
+"name": "Andrew Jackson",
+"count": 3
+}
+],
 "places": []
 },
-"distinctive": [],
-"stats": null
+"distinctive": [
+"andrew",
+"state",
+"american"
+],
+"stats": {
+"words": 222,
+"unique_words": 124,
+"sentences": 6,
+"avg_sentence": 37.0,
+"minutes": 2,
+"i_count": 4,
+"we_count": 3
+}
 },
 {
 "id": "1902-09-08-morristown",
@@ -8071,10 +8290,12 @@
 "period": "President, first term",
 "note": null,
 "checks": [],
-"has_text": false,
+"has_text": true,
 "ocr": false,
-"word_count": 0,
-"paragraphs": [],
+"word_count": 130,
+"paragraphs": [
+"My friends and fellow citizens: I shall not try to make any speech to you. I did not know we were to stop here. I have come down only to attend the convention of the Brotherhood of Locomotive Firemen; and so all I shall say is to thank you for your greeting and to express my pleasure at having been here in Tennessee and at having come to Chattanooga, where I saw the great battlefields in which you, my comrade there, took part, and to feel, as I am sure that all of us must feel, that every man who goes over those fields must have a sense of inspiration in the valor shown alike by the men who wore the blue and the men who wore the gray. (Applause)"
+],
 "editions": [],
 "trc": [
 {
@@ -8096,13 +8317,42 @@
 "series": "Subseries 5B: “White House Volumes,” 1901-1909"
 }
 ],
-"themes": [],
+"transcript": {
+"source": "Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0700",
+"image": "https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0700",
+"transcribed": "2026-10-27 (pass 1)",
+"checked": "2026-10-27 (pass 2, independent read, agreed word for word)",
+"reading": [
+"My friends and fellow citizens: I shall not try to make any speech to you. I did not know we were to stop here. I have come down only to attend the convention of the Brotherhood of Locomotive Firemen; and so all I shall say is to thank you for your greeting and to express my pleasure at having been here in Tennessee and at having come to Chattanooga, where I saw the great battlefields in which you, my comrade there, took part, and to feel, as I am sure that all of us must feel, that every man who goes over those fields must have a sense of inspiration in the valor shown alike by the men who wore the blue and the men who wore the gray. (Applause)"
+],
+"diplomatic": [
+"<span class=\"pb\">Page 36 (frame 424:0700)</span>",
+"My friends and fellow citizens: I shall not try to make any speech to you. I did not know we <span class=\"sic\" title=\"reads: were to\">wereto</span> stop here. I have come down only to attend the convention of the Brotherhood of Locomotive Firemen; and so all I shall say is to thank you for your greeting and to express my pleasure at having been here in Tennessee and at having come to Chattanooga, where I saw the great battlefields in which you, my comrade there, took part, and to feel, as I am sure that all of us must feel, that every man who goes over those fields must have a sense of inspiration in the valor shown alike by the men who wore the blue and the men who wore the gray. <ins title=\"added by hand\">(Applause)</ins>",
+"<span class=\"tnote\">&quot;we&quot; is typed above the line with a caret between &quot;know&quot; and &quot;were&quot;. &quot;OOLTEWAH&quot; in the heading, &quot;Chattanooga&quot; and the first &quot;wore&quot; have letters typed over other letters; the final readings are given. &quot;(Applause)&quot; is written by hand.</span>"
+],
+"notes": [
+"\"we\" is typed above the line with a caret between \"know\" and \"were\". \"OOLTEWAH\" in the heading, \"Chattanooga\" and the first \"wore\" have letters typed over other letters; the final readings are given. \"(Applause)\" is written by hand."
+],
+"file": "transcriptions/1902-09-08-ooltewah-junction.txt"
+},
+"text_source": "typescript",
+"themes": [
+"civil-war"
+],
 "mentions": {
 "people": [],
 "places": []
 },
 "distinctive": [],
-"stats": null
+"stats": {
+"words": 130,
+"unique_words": 82,
+"sentences": 3,
+"avg_sentence": 43.3,
+"minutes": 1,
+"i_count": 6,
+"we_count": 1
+}
 },
 {
 "id": "1902-09-08-knoxville",
@@ -8323,8 +8573,8 @@
 "brotherhood",
 "organization",
 "railroad",
-"firemen",
 "fireman",
+"firemen",
 "accustomed",
 "chickamauga",
 "confederate",
@@ -9113,8 +9363,8 @@
 "prosperity",
 "building",
 "section",
-"fellow",
 "advantage",
+"fellow",
 "chance"
 ],
 "stats": {
@@ -9245,8 +9495,8 @@
 "confederate",
 "decency",
 "honesty",
-"wear",
 "forefathers",
+"wear",
 "valiant"
 ],
 "stats": {
@@ -10101,7 +10351,7 @@
 "physical",
 "difficulties",
 "continent",
-"big"
+"believe"
 ],
 "stats": {
 "words": 749,
@@ -10419,10 +10669,10 @@
 "places": []
 },
 "distinctive": [
-"applause",
 "beautiful",
-"state",
-"nation"
+"applause",
+"nation",
+"state"
 ],
 "stats": {
 "words": 382,
@@ -11990,8 +12240,8 @@
 "complaint",
 "gospel",
 "failed",
-"prosperity",
-"president"
+"president",
+"prosperity"
 ],
 "stats": {
 "words": 2542,
@@ -12114,8 +12364,8 @@
 "woman",
 "school",
 "teachers",
-"training",
-"sake"
+"sake",
+"training"
 ],
 "stats": {
 "words": 1166,
@@ -15683,8 +15933,8 @@
 "islands",
 "philippine",
 "insurrection",
-"filipinos",
 "army",
+"filipinos",
 "militia",
 "taft",
 "civil",
@@ -16521,8 +16771,8 @@
 "yellowstone",
 "wyoming",
 "idaho",
-"wilderness",
 "preservation",
+"wilderness",
 "beauties",
 "enjoyment",
 "preserved"
@@ -18538,8 +18788,8 @@
 },
 "distinctive": [
 "love",
-"hardihood",
 "quality",
+"hardihood",
 "charity",
 "miserable",
 "qualities",
@@ -21715,9 +21965,9 @@
 "land",
 "preservation",
 "university",
-"trees",
 "forests",
 "forest",
+"trees",
 "home-maker"
 ],
 "stats": {
@@ -25007,8 +25257,8 @@
 "distinctive": [
 "steamship",
 "law",
-"cutting",
 "line",
+"cutting",
 "railroads",
 "crime",
 "foolish",
@@ -26012,8 +26262,8 @@
 "reserves",
 "irrigated",
 "over-grazing",
-"forests",
-"land"
+"land",
+"forests"
 ],
 "stats": {
 "words": 2338,
@@ -28592,8 +28842,8 @@
 "victory",
 "gallant",
 "grand",
-"regiment",
-"liberty"
+"liberty",
+"regiment"
 ],
 "stats": {
 "words": 1585,
@@ -28782,7 +29032,7 @@
 "lord",
 "burden",
 "church",
-"praise"
+"heart"
 ],
 "stats": {
 "words": 1796,
@@ -30050,9 +30300,9 @@
 "groton",
 "college",
 "boys",
+"life",
 "eleven",
 "ideal",
-"life",
 "school",
 "athletics",
 "physical",
@@ -31518,12 +31768,12 @@
 "forest",
 "reserves",
 "indian",
-"islands",
 "congress",
+"islands",
 "labor",
 "bureau",
-"alaska",
-"government"
+"government",
+"alaska"
 ],
 "stats": {
 "words": 17385,
@@ -31826,7 +32076,7 @@
 "government",
 "control",
 "interstate",
-"railroad"
+"business"
 ],
 "stats": {
 "words": 1847,
@@ -32388,8 +32638,8 @@
 "washington",
 "education",
 "navy",
-"university",
 "justice",
+"university",
 "govern",
 "principles",
 "lincoln"
@@ -33126,8 +33376,8 @@
 },
 "distinctive": [
 "principles",
-"railroad",
 "agree",
+"railroad",
 "square",
 "pretty",
 "panama",
@@ -33201,8 +33451,8 @@
 "governed",
 "sovereign",
 "affairs",
-"responsibility",
 "public",
+"responsibility",
 "duties",
 "state",
 "fellow-citizens"
@@ -33375,8 +33625,8 @@
 ]
 },
 "distinctive": [
-"regiment",
 "alamo",
+"regiment",
 "san",
 "texas",
 "children",
@@ -33559,8 +33809,8 @@
 "colorado",
 "regulatory",
 "rates",
-"morgan",
 "corporations",
+"morgan",
 "commerce",
 "highways",
 "railroads",
@@ -33650,9 +33900,9 @@
 "party",
 "power",
 "questions",
+"corporations",
 "wheeled",
 "frankest",
-"corporations",
 "vehicles",
 "commerce",
 "abused",
@@ -34112,8 +34362,8 @@
 "peace",
 "germany",
 "college",
-"university",
 "graduates",
+"university",
 "sake",
 "common-sense",
 "value",
@@ -34683,8 +34933,8 @@
 "doctrine",
 "creditors",
 "custom-houses",
-"debts",
 "policy",
+"debts",
 "monroe"
 ],
 "stats": {
@@ -35428,8 +35678,8 @@
 "china",
 "chinese",
 "senator",
-"boycott",
 "wealth",
+"boycott",
 "planter",
 "islands",
 "wage-workers",
@@ -36065,8 +36315,8 @@
 "life",
 "children",
 "duty",
-"national",
-"nation"
+"nation",
+"national"
 ],
 "stats": {
 "words": 889,
@@ -36137,8 +36387,8 @@
 "fair",
 "education",
 "demand",
-"important",
 "government",
+"important",
 "war"
 ],
 "stats": {
@@ -36345,8 +36595,8 @@
 "punishment",
 "eminent",
 "judge",
-"rose",
 "law",
+"rose",
 "crimes"
 ],
 "stats": {
@@ -36991,8 +37241,8 @@
 "law",
 "commission",
 "immigrants",
-"immigration",
-"government"
+"government",
+"immigration"
 ],
 "stats": {
 "words": 25027,
@@ -37210,8 +37460,8 @@
 "opposition",
 "action",
 "courage",
-"evils",
 "wrong",
+"evils",
 "twisted"
 ],
 "stats": {
@@ -37323,8 +37573,8 @@
 "enlisted",
 "petty",
 "officers",
-"thank",
 "navy",
+"thank",
 "speed",
 "guns",
 "trip",
@@ -37983,8 +38233,8 @@
 "distinctive": [
 "departments",
 "ink",
-"recommendations",
 "methods",
+"recommendations",
 "bureaus",
 "work",
 "red",
@@ -38086,8 +38336,8 @@
 "petition",
 "fewer",
 "immigrants",
-"bill",
-"labor"
+"labor",
+"bill"
 ],
 "stats": {
 "words": 1778,
@@ -38390,7 +38640,7 @@
 "steal",
 "sanity",
 "attack",
-"honesty",
+"public",
 "discriminate"
 ],
 "stats": {
@@ -38460,8 +38710,8 @@
 "garfield",
 "evidence",
 "judge",
-"code",
 "offence",
+"code",
 "commerce",
 "proceed"
 ],
@@ -38646,10 +38896,10 @@
 "surrender",
 "ship",
 "john",
-"cumberland",
 "dead",
-"prepared",
-"ships"
+"cumberland",
+"ships",
+"prepared"
 ],
 "stats": {
 "words": 1937,
@@ -39039,7 +39289,7 @@
 "civil",
 "ashore",
 "everyday",
-"francisco"
+"average"
 ],
 "stats": {
 "words": 1843,
@@ -39394,8 +39644,8 @@
 "distinctive": [
 "institution",
 "disregards",
-"intellect",
 "college",
+"intellect",
 "boy",
 "prowess",
 "learning",
@@ -39856,8 +40106,8 @@
 "distinctive": [
 "amador",
 "panama",
-"isthmus",
 "president",
+"isthmus",
 "secretary",
 "republic",
 "united",
@@ -40043,8 +40293,8 @@
 "engineer",
 "grand",
 "work",
-"ages",
 "realize",
+"ages",
 "army",
 "task",
 "enough",
@@ -41382,8 +41632,8 @@
 "learning",
 "house",
 "progress",
-"material",
 "work",
+"material",
 "united",
 "states"
 ],
@@ -42267,10 +42517,10 @@
 },
 "distinctive": [
 "regiment",
-"grief",
 "dead",
-"lesson",
+"grief",
 "army",
+"lesson",
 "admiration",
 "war",
 "served",
@@ -42532,8 +42782,8 @@
 "ease",
 "glory",
 "disagreeable",
-"fought",
 "woman",
+"fought",
 "statue"
 ],
 "stats": {
@@ -42716,8 +42966,8 @@
 "railroad",
 "investors",
 "roads",
-"stocks",
-"public"
+"public",
+"stocks"
 ],
 "stats": {
 "words": 6998,
@@ -42819,8 +43069,8 @@
 "colleges",
 "farming",
 "social",
-"economic",
 "labor",
+"economic",
 "school"
 ],
 "stats": {
@@ -43335,8 +43585,8 @@
 "discouragement",
 "republics",
 "honest",
-"wealth",
 "president",
+"wealth",
 "dishonest",
 "wrongdoing",
 "wheeler",
@@ -43557,8 +43807,8 @@
 "distinctive": [
 "interstate",
 "commerce",
-"railroads",
 "control",
+"railroads",
 "constitution",
 "interpreted",
 "national",
@@ -43873,8 +44123,8 @@
 },
 "distinctive": [
 "mississippi",
-"judge",
 "williams",
+"judge",
 "justice",
 "river",
 "reactionary",
@@ -43953,8 +44203,8 @@
 "movement",
 "honest",
 "well-being",
-"tennessee",
 "policies",
+"tennessee",
 "wealth",
 "property",
 "business",
@@ -44466,9 +44716,9 @@
 ]
 },
 "distinctive": [
+"law",
 "interstate",
 "tax",
-"law",
 "government",
 "congress",
 "commerce",
@@ -45980,8 +46230,8 @@
 "places": []
 },
 "distinctive": [
-"grant",
 "sovereign",
+"grant",
 "act",
 "corporation",
 "reward",
@@ -46494,9 +46744,9 @@
 ]
 },
 "distinctive": [
-"cavalry",
 "career",
 "sheridan",
+"cavalry",
 "ideal",
 "nation's",
 "general",
@@ -47457,8 +47707,8 @@
 "bill",
 "electric",
 "water",
-"charge",
 "power",
+"charge",
 "bills",
 "navigable",
 "grant",
@@ -48054,8 +48304,8 @@
 "commission",
 "farming",
 "agriculture",
-"agricultural",
 "farmer",
+"agricultural",
 "life",
 "towns",
 "plan"
@@ -48145,8 +48395,8 @@
 "possessed",
 "brother",
 "lived",
-"devotion",
-"common"
+"common",
+"devotion"
 ],
 "stats": {
 "words": 1535,
@@ -48701,8 +48951,8 @@
 "navy",
 "personnel",
 "reorganization",
-"accounts",
-"report"
+"report",
+"accounts"
 ],
 "stats": {
 "words": 1634,
@@ -49509,8 +49759,8 @@
 },
 "distinctive": [
 "harvard",
-"laughter",
 "football",
+"laughter",
 "sport",
 "athlete",
 "genius",
@@ -49817,8 +50067,8 @@
 "rome",
 "species",
 "blood",
-"ancestral",
 "empire",
+"ancestral",
 "fauna",
 "science",
 "culture",
@@ -50338,8 +50588,8 @@
 ]
 },
 "distinctive": [
-"crooked",
 "corruption",
+"crooked",
 "dishonesty",
 "politician",
 "corporation",
@@ -50555,8 +50805,8 @@
 "commission",
 "principle",
 "maverick",
-"dishonestly",
-"square"
+"square",
+"dishonestly"
 ],
 "stats": {
 "words": 4194,
@@ -50784,8 +51034,8 @@
 "minnesota",
 "resources",
 "forests",
-"kansas",
 "water",
+"kansas",
 "development",
 "natural",
 "control"
@@ -50994,8 +51244,8 @@
 "chicago",
 "honesty",
 "party",
-"dinner",
 "york",
+"dinner",
 "sake",
 "illinois",
 "advised"
@@ -51664,8 +51914,8 @@
 },
 "distinctive": [
 "brand",
-"servant",
 "public",
+"servant",
 "corporation",
 "honesty",
 "candidate",
@@ -51787,8 +52037,8 @@
 "public",
 "magazine",
 "comrade",
-"magazines",
 "loyalty",
+"magazines",
 "sugar",
 "newspaper",
 "penitentiary",
@@ -52206,9 +52456,9 @@
 "judges",
 "decision",
 "court",
+"business",
 "popular",
 "courts",
-"business",
 "decisions",
 "justice"
 ],
@@ -52562,8 +52812,8 @@
 ]
 },
 "distinctive": [
-"applause",
 "massachusetts",
+"applause",
 "laughter",
 "lorimer",
 "court",
@@ -53199,8 +53449,8 @@
 "shot",
 "bullet",
 "friends",
-"cheers",
 "party",
+"cheers",
 "republican",
 "wisconsin",
 "laughter"
