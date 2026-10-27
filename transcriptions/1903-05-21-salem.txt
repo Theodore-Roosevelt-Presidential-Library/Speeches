@@ -1,0 +1,22 @@
+---
+speech: 1903-05-21-salem
+title: Remarks of President Roosevelt to the School Children at Salem, Oregon, May 21, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0447
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0447
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 44 425:0447]
+
+[margin: File]
+
+Mr: Governor; Mr. [-[illegible]-]Superintendent:
+
+It is a great pleasure to come here to see the children. Interested though I am in the physical resources of this great state, in your forests, your agriculture, your commerce, your manufactures, yet the thing that is of real consequence is the citizenship; and I am speaking to the citizenship of the future. I wish to acknowledge a special debt of {obligaidon|obligation} to those engaged in the education and the training of the children small and big, to the men and women upon whom more than upon any others depend s what the next generation of Americans will be. The fact of the teacher doing his or her duty does not excuse in any shape a failure to do the proper work in the family. The man and woman must remember that the first and most important phase of education is the education of the father and the mother in the family, and they are not to be excused if they strive to shift the responsibility on anyone else; but the work of the teachers in supplementing that in every grade of the public school[-s-], the academy, the college, the university, is a work of literally incalculable importance, an importance which cannot be overestimated.
+
+Now to you children just this word. I believe in play and I believe in work. While you play, play hard, and when you work do not play at all. That is pretty fair advice for the elders too. Let me [-say x-] express a special word of pleasure at seeing here the teachers and pupils of the Indian schools. In the Spanish war I commanded a regiment of which I was very proud, and in it I had about fifty Indians of full or part blood, and most of them came from schools such as this, and they were such good soldiers that I am proud to say they have shown themselves good citizens since. (Applause) The fundamental doctrine of our government is to treat each man or each woman not as part of a caste, but [-xx-] on his or her worth as a man or woman, and therefore to exact from each man that he do his duty as a citizen. You Indian pupils are being trained so that as you grow up each of you shall do his duty as any other man or woman in our land does his or her duty, and if you do you are entitled to exactly the same rights as anyone else.
+
+In closing, let me repeat that glad though I [?am?] to see the older [?folks,?] I think I am even gladder to see the children, and I wish to thank [?all of you?] for having given me the [-xxxxx-] opportunity of seeing you. So long [?as we have?] the right type of boy and girl turned out [?by?] the schools we can rest [?assured?] that the [-d-]future of this country is safe. (Cheers and applause)
+
+[note: "File" is written by hand in the upper left margin. The blot before "Superintendent" covers a typed word or name that cannot be read. "great" (first line) shows a letter typed over another. Hand marks stand before "Indians" (after "fifty") and before "Indian" (after "You"), apparently separating words or marking capitals without changing them; a hand comma-like mark follows "woman". The last paragraph is single-spaced and its right-hand ends are blurred in the image; "am", "folks,", "all of you", "as we have" and "assured" are uncertain. The word before "the schools" appears to be written by hand over a typed word.]

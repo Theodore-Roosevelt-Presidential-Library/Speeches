@@ -1,0 +1,20 @@
+---
+speech: 1903-05-21-oregon-city
+title: Remarks of President Roosevelt at Oregon City, Oregon, May 21, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frame 0451
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0451
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 52 425:0451]
+
+[margin: File]
+
+My Friends and Fellow Citizens:
+
+It has been a great pleasure to come through Oregon to-day and now to stop at this manufacturing city. Part of our prosperity is due of course to wise laws honestly and fearlessly administered, and we will show ourselves unwise if we fail to persevere in the policy under which we have thus prospered; but the main element in the prosperity of any community must be the individual character of the citizenship of that community. That is what counts fundamentally. If the average man has the right stuff in him we will succeed. If he has not the right stuff in him, then you cannot get it out of him, because it is not there. (Applause)
+
+I congratulate you upon the wonderful fertility of this valley, upon the resources of the state, your manufactures, your crops, your commerce, but I want to say that I have been particularly interested in one crop -- the children. (Applause)
+
+[note: "File" is written by hand in the upper left margin. A short hand stroke follows "citizenship" without changing the text. "particularly" and "crops" show letters typed over other letters.]
