@@ -4,7 +4,7 @@ title: REMARKS OF PRESIDENT ROOSEVELT TO THE SOLDIERS AT CHICKAMAUGA PARK, SUNDA
 source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0693
 image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0693
 transcribed: 2026-10-27 (pass 1)
-checked: pending
+checked: 2026-10-27 (pass 2, independent read, agreed word for word)
 status: ok
 ---
 [pb 22 424:0693]
