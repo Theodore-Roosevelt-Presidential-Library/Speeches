@@ -1,0 +1,34 @@
+---
+speech: 1903-04-04-winona
+title: Speech of President Roosevelt at Winona, Minn., April 4,1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0108
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0108
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 43 425:0108]
+
+[margin: File]
+
+Men and women of Minnesota:
+
+I am glad to,greet you and to be in your great and beautiful state again, and I am glad that my first stop should be here at the [-xxxxxx-] former home of my old friend, ex-Congressman, ex-Senator, ex-Secretary Windom. I knew him well when he was in public life, and I have the honor of knowing your fellow-townsman, the present governor of your state.
+
+Coming here naturally makes me think of Mr. Windom. I valued the man's friendship, because he had in him the elements of incorruptibility, and joined with it fearlessness and that {pmactical|practical} sagacity which you need as much in statesmanship as in private life[-x-]. In the long run, my friends, it counts far less what kind of administration it is you have than it does as to who are the people who administer it. The details of the laws are of but small consequence when compared with the character of the man who are to put them into execution. Our government will work well just so long as you put in the places of trust men of the soul and [-xxx-]the brain such as ex-Senator Windom had, and the best scheme of laws ever invented will fail absolutely, will work absolute ruin, if administered by incompetent or cowardly or corrupt hands.(Applause.)
+
+I see in the audience, as I see in all such audiences, men who wear the button that shows that in the times that tried men's souls they were true to their ideal. You know well enough that it was not the uniform, not the musket, it was not even the parade ground drill, that made the soldier. There were other qualities that had to go into his makeup. In the first place he had to have the fighting edge. He had to have the shame that comes to a brave man not to do a brave man's duty. You want qualities in addition to that too. If he was a [-xxxxx-] brave man and did not know how to fight, then he only made a good target for the other side. If a man did not have the heart in him, if he did not know how to shoot, how to march, how to take cover, how to act on his own responsibility when the unexpected happened,[+(+]and mind you in war, and in many other kinds of real life, it is always the unexpected things that happen[+)+] [+-+] If he did not [-[?know how to?]xxx-] have all of them, then the {mre|mere} fact that he looked pretty in the uniform did not count. He might look just as well as
+
+[pb 44 425:0108]
+
+some one else who did count. You might not be able to tell the difference from the {mre|mere} uniform, but the difference was there in the man's heart; the difference lay be[+l+]ow the form. It is just the same in our national life. The republics of the middle ages fell, although they had all the {fomms|forms} of freedom, because the soul had gone out of the form, because there was no real spirit of self-governing freedom back of the form . It is not an easy thing to be a successful free people. On the other hand only the highest type of people are really fit for self-government . Only a really high type of people can make a great free self-governing republic like ours work. Almost any people can ge[+t+] along well under a despotism, where you have somebody [+else+] to think for you , no strain on the brain; but it is a hard thing to think effect[+[?ive?]+]ly and wisely for one's self, to stand up for one's own right, and to avoid the curse of the small and narrow mind tha[+t+] makes a man regard others with envy and hatred and jealousy, to keep the knowledge and power of standing up for one's self[+,+]and yet[+[?,?]+] keep also the knowledge that in the long run we can stand up for ourselves best by each standing for the other also.
+
+There is no royal road to freedom; no [-xx-] royal road to self-government. It must come from exercise of the same [-xxx-] qualities that make men and women good in the family, good as neighbors, good in the community . Each one of you, what does he want his son to be.[+?+] He want[+s+] him to make an honorable success in life. You all of you know, certainly[+,+] I do, plenty of foolish fathers, and I am sorry to say, an even greater number of foolish mothers, who think they can benefit their children not by teaching them how to meet difficulties, but by teaching them how to dodge them. Don't you know men and women who say, well, I have had to work hard, my boy and girl shall not, and you have seen, all of you, the woman, who will herself slave in the kitchen, slave around her house work, and not teach her daughters how to do anything, and you have seen the foolish man who will {brimg|bring} up his boys to be [-[illegible]-] worthless [?cumberers?] of [-[illegible]-] life, because they do not [-[?do their work by?]-] teaching the boy[+[?s?]+] [-[?and teaching the nation?]-] to do things, not [-[illegible]-] to dodge them. (Applause.)
+
+[note: "File" is written by hand across the upper left corner of the first page, with a long slash; filing mark.]
+[note: Typewriter spacing gaps inside words ("ex-Co ngressman", "natural ly", "a s", "admin ister", "ther e", "boy s") are closed up; several letters are overtyped or blurred in the typing ("Senator", "state", "does", "absolutely", "did", "kinds", "things", "not", "was", "spirit", "to") and are given in their evident final reading.]
+[note: A heavy hand-drawn vertical bar stands between "the brain" and "such as ex-Senator Windom had"; it does not change the words.]
+[note: The parentheses around "and mind you ... that happen" and the dash after it are added by hand; the opening parenthesis is written over the typed comma after "happened". The x-ed out typing after "If he did not" runs words together with x's.]
+[note: On folio 44, the "l" of "below", the "t" of "get" and of "that", and the "s" of "wants" are written by hand over the typed letters. The handwritten insertion above "effectly" is small and uncertain; it appears to make "effectively". "else" is inserted by hand above the line with a caret. The "?" after "to be." is handwritten over or beside the typed period.]
+[note: A hand mark (a squiggle above the line and a blot below "and") stands after "my boy and girl shall not,"; its meaning is unclear.]
+[note: The last three lines are heavily corrected by hand: the struck words before "worthless" and before "life" cannot be read; the first letters of "cumberers" are blotted; the hand strike-through after "do not" may also run into "teaching"; a small handwritten mark after "boy" may be an added "s". The word struck before "to dodge them" is overtyped and unreadable.]

@@ -1,0 +1,19 @@
+---
+speech: 1903-04-06-scotland
+title: Remarks of [-xxx-] President Roosevelt at Scotland, S. D. April 6, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0224
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0224
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 64 425:0224]
+
+[margin: File]
+
+My fellow Citizens:
+
+I am glad to see you and to {great|greet} you to-day. I have enjoyed passing through your beautiful state. I congratulate you upon all that you raise here in the way of crops, and I {cpngratulate|congratulate} you most upon the children you raise. That crop is all right in quality and quantity too. I have enjoyed thoroughly getting into the state to-day and meeting you, the pioneers and the sons of pioneers who have the upbuilding in this commonwealth. It is a good thing to have men and women able to do the work you have done, and I congratulate you on it. (Cheers and applause)
+
+[note: "File" is written by hand at the upper left with a slash; filing mark.]
+[note: The same page goes on with a separate typed heading for remarks at Tripp, S. D., April 6, 1903, which are not transcribed here.]

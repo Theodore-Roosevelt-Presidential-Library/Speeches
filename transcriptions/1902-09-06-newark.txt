@@ -1,0 +1,15 @@
+---
+speech: 1902-09-06-newark
+title: Remarks of President Roosevelt at Newark,Ohio,Sept.6,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0688
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0688
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 12 424:0688]
+
+I shall not attempt to make a set speech to you. I shall merely say what a pleasure it is to be greeted by you. I am to come back to Ohio.   Now I am merely on my way down to the meeting of the Firemen's Association at Chattanooga.   I have always been rather fond of the railroad men.   I want to thank you for coming , and I know the rest of you won't grudge my saying that I wish to thank particularly the men of the great war,the veterans, for coming to greet me. Good luck go with you.   (Cheers.)
+
+[margin: 4 (large handwritten number at top centre)]
+[note: The e of "set", the o of "to greet" and the o of "you" (last line) are typed over other letters; the final readings are given.]

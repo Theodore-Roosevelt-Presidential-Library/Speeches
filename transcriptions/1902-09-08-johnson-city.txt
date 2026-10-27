@@ -1,0 +1,15 @@
+---
+speech: 1902-09-08-johnson-city
+title: REMARKS OF PRESIDENT ROOSEVELT AT JOHNSON CITY,TENN., September 8, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0703
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0703
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 43 424:0703]
+
+Gentlemen and ladies: I am very glad to have a chance of cat[+[?c?]+]hing a glimpse of you, and I thank you for coming here to greet me. I have enjoyed intensely yesterday and to-day going through your beautiful east Tennessee country. I have enjoyed the scenery, and I have enjoyed more seeing the men and women. I have just come from Knoxville[+, where+] I have seen [-Mrs. Brownlow-] in the house in which she has lived for over 54 years[+, Mrs. Brownlow,+] the widow of Governor Brownlow, who was the father of two of the gallant soldiers who fought in the civil war. It has been a pleasure to be here. I have enjoyed too going over the great battlefields of Chickamauga, Missionary Ridge, and Lookout Mountain, and should think that any man, even if he was a pretty good American, would come away from this country feeling himself a better American still (Applause).
+
+[note: In the heading "PRESIDENT" has a letter typed over another. In "cathing" a letter is written by hand above a caret between "t" and "h"; it looks like an "e" but is probably meant as "c" (catching).]
+[note: "where" is written by hand above a caret after "Knoxville"; the typed "Mrs." at the end of the line and "Brownlow" at the start of the next are struck through by hand, and ", Mrs. Brownlow," is written by hand with a caret after "years". The "v" of the second "have" is typed over another letter.]

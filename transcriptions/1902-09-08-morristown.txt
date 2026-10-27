@@ -1,0 +1,20 @@
+---
+speech: 1902-09-08-morristown
+title: REMARKS OF THE PRESIDENT AT MORRISTOWN, TENN., September 8, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0703
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0703
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 42 424:0703]
+
+[margin: [?Jr?]]
+
+Gentlemen and ladies: I have greatly enjoyed yesterday and to-day being in your beautiful country here in east Tennessee. I have long wanted to visit you, and I count myself fortunate that I [-c[illegible]-] [+can+] make the visit now while I am President. Like, I suppose, every good American, I wanted to see the battlefields grouped around Chattanooga, Chickamauga, Missionary Ridge, Lookout Mountain -- all the scenes of that famous two months' fighting. It seems to me that any American who goes [-xxxxxxxxxx-] there and sees what was done alike by those who wore the blue and those who wore the gray, must come away a better American for having seen it.. It is not only the lesson that comes from what was done on the fields - it is what has been accomplished in citizenship, in civil life, since then by the men who then fought in the two armies and by their sons. And of course here in east Tennessee, from which so many of the men came who made marks for themselves in civil and military life, there is a peculiar claim upon us. I wonder how often you think of the fact that the greatest naval officer of the last ninety-odd years was a Tennesseean - Admiral Farragut? That is a good lesson to us, that from this inland state of Tennessee should have come the great admiral. [-[?The whole thing is?] [illegible]-] all through this country, wherever a great deed is done by any American it reflects credit upon all Americans, and anything done by any one of us that is of a shameful character makes all of us hang our heads a little. The lesson of being good American citizens is a lesson worth learning. [+(Great Applause)+]
+
+[-I want to thank you for having come here and to say that I am especially glad to see that some of you [?carry?] tow-headed people, for I have several of those myself (laughter and applause-]).
+
+[note: At the left of the salutation a hand mark (perhaps "Jr" or a paragraph sign) with a long stroke; "Gentlemen" and "ladies" are underlined by hand.]
+[note: The word after "I" in "I can make" is inked out (it begins with "c") and "can" is written above it. The x-ed out run after "goes" is not legible. The sentence before "all through this country" is inked out and only partly legible; "all" is underlined three times by hand to mark a capital (All), starting the new sentence.]
+[note: The last paragraph is struck through by hand line by line, leaving only the closing ")." unstruck; a hand stroke also falls across "those". The struck words are read through the line and are partly uncertain.]

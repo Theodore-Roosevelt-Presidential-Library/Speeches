@@ -1,0 +1,17 @@
+---
+speech: 1902-09-08-remarks-at-the-court-house
+title: Remarks of President Roosevelt at the court House, Chattanooga, Tenn., September 8, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0699
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0699
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 35 424:0699]
+
+Judge Moon; and you my fellow American citizens:
+
+I have  but a moment in which to speak to you, for we are already behind on the schedule, but I must express my pleasure at being here in your beautiful city, to speak to the men and women  of this great state. For sixteen years the {Pr sidency|Presidency} of the United States [-xxx-] has been filled by Tennesseeans. Tennessee has always borne its part in the leadership of the nation, in peace and in war. I shan't keep you but just sixty {secohds|seconds} more. The state of "Old Hickory" is a state of the entire American republic, because everywhere throughout the Union [-xxxxx-] we {clai|claim} the greatest of Tennesseans, Andrew Jackson, as one of the greatest of Americans, and an American whom all Americans delight to honor. (Cheers and applause) There were differences as to Andrew Jackson's policies, but the character of the man, his rugged honesty, his absolute fearlessness, [-[?man his rugged honesty his?] xxxxx-] [-[?absolute fearlessness?] xxxxx-], his devotion to the right as he saw the right, are the qualities  which we never can afford to lose sight of in this republic. I am glad to be here to accept your greeting, to bid you welcome and to say that there is always  a lesson and an {inspára-tion|inspiration} to come to Tennessee, to come to the home of Andrew Jackson. (Cheers and applause)
+
+[note: "man, his rugged honesty, his absolute" is typed between the lines above the x-ed out words, with a caret after "the", and "fearlessness," is typed above the second x-ed out line; they are given in their place in the sentence. The x-ed out words underneath are only partly legible and appear to be the same words typed first.]
+[note: The typed heading has "court" in lower case and a gap in "Presid ent". There is a wide blank space on the page between "sixty" and "seconds". "Union" is followed by a short x-ed out run; "clai" ends a line without the m.]

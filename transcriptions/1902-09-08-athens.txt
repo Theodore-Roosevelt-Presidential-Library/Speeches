@@ -1,0 +1,19 @@
+---
+speech: 1902-09-08-athens
+title: Remarks of President Roosevelt at Athens,Tenn.,Sept.8,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0701
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0701
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 39 424:0701]
+
+My fellow citizens:
+
+I wish to thank you for giving me this opportunity of saying a word of greeting to you. I am glad to stop here at the seat of the Grant University; [-the-] [+a+] university from which so many men have gone into public  life. It has been the most genuine pleasure to be here in your beautiful country of East Tennessee. I have {bem|been}  glad to see your growing cities. It is a mighty good thing to have manufactories and railroads [-[illegible]-]. It is a better [+t+]hing to have good men and good women. I am glad to see your universities. It is a great thing to have training, intelligence. There is something still more important [-thanxxxxxx-] and that is character/ [-Itxxx-] it is a fine thing to have intellect; it is a finer thing to have character in private and in public, just as you have [-it-] honesty between neighbor and  {neigbor|neighbor}.
+
+(Applause)
+
+[note: The heading has a letter typed over another in "President". "the" before "university" is struck through by hand and "a" written above. The "E" of "East" is typed over another letter. The word after "railroads" is inked out and cannot be read. A "t" is written by hand before "hing" to make "thing".]
+[note: After "character" a slash is drawn by hand; the x-ed out run after it begins with a capital I, and "it" that follows is underlined three times by hand, marking it as a capital (It), starting a new sentence. "honesty" is typed above the x-ed out "it".]

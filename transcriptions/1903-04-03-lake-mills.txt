@@ -1,0 +1,16 @@
+---
+speech: 1903-04-03-lake-mills
+title: Remarks of President Roosevelt at Lake Mills, Wisconsin, April 3, 1903.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 425, frames 0050
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_425:0050
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 21 425:0050]
+
+[margin: file]
+
+I will just stop for a moment to greet you and to say how glad I am to be in your state. It is spring, but the fur overcoats are still comfortable. I was fortunate to live a good part of my time a good deal farther west and farther north than this out on the Dakota border, and when I get up where the air has that touch of winter in it, I am at home.     I am mighty glad to see you, I like you, and I am proud of you as fellow Americans. Good-bye.
+
+[note: Upper part of the left half of frame 0050 (folio 21), as listed; the lower part of the same page holds the Jefferson Junction remarks. "file" is written in pencil above the heading, and a small hand mark stands before the heading.]

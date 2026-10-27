@@ -1,0 +1,14 @@
+---
+speech: 1902-09-08-ooltewah-junction
+title: REMARKS OF THE PRESIDENT AT OOLTEWAH JUNCTION, TENN., September 8, 1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0700
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0700
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 36 424:0700]
+
+My friends and fellow citizens: I shall not try to make any speech to you. I did not know we {wereto|were to} stop here. I have come down only to attend the convention of the Brotherhood of Locomotive Firemen; and so all I shall say is to thank you for your greeting and to express my pleasure at having been here in Tennessee and at having come to Chattanooga, where I saw the great battlefields in which you, my comrade there, took part, and to feel, as I am sure that all of us must feel, that every man who goes over those fields must have a sense of inspiration in the valor shown alike by the men who wore the blue and the men who wore the gray. [+(Applause)+]
+
+[note: "we" is typed above the line with a caret between "know" and "were". "OOLTEWAH" in the heading, "Chattanooga" and the first "wore" have letters typed over other letters; the final readings are given. "(Applause)" is written by hand.]

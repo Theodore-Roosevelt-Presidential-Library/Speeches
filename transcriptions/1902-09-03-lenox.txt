@@ -1,0 +1,17 @@
+---
+speech: 1902-09-03-lenox
+title: Remarks of President Roosevelt at The Aspinwall Hotel,Lenox,Mass., September 3,1902.
+source: Library of Congress, Theodore Roosevelt Papers, Series 5, reel 424, frames 0641
+image: https://tile.loc.gov/image-services/iiif/service:mss:mss38299:mss38299_424:0641
+transcribed: 2026-10-27 (pass 1)
+checked: pending
+status: ok
+---
+[pb 168 424:0641]
+
+Ladies and gentlemen:
+
+There has been an accident.   One of the members of the party has been killed; the driver[+,+] I fear[+,+] fatally injured.   Under the circumstances I am sure you will understand my not stopping and not trying to make an address to you.   I thank you heartily for the greeting that you extend to me.   I shall ask you, [-xxxxx-] the circumstances[+ being as they are,+] not to cheer or make any demonstration.   I thank you for coming here to greet me.
+
+[note: The page also holds the remarks at the Curtis Hotel, Lenox, and at Stockbridge, which follow this one and are not transcribed here.]
+[note: The commas after "driver" and "fear" are in ink. "being as they are," is typed above the line and placed with a hand caret; the x-ed word before "the circumstances" appears to be "under".]
